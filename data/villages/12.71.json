@@ -1,0 +1,908 @@
+[
+  {
+    "id": "12.71.01.1001",
+    "district_id": "12.71.01",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1002",
+    "district_id": "12.71.01",
+    "name": "Pusat Pasar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1003",
+    "district_id": "12.71.01",
+    "name": "Sei Rengas I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1004",
+    "district_id": "12.71.01",
+    "name": "Mesjid",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1005",
+    "district_id": "12.71.01",
+    "name": "Pandau Hulu I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1006",
+    "district_id": "12.71.01",
+    "name": "Kotamatsum III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1007",
+    "district_id": "12.71.01",
+    "name": "Pasar Merah Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1008",
+    "district_id": "12.71.01",
+    "name": "Teladan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1009",
+    "district_id": "12.71.01",
+    "name": "Teladan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1010",
+    "district_id": "12.71.01",
+    "name": "Sudirejo 1",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1011",
+    "district_id": "12.71.01",
+    "name": "Sudirejo II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.01.1012",
+    "district_id": "12.71.01",
+    "name": "Sitirejo I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1001",
+    "district_id": "12.71.02",
+    "name": "Lalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1002",
+    "district_id": "12.71.02",
+    "name": "Sei Sikambing B",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1003",
+    "district_id": "12.71.02",
+    "name": "Sunggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1004",
+    "district_id": "12.71.02",
+    "name": "Babura Sunggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1005",
+    "district_id": "12.71.02",
+    "name": "Tanjung Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.02.1006",
+    "district_id": "12.71.02",
+    "name": "Simpang Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1001",
+    "district_id": "12.71.03",
+    "name": "Helvetia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1002",
+    "district_id": "12.71.03",
+    "name": "Helvetia Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1003",
+    "district_id": "12.71.03",
+    "name": "Helvetia Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1004",
+    "district_id": "12.71.03",
+    "name": "Tanjung Gusta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1005",
+    "district_id": "12.71.03",
+    "name": "Cinta Damai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1006",
+    "district_id": "12.71.03",
+    "name": "Dwi Kora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.03.1007",
+    "district_id": "12.71.03",
+    "name": "Sei Sikambing C II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1001",
+    "district_id": "12.71.04",
+    "name": "Tegal S Mandala I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1002",
+    "district_id": "12.71.04",
+    "name": "Tegal S Mandala II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1003",
+    "district_id": "12.71.04",
+    "name": "Tegal S Mandala III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1004",
+    "district_id": "12.71.04",
+    "name": "Denai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1005",
+    "district_id": "12.71.04",
+    "name": "Binjai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1006",
+    "district_id": "12.71.04",
+    "name": "Medan Tenggara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1001",
+    "district_id": "12.71.05",
+    "name": "Kesawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1002",
+    "district_id": "12.71.05",
+    "name": "Silalas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1003",
+    "district_id": "12.71.05",
+    "name": "Glugur Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1004",
+    "district_id": "12.71.05",
+    "name": "Pulo Berayan Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1005",
+    "district_id": "12.71.05",
+    "name": "Sei Agul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.05.1006",
+    "district_id": "12.71.05",
+    "name": "Karang Berombak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1001",
+    "district_id": "12.71.06",
+    "name": "Titipapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1002",
+    "district_id": "12.71.06",
+    "name": "Tanjung Mulia Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1003",
+    "district_id": "12.71.06",
+    "name": "Tanjung Mulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1004",
+    "district_id": "12.71.06",
+    "name": "Kota Bangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1005",
+    "district_id": "12.71.06",
+    "name": "Mabar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1006",
+    "district_id": "12.71.06",
+    "name": "Mabar Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1001",
+    "district_id": "12.71.07",
+    "name": "Tanjung Selamat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1002",
+    "district_id": "12.71.07",
+    "name": "Simpang Selayang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1003",
+    "district_id": "12.71.07",
+    "name": "Namo Gajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1004",
+    "district_id": "12.71.07",
+    "name": "Kemenangan Tani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1005",
+    "district_id": "12.71.07",
+    "name": "Laucih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1006",
+    "district_id": "12.71.07",
+    "name": "Sidomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1007",
+    "district_id": "12.71.07",
+    "name": "Ladang Bambu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1008",
+    "district_id": "12.71.07",
+    "name": "Simalingkar B",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.07.1009",
+    "district_id": "12.71.07",
+    "name": "Mangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1001",
+    "district_id": "12.71.08",
+    "name": "Belawan I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1002",
+    "district_id": "12.71.08",
+    "name": "Belawan II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1003",
+    "district_id": "12.71.08",
+    "name": "Belawan Bahagia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1004",
+    "district_id": "12.71.08",
+    "name": "Belawan Bahari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1005",
+    "district_id": "12.71.08",
+    "name": "Belawan Sicanang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1006",
+    "district_id": "12.71.08",
+    "name": "Bagan Deli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1001",
+    "district_id": "12.71.09",
+    "name": "Amplas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1002",
+    "district_id": "12.71.09",
+    "name": "Sitirejo II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1003",
+    "district_id": "12.71.09",
+    "name": "Sitirejo III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1004",
+    "district_id": "12.71.09",
+    "name": "Harjosari I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1005",
+    "district_id": "12.71.09",
+    "name": "Harjosari II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1006",
+    "district_id": "12.71.09",
+    "name": "Timbang Deli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.09.1007",
+    "district_id": "12.71.09",
+    "name": "Bangun Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1001",
+    "district_id": "12.71.10",
+    "name": "Sukaramai I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1002",
+    "district_id": "12.71.10",
+    "name": "Sukaramai II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1003",
+    "district_id": "12.71.10",
+    "name": "Sei Rengas II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1004",
+    "district_id": "12.71.10",
+    "name": "S. Rengas Permata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1005",
+    "district_id": "12.71.10",
+    "name": "Pandau Hulu II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1006",
+    "district_id": "12.71.10",
+    "name": "Kota Matsum I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1007",
+    "district_id": "12.71.10",
+    "name": "Kota Matsum II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1008",
+    "district_id": "12.71.10",
+    "name": "Kota Matsum IV",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1009",
+    "district_id": "12.71.10",
+    "name": "Pasar Merah Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1010",
+    "district_id": "12.71.10",
+    "name": "Tegal Sari I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1011",
+    "district_id": "12.71.10",
+    "name": "Tegal Sari II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.10.1012",
+    "district_id": "12.71.10",
+    "name": "Tegal Sari III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1001",
+    "district_id": "12.71.11",
+    "name": "Suka Maju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1002",
+    "district_id": "12.71.11",
+    "name": "Titi Kuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1003",
+    "district_id": "12.71.11",
+    "name": "Kedai Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1004",
+    "district_id": "12.71.11",
+    "name": "Pangkalan Mansur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1005",
+    "district_id": "12.71.11",
+    "name": "Gedung Johor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1006",
+    "district_id": "12.71.11",
+    "name": "Kwala Bekala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1001",
+    "district_id": "12.71.12",
+    "name": "Labuhan Deli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1002",
+    "district_id": "12.71.12",
+    "name": "Rengas Pulau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1003",
+    "district_id": "12.71.12",
+    "name": "Terjun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1004",
+    "district_id": "12.71.12",
+    "name": "Tanah Enam Ratus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1005",
+    "district_id": "12.71.12",
+    "name": "Paya Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1001",
+    "district_id": "12.71.13",
+    "name": "Pekan Labuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1002",
+    "district_id": "12.71.13",
+    "name": "Sei Mati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1003",
+    "district_id": "12.71.13",
+    "name": "Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1004",
+    "district_id": "12.71.13",
+    "name": "Martubung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1005",
+    "district_id": "12.71.13",
+    "name": "Nelayan Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1006",
+    "district_id": "12.71.13",
+    "name": "Tangkahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1001",
+    "district_id": "12.71.14",
+    "name": "Indra Kasih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1002",
+    "district_id": "12.71.14",
+    "name": "Sidorejo Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1003",
+    "district_id": "12.71.14",
+    "name": "Sidorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1004",
+    "district_id": "12.71.14",
+    "name": "Bantan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1005",
+    "district_id": "12.71.14",
+    "name": "Tembung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1006",
+    "district_id": "12.71.14",
+    "name": "Bandar Selamat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.14.1007",
+    "district_id": "12.71.14",
+    "name": "Bantan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1001",
+    "district_id": "12.71.15",
+    "name": "A u r",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1002",
+    "district_id": "12.71.15",
+    "name": "Hamdan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1003",
+    "district_id": "12.71.15",
+    "name": "J a t i",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1004",
+    "district_id": "12.71.15",
+    "name": "Sukaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1005",
+    "district_id": "12.71.15",
+    "name": "Sei Mati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.15.1006",
+    "district_id": "12.71.15",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.16.1001",
+    "district_id": "12.71.16",
+    "name": "Madras Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.16.1002",
+    "district_id": "12.71.16",
+    "name": "Polonia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.16.1003",
+    "district_id": "12.71.16",
+    "name": "Sari Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.16.1004",
+    "district_id": "12.71.16",
+    "name": "Suka Damai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.16.1005",
+    "district_id": "12.71.16",
+    "name": "Anggrung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1001",
+    "district_id": "12.71.17",
+    "name": "Petisah Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1002",
+    "district_id": "12.71.17",
+    "name": "Babura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1003",
+    "district_id": "12.71.17",
+    "name": "Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1004",
+    "district_id": "12.71.17",
+    "name": "Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1005",
+    "district_id": "12.71.17",
+    "name": "Padang Bulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1006",
+    "district_id": "12.71.17",
+    "name": "Titi Rante",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1001",
+    "district_id": "12.71.18",
+    "name": "Pandau Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1002",
+    "district_id": "12.71.18",
+    "name": "Pahlawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1003",
+    "district_id": "12.71.18",
+    "name": "Sei Kera Hilir I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1004",
+    "district_id": "12.71.18",
+    "name": "Sei Kera Hilir II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1005",
+    "district_id": "12.71.18",
+    "name": "Sei Kera Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1006",
+    "district_id": "12.71.18",
+    "name": "Sidorame Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1007",
+    "district_id": "12.71.18",
+    "name": "Sidorame Barat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1008",
+    "district_id": "12.71.18",
+    "name": "Sidorame Barat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.18.1009",
+    "district_id": "12.71.18",
+    "name": "Tegalrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1001",
+    "district_id": "12.71.19",
+    "name": "Petisah Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1002",
+    "district_id": "12.71.19",
+    "name": "Sekip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1003",
+    "district_id": "12.71.19",
+    "name": "Sei Sikambing D",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1004",
+    "district_id": "12.71.19",
+    "name": "Sei Putih Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1005",
+    "district_id": "12.71.19",
+    "name": "Sei Putih Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1006",
+    "district_id": "12.71.19",
+    "name": "Sei Putih Timur I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.19.1007",
+    "district_id": "12.71.19",
+    "name": "Sei Putih Timur II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1001",
+    "district_id": "12.71.20",
+    "name": "Gang Buntu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1002",
+    "district_id": "12.71.20",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1003",
+    "district_id": "12.71.20",
+    "name": "Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1004",
+    "district_id": "12.71.20",
+    "name": "Glugur Darat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1005",
+    "district_id": "12.71.20",
+    "name": "Glugur Darat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1006",
+    "district_id": "12.71.20",
+    "name": "P Berayan Darat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1007",
+    "district_id": "12.71.20",
+    "name": "P Berayan Darat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1008",
+    "district_id": "12.71.20",
+    "name": "P Berayan Bengkel",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1009",
+    "district_id": "12.71.20",
+    "name": "PB Bengkel Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1010",
+    "district_id": "12.71.20",
+    "name": "Perintis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1011",
+    "district_id": "12.71.20",
+    "name": "Gaharu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1001",
+    "district_id": "12.71.21",
+    "name": "Asam Kumbang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1002",
+    "district_id": "12.71.21",
+    "name": "Tanjungsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1003",
+    "district_id": "12.71.21",
+    "name": "P Bulan Selayang II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1004",
+    "district_id": "12.71.21",
+    "name": "Beringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1005",
+    "district_id": "12.71.21",
+    "name": "P Bulan Selayang I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.21.1006",
+    "district_id": "12.71.21",
+    "name": "Sempakata",
+    "type": "KELURAHAN"
+  }
+]

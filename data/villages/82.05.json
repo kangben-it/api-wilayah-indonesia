@@ -1,0 +1,470 @@
+[
+  {
+    "id": "82.05.01.2001",
+    "district_id": "82.05.01",
+    "name": "Waitina",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2006",
+    "district_id": "82.05.01",
+    "name": "Kau",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2007",
+    "district_id": "82.05.01",
+    "name": "Waitamela",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2013",
+    "district_id": "82.05.01",
+    "name": "Karamat Titdoy",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2016",
+    "district_id": "82.05.01",
+    "name": "Naflo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2001",
+    "district_id": "82.05.02",
+    "name": "Mangon",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2002",
+    "district_id": "82.05.02",
+    "name": "Fagudu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2003",
+    "district_id": "82.05.02",
+    "name": "Waibau",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2004",
+    "district_id": "82.05.02",
+    "name": "Falahu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2005",
+    "district_id": "82.05.02",
+    "name": "Fatcei",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2006",
+    "district_id": "82.05.02",
+    "name": "Fogi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2007",
+    "district_id": "82.05.02",
+    "name": "Waihama",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2008",
+    "district_id": "82.05.02",
+    "name": "Wai Ipa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2009",
+    "district_id": "82.05.02",
+    "name": "Umaloya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2010",
+    "district_id": "82.05.02",
+    "name": "Pastina",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.02.2011",
+    "district_id": "82.05.02",
+    "name": "Wailau",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2005",
+    "district_id": "82.05.03",
+    "name": "Wai Ina",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2006",
+    "district_id": "82.05.03",
+    "name": "Kabau Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2007",
+    "district_id": "82.05.03",
+    "name": "Ona",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2008",
+    "district_id": "82.05.03",
+    "name": "Kabau Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2009",
+    "district_id": "82.05.03",
+    "name": "Nahi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.03.2010",
+    "district_id": "82.05.03",
+    "name": "Paratina",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2001",
+    "district_id": "82.05.06",
+    "name": "Dofa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2002",
+    "district_id": "82.05.06",
+    "name": "Lekokadai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2003",
+    "district_id": "82.05.06",
+    "name": "Lekosula",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2009",
+    "district_id": "82.05.06",
+    "name": "Pas Ipa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2014",
+    "district_id": "82.05.06",
+    "name": "Pelita",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2017",
+    "district_id": "82.05.06",
+    "name": "Johor",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2018",
+    "district_id": "82.05.06",
+    "name": "Lelyaba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2001",
+    "district_id": "82.05.07",
+    "name": "Waiboga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2002",
+    "district_id": "82.05.07",
+    "name": "Soamole",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2003",
+    "district_id": "82.05.07",
+    "name": "Waiman",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2004",
+    "district_id": "82.05.07",
+    "name": "Fat Iba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2005",
+    "district_id": "82.05.07",
+    "name": "Bega",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2006",
+    "district_id": "82.05.07",
+    "name": "Manaf",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2001",
+    "district_id": "82.05.08",
+    "name": "Waigoiyofa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2002",
+    "district_id": "82.05.08",
+    "name": "Baleha",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2003",
+    "district_id": "82.05.08",
+    "name": "Fatkauyon",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2004",
+    "district_id": "82.05.08",
+    "name": "Wailia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2005",
+    "district_id": "82.05.08",
+    "name": "Sama",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.08.2006",
+    "district_id": "82.05.08",
+    "name": "Waisepa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2001",
+    "district_id": "82.05.09",
+    "name": "Waigai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2002",
+    "district_id": "82.05.09",
+    "name": "Fuata",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2003",
+    "district_id": "82.05.09",
+    "name": "Wainib",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2004",
+    "district_id": "82.05.09",
+    "name": "Skom",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2005",
+    "district_id": "82.05.09",
+    "name": "Wai Tamua",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.10.2001",
+    "district_id": "82.05.10",
+    "name": "Kawata",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.10.2002",
+    "district_id": "82.05.10",
+    "name": "Waisakai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.10.2003",
+    "district_id": "82.05.10",
+    "name": "Pelita Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.10.2004",
+    "district_id": "82.05.10",
+    "name": "Waisum",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2001",
+    "district_id": "82.05.11",
+    "name": "Buruakol",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2002",
+    "district_id": "82.05.11",
+    "name": "Capalulu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2003",
+    "district_id": "82.05.11",
+    "name": "Urifola",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2004",
+    "district_id": "82.05.11",
+    "name": "Mangoli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2005",
+    "district_id": "82.05.11",
+    "name": "Wailoba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2006",
+    "district_id": "82.05.11",
+    "name": "Paslal",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2007",
+    "district_id": "82.05.11",
+    "name": "Waitulia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2008",
+    "district_id": "82.05.11",
+    "name": "Wai U",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.11.2009",
+    "district_id": "82.05.11",
+    "name": "Jere",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.12.2001",
+    "district_id": "82.05.12",
+    "name": "Kaporo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.12.2002",
+    "district_id": "82.05.12",
+    "name": "Waikafia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.12.2003",
+    "district_id": "82.05.12",
+    "name": "Buya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.12.2004",
+    "district_id": "82.05.12",
+    "name": "Auponhia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.12.2005",
+    "district_id": "82.05.12",
+    "name": "Wailab",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2001",
+    "district_id": "82.05.13",
+    "name": "Falabisahaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2002",
+    "district_id": "82.05.13",
+    "name": "Modapia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2003",
+    "district_id": "82.05.13",
+    "name": "Modapuhi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2004",
+    "district_id": "82.05.13",
+    "name": "Pastabulu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2005",
+    "district_id": "82.05.13",
+    "name": "Saniahaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2006",
+    "district_id": "82.05.13",
+    "name": "Minaluli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2007",
+    "district_id": "82.05.13",
+    "name": "Modapuhi Trans",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2001",
+    "district_id": "82.05.18",
+    "name": "Man-Gega",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2002",
+    "district_id": "82.05.18",
+    "name": "Bajo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2003",
+    "district_id": "82.05.18",
+    "name": "Pohea",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2004",
+    "district_id": "82.05.18",
+    "name": "Fukweu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2005",
+    "district_id": "82.05.18",
+    "name": "Wainin",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2006",
+    "district_id": "82.05.18",
+    "name": "Malbufa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.18.2007",
+    "district_id": "82.05.18",
+    "name": "Fokalik",
+    "type": "DESA"
+  }
+]

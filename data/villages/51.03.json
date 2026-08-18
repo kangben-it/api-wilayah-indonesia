@@ -1,0 +1,374 @@
+[
+  {
+    "id": "51.03.01.1001",
+    "district_id": "51.03.01",
+    "name": "Tuban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1002",
+    "district_id": "51.03.01",
+    "name": "Kuta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1003",
+    "district_id": "51.03.01",
+    "name": "Kedonganan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1004",
+    "district_id": "51.03.01",
+    "name": "Legian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1005",
+    "district_id": "51.03.01",
+    "name": "Seminyak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1004",
+    "district_id": "51.03.02",
+    "name": "Kapal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1005",
+    "district_id": "51.03.02",
+    "name": "Sempidi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1014",
+    "district_id": "51.03.02",
+    "name": "Abianbase",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1015",
+    "district_id": "51.03.02",
+    "name": "Sading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1016",
+    "district_id": "51.03.02",
+    "name": "Lukluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.2001",
+    "district_id": "51.03.02",
+    "name": "Munggu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2002",
+    "district_id": "51.03.02",
+    "name": "Buduk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2003",
+    "district_id": "51.03.02",
+    "name": "Mengwitani",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2006",
+    "district_id": "51.03.02",
+    "name": "Penarungan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2007",
+    "district_id": "51.03.02",
+    "name": "Sembung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2008",
+    "district_id": "51.03.02",
+    "name": "Baha",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2009",
+    "district_id": "51.03.02",
+    "name": "Mengwi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2010",
+    "district_id": "51.03.02",
+    "name": "Kekeran",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2011",
+    "district_id": "51.03.02",
+    "name": "Sobangan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2012",
+    "district_id": "51.03.02",
+    "name": "Gulingan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2013",
+    "district_id": "51.03.02",
+    "name": "Werdi Bhuwana",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2017",
+    "district_id": "51.03.02",
+    "name": "Cemagi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2018",
+    "district_id": "51.03.02",
+    "name": "Pererenan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2019",
+    "district_id": "51.03.02",
+    "name": "Tumbakbayuh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2020",
+    "district_id": "51.03.02",
+    "name": "Kuwum",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2001",
+    "district_id": "51.03.03",
+    "name": "Darmasaba",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2002",
+    "district_id": "51.03.03",
+    "name": "Sibangkaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2003",
+    "district_id": "51.03.03",
+    "name": "Sibanggede",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2004",
+    "district_id": "51.03.03",
+    "name": "Jagapati",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2005",
+    "district_id": "51.03.03",
+    "name": "Angantaka",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2006",
+    "district_id": "51.03.03",
+    "name": "Sedang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2007",
+    "district_id": "51.03.03",
+    "name": "Mambal",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2008",
+    "district_id": "51.03.03",
+    "name": "Abiansemal",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2009",
+    "district_id": "51.03.03",
+    "name": "Bongkasa",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2010",
+    "district_id": "51.03.03",
+    "name": "Taman",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2011",
+    "district_id": "51.03.03",
+    "name": "Blahkiuh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2012",
+    "district_id": "51.03.03",
+    "name": "Ayunan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2013",
+    "district_id": "51.03.03",
+    "name": "Sangeh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2014",
+    "district_id": "51.03.03",
+    "name": "Punggul",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2015",
+    "district_id": "51.03.03",
+    "name": "Mekar Bhuwana",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2016",
+    "district_id": "51.03.03",
+    "name": "Abiansemal Dauh Yeh Cani",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2017",
+    "district_id": "51.03.03",
+    "name": "Selat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.03.2018",
+    "district_id": "51.03.03",
+    "name": "Bongkasa Pertiwi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2001",
+    "district_id": "51.03.04",
+    "name": "Carangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2002",
+    "district_id": "51.03.04",
+    "name": "Petang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2003",
+    "district_id": "51.03.04",
+    "name": "Belok/Sidan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2004",
+    "district_id": "51.03.04",
+    "name": "Pelaga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2005",
+    "district_id": "51.03.04",
+    "name": "Getasan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2006",
+    "district_id": "51.03.04",
+    "name": "Pangsan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2007",
+    "district_id": "51.03.04",
+    "name": "Sulangai",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.05.1004",
+    "district_id": "51.03.05",
+    "name": "Benoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.05.1005",
+    "district_id": "51.03.05",
+    "name": "Tanjung Benoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.05.1006",
+    "district_id": "51.03.05",
+    "name": "Jimbaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.05.2001",
+    "district_id": "51.03.05",
+    "name": "Pecatu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.05.2002",
+    "district_id": "51.03.05",
+    "name": "Ungasan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.05.2003",
+    "district_id": "51.03.05",
+    "name": "Kutuh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.06.1001",
+    "district_id": "51.03.06",
+    "name": "Kerobokan Kelod",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.06.1002",
+    "district_id": "51.03.06",
+    "name": "Kerobokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.06.1003",
+    "district_id": "51.03.06",
+    "name": "Kerobokan Kaja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.06.2004",
+    "district_id": "51.03.06",
+    "name": "Tibubeneng",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.06.2005",
+    "district_id": "51.03.06",
+    "name": "Canggu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.06.2006",
+    "district_id": "51.03.06",
+    "name": "Dalung",
+    "type": "DESA"
+  }
+]

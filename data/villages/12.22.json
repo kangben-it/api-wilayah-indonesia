@@ -1,0 +1,326 @@
+[
+  {
+    "id": "12.22.01.1001",
+    "district_id": "12.22.01",
+    "name": "Kotapinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.22.01.2002",
+    "district_id": "12.22.01",
+    "name": "Simatahari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2003",
+    "district_id": "12.22.01",
+    "name": "Mampang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2004",
+    "district_id": "12.22.01",
+    "name": "Pasir Tuntung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2005",
+    "district_id": "12.22.01",
+    "name": "Sisumut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2006",
+    "district_id": "12.22.01",
+    "name": "Hadundung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2007",
+    "district_id": "12.22.01",
+    "name": "Sosopan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2008",
+    "district_id": "12.22.01",
+    "name": "Perkebunan Nomark",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2009",
+    "district_id": "12.22.01",
+    "name": "Perkebunan Nagodang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2010",
+    "district_id": "12.22.01",
+    "name": "Perk. Sei Rumbia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2001",
+    "district_id": "12.22.02",
+    "name": "Perk. Perlabian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2002",
+    "district_id": "12.22.02",
+    "name": "Perk. Teluk Panji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2003",
+    "district_id": "12.22.02",
+    "name": "Perk. Tolan I/II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2004",
+    "district_id": "12.22.02",
+    "name": "Perk. Batang Saponggol",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2005",
+    "district_id": "12.22.02",
+    "name": "Perk. Tolan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2006",
+    "district_id": "12.22.02",
+    "name": "Air Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2007",
+    "district_id": "12.22.02",
+    "name": "Teluk Panji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2008",
+    "district_id": "12.22.02",
+    "name": "Tanjung Medan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2009",
+    "district_id": "12.22.02",
+    "name": "Kampung Perlabian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2010",
+    "district_id": "12.22.02",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2011",
+    "district_id": "12.22.02",
+    "name": "Tanjung Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2012",
+    "district_id": "12.22.02",
+    "name": "Teluk Panji I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2013",
+    "district_id": "12.22.02",
+    "name": "Teluk Panji II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2014",
+    "district_id": "12.22.02",
+    "name": "Teluk Panji III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.02.2015",
+    "district_id": "12.22.02",
+    "name": "Teluk Panji IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2001",
+    "district_id": "12.22.03",
+    "name": "Bangai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2002",
+    "district_id": "12.22.03",
+    "name": "Rasau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2003",
+    "district_id": "12.22.03",
+    "name": "Teluk Rampah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2004",
+    "district_id": "12.22.03",
+    "name": "Pangarungan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2005",
+    "district_id": "12.22.03",
+    "name": "Bunut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2006",
+    "district_id": "12.22.03",
+    "name": "Aek Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2007",
+    "district_id": "12.22.03",
+    "name": "Pinang Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2008",
+    "district_id": "12.22.03",
+    "name": "Aek Raso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2009",
+    "district_id": "12.22.03",
+    "name": "Torgamba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2010",
+    "district_id": "12.22.03",
+    "name": "Asam Jawa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2011",
+    "district_id": "12.22.03",
+    "name": "Torganda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2012",
+    "district_id": "12.22.03",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2013",
+    "district_id": "12.22.03",
+    "name": "Bukit Tujuh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.03.2014",
+    "district_id": "12.22.03",
+    "name": "Sei Meranti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.1001",
+    "district_id": "12.22.04",
+    "name": "Langga Payung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.22.04.2002",
+    "district_id": "12.22.04",
+    "name": "Batang Nadenggan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2003",
+    "district_id": "12.22.04",
+    "name": "Sabungan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2004",
+    "district_id": "12.22.04",
+    "name": "Hajoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2005",
+    "district_id": "12.22.04",
+    "name": "Ujung Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2006",
+    "district_id": "12.22.04",
+    "name": "Huta Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2007",
+    "district_id": "12.22.04",
+    "name": "Parimburan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2008",
+    "district_id": "12.22.04",
+    "name": "Sampean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2009",
+    "district_id": "12.22.04",
+    "name": "Marsonja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2001",
+    "district_id": "12.22.05",
+    "name": "Mandalasena",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2002",
+    "district_id": "12.22.05",
+    "name": "Binangadua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2003",
+    "district_id": "12.22.05",
+    "name": "Aek Goti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2004",
+    "district_id": "12.22.05",
+    "name": "Ulu Mahuam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2005",
+    "district_id": "12.22.05",
+    "name": "Rintis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.05.2006",
+    "district_id": "12.22.05",
+    "name": "Sukadame",
+    "type": "DESA"
+  }
+]

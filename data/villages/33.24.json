@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "33.24.01.2001",
+    "district_id": "33.24.01",
+    "name": "Blumah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2002",
+    "district_id": "33.24.01",
+    "name": "Kediten",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2003",
+    "district_id": "33.24.01",
+    "name": "Tlogopayung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2004",
+    "district_id": "33.24.01",
+    "name": "Wonodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2005",
+    "district_id": "33.24.01",
+    "name": "Manggungmangu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2006",
+    "district_id": "33.24.01",
+    "name": "Tirtomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2007",
+    "district_id": "33.24.01",
+    "name": "Karanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2008",
+    "district_id": "33.24.01",
+    "name": "Jurangagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2009",
+    "district_id": "33.24.01",
+    "name": "Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2010",
+    "district_id": "33.24.01",
+    "name": "Wadas",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2011",
+    "district_id": "33.24.01",
+    "name": "Bendosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.01.2012",
+    "district_id": "33.24.01",
+    "name": "Mojoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2002",
+    "district_id": "33.24.02",
+    "name": "Getasblawong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2003",
+    "district_id": "33.24.02",
+    "name": "Parakansebaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2004",
+    "district_id": "33.24.02",
+    "name": "Petung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2005",
+    "district_id": "33.24.02",
+    "name": "Krikil",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2006",
+    "district_id": "33.24.02",
+    "name": "Pucakwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2007",
+    "district_id": "33.24.02",
+    "name": "Pageruyung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2008",
+    "district_id": "33.24.02",
+    "name": "Tambahrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2009",
+    "district_id": "33.24.02",
+    "name": "Gebangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2010",
+    "district_id": "33.24.02",
+    "name": "Surokonto Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2011",
+    "district_id": "33.24.02",
+    "name": "Bangunsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2012",
+    "district_id": "33.24.02",
+    "name": "Kebongembong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2013",
+    "district_id": "33.24.02",
+    "name": "Surokonto Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2014",
+    "district_id": "33.24.02",
+    "name": "Pagergunung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.02.2015",
+    "district_id": "33.24.02",
+    "name": "Gondoharum",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2001",
+    "district_id": "33.24.03",
+    "name": "Gentinggunung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2002",
+    "district_id": "33.24.03",
+    "name": "Bringinsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2003",
+    "district_id": "33.24.03",
+    "name": "Purwosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2004",
+    "district_id": "33.24.03",
+    "name": "Ngargosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2005",
+    "district_id": "33.24.03",
+    "name": "Pesaren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2006",
+    "district_id": "33.24.03",
+    "name": "Tamanrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2007",
+    "district_id": "33.24.03",
+    "name": "Harjodowo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2008",
+    "district_id": "33.24.03",
+    "name": "Peron",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2009",
+    "district_id": "33.24.03",
+    "name": "Damarjati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2010",
+    "district_id": "33.24.03",
+    "name": "Mulyosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2011",
+    "district_id": "33.24.03",
+    "name": "Kalipakis",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2012",
+    "district_id": "33.24.03",
+    "name": "Trimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2013",
+    "district_id": "33.24.03",
+    "name": "Selokaton",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2014",
+    "district_id": "33.24.03",
+    "name": "Ngadiwarno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2015",
+    "district_id": "33.24.03",
+    "name": "Tampingwinarno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2016",
+    "district_id": "33.24.03",
+    "name": "Kebumen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2017",
+    "district_id": "33.24.03",
+    "name": "Sukorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.03.2018",
+    "district_id": "33.24.03",
+    "name": "Kalibogor",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2001",
+    "district_id": "33.24.04",
+    "name": "Pakisan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2002",
+    "district_id": "33.24.04",
+    "name": "Plososari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2003",
+    "district_id": "33.24.04",
+    "name": "Mlatiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2004",
+    "district_id": "33.24.04",
+    "name": "Wirosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2005",
+    "district_id": "33.24.04",
+    "name": "Pagersari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2006",
+    "district_id": "33.24.04",
+    "name": "Selo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2007",
+    "district_id": "33.24.04",
+    "name": "Curugsewu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2008",
+    "district_id": "33.24.04",
+    "name": "Gedong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2009",
+    "district_id": "33.24.04",
+    "name": "Sukomangli",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2010",
+    "district_id": "33.24.04",
+    "name": "Kalibareng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2011",
+    "district_id": "33.24.04",
+    "name": "Kalilumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2012",
+    "district_id": "33.24.04",
+    "name": "Kalices",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2013",
+    "district_id": "33.24.04",
+    "name": "Sidokumpul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.04.2014",
+    "district_id": "33.24.04",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2001",
+    "district_id": "33.24.05",
+    "name": "Cening",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2002",
+    "district_id": "33.24.05",
+    "name": "Sukodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2003",
+    "district_id": "33.24.05",
+    "name": "Kaliputih",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2004",
+    "district_id": "33.24.05",
+    "name": "Getas",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2005",
+    "district_id": "33.24.05",
+    "name": "Banyuringin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2006",
+    "district_id": "33.24.05",
+    "name": "Kedungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2007",
+    "district_id": "33.24.05",
+    "name": "Ngareanak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2008",
+    "district_id": "33.24.05",
+    "name": "Singorojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2009",
+    "district_id": "33.24.05",
+    "name": "Cacaban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2010",
+    "district_id": "33.24.05",
+    "name": "Kalirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2011",
+    "district_id": "33.24.05",
+    "name": "Merbuh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2012",
+    "district_id": "33.24.05",
+    "name": "Trayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.05.2013",
+    "district_id": "33.24.05",
+    "name": "Kertosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2001",
+    "district_id": "33.24.06",
+    "name": "Kedungboto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2002",
+    "district_id": "33.24.06",
+    "name": "Peron",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2003",
+    "district_id": "33.24.06",
+    "name": "Gondang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2004",
+    "district_id": "33.24.06",
+    "name": "Pakis",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2005",
+    "district_id": "33.24.06",
+    "name": "Sumberahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2006",
+    "district_id": "33.24.06",
+    "name": "Tambahsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2007",
+    "district_id": "33.24.06",
+    "name": "Limbangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2008",
+    "district_id": "33.24.06",
+    "name": "Pagertoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2009",
+    "district_id": "33.24.06",
+    "name": "Sriwulan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2010",
+    "district_id": "33.24.06",
+    "name": "Tabet",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2011",
+    "district_id": "33.24.06",
+    "name": "Ngesrepbalong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2012",
+    "district_id": "33.24.06",
+    "name": "Gonoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2013",
+    "district_id": "33.24.06",
+    "name": "Jawisari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2014",
+    "district_id": "33.24.06",
+    "name": "Margosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2015",
+    "district_id": "33.24.06",
+    "name": "Tamanrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.06.2016",
+    "district_id": "33.24.06",
+    "name": "Pagerwojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2001",
+    "district_id": "33.24.07",
+    "name": "Medono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2002",
+    "district_id": "33.24.07",
+    "name": "Pasigitan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2003",
+    "district_id": "33.24.07",
+    "name": "Banjarejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2004",
+    "district_id": "33.24.07",
+    "name": "Leban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2005",
+    "district_id": "33.24.07",
+    "name": "Kliris",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2006",
+    "district_id": "33.24.07",
+    "name": "Puguh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2007",
+    "district_id": "33.24.07",
+    "name": "Ngabean",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2008",
+    "district_id": "33.24.07",
+    "name": "Karangmanggis",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2009",
+    "district_id": "33.24.07",
+    "name": "Kaligading",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2010",
+    "district_id": "33.24.07",
+    "name": "Purwogondo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2011",
+    "district_id": "33.24.07",
+    "name": "Blimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2012",
+    "district_id": "33.24.07",
+    "name": "Salamsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2013",
+    "district_id": "33.24.07",
+    "name": "Tampingan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2014",
+    "district_id": "33.24.07",
+    "name": "Campurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2015",
+    "district_id": "33.24.07",
+    "name": "Boja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2016",
+    "district_id": "33.24.07",
+    "name": "Bebengan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2017",
+    "district_id": "33.24.07",
+    "name": "Meteseh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.07.2018",
+    "district_id": "33.24.07",
+    "name": "Trisobo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2003",
+    "district_id": "33.24.08",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2004",
+    "district_id": "33.24.08",
+    "name": "Nolokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2009",
+    "district_id": "33.24.08",
+    "name": "Kumpulrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2010",
+    "district_id": "33.24.08",
+    "name": "Karangtengah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2011",
+    "district_id": "33.24.08",
+    "name": "Sarirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2012",
+    "district_id": "33.24.08",
+    "name": "Krajankulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2013",
+    "district_id": "33.24.08",
+    "name": "Kutoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2014",
+    "district_id": "33.24.08",
+    "name": "Wonorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.08.2015",
+    "district_id": "33.24.08",
+    "name": "Mororejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2001",
+    "district_id": "33.24.09",
+    "name": "Tunggulsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2002",
+    "district_id": "33.24.09",
+    "name": "Sumur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2003",
+    "district_id": "33.24.09",
+    "name": "Blorok",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2004",
+    "district_id": "33.24.09",
+    "name": "Penjalin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2005",
+    "district_id": "33.24.09",
+    "name": "Kertomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2006",
+    "district_id": "33.24.09",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2007",
+    "district_id": "33.24.09",
+    "name": "Tosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2008",
+    "district_id": "33.24.09",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2009",
+    "district_id": "33.24.09",
+    "name": "Turunrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2010",
+    "district_id": "33.24.09",
+    "name": "Purwokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2011",
+    "district_id": "33.24.09",
+    "name": "Brangsong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.09.2012",
+    "district_id": "33.24.09",
+    "name": "Kebonadem",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2001",
+    "district_id": "33.24.10",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2002",
+    "district_id": "33.24.10",
+    "name": "Tegorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2003",
+    "district_id": "33.24.10",
+    "name": "Pesawahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2004",
+    "district_id": "33.24.10",
+    "name": "Pekuncen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2005",
+    "district_id": "33.24.10",
+    "name": "Puguh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2006",
+    "district_id": "33.24.10",
+    "name": "Dawungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2007",
+    "district_id": "33.24.10",
+    "name": "Pucangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2008",
+    "district_id": "33.24.10",
+    "name": "Gubugsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2009",
+    "district_id": "33.24.10",
+    "name": "Pegandon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2010",
+    "district_id": "33.24.10",
+    "name": "Penanggulan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2011",
+    "district_id": "33.24.10",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.10.2012",
+    "district_id": "33.24.10",
+    "name": "Karangmulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2001",
+    "district_id": "33.24.11",
+    "name": "Sedayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2002",
+    "district_id": "33.24.11",
+    "name": "Pamriyan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2003",
+    "district_id": "33.24.11",
+    "name": "Jenarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2004",
+    "district_id": "33.24.11",
+    "name": "Poncorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2005",
+    "district_id": "33.24.11",
+    "name": "Gebang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2006",
+    "district_id": "33.24.11",
+    "name": "Krompaan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2007",
+    "district_id": "33.24.11",
+    "name": "Gemuhblanten",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2008",
+    "district_id": "33.24.11",
+    "name": "Tamangede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2009",
+    "district_id": "33.24.11",
+    "name": "Lumansari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2010",
+    "district_id": "33.24.11",
+    "name": "Johorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2011",
+    "district_id": "33.24.11",
+    "name": "Tlahab",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2012",
+    "district_id": "33.24.11",
+    "name": "Pucangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2013",
+    "district_id": "33.24.11",
+    "name": "Sojomerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2014",
+    "district_id": "33.24.11",
+    "name": "Triharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2015",
+    "district_id": "33.24.11",
+    "name": "Cepokomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.11.2016",
+    "district_id": "33.24.11",
+    "name": "Galih",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2001",
+    "district_id": "33.24.12",
+    "name": "Sidomukti",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2002",
+    "district_id": "33.24.12",
+    "name": "Penyangkringan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2003",
+    "district_id": "33.24.12",
+    "name": "Bumiayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2004",
+    "district_id": "33.24.12",
+    "name": "Manggungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2005",
+    "district_id": "33.24.12",
+    "name": "Sumberagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2006",
+    "district_id": "33.24.12",
+    "name": "Ngasinan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2007",
+    "district_id": "33.24.12",
+    "name": "Weleri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2008",
+    "district_id": "33.24.12",
+    "name": "Nawangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2009",
+    "district_id": "33.24.12",
+    "name": "Karangdowo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2010",
+    "district_id": "33.24.12",
+    "name": "Penaruban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2011",
+    "district_id": "33.24.12",
+    "name": "Sambongsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2012",
+    "district_id": "33.24.12",
+    "name": "Karanganom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2013",
+    "district_id": "33.24.12",
+    "name": "Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2014",
+    "district_id": "33.24.12",
+    "name": "Pucuksari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2015",
+    "district_id": "33.24.12",
+    "name": "Tratemulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.12.2016",
+    "district_id": "33.24.12",
+    "name": "Montongsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2001",
+    "district_id": "33.24.13",
+    "name": "Pandes",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2002",
+    "district_id": "33.24.13",
+    "name": "Podosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2003",
+    "district_id": "33.24.13",
+    "name": "Botomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2004",
+    "district_id": "33.24.13",
+    "name": "Cepiring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2005",
+    "district_id": "33.24.13",
+    "name": "Damarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2006",
+    "district_id": "33.24.13",
+    "name": "Karangayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2007",
+    "district_id": "33.24.13",
+    "name": "Karangsuno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2008",
+    "district_id": "33.24.13",
+    "name": "Gondang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2009",
+    "district_id": "33.24.13",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2010",
+    "district_id": "33.24.13",
+    "name": "Juwiring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2011",
+    "district_id": "33.24.13",
+    "name": "Kaliayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2012",
+    "district_id": "33.24.13",
+    "name": "Kalirandugede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2013",
+    "district_id": "33.24.13",
+    "name": "Korowelangkulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2014",
+    "district_id": "33.24.13",
+    "name": "Korowelanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.13.2015",
+    "district_id": "33.24.13",
+    "name": "Margorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2001",
+    "district_id": "33.24.14",
+    "name": "Bulugede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2002",
+    "district_id": "33.24.14",
+    "name": "Margosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2003",
+    "district_id": "33.24.14",
+    "name": "Donosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2004",
+    "district_id": "33.24.14",
+    "name": "Lanji",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2005",
+    "district_id": "33.24.14",
+    "name": "Tambakrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2006",
+    "district_id": "33.24.14",
+    "name": "Kebonharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2007",
+    "district_id": "33.24.14",
+    "name": "Purwokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2008",
+    "district_id": "33.24.14",
+    "name": "Jambearum",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2009",
+    "district_id": "33.24.14",
+    "name": "Purwosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2010",
+    "district_id": "33.24.14",
+    "name": "Sukolilan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2011",
+    "district_id": "33.24.14",
+    "name": "Bangunrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2012",
+    "district_id": "33.24.14",
+    "name": "Kumpulrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2013",
+    "district_id": "33.24.14",
+    "name": "Magersari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2014",
+    "district_id": "33.24.14",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2015",
+    "district_id": "33.24.14",
+    "name": "Pidodo Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2016",
+    "district_id": "33.24.14",
+    "name": "Pidodo Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2017",
+    "district_id": "33.24.14",
+    "name": "Bangunsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.14.2018",
+    "district_id": "33.24.14",
+    "name": "Kartika Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.15.1001",
+    "district_id": "33.24.15",
+    "name": "Candiroto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1002",
+    "district_id": "33.24.15",
+    "name": "Sukodono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1003",
+    "district_id": "33.24.15",
+    "name": "Jotang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1004",
+    "district_id": "33.24.15",
+    "name": "Trompo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1005",
+    "district_id": "33.24.15",
+    "name": "Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1006",
+    "district_id": "33.24.15",
+    "name": "Kebondalem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1007",
+    "district_id": "33.24.15",
+    "name": "Kalibuntu Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1008",
+    "district_id": "33.24.15",
+    "name": "Sijeruk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1009",
+    "district_id": "33.24.15",
+    "name": "Tunggulrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1010",
+    "district_id": "33.24.15",
+    "name": "Jetis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1011",
+    "district_id": "33.24.15",
+    "name": "Bugangin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1012",
+    "district_id": "33.24.15",
+    "name": "Langenharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1013",
+    "district_id": "33.24.15",
+    "name": "Pekauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1014",
+    "district_id": "33.24.15",
+    "name": "Patukangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1015",
+    "district_id": "33.24.15",
+    "name": "Pegulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1016",
+    "district_id": "33.24.15",
+    "name": "Banyutowo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1017",
+    "district_id": "33.24.15",
+    "name": "Karangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1018",
+    "district_id": "33.24.15",
+    "name": "Ngilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1019",
+    "district_id": "33.24.15",
+    "name": "Bandengan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.15.1020",
+    "district_id": "33.24.15",
+    "name": "Balok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.24.16.2001",
+    "district_id": "33.24.16",
+    "name": "Wonotenggang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2002",
+    "district_id": "33.24.16",
+    "name": "Pojoksari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2003",
+    "district_id": "33.24.16",
+    "name": "Randusari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2004",
+    "district_id": "33.24.16",
+    "name": "Karangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2005",
+    "district_id": "33.24.16",
+    "name": "Parakan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2006",
+    "district_id": "33.24.16",
+    "name": "Tambaksari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2007",
+    "district_id": "33.24.16",
+    "name": "Jatipurwo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2008",
+    "district_id": "33.24.16",
+    "name": "Rowosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2009",
+    "district_id": "33.24.16",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2010",
+    "district_id": "33.24.16",
+    "name": "Tanjunganom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2011",
+    "district_id": "33.24.16",
+    "name": "Sendangdawuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2012",
+    "district_id": "33.24.16",
+    "name": "Kebonsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2013",
+    "district_id": "33.24.16",
+    "name": "Bulak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2014",
+    "district_id": "33.24.16",
+    "name": "Gebanganom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2015",
+    "district_id": "33.24.16",
+    "name": "Gempolsewu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.16.2016",
+    "district_id": "33.24.16",
+    "name": "Sendangsikucing",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2001",
+    "district_id": "33.24.17",
+    "name": "Truko",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2002",
+    "district_id": "33.24.17",
+    "name": "Lebosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2003",
+    "district_id": "33.24.17",
+    "name": "Kadilangu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2004",
+    "district_id": "33.24.17",
+    "name": "Gebanganomwetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2005",
+    "district_id": "33.24.17",
+    "name": "Kaliyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2006",
+    "district_id": "33.24.17",
+    "name": "Sukodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2007",
+    "district_id": "33.24.17",
+    "name": "Sendang Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2008",
+    "district_id": "33.24.17",
+    "name": "Sendang Dawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2009",
+    "district_id": "33.24.17",
+    "name": "Laban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2010",
+    "district_id": "33.24.17",
+    "name": "Karangmalang Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2011",
+    "district_id": "33.24.17",
+    "name": "Jungsemi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2012",
+    "district_id": "33.24.17",
+    "name": "Kangkung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2013",
+    "district_id": "33.24.17",
+    "name": "Tanjungmojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2014",
+    "district_id": "33.24.17",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.17.2015",
+    "district_id": "33.24.17",
+    "name": "Kalirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2001",
+    "district_id": "33.24.18",
+    "name": "Ngerjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2002",
+    "district_id": "33.24.18",
+    "name": "Kedungasri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2003",
+    "district_id": "33.24.18",
+    "name": "Kedunggading",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2004",
+    "district_id": "33.24.18",
+    "name": "Ringinarum",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2005",
+    "district_id": "33.24.18",
+    "name": "Ngawensari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2006",
+    "district_id": "33.24.18",
+    "name": "Tejorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2007",
+    "district_id": "33.24.18",
+    "name": "Wungurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2008",
+    "district_id": "33.24.18",
+    "name": "Rowobranten",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2009",
+    "district_id": "33.24.18",
+    "name": "Caruban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2010",
+    "district_id": "33.24.18",
+    "name": "Mojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2011",
+    "district_id": "33.24.18",
+    "name": "Purworejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.18.2012",
+    "district_id": "33.24.18",
+    "name": "Pagerdawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2001",
+    "district_id": "33.24.19",
+    "name": "Dempelrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2002",
+    "district_id": "33.24.19",
+    "name": "Putatgede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2003",
+    "district_id": "33.24.19",
+    "name": "Jatirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2004",
+    "district_id": "33.24.19",
+    "name": "Winong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2005",
+    "district_id": "33.24.19",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2006",
+    "district_id": "33.24.19",
+    "name": "Sumbersari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2007",
+    "district_id": "33.24.19",
+    "name": "Bojong Gede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2008",
+    "district_id": "33.24.19",
+    "name": "Kebonagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2009",
+    "district_id": "33.24.19",
+    "name": "Ngampel Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2010",
+    "district_id": "33.24.19",
+    "name": "Ngampel Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2011",
+    "district_id": "33.24.19",
+    "name": "Sudipayung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.19.2012",
+    "district_id": "33.24.19",
+    "name": "Banyuurip",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2001",
+    "district_id": "33.24.20",
+    "name": "Jeruk Giling",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2002",
+    "district_id": "33.24.20",
+    "name": "Kedungsuren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2003",
+    "district_id": "33.24.20",
+    "name": "Darupono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2004",
+    "district_id": "33.24.20",
+    "name": "Protomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2005",
+    "district_id": "33.24.20",
+    "name": "Magelung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2006",
+    "district_id": "33.24.20",
+    "name": "Plantaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2007",
+    "district_id": "33.24.20",
+    "name": "Sukomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.24.20.2008",
+    "district_id": "33.24.20",
+    "name": "Sidomakmur",
+    "type": "DESA"
+  }
+]

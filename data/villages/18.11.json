@@ -1,0 +1,632 @@
+[
+  {
+    "id": "18.11.01.2001",
+    "district_id": "18.11.01",
+    "name": "Wiralaga I",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2002",
+    "district_id": "18.11.01",
+    "name": "Wiralaga II",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2003",
+    "district_id": "18.11.01",
+    "name": "Sungai Badak",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2004",
+    "district_id": "18.11.01",
+    "name": "Nipah Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2005",
+    "district_id": "18.11.01",
+    "name": "Sido Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2006",
+    "district_id": "18.11.01",
+    "name": "Tirta Laga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2007",
+    "district_id": "18.11.01",
+    "name": "Tanjung Serayan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2008",
+    "district_id": "18.11.01",
+    "name": "Sumber Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2009",
+    "district_id": "18.11.01",
+    "name": "Mulya Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2010",
+    "district_id": "18.11.01",
+    "name": "Wiralaga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.01.2011",
+    "district_id": "18.11.01",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2001",
+    "district_id": "18.11.02",
+    "name": "Talang Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2002",
+    "district_id": "18.11.02",
+    "name": "Sungai Cambai",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2003",
+    "district_id": "18.11.02",
+    "name": "Tanjung Mas Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2004",
+    "district_id": "18.11.02",
+    "name": "Margo Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2005",
+    "district_id": "18.11.02",
+    "name": "Tanjung Menang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2006",
+    "district_id": "18.11.02",
+    "name": "Eka Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2007",
+    "district_id": "18.11.02",
+    "name": "Wono Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2008",
+    "district_id": "18.11.02",
+    "name": "Dwi Karya Mustika",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2009",
+    "district_id": "18.11.02",
+    "name": "Pangkal Mas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2010",
+    "district_id": "18.11.02",
+    "name": "Pangkal Mas Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2011",
+    "district_id": "18.11.02",
+    "name": "Tanjung Mas Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2012",
+    "district_id": "18.11.02",
+    "name": "Muara Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2013",
+    "district_id": "18.11.02",
+    "name": "Tanjung Mas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2014",
+    "district_id": "18.11.02",
+    "name": "Margo Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2015",
+    "district_id": "18.11.02",
+    "name": "Pangkal Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2016",
+    "district_id": "18.11.02",
+    "name": "Tanjung Menang Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2017",
+    "district_id": "18.11.02",
+    "name": "Tebing Karya Mandiri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2018",
+    "district_id": "18.11.02",
+    "name": "Tanjung Mas Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2019",
+    "district_id": "18.11.02",
+    "name": "Margo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.02.2020",
+    "district_id": "18.11.02",
+    "name": "Muara Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2001",
+    "district_id": "18.11.03",
+    "name": "Sungai Buaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2002",
+    "district_id": "18.11.03",
+    "name": "Panggung Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2003",
+    "district_id": "18.11.03",
+    "name": "Sungai Sidang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2004",
+    "district_id": "18.11.03",
+    "name": "Sidang Sido Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2005",
+    "district_id": "18.11.03",
+    "name": "Sidang Way Puji",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2006",
+    "district_id": "18.11.03",
+    "name": "Sidang Bandar Anom",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2007",
+    "district_id": "18.11.03",
+    "name": "Panggung Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2008",
+    "district_id": "18.11.03",
+    "name": "Sidang Iso Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2009",
+    "district_id": "18.11.03",
+    "name": "Sidang Kurnia Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2010",
+    "district_id": "18.11.03",
+    "name": "Telogo Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2011",
+    "district_id": "18.11.03",
+    "name": "Sidang Gunung Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2012",
+    "district_id": "18.11.03",
+    "name": "Sidang Muara Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.03.2013",
+    "district_id": "18.11.03",
+    "name": "Sidang Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2001",
+    "district_id": "18.11.04",
+    "name": "Buko Poso",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2002",
+    "district_id": "18.11.04",
+    "name": "Kejadian",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2003",
+    "district_id": "18.11.04",
+    "name": "Bumi Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2004",
+    "district_id": "18.11.04",
+    "name": "Kebun Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2005",
+    "district_id": "18.11.04",
+    "name": "Panca Warna",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2006",
+    "district_id": "18.11.04",
+    "name": "Gedung Boga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2007",
+    "district_id": "18.11.04",
+    "name": "Suka Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2008",
+    "district_id": "18.11.04",
+    "name": "Rejo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2009",
+    "district_id": "18.11.04",
+    "name": "Hadi Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2010",
+    "district_id": "18.11.04",
+    "name": "Labuhan Batin",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2011",
+    "district_id": "18.11.04",
+    "name": "Labuhan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2012",
+    "district_id": "18.11.04",
+    "name": "Labuhan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2013",
+    "district_id": "18.11.04",
+    "name": "Gedung Sri Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2014",
+    "district_id": "18.11.04",
+    "name": "Labuhan Permai",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2015",
+    "district_id": "18.11.04",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2016",
+    "district_id": "18.11.04",
+    "name": "Margo Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2017",
+    "district_id": "18.11.04",
+    "name": "Labuhan Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2018",
+    "district_id": "18.11.04",
+    "name": "Karang Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2019",
+    "district_id": "18.11.04",
+    "name": "Tri Tunggal Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.04.2020",
+    "district_id": "18.11.04",
+    "name": "Suka Mandiri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2001",
+    "district_id": "18.11.05",
+    "name": "Simpang Pematang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2002",
+    "district_id": "18.11.05",
+    "name": "Budi Aji",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2003",
+    "district_id": "18.11.05",
+    "name": "Margo Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2004",
+    "district_id": "18.11.05",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2005",
+    "district_id": "18.11.05",
+    "name": "Wira Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2006",
+    "district_id": "18.11.05",
+    "name": "Agung Batin",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2007",
+    "district_id": "18.11.05",
+    "name": "Bangun Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2008",
+    "district_id": "18.11.05",
+    "name": "Jaya Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2009",
+    "district_id": "18.11.05",
+    "name": "Rejo Binangun",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2010",
+    "district_id": "18.11.05",
+    "name": "Simpang Mesuji",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2011",
+    "district_id": "18.11.05",
+    "name": "Margo Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2012",
+    "district_id": "18.11.05",
+    "name": "Aji Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.05.2013",
+    "district_id": "18.11.05",
+    "name": "Mulya Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2001",
+    "district_id": "18.11.06",
+    "name": "Adi Luhur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2002",
+    "district_id": "18.11.06",
+    "name": "Mukti Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2003",
+    "district_id": "18.11.06",
+    "name": "Fajar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2004",
+    "district_id": "18.11.06",
+    "name": "Adi Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2005",
+    "district_id": "18.11.06",
+    "name": "Fajar Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2006",
+    "district_id": "18.11.06",
+    "name": "Fajar Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.06.2007",
+    "district_id": "18.11.06",
+    "name": "Adi Karya Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2001",
+    "district_id": "18.11.07",
+    "name": "Brabasan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2002",
+    "district_id": "18.11.07",
+    "name": "Gedung Ram",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2003",
+    "district_id": "18.11.07",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2004",
+    "district_id": "18.11.07",
+    "name": "Bujung Buring",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2005",
+    "district_id": "18.11.07",
+    "name": "Kagungan Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2006",
+    "district_id": "18.11.07",
+    "name": "Tanjung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2007",
+    "district_id": "18.11.07",
+    "name": "Harapan Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2008",
+    "district_id": "18.11.07",
+    "name": "Sri Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2009",
+    "district_id": "18.11.07",
+    "name": "Bangun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2010",
+    "district_id": "18.11.07",
+    "name": "Muara Tenang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2011",
+    "district_id": "18.11.07",
+    "name": "Wira Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2012",
+    "district_id": "18.11.07",
+    "name": "Sinar Laga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2013",
+    "district_id": "18.11.07",
+    "name": "Tri Karya Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2014",
+    "district_id": "18.11.07",
+    "name": "Berasan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2015",
+    "district_id": "18.11.07",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2016",
+    "district_id": "18.11.07",
+    "name": "Gedung Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2017",
+    "district_id": "18.11.07",
+    "name": "Tanjung Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2018",
+    "district_id": "18.11.07",
+    "name": "Muara Tenang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2019",
+    "district_id": "18.11.07",
+    "name": "Sriwijaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2020",
+    "district_id": "18.11.07",
+    "name": "Mukti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.11.07.2021",
+    "district_id": "18.11.07",
+    "name": "Bujung Buring Baru",
+    "type": "DESA"
+  }
+]

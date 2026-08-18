@@ -1,0 +1,356 @@
+[
+  {
+    "id": "64.72.01.1001",
+    "district_id": "64.72.01",
+    "name": "Rawa Makmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.01.1002",
+    "district_id": "64.72.01",
+    "name": "Handil Bakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.01.1003",
+    "district_id": "64.72.01",
+    "name": "Bukuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.01.1004",
+    "district_id": "64.72.01",
+    "name": "Simpang Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.01.1005",
+    "district_id": "64.72.01",
+    "name": "Bantuas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1001",
+    "district_id": "64.72.02",
+    "name": "Sungai Keledang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1002",
+    "district_id": "64.72.02",
+    "name": "Baqa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1003",
+    "district_id": "64.72.02",
+    "name": "Mesjid",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1009",
+    "district_id": "64.72.02",
+    "name": "Mangkupalas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1010",
+    "district_id": "64.72.02",
+    "name": "Tenun Samarinda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1011",
+    "district_id": "64.72.02",
+    "name": "Gunung Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1001",
+    "district_id": "64.72.03",
+    "name": "Teluk Lerong Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1002",
+    "district_id": "64.72.03",
+    "name": "Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1004",
+    "district_id": "64.72.03",
+    "name": "Air Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1005",
+    "district_id": "64.72.03",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1006",
+    "district_id": "64.72.03",
+    "name": "Air Hitam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1007",
+    "district_id": "64.72.03",
+    "name": "Dadi Mulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1008",
+    "district_id": "64.72.03",
+    "name": "Gunung Kelua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.03.1009",
+    "district_id": "64.72.03",
+    "name": "Bukit Pinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1001",
+    "district_id": "64.72.04",
+    "name": "Selili",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1002",
+    "district_id": "64.72.04",
+    "name": "Sungai Dama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1003",
+    "district_id": "64.72.04",
+    "name": "Sidomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1013",
+    "district_id": "64.72.04",
+    "name": "Sidodamai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1014",
+    "district_id": "64.72.04",
+    "name": "Pelita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1002",
+    "district_id": "64.72.05",
+    "name": "Sempaja Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1003",
+    "district_id": "64.72.05",
+    "name": "Lempake",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1004",
+    "district_id": "64.72.05",
+    "name": "Sungai Siring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1010",
+    "district_id": "64.72.05",
+    "name": "Sempaja Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1011",
+    "district_id": "64.72.05",
+    "name": "Tanah Merah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1012",
+    "district_id": "64.72.05",
+    "name": "Sempaja Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1013",
+    "district_id": "64.72.05",
+    "name": "Sempaja Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.05.1014",
+    "district_id": "64.72.05",
+    "name": "Budaya Pampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1001",
+    "district_id": "64.72.06",
+    "name": "Loa Bakung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1002",
+    "district_id": "64.72.06",
+    "name": "Loa Buah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1003",
+    "district_id": "64.72.06",
+    "name": "Karang Asam Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1004",
+    "district_id": "64.72.06",
+    "name": "Lok Bahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1005",
+    "district_id": "64.72.06",
+    "name": "Teluk Lerong Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1006",
+    "district_id": "64.72.06",
+    "name": "Karang Asam Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.06.1007",
+    "district_id": "64.72.06",
+    "name": "Karang Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.07.1001",
+    "district_id": "64.72.07",
+    "name": "Sungai Kapih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.07.1002",
+    "district_id": "64.72.07",
+    "name": "Sambutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.07.1003",
+    "district_id": "64.72.07",
+    "name": "Makroman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.07.1004",
+    "district_id": "64.72.07",
+    "name": "Sindang Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.07.1005",
+    "district_id": "64.72.07",
+    "name": "Pulau Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.08.1001",
+    "district_id": "64.72.08",
+    "name": "Temindung Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.08.1002",
+    "district_id": "64.72.08",
+    "name": "Sungai Pinang Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.08.1003",
+    "district_id": "64.72.08",
+    "name": "Gunung Lingai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.08.1004",
+    "district_id": "64.72.08",
+    "name": "Mugirejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.08.1005",
+    "district_id": "64.72.08",
+    "name": "Bandara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1001",
+    "district_id": "64.72.09",
+    "name": "Karang Mumus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1002",
+    "district_id": "64.72.09",
+    "name": "Pelabuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1003",
+    "district_id": "64.72.09",
+    "name": "Pasar Pagi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1004",
+    "district_id": "64.72.09",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1005",
+    "district_id": "64.72.09",
+    "name": "Sungai Pinang Luar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1001",
+    "district_id": "64.72.10",
+    "name": "Simpang Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1002",
+    "district_id": "64.72.10",
+    "name": "Tani Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1003",
+    "district_id": "64.72.10",
+    "name": "Sengkotek",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1004",
+    "district_id": "64.72.10",
+    "name": "Harapan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1005",
+    "district_id": "64.72.10",
+    "name": "Rapak Dalam",
+    "type": "KELURAHAN"
+  }
+]

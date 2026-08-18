@@ -1,0 +1,527 @@
+[
+  {
+    "id": "91.03.01",
+    "regency_id": "91.03",
+    "name": "Sentani"
+  },
+  {
+    "id": "91.03.02",
+    "regency_id": "91.03",
+    "name": "Sentani Timur"
+  },
+  {
+    "id": "91.03.03",
+    "regency_id": "91.03",
+    "name": "Depapre"
+  },
+  {
+    "id": "91.03.04",
+    "regency_id": "91.03",
+    "name": "Sentani Barat"
+  },
+  {
+    "id": "91.03.05",
+    "regency_id": "91.03",
+    "name": "Kemtuk"
+  },
+  {
+    "id": "91.03.06",
+    "regency_id": "91.03",
+    "name": "Kemtuk Gresi"
+  },
+  {
+    "id": "91.03.07",
+    "regency_id": "91.03",
+    "name": "Nimboran"
+  },
+  {
+    "id": "91.03.08",
+    "regency_id": "91.03",
+    "name": "Nimbokrang"
+  },
+  {
+    "id": "91.03.09",
+    "regency_id": "91.03",
+    "name": "Unurum Guay"
+  },
+  {
+    "id": "91.03.10",
+    "regency_id": "91.03",
+    "name": "Demta"
+  },
+  {
+    "id": "91.03.11",
+    "regency_id": "91.03",
+    "name": "Kaureh"
+  },
+  {
+    "id": "91.03.12",
+    "regency_id": "91.03",
+    "name": "Ebungfao"
+  },
+  {
+    "id": "91.03.13",
+    "regency_id": "91.03",
+    "name": "Waibu"
+  },
+  {
+    "id": "91.03.14",
+    "regency_id": "91.03",
+    "name": "Nambluong"
+  },
+  {
+    "id": "91.03.15",
+    "regency_id": "91.03",
+    "name": "Yapsi"
+  },
+  {
+    "id": "91.03.16",
+    "regency_id": "91.03",
+    "name": "Airu"
+  },
+  {
+    "id": "91.03.17",
+    "regency_id": "91.03",
+    "name": "Raveni Rara"
+  },
+  {
+    "id": "91.03.18",
+    "regency_id": "91.03",
+    "name": "Gresi  Selatan"
+  },
+  {
+    "id": "91.03.19",
+    "regency_id": "91.03",
+    "name": "Yokari"
+  },
+  {
+    "id": "91.05.01",
+    "regency_id": "91.05",
+    "name": "Yapen Selatan"
+  },
+  {
+    "id": "91.05.02",
+    "regency_id": "91.05",
+    "name": "Yapen Barat"
+  },
+  {
+    "id": "91.05.03",
+    "regency_id": "91.05",
+    "name": "Yapen Timur"
+  },
+  {
+    "id": "91.05.04",
+    "regency_id": "91.05",
+    "name": "Angkaisera"
+  },
+  {
+    "id": "91.05.05",
+    "regency_id": "91.05",
+    "name": "Poom"
+  },
+  {
+    "id": "91.05.06",
+    "regency_id": "91.05",
+    "name": "Kosiwo"
+  },
+  {
+    "id": "91.05.07",
+    "regency_id": "91.05",
+    "name": "Yapen Utara"
+  },
+  {
+    "id": "91.05.08",
+    "regency_id": "91.05",
+    "name": "Raimbawi"
+  },
+  {
+    "id": "91.05.09",
+    "regency_id": "91.05",
+    "name": "Teluk Ampimoi"
+  },
+  {
+    "id": "91.05.10",
+    "regency_id": "91.05",
+    "name": "Kepulauan Ambai"
+  },
+  {
+    "id": "91.05.11",
+    "regency_id": "91.05",
+    "name": "Wonawa"
+  },
+  {
+    "id": "91.05.12",
+    "regency_id": "91.05",
+    "name": "Windesi"
+  },
+  {
+    "id": "91.05.13",
+    "regency_id": "91.05",
+    "name": "Pulau Kurudu"
+  },
+  {
+    "id": "91.05.14",
+    "regency_id": "91.05",
+    "name": "Pulau Yerui"
+  },
+  {
+    "id": "91.05.15",
+    "regency_id": "91.05",
+    "name": "Anotaurei"
+  },
+  {
+    "id": "91.05.16",
+    "regency_id": "91.05",
+    "name": "Yawakukat"
+  },
+  {
+    "id": "91.05.17",
+    "regency_id": "91.05",
+    "name": "Nusawani"
+  },
+  {
+    "id": "91.06.01",
+    "regency_id": "91.06",
+    "name": "Biak Kota"
+  },
+  {
+    "id": "91.06.02",
+    "regency_id": "91.06",
+    "name": "Biak Utara"
+  },
+  {
+    "id": "91.06.03",
+    "regency_id": "91.06",
+    "name": "Biak Timur"
+  },
+  {
+    "id": "91.06.04",
+    "regency_id": "91.06",
+    "name": "Numfor Barat"
+  },
+  {
+    "id": "91.06.05",
+    "regency_id": "91.06",
+    "name": "Numfor Timur"
+  },
+  {
+    "id": "91.06.08",
+    "regency_id": "91.06",
+    "name": "Biak Barat"
+  },
+  {
+    "id": "91.06.09",
+    "regency_id": "91.06",
+    "name": "Warsa"
+  },
+  {
+    "id": "91.06.10",
+    "regency_id": "91.06",
+    "name": "Padaido"
+  },
+  {
+    "id": "91.06.11",
+    "regency_id": "91.06",
+    "name": "Yendidori"
+  },
+  {
+    "id": "91.06.12",
+    "regency_id": "91.06",
+    "name": "Samofa"
+  },
+  {
+    "id": "91.06.13",
+    "regency_id": "91.06",
+    "name": "Yawosi"
+  },
+  {
+    "id": "91.06.14",
+    "regency_id": "91.06",
+    "name": "Andey"
+  },
+  {
+    "id": "91.06.15",
+    "regency_id": "91.06",
+    "name": "Swandiwe"
+  },
+  {
+    "id": "91.06.16",
+    "regency_id": "91.06",
+    "name": "Bruyadori"
+  },
+  {
+    "id": "91.06.17",
+    "regency_id": "91.06",
+    "name": "Orkeri"
+  },
+  {
+    "id": "91.06.18",
+    "regency_id": "91.06",
+    "name": "Poiru"
+  },
+  {
+    "id": "91.06.19",
+    "regency_id": "91.06",
+    "name": "Aimando Padaido"
+  },
+  {
+    "id": "91.06.20",
+    "regency_id": "91.06",
+    "name": "Oridek"
+  },
+  {
+    "id": "91.06.21",
+    "regency_id": "91.06",
+    "name": "Bondifuar"
+  },
+  {
+    "id": "91.10.01",
+    "regency_id": "91.10",
+    "name": "Sarmi"
+  },
+  {
+    "id": "91.10.02",
+    "regency_id": "91.10",
+    "name": "Tor Atas"
+  },
+  {
+    "id": "91.10.03",
+    "regency_id": "91.10",
+    "name": "Pantai Barat"
+  },
+  {
+    "id": "91.10.04",
+    "regency_id": "91.10",
+    "name": "Pantai Timur"
+  },
+  {
+    "id": "91.10.05",
+    "regency_id": "91.10",
+    "name": "Bonggo"
+  },
+  {
+    "id": "91.10.09",
+    "regency_id": "91.10",
+    "name": "Apawer Hulu"
+  },
+  {
+    "id": "91.10.12",
+    "regency_id": "91.10",
+    "name": "Sarmi Selatan"
+  },
+  {
+    "id": "91.10.13",
+    "regency_id": "91.10",
+    "name": "Sarmi Timur"
+  },
+  {
+    "id": "91.10.14",
+    "regency_id": "91.10",
+    "name": "Pantai Timur Bagian Barat"
+  },
+  {
+    "id": "91.10.15",
+    "regency_id": "91.10",
+    "name": "Bonggo Timur"
+  },
+  {
+    "id": "91.11.01",
+    "regency_id": "91.11",
+    "name": "Waris"
+  },
+  {
+    "id": "91.11.02",
+    "regency_id": "91.11",
+    "name": "Arso"
+  },
+  {
+    "id": "91.11.03",
+    "regency_id": "91.11",
+    "name": "Senggi"
+  },
+  {
+    "id": "91.11.04",
+    "regency_id": "91.11",
+    "name": "Web"
+  },
+  {
+    "id": "91.11.05",
+    "regency_id": "91.11",
+    "name": "Skanto"
+  },
+  {
+    "id": "91.11.06",
+    "regency_id": "91.11",
+    "name": "Arso Timur"
+  },
+  {
+    "id": "91.11.07",
+    "regency_id": "91.11",
+    "name": "Towe"
+  },
+  {
+    "id": "91.11.08",
+    "regency_id": "91.11",
+    "name": "Arso Barat"
+  },
+  {
+    "id": "91.11.09",
+    "regency_id": "91.11",
+    "name": "Mannem"
+  },
+  {
+    "id": "91.11.10",
+    "regency_id": "91.11",
+    "name": "Yaffi"
+  },
+  {
+    "id": "91.11.11",
+    "regency_id": "91.11",
+    "name": "Kaisenar"
+  },
+  {
+    "id": "91.15.01",
+    "regency_id": "91.15",
+    "name": "Waropen Bawah"
+  },
+  {
+    "id": "91.15.03",
+    "regency_id": "91.15",
+    "name": "Masirei"
+  },
+  {
+    "id": "91.15.07",
+    "regency_id": "91.15",
+    "name": "Risei Sayati"
+  },
+  {
+    "id": "91.15.08",
+    "regency_id": "91.15",
+    "name": "Urei Faisei"
+  },
+  {
+    "id": "91.15.09",
+    "regency_id": "91.15",
+    "name": "Inggerus"
+  },
+  {
+    "id": "91.15.10",
+    "regency_id": "91.15",
+    "name": "Kirihi"
+  },
+  {
+    "id": "91.15.11",
+    "regency_id": "91.15",
+    "name": "Oudate"
+  },
+  {
+    "id": "91.15.12",
+    "regency_id": "91.15",
+    "name": "Wapoga"
+  },
+  {
+    "id": "91.15.13",
+    "regency_id": "91.15",
+    "name": "Demba"
+  },
+  {
+    "id": "91.15.14",
+    "regency_id": "91.15",
+    "name": "Wonti"
+  },
+  {
+    "id": "91.15.15",
+    "regency_id": "91.15",
+    "name": "Soyoi Mambai"
+  },
+  {
+    "id": "91.19.01",
+    "regency_id": "91.19",
+    "name": "Supiori Selatan"
+  },
+  {
+    "id": "91.19.02",
+    "regency_id": "91.19",
+    "name": "Supiori Utara"
+  },
+  {
+    "id": "91.19.03",
+    "regency_id": "91.19",
+    "name": "Supiori Timur"
+  },
+  {
+    "id": "91.19.04",
+    "regency_id": "91.19",
+    "name": "Kepulauan Aruri"
+  },
+  {
+    "id": "91.19.05",
+    "regency_id": "91.19",
+    "name": "Supiori Barat"
+  },
+  {
+    "id": "91.20.01",
+    "regency_id": "91.20",
+    "name": "Mamberamo Tengah"
+  },
+  {
+    "id": "91.20.02",
+    "regency_id": "91.20",
+    "name": "Mamberamo Hulu"
+  },
+  {
+    "id": "91.20.03",
+    "regency_id": "91.20",
+    "name": "Rufaer"
+  },
+  {
+    "id": "91.20.04",
+    "regency_id": "91.20",
+    "name": "Mamberamo Tengah Timur"
+  },
+  {
+    "id": "91.20.05",
+    "regency_id": "91.20",
+    "name": "Mamberamo Hilir"
+  },
+  {
+    "id": "91.20.06",
+    "regency_id": "91.20",
+    "name": "Waropen Atas"
+  },
+  {
+    "id": "91.20.07",
+    "regency_id": "91.20",
+    "name": "Benuki"
+  },
+  {
+    "id": "91.20.08",
+    "regency_id": "91.20",
+    "name": "Sawai"
+  },
+  {
+    "id": "91.71.01",
+    "regency_id": "91.71",
+    "name": "Jayapura Utara"
+  },
+  {
+    "id": "91.71.02",
+    "regency_id": "91.71",
+    "name": "Jayapura Selatan"
+  },
+  {
+    "id": "91.71.03",
+    "regency_id": "91.71",
+    "name": "Abepura"
+  },
+  {
+    "id": "91.71.04",
+    "regency_id": "91.71",
+    "name": "Muara Tami"
+  },
+  {
+    "id": "91.71.05",
+    "regency_id": "91.71",
+    "name": "Heram"
+  }
+]

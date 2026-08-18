@@ -1,0 +1,344 @@
+[
+  {
+    "id": "92.11.01.2001",
+    "district_id": "92.11.01",
+    "name": "Ransiki",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2002",
+    "district_id": "92.11.01",
+    "name": "Nuhuwei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2003",
+    "district_id": "92.11.01",
+    "name": "Yamboi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2004",
+    "district_id": "92.11.01",
+    "name": "Tobou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2005",
+    "district_id": "92.11.01",
+    "name": "Sabri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2006",
+    "district_id": "92.11.01",
+    "name": "Bamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2007",
+    "district_id": "92.11.01",
+    "name": "Abreso",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2008",
+    "district_id": "92.11.01",
+    "name": "Hamawi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2009",
+    "district_id": "92.11.01",
+    "name": "Kobrey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2010",
+    "district_id": "92.11.01",
+    "name": "Wamcei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2011",
+    "district_id": "92.11.01",
+    "name": "Hamor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2012",
+    "district_id": "92.11.01",
+    "name": "Susmorof",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2013",
+    "district_id": "92.11.01",
+    "name": "Mambrema",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2001",
+    "district_id": "92.11.02",
+    "name": "Oransbari",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2002",
+    "district_id": "92.11.02",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2003",
+    "district_id": "92.11.02",
+    "name": "Waroser",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2004",
+    "district_id": "92.11.02",
+    "name": "Margo Rukun",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2005",
+    "district_id": "92.11.02",
+    "name": "Muari",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2006",
+    "district_id": "92.11.02",
+    "name": "Watariri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2007",
+    "district_id": "92.11.02",
+    "name": "Masabui",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2008",
+    "district_id": "92.11.02",
+    "name": "Warbiadi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2009",
+    "district_id": "92.11.02",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2010",
+    "district_id": "92.11.02",
+    "name": "Warkwandi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2011",
+    "district_id": "92.11.02",
+    "name": "Sindang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2012",
+    "district_id": "92.11.02",
+    "name": "Wandoki",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2013",
+    "district_id": "92.11.02",
+    "name": "Akeju",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.02.2014",
+    "district_id": "92.11.02",
+    "name": "Masabui II",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2001",
+    "district_id": "92.11.03",
+    "name": "Wama",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2002",
+    "district_id": "92.11.03",
+    "name": "Disi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2003",
+    "district_id": "92.11.03",
+    "name": "Hiyou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2004",
+    "district_id": "92.11.03",
+    "name": "Sesum",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2005",
+    "district_id": "92.11.03",
+    "name": "Benyas",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2006",
+    "district_id": "92.11.03",
+    "name": "Aryawenmoho",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2007",
+    "district_id": "92.11.03",
+    "name": "Neney",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2001",
+    "district_id": "92.11.04",
+    "name": "Isim",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2002",
+    "district_id": "92.11.04",
+    "name": "Duhugesa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2003",
+    "district_id": "92.11.04",
+    "name": "Tubes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2004",
+    "district_id": "92.11.04",
+    "name": "Umohousi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2005",
+    "district_id": "92.11.04",
+    "name": "Tohosta",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2006",
+    "district_id": "92.11.04",
+    "name": "Hugomot",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2007",
+    "district_id": "92.11.04",
+    "name": "Dihisu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2008",
+    "district_id": "92.11.04",
+    "name": "Inyuara",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2009",
+    "district_id": "92.11.04",
+    "name": "Desra",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2010",
+    "district_id": "92.11.04",
+    "name": "Mindermes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2011",
+    "district_id": "92.11.04",
+    "name": "Sibjo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.04.2012",
+    "district_id": "92.11.04",
+    "name": "Dibera",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2001",
+    "district_id": "92.11.05",
+    "name": "Dembek",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2002",
+    "district_id": "92.11.05",
+    "name": "Nij",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2003",
+    "district_id": "92.11.05",
+    "name": "Siwi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2004",
+    "district_id": "92.11.05",
+    "name": "Gaya Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2005",
+    "district_id": "92.11.05",
+    "name": "Waren",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2006",
+    "district_id": "92.11.05",
+    "name": "Demini",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.05.2007",
+    "district_id": "92.11.05",
+    "name": "Yekwandi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.06.2001",
+    "district_id": "92.11.06",
+    "name": "Yarmatum",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.06.2002",
+    "district_id": "92.11.06",
+    "name": "Reyob",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.06.2003",
+    "district_id": "92.11.06",
+    "name": "Kaprus",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.06.2004",
+    "district_id": "92.11.06",
+    "name": "Seimeba",
+    "type": "DESA"
+  }
+]

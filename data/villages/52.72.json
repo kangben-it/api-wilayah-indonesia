@@ -1,0 +1,248 @@
+[
+  {
+    "id": "52.72.01.1001",
+    "district_id": "52.72.01",
+    "name": "Paruga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.01.1002",
+    "district_id": "52.72.01",
+    "name": "Nae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.01.1003",
+    "district_id": "52.72.01",
+    "name": "Sarae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.01.1004",
+    "district_id": "52.72.01",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.01.1013",
+    "district_id": "52.72.01",
+    "name": "Pane",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.01.1014",
+    "district_id": "52.72.01",
+    "name": "Dara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1004",
+    "district_id": "52.72.02",
+    "name": "Kumbe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1008",
+    "district_id": "52.72.02",
+    "name": "Lampe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1009",
+    "district_id": "52.72.02",
+    "name": "Dodu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1011",
+    "district_id": "52.72.02",
+    "name": "Nungga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1018",
+    "district_id": "52.72.02",
+    "name": "Kodo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1019",
+    "district_id": "52.72.02",
+    "name": "Oi Fo'o",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1020",
+    "district_id": "52.72.02",
+    "name": "Lelamase",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.02.1021",
+    "district_id": "52.72.02",
+    "name": "Oimbo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1001",
+    "district_id": "52.72.03",
+    "name": "Melayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1002",
+    "district_id": "52.72.03",
+    "name": "Jatiwangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1003",
+    "district_id": "52.72.03",
+    "name": "Jatibaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1004",
+    "district_id": "52.72.03",
+    "name": "Kolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1005",
+    "district_id": "52.72.03",
+    "name": "Jatibaru Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.03.1006",
+    "district_id": "52.72.03",
+    "name": "Ule",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1001",
+    "district_id": "52.72.04",
+    "name": "Penaraga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1002",
+    "district_id": "52.72.04",
+    "name": "Rontu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1003",
+    "district_id": "52.72.04",
+    "name": "PenanaE",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1004",
+    "district_id": "52.72.04",
+    "name": "Kendo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1005",
+    "district_id": "52.72.04",
+    "name": "Ntobo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1006",
+    "district_id": "52.72.04",
+    "name": "Nitu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1007",
+    "district_id": "52.72.04",
+    "name": "Rabangodu Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1008",
+    "district_id": "52.72.04",
+    "name": "Rabadompu Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1009",
+    "district_id": "52.72.04",
+    "name": "Rite",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1010",
+    "district_id": "52.72.04",
+    "name": "Rabadompu Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.04.1011",
+    "district_id": "52.72.04",
+    "name": "Rabangodu Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1001",
+    "district_id": "52.72.05",
+    "name": "Monggonao",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1002",
+    "district_id": "52.72.05",
+    "name": "Sadia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1003",
+    "district_id": "52.72.05",
+    "name": "Santi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1004",
+    "district_id": "52.72.05",
+    "name": "Sambinae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1005",
+    "district_id": "52.72.05",
+    "name": "Penatoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1006",
+    "district_id": "52.72.05",
+    "name": "Lewirato",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1007",
+    "district_id": "52.72.05",
+    "name": "Mande",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1008",
+    "district_id": "52.72.05",
+    "name": "Panggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1009",
+    "district_id": "52.72.05",
+    "name": "Manggemaci",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.72.05.1010",
+    "district_id": "52.72.05",
+    "name": "Matakando",
+    "type": "KELURAHAN"
+  }
+]

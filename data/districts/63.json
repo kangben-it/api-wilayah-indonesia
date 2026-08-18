@@ -1,0 +1,782 @@
+[
+  {
+    "id": "63.01.01",
+    "regency_id": "63.01",
+    "name": "Takisung"
+  },
+  {
+    "id": "63.01.02",
+    "regency_id": "63.01",
+    "name": "Jorong"
+  },
+  {
+    "id": "63.01.03",
+    "regency_id": "63.01",
+    "name": "Pelaihari"
+  },
+  {
+    "id": "63.01.04",
+    "regency_id": "63.01",
+    "name": "Kurau"
+  },
+  {
+    "id": "63.01.05",
+    "regency_id": "63.01",
+    "name": "Bati Bati"
+  },
+  {
+    "id": "63.01.06",
+    "regency_id": "63.01",
+    "name": "Panyipatan"
+  },
+  {
+    "id": "63.01.07",
+    "regency_id": "63.01",
+    "name": "Kintap"
+  },
+  {
+    "id": "63.01.08",
+    "regency_id": "63.01",
+    "name": "Tambang Ulang"
+  },
+  {
+    "id": "63.01.09",
+    "regency_id": "63.01",
+    "name": "Batu Ampar"
+  },
+  {
+    "id": "63.01.10",
+    "regency_id": "63.01",
+    "name": "Bajuin"
+  },
+  {
+    "id": "63.01.11",
+    "regency_id": "63.01",
+    "name": "Bumi Makmur"
+  },
+  {
+    "id": "63.02.01",
+    "regency_id": "63.02",
+    "name": "Pulau Sembilan"
+  },
+  {
+    "id": "63.02.02",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Barat"
+  },
+  {
+    "id": "63.02.03",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Selatan"
+  },
+  {
+    "id": "63.02.04",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Timur"
+  },
+  {
+    "id": "63.02.05",
+    "regency_id": "63.02",
+    "name": "Pulau Sebuku"
+  },
+  {
+    "id": "63.02.06",
+    "regency_id": "63.02",
+    "name": "Pulaulaut Utara"
+  },
+  {
+    "id": "63.02.07",
+    "regency_id": "63.02",
+    "name": "Kelumpang Selatan"
+  },
+  {
+    "id": "63.02.08",
+    "regency_id": "63.02",
+    "name": "Kelumpang Hulu"
+  },
+  {
+    "id": "63.02.09",
+    "regency_id": "63.02",
+    "name": "Kelumpang Tengah"
+  },
+  {
+    "id": "63.02.10",
+    "regency_id": "63.02",
+    "name": "Kelumpang Utara"
+  },
+  {
+    "id": "63.02.11",
+    "regency_id": "63.02",
+    "name": "Pamukan Selatan"
+  },
+  {
+    "id": "63.02.12",
+    "regency_id": "63.02",
+    "name": "Sampanahan"
+  },
+  {
+    "id": "63.02.13",
+    "regency_id": "63.02",
+    "name": "Pamukan Utara"
+  },
+  {
+    "id": "63.02.14",
+    "regency_id": "63.02",
+    "name": "Hampang"
+  },
+  {
+    "id": "63.02.15",
+    "regency_id": "63.02",
+    "name": "Sungai Durian"
+  },
+  {
+    "id": "63.02.16",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Tengah"
+  },
+  {
+    "id": "63.02.17",
+    "regency_id": "63.02",
+    "name": "Kelumpang Hilir"
+  },
+  {
+    "id": "63.02.18",
+    "regency_id": "63.02",
+    "name": "Kelumpang Barat"
+  },
+  {
+    "id": "63.02.19",
+    "regency_id": "63.02",
+    "name": "Pamukan Barat"
+  },
+  {
+    "id": "63.02.20",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Kepulauan"
+  },
+  {
+    "id": "63.02.21",
+    "regency_id": "63.02",
+    "name": "Pulau Laut Tanjung Selayar"
+  },
+  {
+    "id": "63.02.22",
+    "regency_id": "63.02",
+    "name": "Pulaulaut Sigam"
+  },
+  {
+    "id": "63.03.01",
+    "regency_id": "63.03",
+    "name": "Aluh Aluh"
+  },
+  {
+    "id": "63.03.02",
+    "regency_id": "63.03",
+    "name": "Kertak Hanyar"
+  },
+  {
+    "id": "63.03.03",
+    "regency_id": "63.03",
+    "name": "Gambut"
+  },
+  {
+    "id": "63.03.04",
+    "regency_id": "63.03",
+    "name": "Sungai Tabuk"
+  },
+  {
+    "id": "63.03.05",
+    "regency_id": "63.03",
+    "name": "Martapura"
+  },
+  {
+    "id": "63.03.06",
+    "regency_id": "63.03",
+    "name": "Karang Intan"
+  },
+  {
+    "id": "63.03.07",
+    "regency_id": "63.03",
+    "name": "Astambul"
+  },
+  {
+    "id": "63.03.08",
+    "regency_id": "63.03",
+    "name": "Simpang Empat"
+  },
+  {
+    "id": "63.03.09",
+    "regency_id": "63.03",
+    "name": "Pengaron"
+  },
+  {
+    "id": "63.03.10",
+    "regency_id": "63.03",
+    "name": "Sungai Pinang"
+  },
+  {
+    "id": "63.03.11",
+    "regency_id": "63.03",
+    "name": "Aranio"
+  },
+  {
+    "id": "63.03.12",
+    "regency_id": "63.03",
+    "name": "Mataraman"
+  },
+  {
+    "id": "63.03.13",
+    "regency_id": "63.03",
+    "name": "Beruntung Baru"
+  },
+  {
+    "id": "63.03.14",
+    "regency_id": "63.03",
+    "name": "Martapura Barat"
+  },
+  {
+    "id": "63.03.15",
+    "regency_id": "63.03",
+    "name": "Martapura Timur"
+  },
+  {
+    "id": "63.03.16",
+    "regency_id": "63.03",
+    "name": "Sambung Makmur"
+  },
+  {
+    "id": "63.03.17",
+    "regency_id": "63.03",
+    "name": "Paramasan"
+  },
+  {
+    "id": "63.03.18",
+    "regency_id": "63.03",
+    "name": "Telaga Bauntung"
+  },
+  {
+    "id": "63.03.19",
+    "regency_id": "63.03",
+    "name": "Tatah Makmur"
+  },
+  {
+    "id": "63.03.20",
+    "regency_id": "63.03",
+    "name": "Cintapuri Darussalam"
+  },
+  {
+    "id": "63.04.01",
+    "regency_id": "63.04",
+    "name": "Tabunganen"
+  },
+  {
+    "id": "63.04.02",
+    "regency_id": "63.04",
+    "name": "Tamban"
+  },
+  {
+    "id": "63.04.03",
+    "regency_id": "63.04",
+    "name": "Anjir Pasar"
+  },
+  {
+    "id": "63.04.04",
+    "regency_id": "63.04",
+    "name": "Anjir Muara"
+  },
+  {
+    "id": "63.04.05",
+    "regency_id": "63.04",
+    "name": "Alalak"
+  },
+  {
+    "id": "63.04.06",
+    "regency_id": "63.04",
+    "name": "Mandastana"
+  },
+  {
+    "id": "63.04.07",
+    "regency_id": "63.04",
+    "name": "Rantau Badauh"
+  },
+  {
+    "id": "63.04.08",
+    "regency_id": "63.04",
+    "name": "Belawang"
+  },
+  {
+    "id": "63.04.09",
+    "regency_id": "63.04",
+    "name": "Cerbon"
+  },
+  {
+    "id": "63.04.10",
+    "regency_id": "63.04",
+    "name": "Bakumpai"
+  },
+  {
+    "id": "63.04.11",
+    "regency_id": "63.04",
+    "name": "Kuripan"
+  },
+  {
+    "id": "63.04.12",
+    "regency_id": "63.04",
+    "name": "Tabukan"
+  },
+  {
+    "id": "63.04.13",
+    "regency_id": "63.04",
+    "name": "Mekarsari"
+  },
+  {
+    "id": "63.04.14",
+    "regency_id": "63.04",
+    "name": "Barambai"
+  },
+  {
+    "id": "63.04.15",
+    "regency_id": "63.04",
+    "name": "Marabahan"
+  },
+  {
+    "id": "63.04.16",
+    "regency_id": "63.04",
+    "name": "Wanaraya"
+  },
+  {
+    "id": "63.04.17",
+    "regency_id": "63.04",
+    "name": "Jejangkit"
+  },
+  {
+    "id": "63.05.01",
+    "regency_id": "63.05",
+    "name": "Binuang"
+  },
+  {
+    "id": "63.05.02",
+    "regency_id": "63.05",
+    "name": "Tapin Selatan"
+  },
+  {
+    "id": "63.05.03",
+    "regency_id": "63.05",
+    "name": "Tapin Tengah"
+  },
+  {
+    "id": "63.05.04",
+    "regency_id": "63.05",
+    "name": "Tapin Utara"
+  },
+  {
+    "id": "63.05.05",
+    "regency_id": "63.05",
+    "name": "Candi Laras Selatan"
+  },
+  {
+    "id": "63.05.06",
+    "regency_id": "63.05",
+    "name": "Candi Laras Utara"
+  },
+  {
+    "id": "63.05.07",
+    "regency_id": "63.05",
+    "name": "Bakarangan"
+  },
+  {
+    "id": "63.05.08",
+    "regency_id": "63.05",
+    "name": "Piani"
+  },
+  {
+    "id": "63.05.09",
+    "regency_id": "63.05",
+    "name": "Bungur"
+  },
+  {
+    "id": "63.05.10",
+    "regency_id": "63.05",
+    "name": "Lokpaikat"
+  },
+  {
+    "id": "63.05.11",
+    "regency_id": "63.05",
+    "name": "Salam Babaris"
+  },
+  {
+    "id": "63.05.12",
+    "regency_id": "63.05",
+    "name": "Hatungun"
+  },
+  {
+    "id": "63.06.01",
+    "regency_id": "63.06",
+    "name": "Sungai Raya"
+  },
+  {
+    "id": "63.06.02",
+    "regency_id": "63.06",
+    "name": "Padang Batung"
+  },
+  {
+    "id": "63.06.03",
+    "regency_id": "63.06",
+    "name": "Telaga Langsat"
+  },
+  {
+    "id": "63.06.04",
+    "regency_id": "63.06",
+    "name": "Angkinang"
+  },
+  {
+    "id": "63.06.05",
+    "regency_id": "63.06",
+    "name": "Kandangan"
+  },
+  {
+    "id": "63.06.06",
+    "regency_id": "63.06",
+    "name": "Simpur"
+  },
+  {
+    "id": "63.06.07",
+    "regency_id": "63.06",
+    "name": "Daha Selatan"
+  },
+  {
+    "id": "63.06.08",
+    "regency_id": "63.06",
+    "name": "Daha Utara"
+  },
+  {
+    "id": "63.06.09",
+    "regency_id": "63.06",
+    "name": "Kalumpang"
+  },
+  {
+    "id": "63.06.10",
+    "regency_id": "63.06",
+    "name": "Loksado"
+  },
+  {
+    "id": "63.06.11",
+    "regency_id": "63.06",
+    "name": "Daha Barat"
+  },
+  {
+    "id": "63.07.01",
+    "regency_id": "63.07",
+    "name": "Haruyan"
+  },
+  {
+    "id": "63.07.02",
+    "regency_id": "63.07",
+    "name": "Batu Benawa"
+  },
+  {
+    "id": "63.07.03",
+    "regency_id": "63.07",
+    "name": "Labuan Amas Selatan"
+  },
+  {
+    "id": "63.07.04",
+    "regency_id": "63.07",
+    "name": "Labuan Amas Utara"
+  },
+  {
+    "id": "63.07.05",
+    "regency_id": "63.07",
+    "name": "Pandawan"
+  },
+  {
+    "id": "63.07.06",
+    "regency_id": "63.07",
+    "name": "Barabai"
+  },
+  {
+    "id": "63.07.07",
+    "regency_id": "63.07",
+    "name": "Batang Alai Selatan"
+  },
+  {
+    "id": "63.07.08",
+    "regency_id": "63.07",
+    "name": "Batang Alai Utara"
+  },
+  {
+    "id": "63.07.09",
+    "regency_id": "63.07",
+    "name": "Hantakan"
+  },
+  {
+    "id": "63.07.10",
+    "regency_id": "63.07",
+    "name": "Batang Alai Timur"
+  },
+  {
+    "id": "63.07.11",
+    "regency_id": "63.07",
+    "name": "Limpasu"
+  },
+  {
+    "id": "63.08.01",
+    "regency_id": "63.08",
+    "name": "Danau Panggang"
+  },
+  {
+    "id": "63.08.02",
+    "regency_id": "63.08",
+    "name": "Babirik"
+  },
+  {
+    "id": "63.08.03",
+    "regency_id": "63.08",
+    "name": "Sungai Pandan"
+  },
+  {
+    "id": "63.08.04",
+    "regency_id": "63.08",
+    "name": "Amuntai Selatan"
+  },
+  {
+    "id": "63.08.05",
+    "regency_id": "63.08",
+    "name": "Amuntai Tengah"
+  },
+  {
+    "id": "63.08.06",
+    "regency_id": "63.08",
+    "name": "Amuntai Utara"
+  },
+  {
+    "id": "63.08.07",
+    "regency_id": "63.08",
+    "name": "Banjang"
+  },
+  {
+    "id": "63.08.08",
+    "regency_id": "63.08",
+    "name": "Haur Gading"
+  },
+  {
+    "id": "63.08.09",
+    "regency_id": "63.08",
+    "name": "Paminggir"
+  },
+  {
+    "id": "63.08.10",
+    "regency_id": "63.08",
+    "name": "Sungai Tabukan"
+  },
+  {
+    "id": "63.09.01",
+    "regency_id": "63.09",
+    "name": "Banua Lawas"
+  },
+  {
+    "id": "63.09.02",
+    "regency_id": "63.09",
+    "name": "Kelua"
+  },
+  {
+    "id": "63.09.03",
+    "regency_id": "63.09",
+    "name": "Tanta"
+  },
+  {
+    "id": "63.09.04",
+    "regency_id": "63.09",
+    "name": "Tanjung"
+  },
+  {
+    "id": "63.09.05",
+    "regency_id": "63.09",
+    "name": "Haruai"
+  },
+  {
+    "id": "63.09.06",
+    "regency_id": "63.09",
+    "name": "Murung Pudak"
+  },
+  {
+    "id": "63.09.07",
+    "regency_id": "63.09",
+    "name": "Muara Uya"
+  },
+  {
+    "id": "63.09.08",
+    "regency_id": "63.09",
+    "name": "Muara Harus"
+  },
+  {
+    "id": "63.09.09",
+    "regency_id": "63.09",
+    "name": "Pugaan"
+  },
+  {
+    "id": "63.09.10",
+    "regency_id": "63.09",
+    "name": "Upau"
+  },
+  {
+    "id": "63.09.11",
+    "regency_id": "63.09",
+    "name": "Jaro"
+  },
+  {
+    "id": "63.09.12",
+    "regency_id": "63.09",
+    "name": "Bintang Ara"
+  },
+  {
+    "id": "63.10.01",
+    "regency_id": "63.10",
+    "name": "Batu Licin"
+  },
+  {
+    "id": "63.10.02",
+    "regency_id": "63.10",
+    "name": "Kusan Hilir"
+  },
+  {
+    "id": "63.10.03",
+    "regency_id": "63.10",
+    "name": "Sungai Loban"
+  },
+  {
+    "id": "63.10.04",
+    "regency_id": "63.10",
+    "name": "Satui"
+  },
+  {
+    "id": "63.10.05",
+    "regency_id": "63.10",
+    "name": "Kusan Hulu"
+  },
+  {
+    "id": "63.10.06",
+    "regency_id": "63.10",
+    "name": "Simpang Empat"
+  },
+  {
+    "id": "63.10.07",
+    "regency_id": "63.10",
+    "name": "Karang Bintang"
+  },
+  {
+    "id": "63.10.08",
+    "regency_id": "63.10",
+    "name": "Mantewe"
+  },
+  {
+    "id": "63.10.09",
+    "regency_id": "63.10",
+    "name": "Angsana"
+  },
+  {
+    "id": "63.10.10",
+    "regency_id": "63.10",
+    "name": "Kuranji"
+  },
+  {
+    "id": "63.10.11",
+    "regency_id": "63.10",
+    "name": "Kusan Tengah"
+  },
+  {
+    "id": "63.10.12",
+    "regency_id": "63.10",
+    "name": "Teluk Kepayang"
+  },
+  {
+    "id": "63.11.01",
+    "regency_id": "63.11",
+    "name": "Juai"
+  },
+  {
+    "id": "63.11.02",
+    "regency_id": "63.11",
+    "name": "Halong"
+  },
+  {
+    "id": "63.11.03",
+    "regency_id": "63.11",
+    "name": "Awayan"
+  },
+  {
+    "id": "63.11.04",
+    "regency_id": "63.11",
+    "name": "Batu Mandi"
+  },
+  {
+    "id": "63.11.05",
+    "regency_id": "63.11",
+    "name": "Lampihong"
+  },
+  {
+    "id": "63.11.06",
+    "regency_id": "63.11",
+    "name": "Paringin"
+  },
+  {
+    "id": "63.11.07",
+    "regency_id": "63.11",
+    "name": "Paringin Selatan"
+  },
+  {
+    "id": "63.11.08",
+    "regency_id": "63.11",
+    "name": "Tebing Tinggi"
+  },
+  {
+    "id": "63.71.01",
+    "regency_id": "63.71",
+    "name": "Banjarmasin Selatan"
+  },
+  {
+    "id": "63.71.02",
+    "regency_id": "63.71",
+    "name": "Banjarmasin Timur"
+  },
+  {
+    "id": "63.71.03",
+    "regency_id": "63.71",
+    "name": "Banjarmasin Barat"
+  },
+  {
+    "id": "63.71.04",
+    "regency_id": "63.71",
+    "name": "Banjarmasin Utara"
+  },
+  {
+    "id": "63.71.05",
+    "regency_id": "63.71",
+    "name": "Banjarmasin Tengah"
+  },
+  {
+    "id": "63.72.02",
+    "regency_id": "63.72",
+    "name": "Landasan Ulin"
+  },
+  {
+    "id": "63.72.03",
+    "regency_id": "63.72",
+    "name": "Cempaka"
+  },
+  {
+    "id": "63.72.04",
+    "regency_id": "63.72",
+    "name": "Banjarbaru Utara"
+  },
+  {
+    "id": "63.72.05",
+    "regency_id": "63.72",
+    "name": "Banjarbaru Selatan"
+  },
+  {
+    "id": "63.72.06",
+    "regency_id": "63.72",
+    "name": "Liang Anggang"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "35.73.01.1001",
+    "district_id": "35.73.01",
+    "name": "Balearjosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1002",
+    "district_id": "35.73.01",
+    "name": "Arjosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1003",
+    "district_id": "35.73.01",
+    "name": "Polowijen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1004",
+    "district_id": "35.73.01",
+    "name": "Purwodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1005",
+    "district_id": "35.73.01",
+    "name": "Blimbing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1006",
+    "district_id": "35.73.01",
+    "name": "Pandanwangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1007",
+    "district_id": "35.73.01",
+    "name": "Purwantoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1008",
+    "district_id": "35.73.01",
+    "name": "Bunulrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1009",
+    "district_id": "35.73.01",
+    "name": "Kesatrian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1010",
+    "district_id": "35.73.01",
+    "name": "Polehan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.01.1011",
+    "district_id": "35.73.01",
+    "name": "Jodipan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1001",
+    "district_id": "35.73.02",
+    "name": "Klojen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1002",
+    "district_id": "35.73.02",
+    "name": "Rampalcelaket",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1003",
+    "district_id": "35.73.02",
+    "name": "Samaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1004",
+    "district_id": "35.73.02",
+    "name": "Kiduldalem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1005",
+    "district_id": "35.73.02",
+    "name": "Sukoharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1006",
+    "district_id": "35.73.02",
+    "name": "Kasin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1007",
+    "district_id": "35.73.02",
+    "name": "Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1008",
+    "district_id": "35.73.02",
+    "name": "Oro-oro Dowo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1009",
+    "district_id": "35.73.02",
+    "name": "Bareng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1010",
+    "district_id": "35.73.02",
+    "name": "Gading Kasri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.02.1011",
+    "district_id": "35.73.02",
+    "name": "Penanggungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1001",
+    "district_id": "35.73.03",
+    "name": "Kotalama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1002",
+    "district_id": "35.73.03",
+    "name": "Mergosono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1003",
+    "district_id": "35.73.03",
+    "name": "Bumiayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1004",
+    "district_id": "35.73.03",
+    "name": "Wonokoyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1005",
+    "district_id": "35.73.03",
+    "name": "Buring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1006",
+    "district_id": "35.73.03",
+    "name": "Kedungkandang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1007",
+    "district_id": "35.73.03",
+    "name": "Lesanpuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1008",
+    "district_id": "35.73.03",
+    "name": "Sawojajar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1009",
+    "district_id": "35.73.03",
+    "name": "Madyopuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1010",
+    "district_id": "35.73.03",
+    "name": "Cemorokandang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1011",
+    "district_id": "35.73.03",
+    "name": "Arjowinangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.03.1012",
+    "district_id": "35.73.03",
+    "name": "Tlogowaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1001",
+    "district_id": "35.73.04",
+    "name": "Ciptomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1002",
+    "district_id": "35.73.04",
+    "name": "Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1003",
+    "district_id": "35.73.04",
+    "name": "Kebonsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1004",
+    "district_id": "35.73.04",
+    "name": "Bandungrejosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1005",
+    "district_id": "35.73.04",
+    "name": "Sukun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1006",
+    "district_id": "35.73.04",
+    "name": "Tanjungrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1007",
+    "district_id": "35.73.04",
+    "name": "Pisangcandi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1008",
+    "district_id": "35.73.04",
+    "name": "Bandulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1009",
+    "district_id": "35.73.04",
+    "name": "Karangbesuki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1010",
+    "district_id": "35.73.04",
+    "name": "Mulyorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.04.1011",
+    "district_id": "35.73.04",
+    "name": "Bakalankrajan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1001",
+    "district_id": "35.73.05",
+    "name": "Tunggulwulung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1002",
+    "district_id": "35.73.05",
+    "name": "Merjosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1003",
+    "district_id": "35.73.05",
+    "name": "Tlogomas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1004",
+    "district_id": "35.73.05",
+    "name": "Dinoyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1005",
+    "district_id": "35.73.05",
+    "name": "Sumbersari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1006",
+    "district_id": "35.73.05",
+    "name": "Ketawanggede",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1007",
+    "district_id": "35.73.05",
+    "name": "Jatimulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1008",
+    "district_id": "35.73.05",
+    "name": "Tunjungsekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1009",
+    "district_id": "35.73.05",
+    "name": "Mojolangu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1010",
+    "district_id": "35.73.05",
+    "name": "Tulusrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1011",
+    "district_id": "35.73.05",
+    "name": "Lowokwaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.73.05.1012",
+    "district_id": "35.73.05",
+    "name": "Tasik Madu",
+    "type": "KELURAHAN"
+  }
+]

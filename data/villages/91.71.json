@@ -1,0 +1,236 @@
+[
+  {
+    "id": "91.71.01.1001",
+    "district_id": "91.71.01",
+    "name": "Gurabesi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1002",
+    "district_id": "91.71.01",
+    "name": "Bayangkara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1003",
+    "district_id": "91.71.01",
+    "name": "Trikora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1004",
+    "district_id": "91.71.01",
+    "name": "Imbi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1005",
+    "district_id": "91.71.01",
+    "name": "Tanjung Ria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1006",
+    "district_id": "91.71.01",
+    "name": "Mandala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1007",
+    "district_id": "91.71.01",
+    "name": "Angkasapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.2008",
+    "district_id": "91.71.01",
+    "name": "Kayo Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.02.1001",
+    "district_id": "91.71.02",
+    "name": "Argapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.02.1002",
+    "district_id": "91.71.02",
+    "name": "Ardipura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.02.1003",
+    "district_id": "91.71.02",
+    "name": "Numbay",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.02.1005",
+    "district_id": "91.71.02",
+    "name": "Entrop",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.02.1006",
+    "district_id": "91.71.02",
+    "name": "Hamadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.02.2007",
+    "district_id": "91.71.02",
+    "name": "Tahima Sorama",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.02.2008",
+    "district_id": "91.71.02",
+    "name": "Tobati",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.03.1002",
+    "district_id": "91.71.03",
+    "name": "Asano",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1008",
+    "district_id": "91.71.03",
+    "name": "Awiyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1010",
+    "district_id": "91.71.03",
+    "name": "Yobe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1011",
+    "district_id": "91.71.03",
+    "name": "Abepantai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1012",
+    "district_id": "91.71.03",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1014",
+    "district_id": "91.71.03",
+    "name": "Vim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1015",
+    "district_id": "91.71.03",
+    "name": "Wahno",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.1016",
+    "district_id": "91.71.03",
+    "name": "Way Mhorock",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.03.2001",
+    "district_id": "91.71.03",
+    "name": "Nafri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.03.2004",
+    "district_id": "91.71.03",
+    "name": "Enggros",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.03.2007",
+    "district_id": "91.71.03",
+    "name": "Koya Koso",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.1004",
+    "district_id": "91.71.04",
+    "name": "Koya Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.04.1005",
+    "district_id": "91.71.04",
+    "name": "Koya Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.04.2001",
+    "district_id": "91.71.04",
+    "name": "Skouw Mabo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.2002",
+    "district_id": "91.71.04",
+    "name": "Skouw Yambe",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.2003",
+    "district_id": "91.71.04",
+    "name": "Skouw Sae",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.2006",
+    "district_id": "91.71.04",
+    "name": "Holtekamp",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.2007",
+    "district_id": "91.71.04",
+    "name": "Koya Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.04.2008",
+    "district_id": "91.71.04",
+    "name": "Mosso",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.05.1001",
+    "district_id": "91.71.05",
+    "name": "Hedam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.05.1002",
+    "district_id": "91.71.05",
+    "name": "Waena",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.05.1004",
+    "district_id": "91.71.05",
+    "name": "Yabansai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.05.2003",
+    "district_id": "91.71.05",
+    "name": "Yoka",
+    "type": "DESA"
+  },
+  {
+    "id": "91.71.05.2005",
+    "district_id": "91.71.05",
+    "name": "Waena",
+    "type": "DESA"
+  }
+]

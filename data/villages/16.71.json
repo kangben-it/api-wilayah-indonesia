@@ -1,0 +1,644 @@
+[
+  {
+    "id": "16.71.01.1001",
+    "district_id": "16.71.01",
+    "name": "Tiga-puluh-lima Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1002",
+    "district_id": "16.71.01",
+    "name": "Tiga-puluh-dua Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1003",
+    "district_id": "16.71.01",
+    "name": "Tiga-puluh Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1004",
+    "district_id": "16.71.01",
+    "name": "Dua-puluh-sembilan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1005",
+    "district_id": "16.71.01",
+    "name": "Dua-puluh-delapan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1006",
+    "district_id": "16.71.01",
+    "name": "Dua-puluh-tujuh Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.01.1007",
+    "district_id": "16.71.01",
+    "name": "Kemangmanis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.02.1002",
+    "district_id": "16.71.02",
+    "name": "Satu Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.02.1003",
+    "district_id": "16.71.02",
+    "name": "Dua Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.02.1004",
+    "district_id": "16.71.02",
+    "name": "Tiga Empat Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.02.1005",
+    "district_id": "16.71.02",
+    "name": "Lima Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.02.1006",
+    "district_id": "16.71.02",
+    "name": "Tujuh Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1001",
+    "district_id": "16.71.03",
+    "name": "Sebelas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1002",
+    "district_id": "16.71.03",
+    "name": "Dua-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1003",
+    "district_id": "16.71.03",
+    "name": "Tiga-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1004",
+    "district_id": "16.71.03",
+    "name": "Empat-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1005",
+    "district_id": "16.71.03",
+    "name": "Enam-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1006",
+    "district_id": "16.71.03",
+    "name": "Tanggatakat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.03.1007",
+    "district_id": "16.71.03",
+    "name": "Sentosa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1001",
+    "district_id": "16.71.04",
+    "name": "Bukitlama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1002",
+    "district_id": "16.71.04",
+    "name": "Lorokpakjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1003",
+    "district_id": "16.71.04",
+    "name": "Dua-puluh-enam Ilir Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1004",
+    "district_id": "16.71.04",
+    "name": "Siringagung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1005",
+    "district_id": "16.71.04",
+    "name": "Demang-Lebardaun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.04.1006",
+    "district_id": "16.71.04",
+    "name": "Bukitbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1001",
+    "district_id": "16.71.05",
+    "name": "Delapan-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1002",
+    "district_id": "16.71.05",
+    "name": "Enam-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1003",
+    "district_id": "16.71.05",
+    "name": "Tiga-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1004",
+    "district_id": "16.71.05",
+    "name": "Empat-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1005",
+    "district_id": "16.71.05",
+    "name": "Lima-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1006",
+    "district_id": "16.71.05",
+    "name": "Tujuh-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1007",
+    "district_id": "16.71.05",
+    "name": "Dua-puluh Ilir Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1008",
+    "district_id": "16.71.05",
+    "name": "Dua-puluh Ilir Empat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1009",
+    "district_id": "16.71.05",
+    "name": "Dua-puluh Ilir Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1010",
+    "district_id": "16.71.05",
+    "name": "Sungaipangeran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.05.1011",
+    "district_id": "16.71.05",
+    "name": "Kepandean-Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1005",
+    "district_id": "16.71.06",
+    "name": "Lima Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1006",
+    "district_id": "16.71.06",
+    "name": "Tiga Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1007",
+    "district_id": "16.71.06",
+    "name": "Satu Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1008",
+    "district_id": "16.71.06",
+    "name": "Dua Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1009",
+    "district_id": "16.71.06",
+    "name": "Lawangkidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.06.1012",
+    "district_id": "16.71.06",
+    "name": "Sungaibuah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1002",
+    "district_id": "16.71.07",
+    "name": "Talangbetutu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1004",
+    "district_id": "16.71.07",
+    "name": "Sukajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1005",
+    "district_id": "16.71.07",
+    "name": "Sukarami",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1007",
+    "district_id": "16.71.07",
+    "name": "Kebunbunga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1009",
+    "district_id": "16.71.07",
+    "name": "Sukabangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1010",
+    "district_id": "16.71.07",
+    "name": "Talangjambe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.07.1011",
+    "district_id": "16.71.07",
+    "name": "Sukodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.08.1001",
+    "district_id": "16.71.08",
+    "name": "Sukamaju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.08.1002",
+    "district_id": "16.71.08",
+    "name": "Sako",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.08.1006",
+    "district_id": "16.71.08",
+    "name": "Sialang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.08.1007",
+    "district_id": "16.71.08",
+    "name": "Sako Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1001",
+    "district_id": "16.71.09",
+    "name": "Dua-puluh Ilir Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1002",
+    "district_id": "16.71.09",
+    "name": "Ario Kemuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1003",
+    "district_id": "16.71.09",
+    "name": "Sekipjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1004",
+    "district_id": "16.71.09",
+    "name": "Pahlawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1005",
+    "district_id": "16.71.09",
+    "name": "Pipareja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.09.1006",
+    "district_id": "16.71.09",
+    "name": "Talangaman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.10.1001",
+    "district_id": "16.71.10",
+    "name": "Bukitsangkal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.10.1002",
+    "district_id": "16.71.10",
+    "name": "Kalidoni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.10.1003",
+    "district_id": "16.71.10",
+    "name": "Sungaiselayur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.10.1004",
+    "district_id": "16.71.10",
+    "name": "Sungaiselincah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.10.1005",
+    "district_id": "16.71.10",
+    "name": "Sungailais",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1001",
+    "district_id": "16.71.11",
+    "name": "Sembilan-belas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1002",
+    "district_id": "16.71.11",
+    "name": "Dua-puluh-dua Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1003",
+    "district_id": "16.71.11",
+    "name": "Dua-puluh-tiga Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1004",
+    "district_id": "16.71.11",
+    "name": "Dua-puluh-empat Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1005",
+    "district_id": "16.71.11",
+    "name": "Dua-puluh-enam Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.11.1006",
+    "district_id": "16.71.11",
+    "name": "Talangsemut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1001",
+    "district_id": "16.71.12",
+    "name": "Gandus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1002",
+    "district_id": "16.71.12",
+    "name": "Karanganyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1003",
+    "district_id": "16.71.12",
+    "name": "Tiga-puluh-enam Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1004",
+    "district_id": "16.71.12",
+    "name": "Karangjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1005",
+    "district_id": "16.71.12",
+    "name": "Pulokerto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1001",
+    "district_id": "16.71.13",
+    "name": "Kemasrindo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1002",
+    "district_id": "16.71.13",
+    "name": "Kemangagung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1003",
+    "district_id": "16.71.13",
+    "name": "Keramasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1004",
+    "district_id": "16.71.13",
+    "name": "Kertapati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1005",
+    "district_id": "16.71.13",
+    "name": "Karyajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.13.1006",
+    "district_id": "16.71.13",
+    "name": "Oganbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1001",
+    "district_id": "16.71.14",
+    "name": "Plaju Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1002",
+    "district_id": "16.71.14",
+    "name": "Plaju Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1003",
+    "district_id": "16.71.14",
+    "name": "Plaju Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1004",
+    "district_id": "16.71.14",
+    "name": "Baguskuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1005",
+    "district_id": "16.71.14",
+    "name": "Komperta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1006",
+    "district_id": "16.71.14",
+    "name": "Talangputri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1007",
+    "district_id": "16.71.14",
+    "name": "Talangbubuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.15.1001",
+    "district_id": "16.71.15",
+    "name": "Alang-Alang Lebar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.15.1002",
+    "district_id": "16.71.15",
+    "name": "Srijaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.15.1003",
+    "district_id": "16.71.15",
+    "name": "Talangkelapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.15.1004",
+    "district_id": "16.71.15",
+    "name": "Karyabaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.16.1001",
+    "district_id": "16.71.16",
+    "name": "Srimulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.16.1002",
+    "district_id": "16.71.16",
+    "name": "Sukamulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.16.1003",
+    "district_id": "16.71.16",
+    "name": "Lebung-Gajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.16.1005",
+    "district_id": "16.71.16",
+    "name": "Karyamulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1001",
+    "district_id": "16.71.17",
+    "name": "Delapan Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1002",
+    "district_id": "16.71.17",
+    "name": "Sembilan Sepuluh Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1003",
+    "district_id": "16.71.17",
+    "name": "Lima-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1004",
+    "district_id": "16.71.17",
+    "name": "Silaberanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1005",
+    "district_id": "16.71.17",
+    "name": "Tuankentang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1001",
+    "district_id": "16.71.18",
+    "name": "Delapan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1002",
+    "district_id": "16.71.18",
+    "name": "Sembilan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1003",
+    "district_id": "16.71.18",
+    "name": "Sepuluh Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1004",
+    "district_id": "16.71.18",
+    "name": "Sebelas Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1005",
+    "district_id": "16.71.18",
+    "name": "Kutobatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.18.1006",
+    "district_id": "16.71.18",
+    "name": "Duku",
+    "type": "KELURAHAN"
+  }
+]

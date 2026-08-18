@@ -1,0 +1,968 @@
+[
+  {
+    "id": "62.06.01.2001",
+    "district_id": "62.06.01",
+    "name": "Galinggang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2002",
+    "district_id": "62.06.01",
+    "name": "Tampelas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2003",
+    "district_id": "62.06.01",
+    "name": "Telaga",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2004",
+    "district_id": "62.06.01",
+    "name": "Parupuk",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2005",
+    "district_id": "62.06.01",
+    "name": "Karuing",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2006",
+    "district_id": "62.06.01",
+    "name": "Jahanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2007",
+    "district_id": "62.06.01",
+    "name": "Tumbang Runen",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2008",
+    "district_id": "62.06.01",
+    "name": "Baun Bango",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2009",
+    "district_id": "62.06.01",
+    "name": "Asem Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.1003",
+    "district_id": "62.06.02",
+    "name": "Kasongan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.02.1004",
+    "district_id": "62.06.02",
+    "name": "Kasongan Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.02.2001",
+    "district_id": "62.06.02",
+    "name": "Tewang Kadamba",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.2002",
+    "district_id": "62.06.02",
+    "name": "Tumbang Liting",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.2005",
+    "district_id": "62.06.02",
+    "name": "Talian Kereng",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.2006",
+    "district_id": "62.06.02",
+    "name": "Banut Kalanaman",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.2007",
+    "district_id": "62.06.02",
+    "name": "Talangkah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.02.2008",
+    "district_id": "62.06.02",
+    "name": "Hampalit",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.1006",
+    "district_id": "62.06.03",
+    "name": "Pendahara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.03.2001",
+    "district_id": "62.06.03",
+    "name": "Tewang Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2002",
+    "district_id": "62.06.03",
+    "name": "Hapalam",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2003",
+    "district_id": "62.06.03",
+    "name": "Tewang Rangas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2004",
+    "district_id": "62.06.03",
+    "name": "Bangkuang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2005",
+    "district_id": "62.06.03",
+    "name": "Tarusan Danum",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2007",
+    "district_id": "62.06.03",
+    "name": "Tumbang Tarusan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2008",
+    "district_id": "62.06.03",
+    "name": "Tewang Rangkang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2009",
+    "district_id": "62.06.03",
+    "name": "Tewang Manyangen",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.03.2010",
+    "district_id": "62.06.03",
+    "name": "Karya Unggang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2001",
+    "district_id": "62.06.04",
+    "name": "Tewang Papari",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2002",
+    "district_id": "62.06.04",
+    "name": "Tewang Darayu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2003",
+    "district_id": "62.06.04",
+    "name": "Buntut Bali",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2004",
+    "district_id": "62.06.04",
+    "name": "Kuluk Bali",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2005",
+    "district_id": "62.06.04",
+    "name": "Manduing Taheta",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2006",
+    "district_id": "62.06.04",
+    "name": "Manduing Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2007",
+    "district_id": "62.06.04",
+    "name": "Tumbang Banjang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2008",
+    "district_id": "62.06.04",
+    "name": "Tumbang Lawang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2009",
+    "district_id": "62.06.04",
+    "name": "Dahian Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2010",
+    "district_id": "62.06.04",
+    "name": "Tewang Karangan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2011",
+    "district_id": "62.06.04",
+    "name": "Tumbang Tungku",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2012",
+    "district_id": "62.06.04",
+    "name": "Geragu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2013",
+    "district_id": "62.06.04",
+    "name": "Tumbang Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.04.2014",
+    "district_id": "62.06.04",
+    "name": "Tura",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.1009",
+    "district_id": "62.06.05",
+    "name": "Samba Kahayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.05.2001",
+    "district_id": "62.06.05",
+    "name": "Tumbang Lahang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2002",
+    "district_id": "62.06.05",
+    "name": "Tewang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2003",
+    "district_id": "62.06.05",
+    "name": "Petak Puti",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2004",
+    "district_id": "62.06.05",
+    "name": "Telok",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2005",
+    "district_id": "62.06.05",
+    "name": "Samba Danum",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2006",
+    "district_id": "62.06.05",
+    "name": "Samba Bakumpai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2007",
+    "district_id": "62.06.05",
+    "name": "Samba Katung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2008",
+    "district_id": "62.06.05",
+    "name": "Napu Sahur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2010",
+    "district_id": "62.06.05",
+    "name": "Batu Badinding",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2011",
+    "district_id": "62.06.05",
+    "name": "Rantau Asem",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2012",
+    "district_id": "62.06.05",
+    "name": "Mirah Kalanaman",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2013",
+    "district_id": "62.06.05",
+    "name": "Tumbang Kalemei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2014",
+    "district_id": "62.06.05",
+    "name": "Tumbang Marak",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2015",
+    "district_id": "62.06.05",
+    "name": "Tumbang Hangei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.05.2016",
+    "district_id": "62.06.05",
+    "name": "Tumbang Pariyei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2001",
+    "district_id": "62.06.06",
+    "name": "Dehes",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2002",
+    "district_id": "62.06.06",
+    "name": "Tumbang Labehu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2003",
+    "district_id": "62.06.06",
+    "name": "Tumbang Kaman",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2004",
+    "district_id": "62.06.06",
+    "name": "Tumbang Manggo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2005",
+    "district_id": "62.06.06",
+    "name": "Kamanto",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2006",
+    "district_id": "62.06.06",
+    "name": "Kuluk Habuhus",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2007",
+    "district_id": "62.06.06",
+    "name": "Tumbang Kanei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2008",
+    "district_id": "62.06.06",
+    "name": "Tumbang Taranei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2009",
+    "district_id": "62.06.06",
+    "name": "Tumbang Kawei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2010",
+    "district_id": "62.06.06",
+    "name": "Tumbang Mangara",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2011",
+    "district_id": "62.06.06",
+    "name": "Tumbang Pangka",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2012",
+    "district_id": "62.06.06",
+    "name": "Tumbang Atei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2020",
+    "district_id": "62.06.06",
+    "name": "Daya Manunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.06.2021",
+    "district_id": "62.06.06",
+    "name": "Rantau Bangkiang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2001",
+    "district_id": "62.06.07",
+    "name": "Tumbang Mandurei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2002",
+    "district_id": "62.06.07",
+    "name": "Tumbang Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2003",
+    "district_id": "62.06.07",
+    "name": "Buntut Leleng",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2004",
+    "district_id": "62.06.07",
+    "name": "Kuluk Leleng",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2005",
+    "district_id": "62.06.07",
+    "name": "Sabaung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2006",
+    "district_id": "62.06.07",
+    "name": "Tumbang Malawan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2007",
+    "district_id": "62.06.07",
+    "name": "Tumbang Taei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2008",
+    "district_id": "62.06.07",
+    "name": "Rangan Surai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2009",
+    "district_id": "62.06.07",
+    "name": "Tumbang Hiran",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2010",
+    "district_id": "62.06.07",
+    "name": "Tumbang Pahanei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2011",
+    "district_id": "62.06.07",
+    "name": "Tumbang Dakei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2012",
+    "district_id": "62.06.07",
+    "name": "Rangan Burih",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2013",
+    "district_id": "62.06.07",
+    "name": "Tumbang Bemban",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2014",
+    "district_id": "62.06.07",
+    "name": "Tumbang Lambi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2015",
+    "district_id": "62.06.07",
+    "name": "Rangan Tangko",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2016",
+    "district_id": "62.06.07",
+    "name": "Tumbang Tundu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2017",
+    "district_id": "62.06.07",
+    "name": "Batu Panahan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.07.2018",
+    "district_id": "62.06.07",
+    "name": "Tumbang Tabulus",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.1014",
+    "district_id": "62.06.08",
+    "name": "Tumbang Sanamang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.08.2001",
+    "district_id": "62.06.08",
+    "name": "Kiham Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2002",
+    "district_id": "62.06.08",
+    "name": "Tumbang Kabayan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2003",
+    "district_id": "62.06.08",
+    "name": "Rangan Kawit",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2004",
+    "district_id": "62.06.08",
+    "name": "Dehes Asem",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2005",
+    "district_id": "62.06.08",
+    "name": "Kuluk Sapangi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2006",
+    "district_id": "62.06.08",
+    "name": "Tumbang Kuai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2007",
+    "district_id": "62.06.08",
+    "name": "Tumbang Salaman",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2008",
+    "district_id": "62.06.08",
+    "name": "Rantau Puka",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2009",
+    "district_id": "62.06.08",
+    "name": "Rantau Bahai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2010",
+    "district_id": "62.06.08",
+    "name": "Rangan Ranjing",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2011",
+    "district_id": "62.06.08",
+    "name": "Tumbang Labaning",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2012",
+    "district_id": "62.06.08",
+    "name": "Batu Bango",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2013",
+    "district_id": "62.06.08",
+    "name": "Tumbang Hangei II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2015",
+    "district_id": "62.06.08",
+    "name": "Sei Nanjan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2016",
+    "district_id": "62.06.08",
+    "name": "Tumbang Jiga",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2017",
+    "district_id": "62.06.08",
+    "name": "Tumbang Mangketai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2019",
+    "district_id": "62.06.08",
+    "name": "Tumbang Mahop",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2020",
+    "district_id": "62.06.08",
+    "name": "Tumbang Sabetung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2030",
+    "district_id": "62.06.08",
+    "name": "Penda Tanggaring Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2031",
+    "district_id": "62.06.08",
+    "name": "Penda Tanggaring Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2032",
+    "district_id": "62.06.08",
+    "name": "Teluk Tampang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.08.2033",
+    "district_id": "62.06.08",
+    "name": "Tumbang Manangei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2001",
+    "district_id": "62.06.09",
+    "name": "Mendawai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2002",
+    "district_id": "62.06.09",
+    "name": "Teluk Sebulu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2003",
+    "district_id": "62.06.09",
+    "name": "Kampung Melayu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2004",
+    "district_id": "62.06.09",
+    "name": "Tewang Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2005",
+    "district_id": "62.06.09",
+    "name": "Perigi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2006",
+    "district_id": "62.06.09",
+    "name": "Mekar Tani",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.09.2007",
+    "district_id": "62.06.09",
+    "name": "Tumbang Bulan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.1001",
+    "district_id": "62.06.10",
+    "name": "Pagatan Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.10.1002",
+    "district_id": "62.06.10",
+    "name": "Pagatan Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.06.10.2003",
+    "district_id": "62.06.10",
+    "name": "Kampung Keramat",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2004",
+    "district_id": "62.06.10",
+    "name": "Kampung Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2005",
+    "district_id": "62.06.10",
+    "name": "Jaya Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2006",
+    "district_id": "62.06.10",
+    "name": "Subur Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2007",
+    "district_id": "62.06.10",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2008",
+    "district_id": "62.06.10",
+    "name": "Bangun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2009",
+    "district_id": "62.06.10",
+    "name": "Setia Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2010",
+    "district_id": "62.06.10",
+    "name": "Singam Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2011",
+    "district_id": "62.06.10",
+    "name": "Sebangau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2012",
+    "district_id": "62.06.10",
+    "name": "Sungai Kaki",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2013",
+    "district_id": "62.06.10",
+    "name": "Selat Baning",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2014",
+    "district_id": "62.06.10",
+    "name": "Makmur Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2015",
+    "district_id": "62.06.10",
+    "name": "Bumi Subur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.10.2016",
+    "district_id": "62.06.10",
+    "name": "Bakung Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2001",
+    "district_id": "62.06.11",
+    "name": "Talingke",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2002",
+    "district_id": "62.06.11",
+    "name": "Hiyang Bana",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2003",
+    "district_id": "62.06.11",
+    "name": "Petak Bahandang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2004",
+    "district_id": "62.06.11",
+    "name": "Handiwung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2005",
+    "district_id": "62.06.11",
+    "name": "Tumbang Panggo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2006",
+    "district_id": "62.06.11",
+    "name": "Tewang Tampang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2007",
+    "district_id": "62.06.11",
+    "name": "Luwuk Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.11.2008",
+    "district_id": "62.06.11",
+    "name": "Luwuk Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2001",
+    "district_id": "62.06.12",
+    "name": "Tumbang Baraoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2002",
+    "district_id": "62.06.12",
+    "name": "Tumbang Jala",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2003",
+    "district_id": "62.06.12",
+    "name": "Batu Badak",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2004",
+    "district_id": "62.06.12",
+    "name": "Batu Tukan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2005",
+    "district_id": "62.06.12",
+    "name": "Tumbang Tangoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2006",
+    "district_id": "62.06.12",
+    "name": "Nusa Kutau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.12.2007",
+    "district_id": "62.06.12",
+    "name": "Tumbang Habangoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2001",
+    "district_id": "62.06.13",
+    "name": "Tumbang Gaei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2002",
+    "district_id": "62.06.13",
+    "name": "Tumbang Kataei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2003",
+    "district_id": "62.06.13",
+    "name": "Tumbang Karuei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2004",
+    "district_id": "62.06.13",
+    "name": "Tumbang Dahuei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2005",
+    "district_id": "62.06.13",
+    "name": "Rantau Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2006",
+    "district_id": "62.06.13",
+    "name": "Rangan Rondan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2007",
+    "district_id": "62.06.13",
+    "name": "Rangan Bahekang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2008",
+    "district_id": "62.06.13",
+    "name": "Tumbang Kajamei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2009",
+    "district_id": "62.06.13",
+    "name": "Tumbang Kaburai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2010",
+    "district_id": "62.06.13",
+    "name": "Tanjung Batik",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.13.2011",
+    "district_id": "62.06.13",
+    "name": "Penda Nange",
+    "type": "DESA"
+  }
+]

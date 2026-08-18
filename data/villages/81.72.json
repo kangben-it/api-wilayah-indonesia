@@ -1,0 +1,182 @@
+[
+  {
+    "id": "81.72.01.2001",
+    "district_id": "81.72.01",
+    "name": "Fiditan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2002",
+    "district_id": "81.72.01",
+    "name": "Ngadi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2003",
+    "district_id": "81.72.01",
+    "name": "Dullah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2004",
+    "district_id": "81.72.01",
+    "name": "Labetawi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2005",
+    "district_id": "81.72.01",
+    "name": "Tamedan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2006",
+    "district_id": "81.72.01",
+    "name": "Ohoitahit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2007",
+    "district_id": "81.72.01",
+    "name": "Ohoitel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2008",
+    "district_id": "81.72.01",
+    "name": "Dullah Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.02.1003",
+    "district_id": "81.72.02",
+    "name": "Ketsoblak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.1004",
+    "district_id": "81.72.02",
+    "name": "Masrum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.1005",
+    "district_id": "81.72.02",
+    "name": "Lodar El",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.2001",
+    "district_id": "81.72.02",
+    "name": "Tual",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.02.2002",
+    "district_id": "81.72.02",
+    "name": "Taar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.03.2001",
+    "district_id": "81.72.03",
+    "name": "Tam Ngurhir",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.03.2002",
+    "district_id": "81.72.03",
+    "name": "Tayando Langgiar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.03.2003",
+    "district_id": "81.72.03",
+    "name": "Tayando Yamtel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.03.2004",
+    "district_id": "81.72.03",
+    "name": "Tayando Ohoiel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.03.2005",
+    "district_id": "81.72.03",
+    "name": "Tayando Yamru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2001",
+    "district_id": "81.72.04",
+    "name": "Tubyal",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2002",
+    "district_id": "81.72.04",
+    "name": "Kaimear",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2004",
+    "district_id": "81.72.04",
+    "name": "Lokwirin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2005",
+    "district_id": "81.72.04",
+    "name": "Finualen",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2012",
+    "district_id": "81.72.04",
+    "name": "Sermaf",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2001",
+    "district_id": "81.72.05",
+    "name": "Kanara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2002",
+    "district_id": "81.72.05",
+    "name": "Warkar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2003",
+    "district_id": "81.72.05",
+    "name": "Yapas",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2004",
+    "district_id": "81.72.05",
+    "name": "Rumoin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2005",
+    "district_id": "81.72.05",
+    "name": "Hirit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2006",
+    "district_id": "81.72.05",
+    "name": "Tiflen",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2007",
+    "district_id": "81.72.05",
+    "name": "Niela",
+    "type": "DESA"
+  }
+]

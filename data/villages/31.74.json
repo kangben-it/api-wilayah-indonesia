@@ -1,0 +1,392 @@
+[
+  {
+    "id": "31.74.01.1001",
+    "district_id": "31.74.01",
+    "name": "Tebet Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1002",
+    "district_id": "31.74.01",
+    "name": "Tebet Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1003",
+    "district_id": "31.74.01",
+    "name": "Menteng Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1004",
+    "district_id": "31.74.01",
+    "name": "Kebon Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1005",
+    "district_id": "31.74.01",
+    "name": "Bukit Duri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1006",
+    "district_id": "31.74.01",
+    "name": "Manggarai Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1007",
+    "district_id": "31.74.01",
+    "name": "Manggarai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1001",
+    "district_id": "31.74.02",
+    "name": "Setia Budi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1002",
+    "district_id": "31.74.02",
+    "name": "Karet Semanggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1003",
+    "district_id": "31.74.02",
+    "name": "Karet Kuningan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1004",
+    "district_id": "31.74.02",
+    "name": "Karet",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1005",
+    "district_id": "31.74.02",
+    "name": "Menteng Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1006",
+    "district_id": "31.74.02",
+    "name": "Pasar Manggis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1007",
+    "district_id": "31.74.02",
+    "name": "Guntur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.02.1008",
+    "district_id": "31.74.02",
+    "name": "Kuningan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.03.1001",
+    "district_id": "31.74.03",
+    "name": "Mampang Prapatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.03.1002",
+    "district_id": "31.74.03",
+    "name": "Bangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.03.1003",
+    "district_id": "31.74.03",
+    "name": "Pela Mampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.03.1004",
+    "district_id": "31.74.03",
+    "name": "Tegal Parang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.03.1005",
+    "district_id": "31.74.03",
+    "name": "Kuningan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1001",
+    "district_id": "31.74.04",
+    "name": "Pasar Minggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1002",
+    "district_id": "31.74.04",
+    "name": "Jati Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1003",
+    "district_id": "31.74.04",
+    "name": "Cilandak Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1004",
+    "district_id": "31.74.04",
+    "name": "Ragunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1005",
+    "district_id": "31.74.04",
+    "name": "Pejaten Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1006",
+    "district_id": "31.74.04",
+    "name": "Pejaten Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.04.1007",
+    "district_id": "31.74.04",
+    "name": "Kebagusan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1001",
+    "district_id": "31.74.05",
+    "name": "Kebayoran Lama Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1002",
+    "district_id": "31.74.05",
+    "name": "Pondok Pinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1003",
+    "district_id": "31.74.05",
+    "name": "Cipulir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1004",
+    "district_id": "31.74.05",
+    "name": "Grogol Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1005",
+    "district_id": "31.74.05",
+    "name": "Grogol Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.05.1006",
+    "district_id": "31.74.05",
+    "name": "Kebayoran Lama Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.06.1001",
+    "district_id": "31.74.06",
+    "name": "Cilandak Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.06.1002",
+    "district_id": "31.74.06",
+    "name": "Lebak Bulus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.06.1003",
+    "district_id": "31.74.06",
+    "name": "Pondok Labu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.06.1004",
+    "district_id": "31.74.06",
+    "name": "Gandaria Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.06.1005",
+    "district_id": "31.74.06",
+    "name": "Cipete Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1001",
+    "district_id": "31.74.07",
+    "name": "Melawai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1002",
+    "district_id": "31.74.07",
+    "name": "Gunung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1003",
+    "district_id": "31.74.07",
+    "name": "Kramat Pela",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1004",
+    "district_id": "31.74.07",
+    "name": "Selong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1005",
+    "district_id": "31.74.07",
+    "name": "Rawa Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1006",
+    "district_id": "31.74.07",
+    "name": "Senayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1007",
+    "district_id": "31.74.07",
+    "name": "Pulo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1008",
+    "district_id": "31.74.07",
+    "name": "Petogogan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1009",
+    "district_id": "31.74.07",
+    "name": "Gandaria Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.07.1010",
+    "district_id": "31.74.07",
+    "name": "Cipete Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1001",
+    "district_id": "31.74.08",
+    "name": "Pancoran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1002",
+    "district_id": "31.74.08",
+    "name": "Kalibata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1003",
+    "district_id": "31.74.08",
+    "name": "Rawajati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1004",
+    "district_id": "31.74.08",
+    "name": "Duren Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1005",
+    "district_id": "31.74.08",
+    "name": "Pengadegan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1006",
+    "district_id": "31.74.08",
+    "name": "Cikoko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1001",
+    "district_id": "31.74.09",
+    "name": "Jagakarsa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1002",
+    "district_id": "31.74.09",
+    "name": "Srengseng Sawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1003",
+    "district_id": "31.74.09",
+    "name": "Ciganjur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1004",
+    "district_id": "31.74.09",
+    "name": "Lenteng Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1005",
+    "district_id": "31.74.09",
+    "name": "Tanjung Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.09.1006",
+    "district_id": "31.74.09",
+    "name": "Cipedak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.10.1001",
+    "district_id": "31.74.10",
+    "name": "Pesanggrahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.10.1002",
+    "district_id": "31.74.10",
+    "name": "Bintaro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.10.1003",
+    "district_id": "31.74.10",
+    "name": "Petukangan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.10.1004",
+    "district_id": "31.74.10",
+    "name": "Petukangan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.10.1005",
+    "district_id": "31.74.10",
+    "name": "Ulujami",
+    "type": "KELURAHAN"
+  }
+]

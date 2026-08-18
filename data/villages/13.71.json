@@ -1,0 +1,626 @@
+[
+  {
+    "id": "13.71.01.1001",
+    "district_id": "13.71.01",
+    "name": "Belakang Pondok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1002",
+    "district_id": "13.71.01",
+    "name": "Alang Laweh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1003",
+    "district_id": "13.71.01",
+    "name": "Ranah Parak Rumbio",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1004",
+    "district_id": "13.71.01",
+    "name": "Pasa Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1005",
+    "district_id": "13.71.01",
+    "name": "Batang Arau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1006",
+    "district_id": "13.71.01",
+    "name": "Seberang Palinggam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1007",
+    "district_id": "13.71.01",
+    "name": "Seberang Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1008",
+    "district_id": "13.71.01",
+    "name": "Mata Air",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1009",
+    "district_id": "13.71.01",
+    "name": "Rawang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1010",
+    "district_id": "13.71.01",
+    "name": "Teluk Bayur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1011",
+    "district_id": "13.71.01",
+    "name": "Air Manis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.01.1012",
+    "district_id": "13.71.01",
+    "name": "Bukit Gado-gado",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1001",
+    "district_id": "13.71.02",
+    "name": "Sawahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1002",
+    "district_id": "13.71.02",
+    "name": "Jati Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1003",
+    "district_id": "13.71.02",
+    "name": "Jati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1004",
+    "district_id": "13.71.02",
+    "name": "Sawahan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1005",
+    "district_id": "13.71.02",
+    "name": "Simpang Haru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1006",
+    "district_id": "13.71.02",
+    "name": "Kubu Marapalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1007",
+    "district_id": "13.71.02",
+    "name": "Andalas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1008",
+    "district_id": "13.71.02",
+    "name": "Kubu Dalam Parak Karakah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1009",
+    "district_id": "13.71.02",
+    "name": "Parak Gadang Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.02.1010",
+    "district_id": "13.71.02",
+    "name": "Ganting Parak Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1001",
+    "district_id": "13.71.03",
+    "name": "Flamboyan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1002",
+    "district_id": "13.71.03",
+    "name": "Rimbo Kaluang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1003",
+    "district_id": "13.71.03",
+    "name": "Ujung Gurun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1004",
+    "district_id": "13.71.03",
+    "name": "Purus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1005",
+    "district_id": "13.71.03",
+    "name": "Padang Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1006",
+    "district_id": "13.71.03",
+    "name": "Olo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1007",
+    "district_id": "13.71.03",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1008",
+    "district_id": "13.71.03",
+    "name": "Belakang Tangsi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1009",
+    "district_id": "13.71.03",
+    "name": "Kampung Pondok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.03.1010",
+    "district_id": "13.71.03",
+    "name": "Berok Nipah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1001",
+    "district_id": "13.71.04",
+    "name": "Air Tawar Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1002",
+    "district_id": "13.71.04",
+    "name": "Air Tawar Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1003",
+    "district_id": "13.71.04",
+    "name": "Ulak Karang Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1004",
+    "district_id": "13.71.04",
+    "name": "Ulak Karang Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1005",
+    "district_id": "13.71.04",
+    "name": "Lolong Belanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1006",
+    "district_id": "13.71.04",
+    "name": "Alai Parak Kopi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.04.1007",
+    "district_id": "13.71.04",
+    "name": "Gunung Pangilun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1001",
+    "district_id": "13.71.05",
+    "name": "Bungus Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1002",
+    "district_id": "13.71.05",
+    "name": "Bungus Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1003",
+    "district_id": "13.71.05",
+    "name": "Bungus Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1004",
+    "district_id": "13.71.05",
+    "name": "Teluk Kabung Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1005",
+    "district_id": "13.71.05",
+    "name": "Teluk Kabung Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.05.1006",
+    "district_id": "13.71.05",
+    "name": "Teluk Kabung Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1001",
+    "district_id": "13.71.06",
+    "name": "Cangkeh Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1002",
+    "district_id": "13.71.06",
+    "name": "Kampung Baru Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1003",
+    "district_id": "13.71.06",
+    "name": "Tanah Sirah Piai Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1004",
+    "district_id": "13.71.06",
+    "name": "Tanjung Saba Pitameh Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1005",
+    "district_id": "13.71.06",
+    "name": "Lubuk Begalung Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1006",
+    "district_id": "13.71.06",
+    "name": "Gurun Laweh Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1007",
+    "district_id": "13.71.06",
+    "name": "Tanjung Aua Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1008",
+    "district_id": "13.71.06",
+    "name": "Koto Baru Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1009",
+    "district_id": "13.71.06",
+    "name": "Banuaran Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1010",
+    "district_id": "13.71.06",
+    "name": "Parak Laweh Pulau Aia Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1011",
+    "district_id": "13.71.06",
+    "name": "Batung Taba Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1012",
+    "district_id": "13.71.06",
+    "name": "Pegambiran Ampalu Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1013",
+    "district_id": "13.71.06",
+    "name": "Pampangan Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1014",
+    "district_id": "13.71.06",
+    "name": "Gates Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.06.1015",
+    "district_id": "13.71.06",
+    "name": "Kampung Jua Nan XX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1001",
+    "district_id": "13.71.07",
+    "name": "Indarung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1002",
+    "district_id": "13.71.07",
+    "name": "Padang Besi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1003",
+    "district_id": "13.71.07",
+    "name": "Batu Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1004",
+    "district_id": "13.71.07",
+    "name": "Banda Buek",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1005",
+    "district_id": "13.71.07",
+    "name": "Koto Lalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1006",
+    "district_id": "13.71.07",
+    "name": "Baringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.07.1007",
+    "district_id": "13.71.07",
+    "name": "Tarantang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1001",
+    "district_id": "13.71.08",
+    "name": "Limau Manis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1002",
+    "district_id": "13.71.08",
+    "name": "Koto Lua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1003",
+    "district_id": "13.71.08",
+    "name": "Limau Manis Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1004",
+    "district_id": "13.71.08",
+    "name": "Piai Tangah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1005",
+    "district_id": "13.71.08",
+    "name": "Cupak Tangah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1006",
+    "district_id": "13.71.08",
+    "name": "Pisang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1007",
+    "district_id": "13.71.08",
+    "name": "Binuang Kampung Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1008",
+    "district_id": "13.71.08",
+    "name": "Kapalo Koto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.08.1009",
+    "district_id": "13.71.08",
+    "name": "Lambung Bukit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1001",
+    "district_id": "13.71.09",
+    "name": "Pasar Ambacang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1002",
+    "district_id": "13.71.09",
+    "name": "Anduring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1003",
+    "district_id": "13.71.09",
+    "name": "Lubuk Lintah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1004",
+    "district_id": "13.71.09",
+    "name": "Ampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1005",
+    "district_id": "13.71.09",
+    "name": "Kalumbuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1006",
+    "district_id": "13.71.09",
+    "name": "Korong Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1007",
+    "district_id": "13.71.09",
+    "name": "Kuranji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1008",
+    "district_id": "13.71.09",
+    "name": "Gunung Sarik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.09.1009",
+    "district_id": "13.71.09",
+    "name": "Sungai Sapih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1001",
+    "district_id": "13.71.10",
+    "name": "Surau Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1002",
+    "district_id": "13.71.10",
+    "name": "Kampung Olo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1003",
+    "district_id": "13.71.10",
+    "name": "Kurao Pagang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1004",
+    "district_id": "13.71.10",
+    "name": "Gurun Laweh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1005",
+    "district_id": "13.71.10",
+    "name": "Tabiang Banda Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1006",
+    "district_id": "13.71.10",
+    "name": "Kampung Lapai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1001",
+    "district_id": "13.71.11",
+    "name": "Balai Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1002",
+    "district_id": "13.71.11",
+    "name": "Lubuk Minturun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1003",
+    "district_id": "13.71.11",
+    "name": "Aie Pacah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1004",
+    "district_id": "13.71.11",
+    "name": "Dadok Tunggul Hitam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1005",
+    "district_id": "13.71.11",
+    "name": "Koto Panjang Ikua Koto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1006",
+    "district_id": "13.71.11",
+    "name": "Koto Pulai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1007",
+    "district_id": "13.71.11",
+    "name": "Batipuh Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1008",
+    "district_id": "13.71.11",
+    "name": "Padang Sarai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1009",
+    "district_id": "13.71.11",
+    "name": "Lubuk Buaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1010",
+    "district_id": "13.71.11",
+    "name": "Batang Kabung Ganting",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1011",
+    "district_id": "13.71.11",
+    "name": "Bungo Pasang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1012",
+    "district_id": "13.71.11",
+    "name": "Parupuk Tabing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.11.1013",
+    "district_id": "13.71.11",
+    "name": "Pasie Nan Tigo",
+    "type": "KELURAHAN"
+  }
+]

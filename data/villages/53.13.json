@@ -1,0 +1,908 @@
+[
+  {
+    "id": "53.13.01.2001",
+    "district_id": "53.13.01",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2002",
+    "district_id": "53.13.01",
+    "name": "Duawutun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2003",
+    "district_id": "53.13.01",
+    "name": "Atawai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2004",
+    "district_id": "53.13.01",
+    "name": "Lusiduawutun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2005",
+    "district_id": "53.13.01",
+    "name": "Labalimut",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2006",
+    "district_id": "53.13.01",
+    "name": "Ileboli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2007",
+    "district_id": "53.13.01",
+    "name": "Babokerong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2008",
+    "district_id": "53.13.01",
+    "name": "Penikenek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2009",
+    "district_id": "53.13.01",
+    "name": "Belabaja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2010",
+    "district_id": "53.13.01",
+    "name": "Lolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2011",
+    "district_id": "53.13.01",
+    "name": "Wuakoreng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2012",
+    "district_id": "53.13.01",
+    "name": "Baobolak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2013",
+    "district_id": "53.13.01",
+    "name": "Tewaowutung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2014",
+    "district_id": "53.13.01",
+    "name": "Boli Bean",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2015",
+    "district_id": "53.13.01",
+    "name": "Warawatung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2016",
+    "district_id": "53.13.01",
+    "name": "Idalolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2017",
+    "district_id": "53.13.01",
+    "name": "Ria Bao",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.01.2018",
+    "district_id": "53.13.01",
+    "name": "Liwulagang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2001",
+    "district_id": "53.13.02",
+    "name": "Atakore",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2002",
+    "district_id": "53.13.02",
+    "name": "Lusilame",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2004",
+    "district_id": "53.13.02",
+    "name": "Lerek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2005",
+    "district_id": "53.13.02",
+    "name": "Nubahaeraka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2006",
+    "district_id": "53.13.02",
+    "name": "Tubukrajan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2007",
+    "district_id": "53.13.02",
+    "name": "Lebaata",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2008",
+    "district_id": "53.13.02",
+    "name": "Ile Kimok",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2009",
+    "district_id": "53.13.02",
+    "name": "Katakeja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2010",
+    "district_id": "53.13.02",
+    "name": "Ile Kerbau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2011",
+    "district_id": "53.13.02",
+    "name": "Dulir",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2012",
+    "district_id": "53.13.02",
+    "name": "Dori Pewut",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2013",
+    "district_id": "53.13.02",
+    "name": "Nuba Atalojo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2014",
+    "district_id": "53.13.02",
+    "name": "Nogo Doni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2015",
+    "district_id": "53.13.02",
+    "name": "Nubaboli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.02.2016",
+    "district_id": "53.13.02",
+    "name": "Lewogroma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2001",
+    "district_id": "53.13.03",
+    "name": "Kolipadan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2002",
+    "district_id": "53.13.03",
+    "name": "Dulitukan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2003",
+    "district_id": "53.13.03",
+    "name": "Tagawiti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2004",
+    "district_id": "53.13.03",
+    "name": "Waowala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2005",
+    "district_id": "53.13.03",
+    "name": "Amakaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2006",
+    "district_id": "53.13.03",
+    "name": "Bungamuda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2007",
+    "district_id": "53.13.03",
+    "name": "Napasabok",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2012",
+    "district_id": "53.13.03",
+    "name": "Petuntawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2013",
+    "district_id": "53.13.03",
+    "name": "Kolontobo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2014",
+    "district_id": "53.13.03",
+    "name": "Laranwutun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2015",
+    "district_id": "53.13.03",
+    "name": "Watodiri",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2016",
+    "district_id": "53.13.03",
+    "name": "Tanjung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2018",
+    "district_id": "53.13.03",
+    "name": "Muruona",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2022",
+    "district_id": "53.13.03",
+    "name": "Palilolon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2024",
+    "district_id": "53.13.03",
+    "name": "Lamawara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2025",
+    "district_id": "53.13.03",
+    "name": "Beutaran",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.03.2026",
+    "district_id": "53.13.03",
+    "name": "Riangbao",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2001",
+    "district_id": "53.13.04",
+    "name": "Hadakewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2002",
+    "district_id": "53.13.04",
+    "name": "Lamatuka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2003",
+    "district_id": "53.13.04",
+    "name": "Seranggorang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2004",
+    "district_id": "53.13.04",
+    "name": "Lodotodokowa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2005",
+    "district_id": "53.13.04",
+    "name": "Baopana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2006",
+    "district_id": "53.13.04",
+    "name": "Waienga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2007",
+    "district_id": "53.13.04",
+    "name": "Lewoeleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2008",
+    "district_id": "53.13.04",
+    "name": "Dikesare",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2009",
+    "district_id": "53.13.04",
+    "name": "Merdeka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2010",
+    "district_id": "53.13.04",
+    "name": "Lerahinga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2011",
+    "district_id": "53.13.04",
+    "name": "Tapobarang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2012",
+    "district_id": "53.13.04",
+    "name": "Balurebong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2013",
+    "district_id": "53.13.04",
+    "name": "Lamadale",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2014",
+    "district_id": "53.13.04",
+    "name": "Tapolangu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2015",
+    "district_id": "53.13.04",
+    "name": "Lamalela",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2016",
+    "district_id": "53.13.04",
+    "name": "Atakowa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.04.2017",
+    "district_id": "53.13.04",
+    "name": "Banitobo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.1001",
+    "district_id": "53.13.05",
+    "name": "Lewoleba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1002",
+    "district_id": "53.13.05",
+    "name": "Lewoleba Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1003",
+    "district_id": "53.13.05",
+    "name": "Lewoleba Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1004",
+    "district_id": "53.13.05",
+    "name": "Lewoleba Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1015",
+    "district_id": "53.13.05",
+    "name": "Selandoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1016",
+    "district_id": "53.13.05",
+    "name": "Lewoleba Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.1017",
+    "district_id": "53.13.05",
+    "name": "Lewoleba Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.13.05.2006",
+    "district_id": "53.13.05",
+    "name": "Baolangu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2007",
+    "district_id": "53.13.05",
+    "name": "Nubamado",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2008",
+    "district_id": "53.13.05",
+    "name": "Watokobu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2009",
+    "district_id": "53.13.05",
+    "name": "Belobatang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2010",
+    "district_id": "53.13.05",
+    "name": "Waijarang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2011",
+    "district_id": "53.13.05",
+    "name": "Udak Melomata",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2012",
+    "district_id": "53.13.05",
+    "name": "Paubokol",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2013",
+    "district_id": "53.13.05",
+    "name": "Pada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2014",
+    "district_id": "53.13.05",
+    "name": "Lite Ulumado",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2018",
+    "district_id": "53.13.05",
+    "name": "Bakalerek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.05.2019",
+    "district_id": "53.13.05",
+    "name": "Bour",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2001",
+    "district_id": "53.13.06",
+    "name": "Balauring",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2002",
+    "district_id": "53.13.06",
+    "name": "Nilanapo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2003",
+    "district_id": "53.13.06",
+    "name": "Leubatang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2004",
+    "district_id": "53.13.06",
+    "name": "Walangsawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2005",
+    "district_id": "53.13.06",
+    "name": "Mahal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2006",
+    "district_id": "53.13.06",
+    "name": "Aramengi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2007",
+    "district_id": "53.13.06",
+    "name": "Meluwiting",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2008",
+    "district_id": "53.13.06",
+    "name": "Hingalamamengi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2009",
+    "district_id": "53.13.06",
+    "name": "Dolulolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2010",
+    "district_id": "53.13.06",
+    "name": "Hoelea",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2011",
+    "district_id": "53.13.06",
+    "name": "Roma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2012",
+    "district_id": "53.13.06",
+    "name": "Leuwayang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2013",
+    "district_id": "53.13.06",
+    "name": "Leudanung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2014",
+    "district_id": "53.13.06",
+    "name": "Normal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2015",
+    "district_id": "53.13.06",
+    "name": "Wailolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2016",
+    "district_id": "53.13.06",
+    "name": "Hoelea II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2017",
+    "district_id": "53.13.06",
+    "name": "Lebewala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2018",
+    "district_id": "53.13.06",
+    "name": "Mahal II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2019",
+    "district_id": "53.13.06",
+    "name": "Peusawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2020",
+    "district_id": "53.13.06",
+    "name": "Wowong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2021",
+    "district_id": "53.13.06",
+    "name": "Normal I",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.06.2022",
+    "district_id": "53.13.06",
+    "name": "Meluwiting I",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2001",
+    "district_id": "53.13.07",
+    "name": "Panama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2002",
+    "district_id": "53.13.07",
+    "name": "Benihading",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2003",
+    "district_id": "53.13.07",
+    "name": "Atulaleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2004",
+    "district_id": "53.13.07",
+    "name": "Roho",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2005",
+    "district_id": "53.13.07",
+    "name": "Loyobohor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2006",
+    "district_id": "53.13.07",
+    "name": "Leuburi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2007",
+    "district_id": "53.13.07",
+    "name": "Kaohua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2008",
+    "district_id": "53.13.07",
+    "name": "Kalikur WL",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2009",
+    "district_id": "53.13.07",
+    "name": "Umaleu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2010",
+    "district_id": "53.13.07",
+    "name": "Buriwutung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2011",
+    "district_id": "53.13.07",
+    "name": "Mampir",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2012",
+    "district_id": "53.13.07",
+    "name": "Leuwohung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2013",
+    "district_id": "53.13.07",
+    "name": "Bareng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2014",
+    "district_id": "53.13.07",
+    "name": "Kalikur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2015",
+    "district_id": "53.13.07",
+    "name": "Bean",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2016",
+    "district_id": "53.13.07",
+    "name": "Benihading II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2017",
+    "district_id": "53.13.07",
+    "name": "Tobotani",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2018",
+    "district_id": "53.13.07",
+    "name": "Tubung Walang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2019",
+    "district_id": "53.13.07",
+    "name": "Rumang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.07.2020",
+    "district_id": "53.13.07",
+    "name": "Atu' Walupang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2001",
+    "district_id": "53.13.08",
+    "name": "Alap Atadei",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2002",
+    "district_id": "53.13.08",
+    "name": "Atakera",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2003",
+    "district_id": "53.13.08",
+    "name": "Leworaja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2004",
+    "district_id": "53.13.08",
+    "name": "Pantai Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2005",
+    "district_id": "53.13.08",
+    "name": "Puor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2006",
+    "district_id": "53.13.08",
+    "name": "Imulolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2007",
+    "district_id": "53.13.08",
+    "name": "Lamalera B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2008",
+    "district_id": "53.13.08",
+    "name": "Lamalera A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2009",
+    "district_id": "53.13.08",
+    "name": "Lelata",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2010",
+    "district_id": "53.13.08",
+    "name": "Wulandoni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2011",
+    "district_id": "53.13.08",
+    "name": "Belobao",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2012",
+    "district_id": "53.13.08",
+    "name": "Posiwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2013",
+    "district_id": "53.13.08",
+    "name": "Puor B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2014",
+    "district_id": "53.13.08",
+    "name": "Ataili",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.08.2015",
+    "district_id": "53.13.08",
+    "name": "Tapobali",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2001",
+    "district_id": "53.13.09",
+    "name": "Todanara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2002",
+    "district_id": "53.13.09",
+    "name": "Jontona",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2003",
+    "district_id": "53.13.09",
+    "name": "Lamawolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2004",
+    "district_id": "53.13.09",
+    "name": "Lamatokan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2005",
+    "district_id": "53.13.09",
+    "name": "Bao Lali Duli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2006",
+    "district_id": "53.13.09",
+    "name": "Lamaau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2007",
+    "district_id": "53.13.09",
+    "name": "Aulesa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2008",
+    "district_id": "53.13.09",
+    "name": "Waimatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.13.09.2009",
+    "district_id": "53.13.09",
+    "name": "Lamagute",
+    "type": "DESA"
+  }
+]

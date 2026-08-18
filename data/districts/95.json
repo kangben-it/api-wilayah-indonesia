@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "95.01.01",
+    "regency_id": "95.01",
+    "name": "Wamena"
+  },
+  {
+    "id": "95.01.02",
+    "regency_id": "95.01",
+    "name": "Kurulu"
+  },
+  {
+    "id": "95.01.03",
+    "regency_id": "95.01",
+    "name": "Asologaima"
+  },
+  {
+    "id": "95.01.04",
+    "regency_id": "95.01",
+    "name": "Hubikosi"
+  },
+  {
+    "id": "95.01.05",
+    "regency_id": "95.01",
+    "name": "Bolakme"
+  },
+  {
+    "id": "95.01.06",
+    "regency_id": "95.01",
+    "name": "Walelagama"
+  },
+  {
+    "id": "95.01.07",
+    "regency_id": "95.01",
+    "name": "Musatfak"
+  },
+  {
+    "id": "95.01.08",
+    "regency_id": "95.01",
+    "name": "Wolo"
+  },
+  {
+    "id": "95.01.09",
+    "regency_id": "95.01",
+    "name": "Asolokobal"
+  },
+  {
+    "id": "95.01.10",
+    "regency_id": "95.01",
+    "name": "Pelebaga"
+  },
+  {
+    "id": "95.01.11",
+    "regency_id": "95.01",
+    "name": "Yalengga"
+  },
+  {
+    "id": "95.01.12",
+    "regency_id": "95.01",
+    "name": "Trikora"
+  },
+  {
+    "id": "95.01.13",
+    "regency_id": "95.01",
+    "name": "Napua"
+  },
+  {
+    "id": "95.01.14",
+    "regency_id": "95.01",
+    "name": "Walaik"
+  },
+  {
+    "id": "95.01.15",
+    "regency_id": "95.01",
+    "name": "Wouma"
+  },
+  {
+    "id": "95.01.16",
+    "regency_id": "95.01",
+    "name": "Hubikiak"
+  },
+  {
+    "id": "95.01.17",
+    "regency_id": "95.01",
+    "name": "Ibele"
+  },
+  {
+    "id": "95.01.18",
+    "regency_id": "95.01",
+    "name": "Taelarek"
+  },
+  {
+    "id": "95.01.19",
+    "regency_id": "95.01",
+    "name": "Itlay Hisage"
+  },
+  {
+    "id": "95.01.20",
+    "regency_id": "95.01",
+    "name": "Siepkosi"
+  },
+  {
+    "id": "95.01.21",
+    "regency_id": "95.01",
+    "name": "Usilimo"
+  },
+  {
+    "id": "95.01.22",
+    "regency_id": "95.01",
+    "name": "Wita Waya"
+  },
+  {
+    "id": "95.01.23",
+    "regency_id": "95.01",
+    "name": "Libarek"
+  },
+  {
+    "id": "95.01.24",
+    "regency_id": "95.01",
+    "name": "Wadangku"
+  },
+  {
+    "id": "95.01.25",
+    "regency_id": "95.01",
+    "name": "Pisugi"
+  },
+  {
+    "id": "95.01.26",
+    "regency_id": "95.01",
+    "name": "Koragi"
+  },
+  {
+    "id": "95.01.27",
+    "regency_id": "95.01",
+    "name": "Tagime"
+  },
+  {
+    "id": "95.01.28",
+    "regency_id": "95.01",
+    "name": "Molagalome"
+  },
+  {
+    "id": "95.01.29",
+    "regency_id": "95.01",
+    "name": "Tagineri"
+  },
+  {
+    "id": "95.01.30",
+    "regency_id": "95.01",
+    "name": "Silo Karno Doga"
+  },
+  {
+    "id": "95.01.31",
+    "regency_id": "95.01",
+    "name": "Piramid"
+  },
+  {
+    "id": "95.01.32",
+    "regency_id": "95.01",
+    "name": "Muliama"
+  },
+  {
+    "id": "95.01.33",
+    "regency_id": "95.01",
+    "name": "Bugi"
+  },
+  {
+    "id": "95.01.34",
+    "regency_id": "95.01",
+    "name": "Bpiri"
+  },
+  {
+    "id": "95.01.35",
+    "regency_id": "95.01",
+    "name": "Welesi"
+  },
+  {
+    "id": "95.01.36",
+    "regency_id": "95.01",
+    "name": "Asotipo"
+  },
+  {
+    "id": "95.01.37",
+    "regency_id": "95.01",
+    "name": "Maima"
+  },
+  {
+    "id": "95.01.38",
+    "regency_id": "95.01",
+    "name": "Popugoba"
+  },
+  {
+    "id": "95.01.39",
+    "regency_id": "95.01",
+    "name": "Wame"
+  },
+  {
+    "id": "95.01.40",
+    "regency_id": "95.01",
+    "name": "Wesaput"
+  },
+  {
+    "id": "95.02.01",
+    "regency_id": "95.02",
+    "name": "Oksibil"
+  },
+  {
+    "id": "95.02.02",
+    "regency_id": "95.02",
+    "name": "Kiwirok"
+  },
+  {
+    "id": "95.02.03",
+    "regency_id": "95.02",
+    "name": "Okbibab"
+  },
+  {
+    "id": "95.02.04",
+    "regency_id": "95.02",
+    "name": "Iwur"
+  },
+  {
+    "id": "95.02.05",
+    "regency_id": "95.02",
+    "name": "Batom"
+  },
+  {
+    "id": "95.02.06",
+    "regency_id": "95.02",
+    "name": "Borme"
+  },
+  {
+    "id": "95.02.07",
+    "regency_id": "95.02",
+    "name": "Kiwirok Timur"
+  },
+  {
+    "id": "95.02.08",
+    "regency_id": "95.02",
+    "name": "Aboy"
+  },
+  {
+    "id": "95.02.09",
+    "regency_id": "95.02",
+    "name": "Pepera"
+  },
+  {
+    "id": "95.02.10",
+    "regency_id": "95.02",
+    "name": "Bime"
+  },
+  {
+    "id": "95.02.11",
+    "regency_id": "95.02",
+    "name": "Alemsom"
+  },
+  {
+    "id": "95.02.12",
+    "regency_id": "95.02",
+    "name": "Okbape"
+  },
+  {
+    "id": "95.02.13",
+    "regency_id": "95.02",
+    "name": "Kalomdol"
+  },
+  {
+    "id": "95.02.14",
+    "regency_id": "95.02",
+    "name": "Oksop"
+  },
+  {
+    "id": "95.02.15",
+    "regency_id": "95.02",
+    "name": "Serambakon"
+  },
+  {
+    "id": "95.02.16",
+    "regency_id": "95.02",
+    "name": "Ok Aom"
+  },
+  {
+    "id": "95.02.17",
+    "regency_id": "95.02",
+    "name": "Kawor"
+  },
+  {
+    "id": "95.02.18",
+    "regency_id": "95.02",
+    "name": "Awinbon"
+  },
+  {
+    "id": "95.02.19",
+    "regency_id": "95.02",
+    "name": "Tarup"
+  },
+  {
+    "id": "95.02.20",
+    "regency_id": "95.02",
+    "name": "Okhika"
+  },
+  {
+    "id": "95.02.21",
+    "regency_id": "95.02",
+    "name": "Oksamol"
+  },
+  {
+    "id": "95.02.22",
+    "regency_id": "95.02",
+    "name": "Oklip"
+  },
+  {
+    "id": "95.02.23",
+    "regency_id": "95.02",
+    "name": "Okbemtau"
+  },
+  {
+    "id": "95.02.24",
+    "regency_id": "95.02",
+    "name": "Oksebang"
+  },
+  {
+    "id": "95.02.25",
+    "regency_id": "95.02",
+    "name": "Okbab"
+  },
+  {
+    "id": "95.02.26",
+    "regency_id": "95.02",
+    "name": "Batani"
+  },
+  {
+    "id": "95.02.27",
+    "regency_id": "95.02",
+    "name": "Weime"
+  },
+  {
+    "id": "95.02.28",
+    "regency_id": "95.02",
+    "name": "Murkim"
+  },
+  {
+    "id": "95.02.29",
+    "regency_id": "95.02",
+    "name": "Mofinop"
+  },
+  {
+    "id": "95.02.30",
+    "regency_id": "95.02",
+    "name": "Jetfa"
+  },
+  {
+    "id": "95.02.31",
+    "regency_id": "95.02",
+    "name": "Teiraplu"
+  },
+  {
+    "id": "95.02.32",
+    "regency_id": "95.02",
+    "name": "Eipumek"
+  },
+  {
+    "id": "95.02.33",
+    "regency_id": "95.02",
+    "name": "Pamek"
+  },
+  {
+    "id": "95.02.34",
+    "regency_id": "95.02",
+    "name": "Nongme"
+  },
+  {
+    "id": "95.03.01",
+    "regency_id": "95.03",
+    "name": "Kurima"
+  },
+  {
+    "id": "95.03.02",
+    "regency_id": "95.03",
+    "name": "Anggruk"
+  },
+  {
+    "id": "95.03.03",
+    "regency_id": "95.03",
+    "name": "Ninia"
+  },
+  {
+    "id": "95.03.04",
+    "regency_id": "95.03",
+    "name": "Silimo"
+  },
+  {
+    "id": "95.03.05",
+    "regency_id": "95.03",
+    "name": "Samenage"
+  },
+  {
+    "id": "95.03.06",
+    "regency_id": "95.03",
+    "name": "Nalca"
+  },
+  {
+    "id": "95.03.07",
+    "regency_id": "95.03",
+    "name": "Dekai"
+  },
+  {
+    "id": "95.03.08",
+    "regency_id": "95.03",
+    "name": "Obio"
+  },
+  {
+    "id": "95.03.09",
+    "regency_id": "95.03",
+    "name": "Suru Suru"
+  },
+  {
+    "id": "95.03.10",
+    "regency_id": "95.03",
+    "name": "Wusama"
+  },
+  {
+    "id": "95.03.11",
+    "regency_id": "95.03",
+    "name": "Amuma"
+  },
+  {
+    "id": "95.03.12",
+    "regency_id": "95.03",
+    "name": "Musaik"
+  },
+  {
+    "id": "95.03.13",
+    "regency_id": "95.03",
+    "name": "Pasema"
+  },
+  {
+    "id": "95.03.14",
+    "regency_id": "95.03",
+    "name": "Hogio"
+  },
+  {
+    "id": "95.03.15",
+    "regency_id": "95.03",
+    "name": "Mugi"
+  },
+  {
+    "id": "95.03.16",
+    "regency_id": "95.03",
+    "name": "Soba"
+  },
+  {
+    "id": "95.03.17",
+    "regency_id": "95.03",
+    "name": "Werima"
+  },
+  {
+    "id": "95.03.18",
+    "regency_id": "95.03",
+    "name": "Tangma"
+  },
+  {
+    "id": "95.03.19",
+    "regency_id": "95.03",
+    "name": "Ukha"
+  },
+  {
+    "id": "95.03.20",
+    "regency_id": "95.03",
+    "name": "Panggema"
+  },
+  {
+    "id": "95.03.21",
+    "regency_id": "95.03",
+    "name": "Kosarek"
+  },
+  {
+    "id": "95.03.22",
+    "regency_id": "95.03",
+    "name": "Nipsan"
+  },
+  {
+    "id": "95.03.23",
+    "regency_id": "95.03",
+    "name": "Ubahak"
+  },
+  {
+    "id": "95.03.24",
+    "regency_id": "95.03",
+    "name": "Pronggoli"
+  },
+  {
+    "id": "95.03.25",
+    "regency_id": "95.03",
+    "name": "Walma"
+  },
+  {
+    "id": "95.03.26",
+    "regency_id": "95.03",
+    "name": "Yahuliambut"
+  },
+  {
+    "id": "95.03.27",
+    "regency_id": "95.03",
+    "name": "Hereapini"
+  },
+  {
+    "id": "95.03.28",
+    "regency_id": "95.03",
+    "name": "Ubalihi"
+  },
+  {
+    "id": "95.03.29",
+    "regency_id": "95.03",
+    "name": "Talambo"
+  },
+  {
+    "id": "95.03.30",
+    "regency_id": "95.03",
+    "name": "Puldama"
+  },
+  {
+    "id": "95.03.31",
+    "regency_id": "95.03",
+    "name": "Endomen"
+  },
+  {
+    "id": "95.03.32",
+    "regency_id": "95.03",
+    "name": "Kona"
+  },
+  {
+    "id": "95.03.33",
+    "regency_id": "95.03",
+    "name": "Dirwemna"
+  },
+  {
+    "id": "95.03.34",
+    "regency_id": "95.03",
+    "name": "Holuwon"
+  },
+  {
+    "id": "95.03.35",
+    "regency_id": "95.03",
+    "name": "Lolat"
+  },
+  {
+    "id": "95.03.36",
+    "regency_id": "95.03",
+    "name": "Soloikma"
+  },
+  {
+    "id": "95.03.37",
+    "regency_id": "95.03",
+    "name": "Sela"
+  },
+  {
+    "id": "95.03.38",
+    "regency_id": "95.03",
+    "name": "Korupun"
+  },
+  {
+    "id": "95.03.39",
+    "regency_id": "95.03",
+    "name": "Langda"
+  },
+  {
+    "id": "95.03.40",
+    "regency_id": "95.03",
+    "name": "Bomela"
+  },
+  {
+    "id": "95.03.41",
+    "regency_id": "95.03",
+    "name": "Suntamon"
+  },
+  {
+    "id": "95.03.42",
+    "regency_id": "95.03",
+    "name": "Seradala"
+  },
+  {
+    "id": "95.03.43",
+    "regency_id": "95.03",
+    "name": "Sobaham"
+  },
+  {
+    "id": "95.03.44",
+    "regency_id": "95.03",
+    "name": "Kabianggama"
+  },
+  {
+    "id": "95.03.45",
+    "regency_id": "95.03",
+    "name": "Kwelamdua"
+  },
+  {
+    "id": "95.03.46",
+    "regency_id": "95.03",
+    "name": "Kwikma"
+  },
+  {
+    "id": "95.03.47",
+    "regency_id": "95.03",
+    "name": "Hilipuk"
+  },
+  {
+    "id": "95.03.48",
+    "regency_id": "95.03",
+    "name": "Duram"
+  },
+  {
+    "id": "95.03.49",
+    "regency_id": "95.03",
+    "name": "Yogosem"
+  },
+  {
+    "id": "95.03.50",
+    "regency_id": "95.03",
+    "name": "Kayo"
+  },
+  {
+    "id": "95.03.51",
+    "regency_id": "95.03",
+    "name": "Sumo"
+  },
+  {
+    "id": "95.04.01",
+    "regency_id": "95.04",
+    "name": "Karubaga"
+  },
+  {
+    "id": "95.04.02",
+    "regency_id": "95.04",
+    "name": "Bokondini"
+  },
+  {
+    "id": "95.04.03",
+    "regency_id": "95.04",
+    "name": "Kanggime"
+  },
+  {
+    "id": "95.04.04",
+    "regency_id": "95.04",
+    "name": "Kembu"
+  },
+  {
+    "id": "95.04.05",
+    "regency_id": "95.04",
+    "name": "Goyage"
+  },
+  {
+    "id": "95.04.06",
+    "regency_id": "95.04",
+    "name": "Wunim"
+  },
+  {
+    "id": "95.04.07",
+    "regency_id": "95.04",
+    "name": "Wina"
+  },
+  {
+    "id": "95.04.08",
+    "regency_id": "95.04",
+    "name": "Umagi"
+  },
+  {
+    "id": "95.04.09",
+    "regency_id": "95.04",
+    "name": "Panaga"
+  },
+  {
+    "id": "95.04.10",
+    "regency_id": "95.04",
+    "name": "Woniki"
+  },
+  {
+    "id": "95.04.11",
+    "regency_id": "95.04",
+    "name": "Kubu"
+  },
+  {
+    "id": "95.04.12",
+    "regency_id": "95.04",
+    "name": "Konda/ Kondaga"
+  },
+  {
+    "id": "95.04.13",
+    "regency_id": "95.04",
+    "name": "Nelawi"
+  },
+  {
+    "id": "95.04.14",
+    "regency_id": "95.04",
+    "name": "Kuari"
+  },
+  {
+    "id": "95.04.15",
+    "regency_id": "95.04",
+    "name": "Bokoneri"
+  },
+  {
+    "id": "95.04.16",
+    "regency_id": "95.04",
+    "name": "Bewani"
+  },
+  {
+    "id": "95.04.17",
+    "regency_id": "95.04",
+    "name": "Nabunage"
+  },
+  {
+    "id": "95.04.18",
+    "regency_id": "95.04",
+    "name": "Gilubandu"
+  },
+  {
+    "id": "95.04.19",
+    "regency_id": "95.04",
+    "name": "Nunggawi"
+  },
+  {
+    "id": "95.04.20",
+    "regency_id": "95.04",
+    "name": "Gundagi"
+  },
+  {
+    "id": "95.04.21",
+    "regency_id": "95.04",
+    "name": "Numba"
+  },
+  {
+    "id": "95.04.22",
+    "regency_id": "95.04",
+    "name": "Timori"
+  },
+  {
+    "id": "95.04.23",
+    "regency_id": "95.04",
+    "name": "Dundu"
+  },
+  {
+    "id": "95.04.24",
+    "regency_id": "95.04",
+    "name": "Geya"
+  },
+  {
+    "id": "95.04.25",
+    "regency_id": "95.04",
+    "name": "Egiam"
+  },
+  {
+    "id": "95.04.26",
+    "regency_id": "95.04",
+    "name": "Poganeri"
+  },
+  {
+    "id": "95.04.27",
+    "regency_id": "95.04",
+    "name": "Kamboneri"
+  },
+  {
+    "id": "95.04.28",
+    "regency_id": "95.04",
+    "name": "Airgaram"
+  },
+  {
+    "id": "95.04.29",
+    "regency_id": "95.04",
+    "name": "Wari/Taiyeve II"
+  },
+  {
+    "id": "95.04.30",
+    "regency_id": "95.04",
+    "name": "Dow"
+  },
+  {
+    "id": "95.04.31",
+    "regency_id": "95.04",
+    "name": "Tagineri"
+  },
+  {
+    "id": "95.04.32",
+    "regency_id": "95.04",
+    "name": "Yuneri"
+  },
+  {
+    "id": "95.04.33",
+    "regency_id": "95.04",
+    "name": "Wakuwo"
+  },
+  {
+    "id": "95.04.34",
+    "regency_id": "95.04",
+    "name": "Gika"
+  },
+  {
+    "id": "95.04.35",
+    "regency_id": "95.04",
+    "name": "Telenggeme"
+  },
+  {
+    "id": "95.04.36",
+    "regency_id": "95.04",
+    "name": "Anawi"
+  },
+  {
+    "id": "95.04.37",
+    "regency_id": "95.04",
+    "name": "Wenam"
+  },
+  {
+    "id": "95.04.38",
+    "regency_id": "95.04",
+    "name": "Wugi"
+  },
+  {
+    "id": "95.04.39",
+    "regency_id": "95.04",
+    "name": "Danime"
+  },
+  {
+    "id": "95.04.40",
+    "regency_id": "95.04",
+    "name": "Tagime"
+  },
+  {
+    "id": "95.04.41",
+    "regency_id": "95.04",
+    "name": "Kai"
+  },
+  {
+    "id": "95.04.42",
+    "regency_id": "95.04",
+    "name": "Aweku"
+  },
+  {
+    "id": "95.04.43",
+    "regency_id": "95.04",
+    "name": "Bogonuk"
+  },
+  {
+    "id": "95.04.44",
+    "regency_id": "95.04",
+    "name": "Li Anogomma"
+  },
+  {
+    "id": "95.04.45",
+    "regency_id": "95.04",
+    "name": "Biuk"
+  },
+  {
+    "id": "95.04.46",
+    "regency_id": "95.04",
+    "name": "Yuko"
+  },
+  {
+    "id": "95.05.01",
+    "regency_id": "95.05",
+    "name": "Kobakma"
+  },
+  {
+    "id": "95.05.02",
+    "regency_id": "95.05",
+    "name": "Kelila"
+  },
+  {
+    "id": "95.05.03",
+    "regency_id": "95.05",
+    "name": "Eragayam"
+  },
+  {
+    "id": "95.05.04",
+    "regency_id": "95.05",
+    "name": "Megambilis"
+  },
+  {
+    "id": "95.05.05",
+    "regency_id": "95.05",
+    "name": "Ilugwa"
+  },
+  {
+    "id": "95.06.01",
+    "regency_id": "95.06",
+    "name": "Elelim"
+  },
+  {
+    "id": "95.06.02",
+    "regency_id": "95.06",
+    "name": "Apalapsili"
+  },
+  {
+    "id": "95.06.03",
+    "regency_id": "95.06",
+    "name": "Abenaho"
+  },
+  {
+    "id": "95.06.04",
+    "regency_id": "95.06",
+    "name": "Benawa"
+  },
+  {
+    "id": "95.06.05",
+    "regency_id": "95.06",
+    "name": "Welarek"
+  },
+  {
+    "id": "95.07.01",
+    "regency_id": "95.07",
+    "name": "Tiom"
+  },
+  {
+    "id": "95.07.02",
+    "regency_id": "95.07",
+    "name": "Pirime"
+  },
+  {
+    "id": "95.07.03",
+    "regency_id": "95.07",
+    "name": "Makki"
+  },
+  {
+    "id": "95.07.04",
+    "regency_id": "95.07",
+    "name": "Gamelia"
+  },
+  {
+    "id": "95.07.05",
+    "regency_id": "95.07",
+    "name": "Dimba"
+  },
+  {
+    "id": "95.07.06",
+    "regency_id": "95.07",
+    "name": "Melagineri"
+  },
+  {
+    "id": "95.07.07",
+    "regency_id": "95.07",
+    "name": "Balingga"
+  },
+  {
+    "id": "95.07.08",
+    "regency_id": "95.07",
+    "name": "Tiomneri"
+  },
+  {
+    "id": "95.07.09",
+    "regency_id": "95.07",
+    "name": "Kuyawage"
+  },
+  {
+    "id": "95.07.10",
+    "regency_id": "95.07",
+    "name": "Poga"
+  },
+  {
+    "id": "95.07.11",
+    "regency_id": "95.07",
+    "name": "Niname"
+  },
+  {
+    "id": "95.07.12",
+    "regency_id": "95.07",
+    "name": "Nogi"
+  },
+  {
+    "id": "95.07.13",
+    "regency_id": "95.07",
+    "name": "Yiginua"
+  },
+  {
+    "id": "95.07.14",
+    "regency_id": "95.07",
+    "name": "Tiom Ollo"
+  },
+  {
+    "id": "95.07.15",
+    "regency_id": "95.07",
+    "name": "Yugungwi"
+  },
+  {
+    "id": "95.07.16",
+    "regency_id": "95.07",
+    "name": "Mokoni"
+  },
+  {
+    "id": "95.07.17",
+    "regency_id": "95.07",
+    "name": "Wereka"
+  },
+  {
+    "id": "95.07.18",
+    "regency_id": "95.07",
+    "name": "Milimbo"
+  },
+  {
+    "id": "95.07.19",
+    "regency_id": "95.07",
+    "name": "Wiringgambut"
+  },
+  {
+    "id": "95.07.20",
+    "regency_id": "95.07",
+    "name": "Gollo"
+  },
+  {
+    "id": "95.07.21",
+    "regency_id": "95.07",
+    "name": "Awina"
+  },
+  {
+    "id": "95.07.22",
+    "regency_id": "95.07",
+    "name": "Ayumnati"
+  },
+  {
+    "id": "95.07.23",
+    "regency_id": "95.07",
+    "name": "Wano Barat"
+  },
+  {
+    "id": "95.07.24",
+    "regency_id": "95.07",
+    "name": "Goa Balim"
+  },
+  {
+    "id": "95.07.25",
+    "regency_id": "95.07",
+    "name": "Bruwa"
+  },
+  {
+    "id": "95.07.26",
+    "regency_id": "95.07",
+    "name": "Balingga Barat"
+  },
+  {
+    "id": "95.07.27",
+    "regency_id": "95.07",
+    "name": "Gupura"
+  },
+  {
+    "id": "95.07.28",
+    "regency_id": "95.07",
+    "name": "Kolawa"
+  },
+  {
+    "id": "95.07.29",
+    "regency_id": "95.07",
+    "name": "Gelok Beam"
+  },
+  {
+    "id": "95.07.30",
+    "regency_id": "95.07",
+    "name": "Kuly Lanny"
+  },
+  {
+    "id": "95.07.31",
+    "regency_id": "95.07",
+    "name": "Lannyna"
+  },
+  {
+    "id": "95.07.32",
+    "regency_id": "95.07",
+    "name": "Karu"
+  },
+  {
+    "id": "95.07.33",
+    "regency_id": "95.07",
+    "name": "Yiluk"
+  },
+  {
+    "id": "95.07.34",
+    "regency_id": "95.07",
+    "name": "Guna"
+  },
+  {
+    "id": "95.07.35",
+    "regency_id": "95.07",
+    "name": "Kelulome"
+  },
+  {
+    "id": "95.07.36",
+    "regency_id": "95.07",
+    "name": "Nikogwe"
+  },
+  {
+    "id": "95.07.37",
+    "regency_id": "95.07",
+    "name": "Muara"
+  },
+  {
+    "id": "95.07.38",
+    "regency_id": "95.07",
+    "name": "Buguk Gona"
+  },
+  {
+    "id": "95.07.39",
+    "regency_id": "95.07",
+    "name": "Melagi"
+  },
+  {
+    "id": "95.08.01",
+    "regency_id": "95.08",
+    "name": "Kenyam"
+  },
+  {
+    "id": "95.08.02",
+    "regency_id": "95.08",
+    "name": "Mapenduma"
+  },
+  {
+    "id": "95.08.03",
+    "regency_id": "95.08",
+    "name": "Yigi"
+  },
+  {
+    "id": "95.08.04",
+    "regency_id": "95.08",
+    "name": "Wosak"
+  },
+  {
+    "id": "95.08.05",
+    "regency_id": "95.08",
+    "name": "Geselma"
+  },
+  {
+    "id": "95.08.06",
+    "regency_id": "95.08",
+    "name": "Mugi"
+  },
+  {
+    "id": "95.08.07",
+    "regency_id": "95.08",
+    "name": "Mbuwa"
+  },
+  {
+    "id": "95.08.08",
+    "regency_id": "95.08",
+    "name": "Gearek"
+  },
+  {
+    "id": "95.08.09",
+    "regency_id": "95.08",
+    "name": "Koroptak"
+  },
+  {
+    "id": "95.08.10",
+    "regency_id": "95.08",
+    "name": "Kegayem"
+  },
+  {
+    "id": "95.08.11",
+    "regency_id": "95.08",
+    "name": "Paro"
+  },
+  {
+    "id": "95.08.12",
+    "regency_id": "95.08",
+    "name": "Mebarok"
+  },
+  {
+    "id": "95.08.13",
+    "regency_id": "95.08",
+    "name": "Yenggelo"
+  },
+  {
+    "id": "95.08.14",
+    "regency_id": "95.08",
+    "name": "Kilmid"
+  },
+  {
+    "id": "95.08.15",
+    "regency_id": "95.08",
+    "name": "Alama"
+  },
+  {
+    "id": "95.08.16",
+    "regency_id": "95.08",
+    "name": "Yal"
+  },
+  {
+    "id": "95.08.17",
+    "regency_id": "95.08",
+    "name": "Mam"
+  },
+  {
+    "id": "95.08.18",
+    "regency_id": "95.08",
+    "name": "Dal"
+  },
+  {
+    "id": "95.08.19",
+    "regency_id": "95.08",
+    "name": "Nirkuri"
+  },
+  {
+    "id": "95.08.20",
+    "regency_id": "95.08",
+    "name": "Inikgal"
+  },
+  {
+    "id": "95.08.21",
+    "regency_id": "95.08",
+    "name": "Iniye"
+  },
+  {
+    "id": "95.08.22",
+    "regency_id": "95.08",
+    "name": "Mbulmu Yalma"
+  },
+  {
+    "id": "95.08.23",
+    "regency_id": "95.08",
+    "name": "Mbua Tengah"
+  },
+  {
+    "id": "95.08.24",
+    "regency_id": "95.08",
+    "name": "Embetpen"
+  },
+  {
+    "id": "95.08.25",
+    "regency_id": "95.08",
+    "name": "Kora"
+  },
+  {
+    "id": "95.08.26",
+    "regency_id": "95.08",
+    "name": "Wusi"
+  },
+  {
+    "id": "95.08.27",
+    "regency_id": "95.08",
+    "name": "Pija"
+  },
+  {
+    "id": "95.08.28",
+    "regency_id": "95.08",
+    "name": "Moba"
+  },
+  {
+    "id": "95.08.29",
+    "regency_id": "95.08",
+    "name": "Wutpaga"
+  },
+  {
+    "id": "95.08.30",
+    "regency_id": "95.08",
+    "name": "Nenggeagin"
+  },
+  {
+    "id": "95.08.31",
+    "regency_id": "95.08",
+    "name": "Krepkuri"
+  },
+  {
+    "id": "95.08.32",
+    "regency_id": "95.08",
+    "name": "Pasir Putih"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "51.01.01",
+    "regency_id": "51.01",
+    "name": "Negara"
+  },
+  {
+    "id": "51.01.02",
+    "regency_id": "51.01",
+    "name": "Mendoyo"
+  },
+  {
+    "id": "51.01.03",
+    "regency_id": "51.01",
+    "name": "Pekutatan"
+  },
+  {
+    "id": "51.01.04",
+    "regency_id": "51.01",
+    "name": "Melaya"
+  },
+  {
+    "id": "51.01.05",
+    "regency_id": "51.01",
+    "name": "Jembrana"
+  },
+  {
+    "id": "51.02.01",
+    "regency_id": "51.02",
+    "name": "Selemadeg"
+  },
+  {
+    "id": "51.02.02",
+    "regency_id": "51.02",
+    "name": "Selemadeg Timur"
+  },
+  {
+    "id": "51.02.03",
+    "regency_id": "51.02",
+    "name": "Selemadeg Barat"
+  },
+  {
+    "id": "51.02.04",
+    "regency_id": "51.02",
+    "name": "Kerambitan"
+  },
+  {
+    "id": "51.02.05",
+    "regency_id": "51.02",
+    "name": "Tabanan"
+  },
+  {
+    "id": "51.02.06",
+    "regency_id": "51.02",
+    "name": "Kediri"
+  },
+  {
+    "id": "51.02.07",
+    "regency_id": "51.02",
+    "name": "Marga"
+  },
+  {
+    "id": "51.02.08",
+    "regency_id": "51.02",
+    "name": "Penebel"
+  },
+  {
+    "id": "51.02.09",
+    "regency_id": "51.02",
+    "name": "Baturiti"
+  },
+  {
+    "id": "51.02.10",
+    "regency_id": "51.02",
+    "name": "Pupuan"
+  },
+  {
+    "id": "51.03.01",
+    "regency_id": "51.03",
+    "name": "Kuta"
+  },
+  {
+    "id": "51.03.02",
+    "regency_id": "51.03",
+    "name": "Mengwi"
+  },
+  {
+    "id": "51.03.03",
+    "regency_id": "51.03",
+    "name": "Abiansemal"
+  },
+  {
+    "id": "51.03.04",
+    "regency_id": "51.03",
+    "name": "Petang"
+  },
+  {
+    "id": "51.03.05",
+    "regency_id": "51.03",
+    "name": "Kuta Selatan"
+  },
+  {
+    "id": "51.03.06",
+    "regency_id": "51.03",
+    "name": "Kuta Utara"
+  },
+  {
+    "id": "51.04.01",
+    "regency_id": "51.04",
+    "name": "Sukawati"
+  },
+  {
+    "id": "51.04.02",
+    "regency_id": "51.04",
+    "name": "Blahbatuh"
+  },
+  {
+    "id": "51.04.03",
+    "regency_id": "51.04",
+    "name": "Gianyar"
+  },
+  {
+    "id": "51.04.04",
+    "regency_id": "51.04",
+    "name": "Tampaksiring"
+  },
+  {
+    "id": "51.04.05",
+    "regency_id": "51.04",
+    "name": "Ubud"
+  },
+  {
+    "id": "51.04.06",
+    "regency_id": "51.04",
+    "name": "Tegallalang"
+  },
+  {
+    "id": "51.04.07",
+    "regency_id": "51.04",
+    "name": "Payangan"
+  },
+  {
+    "id": "51.05.01",
+    "regency_id": "51.05",
+    "name": "Nusa Penida"
+  },
+  {
+    "id": "51.05.02",
+    "regency_id": "51.05",
+    "name": "Banjarangkan"
+  },
+  {
+    "id": "51.05.03",
+    "regency_id": "51.05",
+    "name": "Klungkung"
+  },
+  {
+    "id": "51.05.04",
+    "regency_id": "51.05",
+    "name": "Dawan"
+  },
+  {
+    "id": "51.06.01",
+    "regency_id": "51.06",
+    "name": "Susut"
+  },
+  {
+    "id": "51.06.02",
+    "regency_id": "51.06",
+    "name": "Bangli"
+  },
+  {
+    "id": "51.06.03",
+    "regency_id": "51.06",
+    "name": "Tembuku"
+  },
+  {
+    "id": "51.06.04",
+    "regency_id": "51.06",
+    "name": "Kintamani"
+  },
+  {
+    "id": "51.07.01",
+    "regency_id": "51.07",
+    "name": "Rendang"
+  },
+  {
+    "id": "51.07.02",
+    "regency_id": "51.07",
+    "name": "Sidemen"
+  },
+  {
+    "id": "51.07.03",
+    "regency_id": "51.07",
+    "name": "Manggis"
+  },
+  {
+    "id": "51.07.04",
+    "regency_id": "51.07",
+    "name": "Karangasem"
+  },
+  {
+    "id": "51.07.05",
+    "regency_id": "51.07",
+    "name": "Abang"
+  },
+  {
+    "id": "51.07.06",
+    "regency_id": "51.07",
+    "name": "Bebandem"
+  },
+  {
+    "id": "51.07.07",
+    "regency_id": "51.07",
+    "name": "Selat"
+  },
+  {
+    "id": "51.07.08",
+    "regency_id": "51.07",
+    "name": "Kubu"
+  },
+  {
+    "id": "51.08.01",
+    "regency_id": "51.08",
+    "name": "Gerokgak"
+  },
+  {
+    "id": "51.08.02",
+    "regency_id": "51.08",
+    "name": "Seririt"
+  },
+  {
+    "id": "51.08.03",
+    "regency_id": "51.08",
+    "name": "Busungbiu"
+  },
+  {
+    "id": "51.08.04",
+    "regency_id": "51.08",
+    "name": "Banjar"
+  },
+  {
+    "id": "51.08.05",
+    "regency_id": "51.08",
+    "name": "Sukasada"
+  },
+  {
+    "id": "51.08.06",
+    "regency_id": "51.08",
+    "name": "Buleleng"
+  },
+  {
+    "id": "51.08.07",
+    "regency_id": "51.08",
+    "name": "Sawan"
+  },
+  {
+    "id": "51.08.08",
+    "regency_id": "51.08",
+    "name": "Kubutambahan"
+  },
+  {
+    "id": "51.08.09",
+    "regency_id": "51.08",
+    "name": "Tejakula"
+  },
+  {
+    "id": "51.71.01",
+    "regency_id": "51.71",
+    "name": "Denpasar Selatan"
+  },
+  {
+    "id": "51.71.02",
+    "regency_id": "51.71",
+    "name": "Denpasar Timur"
+  },
+  {
+    "id": "51.71.03",
+    "regency_id": "51.71",
+    "name": "Denpasar Barat"
+  },
+  {
+    "id": "51.71.04",
+    "regency_id": "51.71",
+    "name": "Denpasar Utara"
+  }
+]

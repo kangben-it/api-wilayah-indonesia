@@ -1,0 +1,777 @@
+[
+  {
+    "id": "36.01.01",
+    "regency_id": "36.01",
+    "name": "Sumur"
+  },
+  {
+    "id": "36.01.02",
+    "regency_id": "36.01",
+    "name": "Cimanggu"
+  },
+  {
+    "id": "36.01.03",
+    "regency_id": "36.01",
+    "name": "Cibaliung"
+  },
+  {
+    "id": "36.01.04",
+    "regency_id": "36.01",
+    "name": "Cikeusik"
+  },
+  {
+    "id": "36.01.05",
+    "regency_id": "36.01",
+    "name": "Cigeulis"
+  },
+  {
+    "id": "36.01.06",
+    "regency_id": "36.01",
+    "name": "Panimbang"
+  },
+  {
+    "id": "36.01.07",
+    "regency_id": "36.01",
+    "name": "Angsana"
+  },
+  {
+    "id": "36.01.08",
+    "regency_id": "36.01",
+    "name": "Munjul"
+  },
+  {
+    "id": "36.01.09",
+    "regency_id": "36.01",
+    "name": "Pagelaran"
+  },
+  {
+    "id": "36.01.10",
+    "regency_id": "36.01",
+    "name": "Bojong"
+  },
+  {
+    "id": "36.01.11",
+    "regency_id": "36.01",
+    "name": "Picung"
+  },
+  {
+    "id": "36.01.12",
+    "regency_id": "36.01",
+    "name": "Labuan"
+  },
+  {
+    "id": "36.01.13",
+    "regency_id": "36.01",
+    "name": "Menes"
+  },
+  {
+    "id": "36.01.14",
+    "regency_id": "36.01",
+    "name": "Saketi"
+  },
+  {
+    "id": "36.01.15",
+    "regency_id": "36.01",
+    "name": "Cipeucang"
+  },
+  {
+    "id": "36.01.16",
+    "regency_id": "36.01",
+    "name": "Jiput"
+  },
+  {
+    "id": "36.01.17",
+    "regency_id": "36.01",
+    "name": "Mandalawangi"
+  },
+  {
+    "id": "36.01.18",
+    "regency_id": "36.01",
+    "name": "Cimanuk"
+  },
+  {
+    "id": "36.01.19",
+    "regency_id": "36.01",
+    "name": "Kaduhejo"
+  },
+  {
+    "id": "36.01.20",
+    "regency_id": "36.01",
+    "name": "Banjar"
+  },
+  {
+    "id": "36.01.21",
+    "regency_id": "36.01",
+    "name": "Pandeglang"
+  },
+  {
+    "id": "36.01.22",
+    "regency_id": "36.01",
+    "name": "Cadasari"
+  },
+  {
+    "id": "36.01.23",
+    "regency_id": "36.01",
+    "name": "Cisata"
+  },
+  {
+    "id": "36.01.24",
+    "regency_id": "36.01",
+    "name": "Patia"
+  },
+  {
+    "id": "36.01.25",
+    "regency_id": "36.01",
+    "name": "Karang Tanjung"
+  },
+  {
+    "id": "36.01.26",
+    "regency_id": "36.01",
+    "name": "Cikedal"
+  },
+  {
+    "id": "36.01.27",
+    "regency_id": "36.01",
+    "name": "Cibitung"
+  },
+  {
+    "id": "36.01.28",
+    "regency_id": "36.01",
+    "name": "Carita"
+  },
+  {
+    "id": "36.01.29",
+    "regency_id": "36.01",
+    "name": "Sukaresmi"
+  },
+  {
+    "id": "36.01.30",
+    "regency_id": "36.01",
+    "name": "Mekarjaya"
+  },
+  {
+    "id": "36.01.31",
+    "regency_id": "36.01",
+    "name": "Sindangresmi"
+  },
+  {
+    "id": "36.01.32",
+    "regency_id": "36.01",
+    "name": "Pulosari"
+  },
+  {
+    "id": "36.01.33",
+    "regency_id": "36.01",
+    "name": "Koroncong"
+  },
+  {
+    "id": "36.01.34",
+    "regency_id": "36.01",
+    "name": "Majasari"
+  },
+  {
+    "id": "36.01.35",
+    "regency_id": "36.01",
+    "name": "Sobang"
+  },
+  {
+    "id": "36.02.01",
+    "regency_id": "36.02",
+    "name": "Malingping"
+  },
+  {
+    "id": "36.02.02",
+    "regency_id": "36.02",
+    "name": "Panggarangan"
+  },
+  {
+    "id": "36.02.03",
+    "regency_id": "36.02",
+    "name": "Bayah"
+  },
+  {
+    "id": "36.02.04",
+    "regency_id": "36.02",
+    "name": "Cipanas"
+  },
+  {
+    "id": "36.02.05",
+    "regency_id": "36.02",
+    "name": "Muncang"
+  },
+  {
+    "id": "36.02.06",
+    "regency_id": "36.02",
+    "name": "Leuwidamar"
+  },
+  {
+    "id": "36.02.07",
+    "regency_id": "36.02",
+    "name": "Bojongmanik"
+  },
+  {
+    "id": "36.02.08",
+    "regency_id": "36.02",
+    "name": "Gunungkencana"
+  },
+  {
+    "id": "36.02.09",
+    "regency_id": "36.02",
+    "name": "Banjarsari"
+  },
+  {
+    "id": "36.02.10",
+    "regency_id": "36.02",
+    "name": "Cileles"
+  },
+  {
+    "id": "36.02.11",
+    "regency_id": "36.02",
+    "name": "Cimarga"
+  },
+  {
+    "id": "36.02.12",
+    "regency_id": "36.02",
+    "name": "Sajira"
+  },
+  {
+    "id": "36.02.13",
+    "regency_id": "36.02",
+    "name": "Maja"
+  },
+  {
+    "id": "36.02.14",
+    "regency_id": "36.02",
+    "name": "Rangkasbitung"
+  },
+  {
+    "id": "36.02.15",
+    "regency_id": "36.02",
+    "name": "Warunggunung"
+  },
+  {
+    "id": "36.02.16",
+    "regency_id": "36.02",
+    "name": "Cijaku"
+  },
+  {
+    "id": "36.02.17",
+    "regency_id": "36.02",
+    "name": "Cikulur"
+  },
+  {
+    "id": "36.02.18",
+    "regency_id": "36.02",
+    "name": "Cibadak"
+  },
+  {
+    "id": "36.02.19",
+    "regency_id": "36.02",
+    "name": "Cibeber"
+  },
+  {
+    "id": "36.02.20",
+    "regency_id": "36.02",
+    "name": "Cilograng"
+  },
+  {
+    "id": "36.02.21",
+    "regency_id": "36.02",
+    "name": "Wanasalam"
+  },
+  {
+    "id": "36.02.22",
+    "regency_id": "36.02",
+    "name": "Sobang"
+  },
+  {
+    "id": "36.02.23",
+    "regency_id": "36.02",
+    "name": "Curugbitung"
+  },
+  {
+    "id": "36.02.24",
+    "regency_id": "36.02",
+    "name": "Kalanganyar"
+  },
+  {
+    "id": "36.02.25",
+    "regency_id": "36.02",
+    "name": "Lebakgedong"
+  },
+  {
+    "id": "36.02.26",
+    "regency_id": "36.02",
+    "name": "Cihara"
+  },
+  {
+    "id": "36.02.27",
+    "regency_id": "36.02",
+    "name": "Cirinten"
+  },
+  {
+    "id": "36.02.28",
+    "regency_id": "36.02",
+    "name": "Cigemblong"
+  },
+  {
+    "id": "36.03.01",
+    "regency_id": "36.03",
+    "name": "Balaraja"
+  },
+  {
+    "id": "36.03.02",
+    "regency_id": "36.03",
+    "name": "Jayanti"
+  },
+  {
+    "id": "36.03.03",
+    "regency_id": "36.03",
+    "name": "Tigaraksa"
+  },
+  {
+    "id": "36.03.04",
+    "regency_id": "36.03",
+    "name": "Jambe"
+  },
+  {
+    "id": "36.03.05",
+    "regency_id": "36.03",
+    "name": "Cisoka"
+  },
+  {
+    "id": "36.03.06",
+    "regency_id": "36.03",
+    "name": "Kresek"
+  },
+  {
+    "id": "36.03.07",
+    "regency_id": "36.03",
+    "name": "Kronjo"
+  },
+  {
+    "id": "36.03.08",
+    "regency_id": "36.03",
+    "name": "Mauk"
+  },
+  {
+    "id": "36.03.09",
+    "regency_id": "36.03",
+    "name": "Kemiri"
+  },
+  {
+    "id": "36.03.10",
+    "regency_id": "36.03",
+    "name": "Sukadiri"
+  },
+  {
+    "id": "36.03.11",
+    "regency_id": "36.03",
+    "name": "Rajeg"
+  },
+  {
+    "id": "36.03.12",
+    "regency_id": "36.03",
+    "name": "Pasar Kemis"
+  },
+  {
+    "id": "36.03.13",
+    "regency_id": "36.03",
+    "name": "Teluknaga"
+  },
+  {
+    "id": "36.03.14",
+    "regency_id": "36.03",
+    "name": "Kosambi"
+  },
+  {
+    "id": "36.03.15",
+    "regency_id": "36.03",
+    "name": "Pakuhaji"
+  },
+  {
+    "id": "36.03.16",
+    "regency_id": "36.03",
+    "name": "Sepatan"
+  },
+  {
+    "id": "36.03.17",
+    "regency_id": "36.03",
+    "name": "Curug"
+  },
+  {
+    "id": "36.03.18",
+    "regency_id": "36.03",
+    "name": "Cikupa"
+  },
+  {
+    "id": "36.03.19",
+    "regency_id": "36.03",
+    "name": "Panongan"
+  },
+  {
+    "id": "36.03.20",
+    "regency_id": "36.03",
+    "name": "Legok"
+  },
+  {
+    "id": "36.03.22",
+    "regency_id": "36.03",
+    "name": "Pagedangan"
+  },
+  {
+    "id": "36.03.23",
+    "regency_id": "36.03",
+    "name": "Cisauk"
+  },
+  {
+    "id": "36.03.27",
+    "regency_id": "36.03",
+    "name": "Sukamulya"
+  },
+  {
+    "id": "36.03.28",
+    "regency_id": "36.03",
+    "name": "Kelapa Dua"
+  },
+  {
+    "id": "36.03.29",
+    "regency_id": "36.03",
+    "name": "Sindang Jaya"
+  },
+  {
+    "id": "36.03.30",
+    "regency_id": "36.03",
+    "name": "Sepatan Timur"
+  },
+  {
+    "id": "36.03.31",
+    "regency_id": "36.03",
+    "name": "Solear"
+  },
+  {
+    "id": "36.03.32",
+    "regency_id": "36.03",
+    "name": "Gunung Kaler"
+  },
+  {
+    "id": "36.03.33",
+    "regency_id": "36.03",
+    "name": "Mekar Baru"
+  },
+  {
+    "id": "36.04.05",
+    "regency_id": "36.04",
+    "name": "Kramatwatu"
+  },
+  {
+    "id": "36.04.06",
+    "regency_id": "36.04",
+    "name": "Waringinkurung"
+  },
+  {
+    "id": "36.04.07",
+    "regency_id": "36.04",
+    "name": "Bojonegara"
+  },
+  {
+    "id": "36.04.08",
+    "regency_id": "36.04",
+    "name": "Pulo Ampel"
+  },
+  {
+    "id": "36.04.09",
+    "regency_id": "36.04",
+    "name": "Ciruas"
+  },
+  {
+    "id": "36.04.11",
+    "regency_id": "36.04",
+    "name": "Kragilan"
+  },
+  {
+    "id": "36.04.12",
+    "regency_id": "36.04",
+    "name": "Pontang"
+  },
+  {
+    "id": "36.04.13",
+    "regency_id": "36.04",
+    "name": "Tirtayasa"
+  },
+  {
+    "id": "36.04.14",
+    "regency_id": "36.04",
+    "name": "Tanara"
+  },
+  {
+    "id": "36.04.15",
+    "regency_id": "36.04",
+    "name": "Cikande"
+  },
+  {
+    "id": "36.04.16",
+    "regency_id": "36.04",
+    "name": "Kibin"
+  },
+  {
+    "id": "36.04.17",
+    "regency_id": "36.04",
+    "name": "Carenang"
+  },
+  {
+    "id": "36.04.18",
+    "regency_id": "36.04",
+    "name": "Binuang"
+  },
+  {
+    "id": "36.04.19",
+    "regency_id": "36.04",
+    "name": "Petir"
+  },
+  {
+    "id": "36.04.20",
+    "regency_id": "36.04",
+    "name": "Tunjung Teja"
+  },
+  {
+    "id": "36.04.22",
+    "regency_id": "36.04",
+    "name": "Baros"
+  },
+  {
+    "id": "36.04.23",
+    "regency_id": "36.04",
+    "name": "Cikeusal"
+  },
+  {
+    "id": "36.04.24",
+    "regency_id": "36.04",
+    "name": "Pamarayan"
+  },
+  {
+    "id": "36.04.25",
+    "regency_id": "36.04",
+    "name": "Kopo"
+  },
+  {
+    "id": "36.04.26",
+    "regency_id": "36.04",
+    "name": "Jawilan"
+  },
+  {
+    "id": "36.04.27",
+    "regency_id": "36.04",
+    "name": "Ciomas"
+  },
+  {
+    "id": "36.04.28",
+    "regency_id": "36.04",
+    "name": "Pabuaran"
+  },
+  {
+    "id": "36.04.29",
+    "regency_id": "36.04",
+    "name": "Padarincang"
+  },
+  {
+    "id": "36.04.30",
+    "regency_id": "36.04",
+    "name": "Anyar"
+  },
+  {
+    "id": "36.04.31",
+    "regency_id": "36.04",
+    "name": "Cinangka"
+  },
+  {
+    "id": "36.04.32",
+    "regency_id": "36.04",
+    "name": "Mancak"
+  },
+  {
+    "id": "36.04.33",
+    "regency_id": "36.04",
+    "name": "Gunungsari"
+  },
+  {
+    "id": "36.04.34",
+    "regency_id": "36.04",
+    "name": "Bandung"
+  },
+  {
+    "id": "36.04.35",
+    "regency_id": "36.04",
+    "name": "Lebak Wangi"
+  },
+  {
+    "id": "36.71.01",
+    "regency_id": "36.71",
+    "name": "Tangerang"
+  },
+  {
+    "id": "36.71.02",
+    "regency_id": "36.71",
+    "name": "Jatiuwung"
+  },
+  {
+    "id": "36.71.03",
+    "regency_id": "36.71",
+    "name": "Batuceper"
+  },
+  {
+    "id": "36.71.04",
+    "regency_id": "36.71",
+    "name": "Benda"
+  },
+  {
+    "id": "36.71.05",
+    "regency_id": "36.71",
+    "name": "Cipondoh"
+  },
+  {
+    "id": "36.71.06",
+    "regency_id": "36.71",
+    "name": "Ciledug"
+  },
+  {
+    "id": "36.71.07",
+    "regency_id": "36.71",
+    "name": "Karawaci"
+  },
+  {
+    "id": "36.71.08",
+    "regency_id": "36.71",
+    "name": "Periuk"
+  },
+  {
+    "id": "36.71.09",
+    "regency_id": "36.71",
+    "name": "Cibodas"
+  },
+  {
+    "id": "36.71.10",
+    "regency_id": "36.71",
+    "name": "Neglasari"
+  },
+  {
+    "id": "36.71.11",
+    "regency_id": "36.71",
+    "name": "Pinang"
+  },
+  {
+    "id": "36.71.12",
+    "regency_id": "36.71",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "36.71.13",
+    "regency_id": "36.71",
+    "name": "Larangan"
+  },
+  {
+    "id": "36.72.01",
+    "regency_id": "36.72",
+    "name": "Cibeber"
+  },
+  {
+    "id": "36.72.02",
+    "regency_id": "36.72",
+    "name": "Cilegon"
+  },
+  {
+    "id": "36.72.03",
+    "regency_id": "36.72",
+    "name": "Pulomerak"
+  },
+  {
+    "id": "36.72.04",
+    "regency_id": "36.72",
+    "name": "Ciwandan"
+  },
+  {
+    "id": "36.72.05",
+    "regency_id": "36.72",
+    "name": "Jombang"
+  },
+  {
+    "id": "36.72.06",
+    "regency_id": "36.72",
+    "name": "Gerogol"
+  },
+  {
+    "id": "36.72.07",
+    "regency_id": "36.72",
+    "name": "Purwakarta"
+  },
+  {
+    "id": "36.72.08",
+    "regency_id": "36.72",
+    "name": "Citangkil"
+  },
+  {
+    "id": "36.73.01",
+    "regency_id": "36.73",
+    "name": "Serang"
+  },
+  {
+    "id": "36.73.02",
+    "regency_id": "36.73",
+    "name": "Kasemen"
+  },
+  {
+    "id": "36.73.03",
+    "regency_id": "36.73",
+    "name": "Walantaka"
+  },
+  {
+    "id": "36.73.04",
+    "regency_id": "36.73",
+    "name": "Curug"
+  },
+  {
+    "id": "36.73.05",
+    "regency_id": "36.73",
+    "name": "Cipocok Jaya"
+  },
+  {
+    "id": "36.73.06",
+    "regency_id": "36.73",
+    "name": "Taktakan"
+  },
+  {
+    "id": "36.74.01",
+    "regency_id": "36.74",
+    "name": "Serpong"
+  },
+  {
+    "id": "36.74.02",
+    "regency_id": "36.74",
+    "name": "Serpong Utara"
+  },
+  {
+    "id": "36.74.03",
+    "regency_id": "36.74",
+    "name": "Pondok Aren"
+  },
+  {
+    "id": "36.74.04",
+    "regency_id": "36.74",
+    "name": "Ciputat"
+  },
+  {
+    "id": "36.74.05",
+    "regency_id": "36.74",
+    "name": "Ciputat Timur"
+  },
+  {
+    "id": "36.74.06",
+    "regency_id": "36.74",
+    "name": "Pamulang"
+  },
+  {
+    "id": "36.74.07",
+    "regency_id": "36.74",
+    "name": "Setu"
+  }
+]

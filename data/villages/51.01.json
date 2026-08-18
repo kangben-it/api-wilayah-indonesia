@@ -1,0 +1,308 @@
+[
+  {
+    "id": "51.01.01.1006",
+    "district_id": "51.01.01",
+    "name": "Baler Bale Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1008",
+    "district_id": "51.01.01",
+    "name": "Banjar Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1013",
+    "district_id": "51.01.01",
+    "name": "Lelateng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1014",
+    "district_id": "51.01.01",
+    "name": "Loloan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.2001",
+    "district_id": "51.01.01",
+    "name": "Cupel",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2002",
+    "district_id": "51.01.01",
+    "name": "Baluk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2003",
+    "district_id": "51.01.01",
+    "name": "Banyubiru",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2004",
+    "district_id": "51.01.01",
+    "name": "Kaliakah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2005",
+    "district_id": "51.01.01",
+    "name": "Berangbang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2009",
+    "district_id": "51.01.01",
+    "name": "Tegal Badeng Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2010",
+    "district_id": "51.01.01",
+    "name": "Tegal Badeng Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2011",
+    "district_id": "51.01.01",
+    "name": "Pengambengan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.1006",
+    "district_id": "51.01.02",
+    "name": "Tegalcangkring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.02.2001",
+    "district_id": "51.01.02",
+    "name": "Mendoyo Dauh Tukad",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2002",
+    "district_id": "51.01.02",
+    "name": "Pohsanten",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2003",
+    "district_id": "51.01.02",
+    "name": "Mendoyo Dangin Tukad",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2004",
+    "district_id": "51.01.02",
+    "name": "Pergung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2005",
+    "district_id": "51.01.02",
+    "name": "Delodberawah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2007",
+    "district_id": "51.01.02",
+    "name": "Penyaringan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2008",
+    "district_id": "51.01.02",
+    "name": "Yehembang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2009",
+    "district_id": "51.01.02",
+    "name": "Yeh Sumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2010",
+    "district_id": "51.01.02",
+    "name": "Yehembang Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.02.2011",
+    "district_id": "51.01.02",
+    "name": "Yehembang Kangin",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2001",
+    "district_id": "51.01.03",
+    "name": "Medewi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2002",
+    "district_id": "51.01.03",
+    "name": "Pulukan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2003",
+    "district_id": "51.01.03",
+    "name": "Asahduren",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2004",
+    "district_id": "51.01.03",
+    "name": "Pekutatan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2005",
+    "district_id": "51.01.03",
+    "name": "Pangyangan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2006",
+    "district_id": "51.01.03",
+    "name": "Gumbrih",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2007",
+    "district_id": "51.01.03",
+    "name": "Manggissari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.03.2008",
+    "district_id": "51.01.03",
+    "name": "Pengeragoan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.1001",
+    "district_id": "51.01.04",
+    "name": "Gilimanuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.04.2002",
+    "district_id": "51.01.04",
+    "name": "Melaya",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2003",
+    "district_id": "51.01.04",
+    "name": "Belimbingsari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2004",
+    "district_id": "51.01.04",
+    "name": "Ekasari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2005",
+    "district_id": "51.01.04",
+    "name": "Nusasari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2006",
+    "district_id": "51.01.04",
+    "name": "Warnasari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2007",
+    "district_id": "51.01.04",
+    "name": "Candikusuma",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2008",
+    "district_id": "51.01.04",
+    "name": "Tuwed",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2009",
+    "district_id": "51.01.04",
+    "name": "Tukadaya",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.04.2010",
+    "district_id": "51.01.04",
+    "name": "Manistutu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.1001",
+    "district_id": "51.01.05",
+    "name": "Pendem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1003",
+    "district_id": "51.01.05",
+    "name": "Loloan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1005",
+    "district_id": "51.01.05",
+    "name": "Dauhwaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1009",
+    "district_id": "51.01.05",
+    "name": "Sangkaragung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.2002",
+    "district_id": "51.01.05",
+    "name": "Perancak",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2004",
+    "district_id": "51.01.05",
+    "name": "Batu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2006",
+    "district_id": "51.01.05",
+    "name": "Budeng",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2007",
+    "district_id": "51.01.05",
+    "name": "Air Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2008",
+    "district_id": "51.01.05",
+    "name": "Yehkuning",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2010",
+    "district_id": "51.01.05",
+    "name": "Dangintukadaya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "53.20.01.1001",
+    "district_id": "53.20.01",
+    "name": "Mebba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.01.2002",
+    "district_id": "53.20.01",
+    "name": "Menia",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2003",
+    "district_id": "53.20.01",
+    "name": "Raeloro",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2004",
+    "district_id": "53.20.01",
+    "name": "Naawawi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2005",
+    "district_id": "53.20.01",
+    "name": "Teriwu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2006",
+    "district_id": "53.20.01",
+    "name": "Raenalulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2007",
+    "district_id": "53.20.01",
+    "name": "Raedewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2008",
+    "district_id": "53.20.01",
+    "name": "Ledeana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2009",
+    "district_id": "53.20.01",
+    "name": "Depe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2010",
+    "district_id": "53.20.01",
+    "name": "Raemude",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2011",
+    "district_id": "53.20.01",
+    "name": "Raekore",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2012",
+    "district_id": "53.20.01",
+    "name": "Raenyale",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2013",
+    "district_id": "53.20.01",
+    "name": "Raemadia",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2014",
+    "district_id": "53.20.01",
+    "name": "Delo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2015",
+    "district_id": "53.20.01",
+    "name": "Roboaba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2016",
+    "district_id": "53.20.01",
+    "name": "Djadu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2017",
+    "district_id": "53.20.01",
+    "name": "Ledekepaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.01.2018",
+    "district_id": "53.20.01",
+    "name": "Titinalede",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2001",
+    "district_id": "53.20.02",
+    "name": "Bebae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2002",
+    "district_id": "53.20.02",
+    "name": "Tada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2003",
+    "district_id": "53.20.02",
+    "name": "Matei",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2004",
+    "district_id": "53.20.02",
+    "name": "Loboaju",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2005",
+    "district_id": "53.20.02",
+    "name": "Eimadake",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2006",
+    "district_id": "53.20.02",
+    "name": "Jiwuwu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2007",
+    "district_id": "53.20.02",
+    "name": "Eilode",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2008",
+    "district_id": "53.20.02",
+    "name": "Eimau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.1001",
+    "district_id": "53.20.03",
+    "name": "Bolou",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.03.1002",
+    "district_id": "53.20.03",
+    "name": "Limaggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.03.2003",
+    "district_id": "53.20.03",
+    "name": "Lobodei",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2004",
+    "district_id": "53.20.03",
+    "name": "Bodae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2005",
+    "district_id": "53.20.03",
+    "name": "Keduru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2006",
+    "district_id": "53.20.03",
+    "name": "Kuji Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2007",
+    "district_id": "53.20.03",
+    "name": "Loborai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2008",
+    "district_id": "53.20.03",
+    "name": "Huwaga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2009",
+    "district_id": "53.20.03",
+    "name": "Eiada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2010",
+    "district_id": "53.20.03",
+    "name": "Keliha",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2001",
+    "district_id": "53.20.04",
+    "name": "Raerobo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2002",
+    "district_id": "53.20.04",
+    "name": "Mehona",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2003",
+    "district_id": "53.20.04",
+    "name": "Waduwalla",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2004",
+    "district_id": "53.20.04",
+    "name": "Ledeke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2005",
+    "district_id": "53.20.04",
+    "name": "Eilogo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2006",
+    "district_id": "53.20.04",
+    "name": "Deme",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2007",
+    "district_id": "53.20.04",
+    "name": "Kotahawu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2008",
+    "district_id": "53.20.04",
+    "name": "Dainao",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2009",
+    "district_id": "53.20.04",
+    "name": "Eikare",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2010",
+    "district_id": "53.20.04",
+    "name": "Loborui",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2011",
+    "district_id": "53.20.04",
+    "name": "Halla Paji",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.04.2012",
+    "district_id": "53.20.04",
+    "name": "Ledetalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2001",
+    "district_id": "53.20.05",
+    "name": "Lobohede",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2002",
+    "district_id": "53.20.05",
+    "name": "Molie",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2003",
+    "district_id": "53.20.05",
+    "name": "Daieko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2004",
+    "district_id": "53.20.05",
+    "name": "Pedarro",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2005",
+    "district_id": "53.20.05",
+    "name": "Tanajawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2006",
+    "district_id": "53.20.05",
+    "name": "Ledeae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2007",
+    "district_id": "53.20.05",
+    "name": "Wadumaddi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2008",
+    "district_id": "53.20.05",
+    "name": "Lederaga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2009",
+    "district_id": "53.20.05",
+    "name": "Gurimonearu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2010",
+    "district_id": "53.20.05",
+    "name": "Ramedue",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.06.1001",
+    "district_id": "53.20.06",
+    "name": "Ledeke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.06.1002",
+    "district_id": "53.20.06",
+    "name": "Ledeunu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.06.2003",
+    "district_id": "53.20.06",
+    "name": "Bolua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.06.2004",
+    "district_id": "53.20.06",
+    "name": "Kolorae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.06.2005",
+    "district_id": "53.20.06",
+    "name": "Ballu",
+    "type": "DESA"
+  }
+]

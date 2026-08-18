@@ -1,116 +1,116 @@
 [
   {
-    "id": "1101",
-    "province_id": "11",
-    "name": "Kabupaten Simeulue"
-  },
-  {
-    "id": "1102",
-    "province_id": "11",
-    "name": "Kabupaten Aceh Singkil"
-  },
-  {
-    "id": "1103",
+    "id": "11.01",
     "province_id": "11",
     "name": "Kabupaten Aceh Selatan"
   },
   {
-    "id": "1104",
+    "id": "11.02",
     "province_id": "11",
     "name": "Kabupaten Aceh Tenggara"
   },
   {
-    "id": "1105",
+    "id": "11.03",
     "province_id": "11",
     "name": "Kabupaten Aceh Timur"
   },
   {
-    "id": "1106",
+    "id": "11.04",
     "province_id": "11",
     "name": "Kabupaten Aceh Tengah"
   },
   {
-    "id": "1107",
+    "id": "11.05",
     "province_id": "11",
     "name": "Kabupaten Aceh Barat"
   },
   {
-    "id": "1108",
+    "id": "11.06",
     "province_id": "11",
     "name": "Kabupaten Aceh Besar"
   },
   {
-    "id": "1109",
+    "id": "11.07",
     "province_id": "11",
     "name": "Kabupaten Pidie"
   },
   {
-    "id": "1110",
-    "province_id": "11",
-    "name": "Kabupaten Bireuen"
-  },
-  {
-    "id": "1111",
+    "id": "11.08",
     "province_id": "11",
     "name": "Kabupaten Aceh Utara"
   },
   {
-    "id": "1112",
+    "id": "11.09",
+    "province_id": "11",
+    "name": "Kabupaten Simeulue"
+  },
+  {
+    "id": "11.1",
+    "province_id": "11",
+    "name": "Kabupaten Aceh Singkil"
+  },
+  {
+    "id": "11.11",
+    "province_id": "11",
+    "name": "Kabupaten Bireuen"
+  },
+  {
+    "id": "11.12",
     "province_id": "11",
     "name": "Kabupaten Aceh Barat Daya"
   },
   {
-    "id": "1113",
+    "id": "11.13",
     "province_id": "11",
     "name": "Kabupaten Gayo Lues"
   },
   {
-    "id": "1114",
-    "province_id": "11",
-    "name": "Kabupaten Aceh Tamiang"
-  },
-  {
-    "id": "1115",
-    "province_id": "11",
-    "name": "Kabupaten Nagan Raya"
-  },
-  {
-    "id": "1116",
+    "id": "11.14",
     "province_id": "11",
     "name": "Kabupaten Aceh Jaya"
   },
   {
-    "id": "1117",
+    "id": "11.15",
+    "province_id": "11",
+    "name": "Kabupaten Nagan Raya"
+  },
+  {
+    "id": "11.16",
+    "province_id": "11",
+    "name": "Kabupaten Aceh Tamiang"
+  },
+  {
+    "id": "11.17",
     "province_id": "11",
     "name": "Kabupaten Bener Meriah"
   },
   {
-    "id": "1118",
+    "id": "11.18",
     "province_id": "11",
     "name": "Kabupaten Pidie Jaya"
   },
   {
-    "id": "1171",
+    "id": "11.71",
     "province_id": "11",
     "name": "Kota Banda Aceh"
   },
   {
-    "id": "1172",
+    "id": "11.72",
     "province_id": "11",
     "name": "Kota Sabang"
   },
   {
-    "id": "1173",
-    "province_id": "11",
-    "name": "Kota Langsa"
-  },
-  {
-    "id": "1174",
+    "id": "11.73",
     "province_id": "11",
     "name": "Kota Lhokseumawe"
   },
   {
-    "id": "1175",
+    "id": "11.74",
+    "province_id": "11",
+    "name": "Kota Langsa"
+  },
+  {
+    "id": "11.75",
     "province_id": "11",
     "name": "Kota Subulussalam"
   }

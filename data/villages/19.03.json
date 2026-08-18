@@ -1,0 +1,320 @@
+[
+  {
+    "id": "19.03.01.1001",
+    "district_id": "19.03.01",
+    "name": "Toboali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.1002",
+    "district_id": "19.03.01",
+    "name": "Teladan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.1003",
+    "district_id": "19.03.01",
+    "name": "Tanjung Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.2004",
+    "district_id": "19.03.01",
+    "name": "Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2005",
+    "district_id": "19.03.01",
+    "name": "Jeriji",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2006",
+    "district_id": "19.03.01",
+    "name": "Bikang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2007",
+    "district_id": "19.03.01",
+    "name": "Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2008",
+    "district_id": "19.03.01",
+    "name": "Rias",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2010",
+    "district_id": "19.03.01",
+    "name": "Kepoh",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2012",
+    "district_id": "19.03.01",
+    "name": "Keposang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2013",
+    "district_id": "19.03.01",
+    "name": "Rindik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.02.2001",
+    "district_id": "19.03.02",
+    "name": "Tanjung Labu",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.02.2002",
+    "district_id": "19.03.02",
+    "name": "Tanjung Sangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.02.2004",
+    "district_id": "19.03.02",
+    "name": "Kumbung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.02.2005",
+    "district_id": "19.03.02",
+    "name": "Penutuk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2001",
+    "district_id": "19.03.03",
+    "name": "Airgegas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2002",
+    "district_id": "19.03.03",
+    "name": "Delas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2003",
+    "district_id": "19.03.03",
+    "name": "Pergam",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2004",
+    "district_id": "19.03.03",
+    "name": "Bencah",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2005",
+    "district_id": "19.03.03",
+    "name": "Nyelanding",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2006",
+    "district_id": "19.03.03",
+    "name": "Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2007",
+    "district_id": "19.03.03",
+    "name": "Ranggas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2008",
+    "district_id": "19.03.03",
+    "name": "Airbara",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2009",
+    "district_id": "19.03.03",
+    "name": "Sidoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.03.2010",
+    "district_id": "19.03.03",
+    "name": "Tepus",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2001",
+    "district_id": "19.03.04",
+    "name": "Jelutung II",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2002",
+    "district_id": "19.03.04",
+    "name": "Gudang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2003",
+    "district_id": "19.03.04",
+    "name": "Bangka Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2004",
+    "district_id": "19.03.04",
+    "name": "Rajik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2005",
+    "district_id": "19.03.04",
+    "name": "Sebagin",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2006",
+    "district_id": "19.03.04",
+    "name": "Simpang Rimba",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2007",
+    "district_id": "19.03.04",
+    "name": "Permis",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2001",
+    "district_id": "19.03.05",
+    "name": "Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2002",
+    "district_id": "19.03.05",
+    "name": "Malik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2003",
+    "district_id": "19.03.05",
+    "name": "Sengir",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2004",
+    "district_id": "19.03.05",
+    "name": "Pangkal Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2005",
+    "district_id": "19.03.05",
+    "name": "Irat",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2006",
+    "district_id": "19.03.05",
+    "name": "Bedengung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2008",
+    "district_id": "19.03.05",
+    "name": "Nadung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2009",
+    "district_id": "19.03.05",
+    "name": "Ranggung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2012",
+    "district_id": "19.03.05",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2001",
+    "district_id": "19.03.06",
+    "name": "Sadai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2002",
+    "district_id": "19.03.06",
+    "name": "Tukak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2003",
+    "district_id": "19.03.06",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2004",
+    "district_id": "19.03.06",
+    "name": "Tiram",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2005",
+    "district_id": "19.03.06",
+    "name": "Bukit Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.07.2001",
+    "district_id": "19.03.07",
+    "name": "Batu Betumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.07.2002",
+    "district_id": "19.03.07",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.07.2003",
+    "district_id": "19.03.07",
+    "name": "Panca Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.07.2004",
+    "district_id": "19.03.07",
+    "name": "Sumber Jaya Permai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.07.2005",
+    "district_id": "19.03.07",
+    "name": "Fajar Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.08.2001",
+    "district_id": "19.03.08",
+    "name": "Pongok",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.08.2002",
+    "district_id": "19.03.08",
+    "name": "Celagen",
+    "type": "DESA"
+  }
+]

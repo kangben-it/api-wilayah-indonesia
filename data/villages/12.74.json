@@ -1,0 +1,188 @@
+[
+  {
+    "id": "12.74.01.1001",
+    "district_id": "12.74.01",
+    "name": "Tanjungbalai Kota I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.01.1002",
+    "district_id": "12.74.01",
+    "name": "Tanjungbalai Kota II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.01.1003",
+    "district_id": "12.74.01",
+    "name": "Perwira",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.01.1004",
+    "district_id": "12.74.01",
+    "name": "Karya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.01.1005",
+    "district_id": "12.74.01",
+    "name": "Pantai Burung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.01.1006",
+    "district_id": "12.74.01",
+    "name": "Indra Sakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1001",
+    "district_id": "12.74.02",
+    "name": "Tanjungbalai Kota III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1002",
+    "district_id": "12.74.02",
+    "name": "Tanjungbalai Kota IV",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1003",
+    "district_id": "12.74.02",
+    "name": "Sejahtera",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1004",
+    "district_id": "12.74.02",
+    "name": "Kuala Silo Bestari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1005",
+    "district_id": "12.74.02",
+    "name": "Matahalasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.03.1001",
+    "district_id": "12.74.03",
+    "name": "Keramat Kubah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.03.1002",
+    "district_id": "12.74.03",
+    "name": "Sumber Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.03.1003",
+    "district_id": "12.74.03",
+    "name": "Muara Sentosa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.03.1004",
+    "district_id": "12.74.03",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.03.1005",
+    "district_id": "12.74.03",
+    "name": "Sei Raja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1001",
+    "district_id": "12.74.04",
+    "name": "Sei Merbau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1002",
+    "district_id": "12.74.04",
+    "name": "Pematang Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1003",
+    "district_id": "12.74.04",
+    "name": "Perjuangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1004",
+    "district_id": "12.74.04",
+    "name": "Kapias Pulau Buaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1005",
+    "district_id": "12.74.04",
+    "name": "Beting Kuala Kapias",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.05.1003",
+    "district_id": "12.74.05",
+    "name": "Gading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.05.1004",
+    "district_id": "12.74.05",
+    "name": "Sirantau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.05.1005",
+    "district_id": "12.74.05",
+    "name": "Sijambi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.05.1006",
+    "district_id": "12.74.05",
+    "name": "Pahang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.05.1010",
+    "district_id": "12.74.05",
+    "name": "Pantai Johor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1001",
+    "district_id": "12.74.06",
+    "name": "Pulau Simardan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1002",
+    "district_id": "12.74.06",
+    "name": "Semula Jadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1003",
+    "district_id": "12.74.06",
+    "name": "Selat Lancang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1004",
+    "district_id": "12.74.06",
+    "name": "Bunga Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1005",
+    "district_id": "12.74.06",
+    "name": "Selat Tanjung Medan",
+    "type": "KELURAHAN"
+  }
+]

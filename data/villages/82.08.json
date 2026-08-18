@@ -1,0 +1,428 @@
+[
+  {
+    "id": "82.08.01.2001",
+    "district_id": "82.08.01",
+    "name": "Bobong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2002",
+    "district_id": "82.08.01",
+    "name": "Talo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2003",
+    "district_id": "82.08.01",
+    "name": "Kawalo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2004",
+    "district_id": "82.08.01",
+    "name": "Limbo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2005",
+    "district_id": "82.08.01",
+    "name": "Meranti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2006",
+    "district_id": "82.08.01",
+    "name": "Kramat",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2007",
+    "district_id": "82.08.01",
+    "name": "Holbota",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2008",
+    "district_id": "82.08.01",
+    "name": "Pancoran",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2009",
+    "district_id": "82.08.01",
+    "name": "Wayo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2010",
+    "district_id": "82.08.01",
+    "name": "Loho Bubba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2011",
+    "district_id": "82.08.01",
+    "name": "Kilong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2012",
+    "district_id": "82.08.01",
+    "name": "Ratahaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.01.2013",
+    "district_id": "82.08.01",
+    "name": "Woyo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2001",
+    "district_id": "82.08.02",
+    "name": "Nggele",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2002",
+    "district_id": "82.08.02",
+    "name": "Salati",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2003",
+    "district_id": "82.08.02",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2004",
+    "district_id": "82.08.02",
+    "name": "Kasango",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2005",
+    "district_id": "82.08.02",
+    "name": "Onemay",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.03.2001",
+    "district_id": "82.08.03",
+    "name": "Lede",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.03.2002",
+    "district_id": "82.08.03",
+    "name": "Todoli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.03.2003",
+    "district_id": "82.08.03",
+    "name": "Tolong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.03.2004",
+    "district_id": "82.08.03",
+    "name": "Langganu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.03.2005",
+    "district_id": "82.08.03",
+    "name": "Balohang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2001",
+    "district_id": "82.08.04",
+    "name": "Mananga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2002",
+    "district_id": "82.08.04",
+    "name": "Tanjung Una",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2003",
+    "district_id": "82.08.04",
+    "name": "Jorjoga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2004",
+    "district_id": "82.08.04",
+    "name": "Gela",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2005",
+    "district_id": "82.08.04",
+    "name": "Minton",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2006",
+    "district_id": "82.08.04",
+    "name": "Nunca",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2007",
+    "district_id": "82.08.04",
+    "name": "Sahu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2008",
+    "district_id": "82.08.04",
+    "name": "Bua Mbono",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2009",
+    "district_id": "82.08.04",
+    "name": "Hai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2010",
+    "district_id": "82.08.04",
+    "name": "Tikong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2011",
+    "district_id": "82.08.04",
+    "name": "Dege",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2012",
+    "district_id": "82.08.04",
+    "name": "Air Bulan",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2013",
+    "district_id": "82.08.04",
+    "name": "Air Kalimat",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2014",
+    "district_id": "82.08.04",
+    "name": "Ufung",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2015",
+    "district_id": "82.08.04",
+    "name": "Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2016",
+    "district_id": "82.08.04",
+    "name": "Natang Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2017",
+    "district_id": "82.08.04",
+    "name": "Nunu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2018",
+    "district_id": "82.08.04",
+    "name": "London",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.04.2019",
+    "district_id": "82.08.04",
+    "name": "Wahe",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.05.2001",
+    "district_id": "82.08.05",
+    "name": "Penu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.05.2002",
+    "district_id": "82.08.05",
+    "name": "Parigi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.05.2003",
+    "district_id": "82.08.05",
+    "name": "Samuya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.05.2004",
+    "district_id": "82.08.05",
+    "name": "Tubang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2001",
+    "district_id": "82.08.06",
+    "name": "Waikadai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2002",
+    "district_id": "82.08.06",
+    "name": "Losseng",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2003",
+    "district_id": "82.08.06",
+    "name": "Kawadang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2004",
+    "district_id": "82.08.06",
+    "name": "Sofan",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2005",
+    "district_id": "82.08.06",
+    "name": "Mantarara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2006",
+    "district_id": "82.08.06",
+    "name": "Belo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2007",
+    "district_id": "82.08.06",
+    "name": "Kamaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2008",
+    "district_id": "82.08.06",
+    "name": "Waikoka",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.06.2009",
+    "district_id": "82.08.06",
+    "name": "Waikadai Sula",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2001",
+    "district_id": "82.08.07",
+    "name": "Bahu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2002",
+    "district_id": "82.08.07",
+    "name": "Bapenu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2003",
+    "district_id": "82.08.07",
+    "name": "Kilo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2004",
+    "district_id": "82.08.07",
+    "name": "Pancado",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2005",
+    "district_id": "82.08.07",
+    "name": "Nggaki",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2006",
+    "district_id": "82.08.07",
+    "name": "Sumbong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2007",
+    "district_id": "82.08.07",
+    "name": "Maluli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2008",
+    "district_id": "82.08.07",
+    "name": "Galebo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.07.2009",
+    "district_id": "82.08.07",
+    "name": "Nggoli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2001",
+    "district_id": "82.08.08",
+    "name": "Tabona",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2002",
+    "district_id": "82.08.08",
+    "name": "Kabunu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2003",
+    "district_id": "82.08.08",
+    "name": "Peleng",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2004",
+    "district_id": "82.08.08",
+    "name": "Fayaunana",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2005",
+    "district_id": "82.08.08",
+    "name": "Habunuha",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2006",
+    "district_id": "82.08.08",
+    "name": "Kataga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.08.2007",
+    "district_id": "82.08.08",
+    "name": "Wolio",
+    "type": "DESA"
+  }
+]

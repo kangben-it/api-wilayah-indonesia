@@ -1,0 +1,404 @@
+[
+  {
+    "id": "36.73.01.1001",
+    "district_id": "36.73.01",
+    "name": "Serang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1002",
+    "district_id": "36.73.01",
+    "name": "Cipare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1003",
+    "district_id": "36.73.01",
+    "name": "Sumur Pecung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1004",
+    "district_id": "36.73.01",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1005",
+    "district_id": "36.73.01",
+    "name": "Lopang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1006",
+    "district_id": "36.73.01",
+    "name": "Cimuncang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1007",
+    "district_id": "36.73.01",
+    "name": "Unyur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1008",
+    "district_id": "36.73.01",
+    "name": "Sukawana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1009",
+    "district_id": "36.73.01",
+    "name": "Lontarbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1010",
+    "district_id": "36.73.01",
+    "name": "Kaligandu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1011",
+    "district_id": "36.73.01",
+    "name": "Terondol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.01.1012",
+    "district_id": "36.73.01",
+    "name": "Kagungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1001",
+    "district_id": "36.73.02",
+    "name": "Kasemen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1002",
+    "district_id": "36.73.02",
+    "name": "Mesjid Priyayi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1003",
+    "district_id": "36.73.02",
+    "name": "Terumbu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1004",
+    "district_id": "36.73.02",
+    "name": "Warung Jaud",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1006",
+    "district_id": "36.73.02",
+    "name": "Bendung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1007",
+    "district_id": "36.73.02",
+    "name": "Banten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1008",
+    "district_id": "36.73.02",
+    "name": "Sawah Luhur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1009",
+    "district_id": "36.73.02",
+    "name": "Kilasah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1010",
+    "district_id": "36.73.02",
+    "name": "Kasunyatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.02.1011",
+    "district_id": "36.73.02",
+    "name": "Margaluyu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1001",
+    "district_id": "36.73.03",
+    "name": "Walantaka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1002",
+    "district_id": "36.73.03",
+    "name": "Cigoong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1003",
+    "district_id": "36.73.03",
+    "name": "Nyapah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1004",
+    "district_id": "36.73.03",
+    "name": "Pangampelan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1006",
+    "district_id": "36.73.03",
+    "name": "Kiara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1007",
+    "district_id": "36.73.03",
+    "name": "Pager Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1008",
+    "district_id": "36.73.03",
+    "name": "Kalodran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1009",
+    "district_id": "36.73.03",
+    "name": "Kapuren",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1010",
+    "district_id": "36.73.03",
+    "name": "Teritih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1011",
+    "district_id": "36.73.03",
+    "name": "Pabuaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1012",
+    "district_id": "36.73.03",
+    "name": "Pasuluhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1013",
+    "district_id": "36.73.03",
+    "name": "Tegalsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1014",
+    "district_id": "36.73.03",
+    "name": "Pipitan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.03.1016",
+    "district_id": "36.73.03",
+    "name": "Lebakwangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1001",
+    "district_id": "36.73.04",
+    "name": "Curug",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1002",
+    "district_id": "36.73.04",
+    "name": "Tinggar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1003",
+    "district_id": "36.73.04",
+    "name": "Kemanisan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1004",
+    "district_id": "36.73.04",
+    "name": "Cipete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1005",
+    "district_id": "36.73.04",
+    "name": "Cilaku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1006",
+    "district_id": "36.73.04",
+    "name": "Pancalaksana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1007",
+    "district_id": "36.73.04",
+    "name": "Sukawana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1008",
+    "district_id": "36.73.04",
+    "name": "Sukalaksana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1009",
+    "district_id": "36.73.04",
+    "name": "Curug Manis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.04.1010",
+    "district_id": "36.73.04",
+    "name": "Sukajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1001",
+    "district_id": "36.73.05",
+    "name": "Cipocok Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1002",
+    "district_id": "36.73.05",
+    "name": "Karundang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1003",
+    "district_id": "36.73.05",
+    "name": "Panancangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1004",
+    "district_id": "36.73.05",
+    "name": "Banjar Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1005",
+    "district_id": "36.73.05",
+    "name": "Banjarsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1006",
+    "district_id": "36.73.05",
+    "name": "Tembong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1007",
+    "district_id": "36.73.05",
+    "name": "Dalung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.05.1008",
+    "district_id": "36.73.05",
+    "name": "Gelam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1001",
+    "district_id": "36.73.06",
+    "name": "Taktakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1002",
+    "district_id": "36.73.06",
+    "name": "Sayar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1003",
+    "district_id": "36.73.06",
+    "name": "Pancur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1004",
+    "district_id": "36.73.06",
+    "name": "Kuranji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1005",
+    "district_id": "36.73.06",
+    "name": "Kalanganyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1006",
+    "district_id": "36.73.06",
+    "name": "Cilowong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1007",
+    "district_id": "36.73.06",
+    "name": "Panggungjati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1008",
+    "district_id": "36.73.06",
+    "name": "Drangong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1009",
+    "district_id": "36.73.06",
+    "name": "Umbul Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1010",
+    "district_id": "36.73.06",
+    "name": "Sepang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1011",
+    "district_id": "36.73.06",
+    "name": "Lialang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1012",
+    "district_id": "36.73.06",
+    "name": "Taman Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.73.06.1013",
+    "district_id": "36.73.06",
+    "name": "Cibendung",
+    "type": "KELURAHAN"
+  }
+]

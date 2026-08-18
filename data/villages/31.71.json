@@ -1,0 +1,266 @@
+[
+  {
+    "id": "31.71.01.1001",
+    "district_id": "31.71.01",
+    "name": "Gambir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1002",
+    "district_id": "31.71.01",
+    "name": "Cideng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1003",
+    "district_id": "31.71.01",
+    "name": "Petojo Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1004",
+    "district_id": "31.71.01",
+    "name": "Petojo Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1005",
+    "district_id": "31.71.01",
+    "name": "Kebon Kelapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1006",
+    "district_id": "31.71.01",
+    "name": "Duri Pulo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1001",
+    "district_id": "31.71.02",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1002",
+    "district_id": "31.71.02",
+    "name": "Karang Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1003",
+    "district_id": "31.71.02",
+    "name": "Kartini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1004",
+    "district_id": "31.71.02",
+    "name": "Gunung Sahari Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1005",
+    "district_id": "31.71.02",
+    "name": "Mangga Dua Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1001",
+    "district_id": "31.71.03",
+    "name": "Kemayoran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1002",
+    "district_id": "31.71.03",
+    "name": "Kebon Kosong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1003",
+    "district_id": "31.71.03",
+    "name": "Harapan Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1004",
+    "district_id": "31.71.03",
+    "name": "Serdang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1005",
+    "district_id": "31.71.03",
+    "name": "Gunung Sahari Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1006",
+    "district_id": "31.71.03",
+    "name": "Cempaka Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1007",
+    "district_id": "31.71.03",
+    "name": "Sumur Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.03.1008",
+    "district_id": "31.71.03",
+    "name": "Utan Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1001",
+    "district_id": "31.71.04",
+    "name": "Senen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1002",
+    "district_id": "31.71.04",
+    "name": "Kenari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1003",
+    "district_id": "31.71.04",
+    "name": "Paseban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1004",
+    "district_id": "31.71.04",
+    "name": "Kramat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1005",
+    "district_id": "31.71.04",
+    "name": "Kwitang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.04.1006",
+    "district_id": "31.71.04",
+    "name": "Bungur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.05.1001",
+    "district_id": "31.71.05",
+    "name": "Cempaka Putih Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.05.1002",
+    "district_id": "31.71.05",
+    "name": "Cempaka Putih Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.05.1003",
+    "district_id": "31.71.05",
+    "name": "Rawasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1001",
+    "district_id": "31.71.06",
+    "name": "Menteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1002",
+    "district_id": "31.71.06",
+    "name": "Pegangsaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1003",
+    "district_id": "31.71.06",
+    "name": "Cikini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1004",
+    "district_id": "31.71.06",
+    "name": "Gondangdia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1005",
+    "district_id": "31.71.06",
+    "name": "Kebon Sirih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1001",
+    "district_id": "31.71.07",
+    "name": "Gelora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1002",
+    "district_id": "31.71.07",
+    "name": "Bendungan Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1003",
+    "district_id": "31.71.07",
+    "name": "Karet Tengsin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1004",
+    "district_id": "31.71.07",
+    "name": "Petamburan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1005",
+    "district_id": "31.71.07",
+    "name": "Kebon Melati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1006",
+    "district_id": "31.71.07",
+    "name": "Kebon Kacang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.07.1007",
+    "district_id": "31.71.07",
+    "name": "Kampung Bali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1001",
+    "district_id": "31.71.08",
+    "name": "Johar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1002",
+    "district_id": "31.71.08",
+    "name": "Kampung Rawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1003",
+    "district_id": "31.71.08",
+    "name": "Galur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1004",
+    "district_id": "31.71.08",
+    "name": "Tanah Tinggi",
+    "type": "KELURAHAN"
+  }
+]

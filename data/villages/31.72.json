@@ -1,0 +1,188 @@
+[
+  {
+    "id": "31.72.01.1001",
+    "district_id": "31.72.01",
+    "name": "Penjaringan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.01.1002",
+    "district_id": "31.72.01",
+    "name": "Kamal Muara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.01.1003",
+    "district_id": "31.72.01",
+    "name": "Kapuk Muara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.01.1004",
+    "district_id": "31.72.01",
+    "name": "Pejagalan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.01.1005",
+    "district_id": "31.72.01",
+    "name": "Pluit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1001",
+    "district_id": "31.72.02",
+    "name": "Tanjung Priok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1002",
+    "district_id": "31.72.02",
+    "name": "Sunter Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1003",
+    "district_id": "31.72.02",
+    "name": "Papanggo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1004",
+    "district_id": "31.72.02",
+    "name": "Sungai Bambu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1005",
+    "district_id": "31.72.02",
+    "name": "Kebon Bawang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1006",
+    "district_id": "31.72.02",
+    "name": "Sunter Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1007",
+    "district_id": "31.72.02",
+    "name": "Warakas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1001",
+    "district_id": "31.72.03",
+    "name": "Koja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1002",
+    "district_id": "31.72.03",
+    "name": "Tugu Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1003",
+    "district_id": "31.72.03",
+    "name": "Lagoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1004",
+    "district_id": "31.72.03",
+    "name": "Rawa Badak Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1005",
+    "district_id": "31.72.03",
+    "name": "Tugu Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.03.1006",
+    "district_id": "31.72.03",
+    "name": "Rawa Badak Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1001",
+    "district_id": "31.72.04",
+    "name": "Cilincing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1002",
+    "district_id": "31.72.04",
+    "name": "Sukapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1003",
+    "district_id": "31.72.04",
+    "name": "Marunda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1004",
+    "district_id": "31.72.04",
+    "name": "Kalibaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1005",
+    "district_id": "31.72.04",
+    "name": "Semper Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1006",
+    "district_id": "31.72.04",
+    "name": "Rorotan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1007",
+    "district_id": "31.72.04",
+    "name": "Semper Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.05.1001",
+    "district_id": "31.72.05",
+    "name": "Pademangan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.05.1002",
+    "district_id": "31.72.05",
+    "name": "Pademangan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.05.1003",
+    "district_id": "31.72.05",
+    "name": "Ancol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.06.1001",
+    "district_id": "31.72.06",
+    "name": "Kelapa Gading Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.06.1002",
+    "district_id": "31.72.06",
+    "name": "Pegangsaan Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.06.1003",
+    "district_id": "31.72.06",
+    "name": "Kelapa Gading Barat",
+    "type": "KELURAHAN"
+  }
+]

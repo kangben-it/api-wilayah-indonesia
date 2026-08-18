@@ -1,0 +1,758 @@
+[
+  {
+    "id": "18.71.01.1003",
+    "district_id": "18.71.01",
+    "name": "Kedaton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1004",
+    "district_id": "18.71.01",
+    "name": "Surabaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1005",
+    "district_id": "18.71.01",
+    "name": "Sukamenanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1006",
+    "district_id": "18.71.01",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1009",
+    "district_id": "18.71.01",
+    "name": "Sukamenanti Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1010",
+    "district_id": "18.71.01",
+    "name": "Penengahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1012",
+    "district_id": "18.71.01",
+    "name": "Penengahan Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1003",
+    "district_id": "18.71.02",
+    "name": "Sukarame",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1004",
+    "district_id": "18.71.02",
+    "name": "Way Dadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1006",
+    "district_id": "18.71.02",
+    "name": "Sukarame Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1007",
+    "district_id": "18.71.02",
+    "name": "Way Dadi Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1008",
+    "district_id": "18.71.02",
+    "name": "Korpri jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.02.1009",
+    "district_id": "18.71.02",
+    "name": "Korpri Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1001",
+    "district_id": "18.71.03",
+    "name": "Gedong Air",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1002",
+    "district_id": "18.71.03",
+    "name": "Sukajawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1004",
+    "district_id": "18.71.03",
+    "name": "Susunan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1006",
+    "district_id": "18.71.03",
+    "name": "Sukadana Ham",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1008",
+    "district_id": "18.71.03",
+    "name": "Kelapa Tiga Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1010",
+    "district_id": "18.71.03",
+    "name": "Sukajawa Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.03.1011",
+    "district_id": "18.71.03",
+    "name": "Segalamider",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1001",
+    "district_id": "18.71.04",
+    "name": "Panjang Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1002",
+    "district_id": "18.71.04",
+    "name": "Srengsem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1003",
+    "district_id": "18.71.04",
+    "name": "Panjang Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1004",
+    "district_id": "18.71.04",
+    "name": "Pidada",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1007",
+    "district_id": "18.71.04",
+    "name": "Karang Maritim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1008",
+    "district_id": "18.71.04",
+    "name": "Way Lunik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1009",
+    "district_id": "18.71.04",
+    "name": "Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.04.1010",
+    "district_id": "18.71.04",
+    "name": "Ketapang Kuala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.05.1002",
+    "district_id": "18.71.05",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.05.1003",
+    "district_id": "18.71.05",
+    "name": "Tanjung Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.05.1004",
+    "district_id": "18.71.05",
+    "name": "Kebon Jeruk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.05.1005",
+    "district_id": "18.71.05",
+    "name": "Sawah Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.05.1006",
+    "district_id": "18.71.05",
+    "name": "Sawah Brebes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1001",
+    "district_id": "18.71.06",
+    "name": "Durian Payung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1002",
+    "district_id": "18.71.06",
+    "name": "Gotong Royong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1005",
+    "district_id": "18.71.06",
+    "name": "Palapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1006",
+    "district_id": "18.71.06",
+    "name": "Kaliawi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1007",
+    "district_id": "18.71.06",
+    "name": "Kelapa Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1010",
+    "district_id": "18.71.06",
+    "name": "Pasir Gintung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.06.1012",
+    "district_id": "18.71.06",
+    "name": "Kaliawi Persada",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1001",
+    "district_id": "18.71.07",
+    "name": "Pesawahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1002",
+    "district_id": "18.71.07",
+    "name": "Telukbetung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1008",
+    "district_id": "18.71.07",
+    "name": "Talang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1009",
+    "district_id": "18.71.07",
+    "name": "Gedong Pakuon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1012",
+    "district_id": "18.71.07",
+    "name": "Sumur Putri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.07.1013",
+    "district_id": "18.71.07",
+    "name": "Gunungmas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.08.1005",
+    "district_id": "18.71.08",
+    "name": "Bakung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.08.1006",
+    "district_id": "18.71.08",
+    "name": "Kuripan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.08.1007",
+    "district_id": "18.71.08",
+    "name": "Negeri Olok Gading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.08.1008",
+    "district_id": "18.71.08",
+    "name": "Sukarame II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.08.1009",
+    "district_id": "18.71.08",
+    "name": "Batu Putuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1001",
+    "district_id": "18.71.09",
+    "name": "Kupang Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1003",
+    "district_id": "18.71.09",
+    "name": "Kupang Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1004",
+    "district_id": "18.71.09",
+    "name": "Kupang Teba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1006",
+    "district_id": "18.71.09",
+    "name": "Pengajaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1007",
+    "district_id": "18.71.09",
+    "name": "Gulak Galik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.09.1008",
+    "district_id": "18.71.09",
+    "name": "Sumur Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1001",
+    "district_id": "18.71.10",
+    "name": "Rajabasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1002",
+    "district_id": "18.71.10",
+    "name": "Gedong Meneng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1005",
+    "district_id": "18.71.10",
+    "name": "Rajabasa Nunyai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1006",
+    "district_id": "18.71.10",
+    "name": "Rajabasa Pemuka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1007",
+    "district_id": "18.71.10",
+    "name": "Gedong Meneng Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1008",
+    "district_id": "18.71.10",
+    "name": "Rajabasa Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1009",
+    "district_id": "18.71.10",
+    "name": "Rajabasa Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1001",
+    "district_id": "18.71.11",
+    "name": "Tanjung Senang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1002",
+    "district_id": "18.71.11",
+    "name": "Way Kandis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1003",
+    "district_id": "18.71.11",
+    "name": "Labuhan Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1004",
+    "district_id": "18.71.11",
+    "name": "Perumnas Way Kandis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1005",
+    "district_id": "18.71.11",
+    "name": "Pematang Wangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1002",
+    "district_id": "18.71.12",
+    "name": "Sukabumi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1004",
+    "district_id": "18.71.12",
+    "name": "Sukabumi Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1007",
+    "district_id": "18.71.12",
+    "name": "Campang Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1008",
+    "district_id": "18.71.12",
+    "name": "Nusantara Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1009",
+    "district_id": "18.71.12",
+    "name": "Campang Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1010",
+    "district_id": "18.71.12",
+    "name": "Way Gubak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.12.1011",
+    "district_id": "18.71.12",
+    "name": "Way Laga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1001",
+    "district_id": "18.71.13",
+    "name": "Sumber Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1003",
+    "district_id": "18.71.13",
+    "name": "Beringin Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1004",
+    "district_id": "18.71.13",
+    "name": "Kemiling Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1005",
+    "district_id": "18.71.13",
+    "name": "Sumber Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1006",
+    "district_id": "18.71.13",
+    "name": "Kedaung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1007",
+    "district_id": "18.71.13",
+    "name": "Pinang Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1008",
+    "district_id": "18.71.13",
+    "name": "Sumberrejo Sejahtera",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1009",
+    "district_id": "18.71.13",
+    "name": "Kemiling Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.13.1010",
+    "district_id": "18.71.13",
+    "name": "Beringin Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1001",
+    "district_id": "18.71.14",
+    "name": "Labuhan Ratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1002",
+    "district_id": "18.71.14",
+    "name": "Labuhan Ratu Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1003",
+    "district_id": "18.71.14",
+    "name": "Sepang Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1004",
+    "district_id": "18.71.14",
+    "name": "Kota Sepang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1006",
+    "district_id": "18.71.14",
+    "name": "Kampung Baru Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.14.1007",
+    "district_id": "18.71.14",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1001",
+    "district_id": "18.71.15",
+    "name": "Perumnas Way Halim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1002",
+    "district_id": "18.71.15",
+    "name": "Way Halim Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1003",
+    "district_id": "18.71.15",
+    "name": "Gunungsulah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1004",
+    "district_id": "18.71.15",
+    "name": "Jagabaya I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1005",
+    "district_id": "18.71.15",
+    "name": "Jagabaya II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.15.1006",
+    "district_id": "18.71.15",
+    "name": "Jagabaya III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1001",
+    "district_id": "18.71.16",
+    "name": "Langkapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1002",
+    "district_id": "18.71.16",
+    "name": "Langkapura Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1003",
+    "district_id": "18.71.16",
+    "name": "Gunungterang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1005",
+    "district_id": "18.71.16",
+    "name": "Bilabong Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1006",
+    "district_id": "18.71.16",
+    "name": "Gunungagung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1001",
+    "district_id": "18.71.17",
+    "name": "Enggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1002",
+    "district_id": "18.71.17",
+    "name": "Pelita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1003",
+    "district_id": "18.71.17",
+    "name": "Tanjungkarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1004",
+    "district_id": "18.71.17",
+    "name": "Gunungsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1005",
+    "district_id": "18.71.17",
+    "name": "Rawalaut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1006",
+    "district_id": "18.71.17",
+    "name": "Pahoman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1001",
+    "district_id": "18.71.18",
+    "name": "Kedamaian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1002",
+    "district_id": "18.71.18",
+    "name": "Bumi Kedamaian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1003",
+    "district_id": "18.71.18",
+    "name": "Tanjungagung Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1004",
+    "district_id": "18.71.18",
+    "name": "Tanjungbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1005",
+    "district_id": "18.71.18",
+    "name": "Kalibalau Kencana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1006",
+    "district_id": "18.71.18",
+    "name": "Tanjungraya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.18.1007",
+    "district_id": "18.71.18",
+    "name": "Tanjunggading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1001",
+    "district_id": "18.71.19",
+    "name": "Kota Karang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1002",
+    "district_id": "18.71.19",
+    "name": "Kota Karang Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1003",
+    "district_id": "18.71.19",
+    "name": "Parwata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1004",
+    "district_id": "18.71.19",
+    "name": "Keteguhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1005",
+    "district_id": "18.71.19",
+    "name": "Sukamaju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.19.1006",
+    "district_id": "18.71.19",
+    "name": "Way Tataan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.20.1001",
+    "district_id": "18.71.20",
+    "name": "Sukaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.20.1002",
+    "district_id": "18.71.20",
+    "name": "Bumi Waras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.20.1003",
+    "district_id": "18.71.20",
+    "name": "Garuntang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.20.1004",
+    "district_id": "18.71.20",
+    "name": "Bumi Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.20.1005",
+    "district_id": "18.71.20",
+    "name": "Kangkung",
+    "type": "KELURAHAN"
+  }
+]

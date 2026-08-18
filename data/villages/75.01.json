@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "75.01.01.1001",
+    "district_id": "75.01.01",
+    "name": "Kayubulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1002",
+    "district_id": "75.01.01",
+    "name": "Kayumerah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1003",
+    "district_id": "75.01.01",
+    "name": "Hunggaluwa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1004",
+    "district_id": "75.01.01",
+    "name": "Bolihuangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1005",
+    "district_id": "75.01.01",
+    "name": "Hepuhulawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1006",
+    "district_id": "75.01.01",
+    "name": "Hutuo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1007",
+    "district_id": "75.01.01",
+    "name": "Dutulanaa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1008",
+    "district_id": "75.01.01",
+    "name": "Tenilo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1009",
+    "district_id": "75.01.01",
+    "name": "Biyonga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1010",
+    "district_id": "75.01.01",
+    "name": "Bongohulawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1011",
+    "district_id": "75.01.01",
+    "name": "Bulota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1012",
+    "district_id": "75.01.01",
+    "name": "Malahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1013",
+    "district_id": "75.01.01",
+    "name": "Tilihuwa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.01.1014",
+    "district_id": "75.01.01",
+    "name": "Polohungo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.01.02.2011",
+    "district_id": "75.01.02",
+    "name": "Bulila",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2014",
+    "district_id": "75.01.02",
+    "name": "Mongolato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2015",
+    "district_id": "75.01.02",
+    "name": "Luhu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2016",
+    "district_id": "75.01.02",
+    "name": "Hulawa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2017",
+    "district_id": "75.01.02",
+    "name": "Pilohayanga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2018",
+    "district_id": "75.01.02",
+    "name": "Dulamayo Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2019",
+    "district_id": "75.01.02",
+    "name": "Dulamayo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2020",
+    "district_id": "75.01.02",
+    "name": "Dulohupa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.02.2021",
+    "district_id": "75.01.02",
+    "name": "Pilohayanga Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2001",
+    "district_id": "75.01.03",
+    "name": "Iluta",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2002",
+    "district_id": "75.01.03",
+    "name": "Bua",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2003",
+    "district_id": "75.01.03",
+    "name": "Huntu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2004",
+    "district_id": "75.01.03",
+    "name": "Payunga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2012",
+    "district_id": "75.01.03",
+    "name": "Barakati",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2013",
+    "district_id": "75.01.03",
+    "name": "Ilohungayo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2014",
+    "district_id": "75.01.03",
+    "name": "Dunggala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2015",
+    "district_id": "75.01.03",
+    "name": "Pilobuhuta",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2001",
+    "district_id": "75.01.04",
+    "name": "Isimu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2002",
+    "district_id": "75.01.04",
+    "name": "Isimu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2003",
+    "district_id": "75.01.04",
+    "name": "Datahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2004",
+    "district_id": "75.01.04",
+    "name": "Tolotio",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2005",
+    "district_id": "75.01.04",
+    "name": "Labanu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2006",
+    "district_id": "75.01.04",
+    "name": "Reksonegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2007",
+    "district_id": "75.01.04",
+    "name": "Buhu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2008",
+    "district_id": "75.01.04",
+    "name": "Dunggala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2009",
+    "district_id": "75.01.04",
+    "name": "Molowahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2010",
+    "district_id": "75.01.04",
+    "name": "Iloponu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2011",
+    "district_id": "75.01.04",
+    "name": "Ilomata",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2012",
+    "district_id": "75.01.04",
+    "name": "Motilango",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2013",
+    "district_id": "75.01.04",
+    "name": "Isimu Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2014",
+    "district_id": "75.01.04",
+    "name": "Balahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2015",
+    "district_id": "75.01.04",
+    "name": "Botumoputi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.04.2016",
+    "district_id": "75.01.04",
+    "name": "Ulobua",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2004",
+    "district_id": "75.01.05",
+    "name": "Tontayuo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2005",
+    "district_id": "75.01.05",
+    "name": "Biluhu Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2006",
+    "district_id": "75.01.05",
+    "name": "Kayubulan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2007",
+    "district_id": "75.01.05",
+    "name": "Bongo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2008",
+    "district_id": "75.01.05",
+    "name": "Lopo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2009",
+    "district_id": "75.01.05",
+    "name": "Lamu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2012",
+    "district_id": "75.01.05",
+    "name": "Olimoo'o",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2014",
+    "district_id": "75.01.05",
+    "name": "Buhudaa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.05.2015",
+    "district_id": "75.01.05",
+    "name": "Langgula",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2001",
+    "district_id": "75.01.09",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2004",
+    "district_id": "75.01.09",
+    "name": "Parungi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2006",
+    "district_id": "75.01.09",
+    "name": "Diloniyohu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2007",
+    "district_id": "75.01.09",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2010",
+    "district_id": "75.01.09",
+    "name": "Potanga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2011",
+    "district_id": "75.01.09",
+    "name": "Motoduto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2012",
+    "district_id": "75.01.09",
+    "name": "Iloheluma",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2014",
+    "district_id": "75.01.09",
+    "name": "Monggolito",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2015",
+    "district_id": "75.01.09",
+    "name": "Bandung Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2018",
+    "district_id": "75.01.09",
+    "name": "Dulohupa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2019",
+    "district_id": "75.01.09",
+    "name": "Sidomulya Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2020",
+    "district_id": "75.01.09",
+    "name": "Bongongoayu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.09.2021",
+    "district_id": "75.01.09",
+    "name": "Tolite",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2001",
+    "district_id": "75.01.10",
+    "name": "Dulamayo Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2002",
+    "district_id": "75.01.10",
+    "name": "Ulapato A",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2003",
+    "district_id": "75.01.10",
+    "name": "Ulapato B",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2004",
+    "district_id": "75.01.10",
+    "name": "Talumelito",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2005",
+    "district_id": "75.01.10",
+    "name": "Tuladenggi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2006",
+    "district_id": "75.01.10",
+    "name": "Pantungo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2007",
+    "district_id": "75.01.10",
+    "name": "Lupoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2008",
+    "district_id": "75.01.10",
+    "name": "Pentadio Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2009",
+    "district_id": "75.01.10",
+    "name": "Pentadio Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2010",
+    "district_id": "75.01.10",
+    "name": "Dumati",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2011",
+    "district_id": "75.01.10",
+    "name": "Modelidu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2012",
+    "district_id": "75.01.10",
+    "name": "Tinelo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2013",
+    "district_id": "75.01.10",
+    "name": "Timuato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2014",
+    "district_id": "75.01.10",
+    "name": "Tapaluluo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.10.2015",
+    "district_id": "75.01.10",
+    "name": "Tonala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2001",
+    "district_id": "75.01.11",
+    "name": "Dulamayo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2008",
+    "district_id": "75.01.11",
+    "name": "Upomela",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2009",
+    "district_id": "75.01.11",
+    "name": "Tohupo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2010",
+    "district_id": "75.01.11",
+    "name": "Molanihu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2011",
+    "district_id": "75.01.11",
+    "name": "Molopatodu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2012",
+    "district_id": "75.01.11",
+    "name": "Molas",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2013",
+    "district_id": "75.01.11",
+    "name": "Batulayar",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2014",
+    "district_id": "75.01.11",
+    "name": "Batuloreng",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2015",
+    "district_id": "75.01.11",
+    "name": "Bongohulawa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2016",
+    "district_id": "75.01.11",
+    "name": "Otopade",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2018",
+    "district_id": "75.01.11",
+    "name": "Huntu Lo Hulawa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2022",
+    "district_id": "75.01.11",
+    "name": "Owalanga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2023",
+    "district_id": "75.01.11",
+    "name": "Liyodu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2024",
+    "district_id": "75.01.11",
+    "name": "Liyoto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.11.2025",
+    "district_id": "75.01.11",
+    "name": "Kayumerah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2001",
+    "district_id": "75.01.13",
+    "name": "Sukamakmur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2002",
+    "district_id": "75.01.13",
+    "name": "Lakeya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2003",
+    "district_id": "75.01.13",
+    "name": "Gandasari",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2004",
+    "district_id": "75.01.13",
+    "name": "Molohu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2007",
+    "district_id": "75.01.13",
+    "name": "Polohungo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2008",
+    "district_id": "75.01.13",
+    "name": "Bina Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2009",
+    "district_id": "75.01.13",
+    "name": "Tamaila",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2010",
+    "district_id": "75.01.13",
+    "name": "Sidoarjo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2013",
+    "district_id": "75.01.13",
+    "name": "Sukamakmur Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2014",
+    "district_id": "75.01.13",
+    "name": "Margomulya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2015",
+    "district_id": "75.01.13",
+    "name": "Makmur Abadi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2016",
+    "district_id": "75.01.13",
+    "name": "Gandaria",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2017",
+    "district_id": "75.01.13",
+    "name": "Ombulo Tango",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2018",
+    "district_id": "75.01.13",
+    "name": "Tamaila Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.13.2019",
+    "district_id": "75.01.13",
+    "name": "Himalaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2001",
+    "district_id": "75.01.14",
+    "name": "Paris",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2002",
+    "district_id": "75.01.14",
+    "name": "Helumo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2003",
+    "district_id": "75.01.14",
+    "name": "Pilomonu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2004",
+    "district_id": "75.01.14",
+    "name": "Satria",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2005",
+    "district_id": "75.01.14",
+    "name": "Karyamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2006",
+    "district_id": "75.01.14",
+    "name": "Talumopatu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2007",
+    "district_id": "75.01.14",
+    "name": "Sidomukti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2008",
+    "district_id": "75.01.14",
+    "name": "Payu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2009",
+    "district_id": "75.01.14",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2010",
+    "district_id": "75.01.14",
+    "name": "Huyula",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2001",
+    "district_id": "75.01.16",
+    "name": "Pongongaila",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2002",
+    "district_id": "75.01.16",
+    "name": "Pulubala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2003",
+    "district_id": "75.01.16",
+    "name": "Molamahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2004",
+    "district_id": "75.01.16",
+    "name": "Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2005",
+    "district_id": "75.01.16",
+    "name": "Tridharma",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2006",
+    "district_id": "75.01.16",
+    "name": "Molalahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2007",
+    "district_id": "75.01.16",
+    "name": "Mulyonegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2008",
+    "district_id": "75.01.16",
+    "name": "Puncak",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2009",
+    "district_id": "75.01.16",
+    "name": "Toyidito",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2010",
+    "district_id": "75.01.16",
+    "name": "Ayumolingo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.16.2011",
+    "district_id": "75.01.16",
+    "name": "Bukit Aren",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2001",
+    "district_id": "75.01.17",
+    "name": "Pone",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2002",
+    "district_id": "75.01.17",
+    "name": "Huidu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2003",
+    "district_id": "75.01.17",
+    "name": "Ombulo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2004",
+    "district_id": "75.01.17",
+    "name": "Daenaa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2005",
+    "district_id": "75.01.17",
+    "name": "Yosonegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2006",
+    "district_id": "75.01.17",
+    "name": "Tunggulo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2007",
+    "district_id": "75.01.17",
+    "name": "Hutabohu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2008",
+    "district_id": "75.01.17",
+    "name": "Padengo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2009",
+    "district_id": "75.01.17",
+    "name": "Haya-Haya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.17.2010",
+    "district_id": "75.01.17",
+    "name": "Huidu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2001",
+    "district_id": "75.01.18",
+    "name": "Tualango",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2002",
+    "district_id": "75.01.18",
+    "name": "Dulomo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2003",
+    "district_id": "75.01.18",
+    "name": "Tilote",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2004",
+    "district_id": "75.01.18",
+    "name": "Tabumela",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2005",
+    "district_id": "75.01.18",
+    "name": "Ilotidea",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2006",
+    "district_id": "75.01.18",
+    "name": "Lauwonu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2007",
+    "district_id": "75.01.18",
+    "name": "Tenggela",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.18.2008",
+    "district_id": "75.01.18",
+    "name": "Tinelo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2001",
+    "district_id": "75.01.19",
+    "name": "Tabongo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2002",
+    "district_id": "75.01.19",
+    "name": "Tabongo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2003",
+    "district_id": "75.01.19",
+    "name": "Limehe Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2004",
+    "district_id": "75.01.19",
+    "name": "Limehe Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2005",
+    "district_id": "75.01.19",
+    "name": "Ilomangga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2006",
+    "district_id": "75.01.19",
+    "name": "Motinelo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2007",
+    "district_id": "75.01.19",
+    "name": "Moahudu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2008",
+    "district_id": "75.01.19",
+    "name": "Teratai",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2009",
+    "district_id": "75.01.19",
+    "name": "Limehu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2001",
+    "district_id": "75.01.20",
+    "name": "Biluhu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2002",
+    "district_id": "75.01.20",
+    "name": "Lobuto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2003",
+    "district_id": "75.01.20",
+    "name": "Biluhu Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2004",
+    "district_id": "75.01.20",
+    "name": "Luluo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2005",
+    "district_id": "75.01.20",
+    "name": "Huwongo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2006",
+    "district_id": "75.01.20",
+    "name": "Lobuto Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2007",
+    "district_id": "75.01.20",
+    "name": "Botubolu'o",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.20.2008",
+    "district_id": "75.01.20",
+    "name": "Olimeyala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2001",
+    "district_id": "75.01.21",
+    "name": "Bululi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2002",
+    "district_id": "75.01.21",
+    "name": "Mohiyolo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2003",
+    "district_id": "75.01.21",
+    "name": "Pangahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2004",
+    "district_id": "75.01.21",
+    "name": "Karya Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2005",
+    "district_id": "75.01.21",
+    "name": "Prima",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2006",
+    "district_id": "75.01.21",
+    "name": "Tiohu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2007",
+    "district_id": "75.01.21",
+    "name": "Olimohulo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2008",
+    "district_id": "75.01.21",
+    "name": "Karya Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2009",
+    "district_id": "75.01.21",
+    "name": "Bontula",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.21.2010",
+    "district_id": "75.01.21",
+    "name": "Bihe",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.22.2001",
+    "district_id": "75.01.22",
+    "name": "Hutadaa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.22.2002",
+    "district_id": "75.01.22",
+    "name": "Buhu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.22.2003",
+    "district_id": "75.01.22",
+    "name": "Luwoo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.22.2004",
+    "district_id": "75.01.22",
+    "name": "Bunggalo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.22.2005",
+    "district_id": "75.01.22",
+    "name": "Bulota",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2001",
+    "district_id": "75.01.23",
+    "name": "Totopo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2002",
+    "district_id": "75.01.23",
+    "name": "Bilato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2003",
+    "district_id": "75.01.23",
+    "name": "Ilomata",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2004",
+    "district_id": "75.01.23",
+    "name": "Taula'a",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2005",
+    "district_id": "75.01.23",
+    "name": "Juriya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2006",
+    "district_id": "75.01.23",
+    "name": "Pelehu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2007",
+    "district_id": "75.01.23",
+    "name": "Bumela",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2008",
+    "district_id": "75.01.23",
+    "name": "Lamahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2009",
+    "district_id": "75.01.23",
+    "name": "Musyawarah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.23.2010",
+    "district_id": "75.01.23",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2001",
+    "district_id": "75.01.24",
+    "name": "Pilolalenga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2002",
+    "district_id": "75.01.24",
+    "name": "Kaliyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2003",
+    "district_id": "75.01.24",
+    "name": "Dungaliyo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2004",
+    "district_id": "75.01.24",
+    "name": "Ambara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2005",
+    "district_id": "75.01.24",
+    "name": "Bongomeme",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2006",
+    "district_id": "75.01.24",
+    "name": "Duwanga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2007",
+    "district_id": "75.01.24",
+    "name": "Ayuhula",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2008",
+    "district_id": "75.01.24",
+    "name": "Pangadaa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2009",
+    "district_id": "75.01.24",
+    "name": "Botubulowe",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.24.2010",
+    "district_id": "75.01.24",
+    "name": "Momala",
+    "type": "DESA"
+  }
+]

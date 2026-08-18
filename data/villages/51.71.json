@@ -1,0 +1,260 @@
+[
+  {
+    "id": "51.71.01.1001",
+    "district_id": "51.71.01",
+    "name": "Serangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.1002",
+    "district_id": "51.71.01",
+    "name": "Pedungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.1003",
+    "district_id": "51.71.01",
+    "name": "Sesetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.1004",
+    "district_id": "51.71.01",
+    "name": "Panjer",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.1005",
+    "district_id": "51.71.01",
+    "name": "Renon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.1006",
+    "district_id": "51.71.01",
+    "name": "Sanur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.01.2007",
+    "district_id": "51.71.01",
+    "name": "Sidakarya",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.01.2008",
+    "district_id": "51.71.01",
+    "name": "Pemogan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.01.2009",
+    "district_id": "51.71.01",
+    "name": "Sanur Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.01.2010",
+    "district_id": "51.71.01",
+    "name": "Sanur Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.1003",
+    "district_id": "51.71.02",
+    "name": "Kesiman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1006",
+    "district_id": "51.71.02",
+    "name": "Sumerta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1010",
+    "district_id": "51.71.02",
+    "name": "Dangin Puri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1014",
+    "district_id": "51.71.02",
+    "name": "Penatih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.2001",
+    "district_id": "51.71.02",
+    "name": "Dangin Puri Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2002",
+    "district_id": "51.71.02",
+    "name": "Sumerta Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2004",
+    "district_id": "51.71.02",
+    "name": "Kesiman Petilan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2005",
+    "district_id": "51.71.02",
+    "name": "Kesiman Kertalangu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2007",
+    "district_id": "51.71.02",
+    "name": "Sumerta Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2008",
+    "district_id": "51.71.02",
+    "name": "Sumerta Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2015",
+    "district_id": "51.71.02",
+    "name": "Penatih Dangin Puri",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.1005",
+    "district_id": "51.71.03",
+    "name": "Dauh Puri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.03.1007",
+    "district_id": "51.71.03",
+    "name": "Pemecutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.03.1010",
+    "district_id": "51.71.03",
+    "name": "Padangsambian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.03.2001",
+    "district_id": "51.71.03",
+    "name": "Padangsambian Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2002",
+    "district_id": "51.71.03",
+    "name": "Pemecutan Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2003",
+    "district_id": "51.71.03",
+    "name": "Dauh Puri Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2004",
+    "district_id": "51.71.03",
+    "name": "Dauh Puri Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2006",
+    "district_id": "51.71.03",
+    "name": "Dauh Puri Kangin",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2008",
+    "district_id": "51.71.03",
+    "name": "Tegal Harum",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2009",
+    "district_id": "51.71.03",
+    "name": "Tegal Kertha",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.03.2011",
+    "district_id": "51.71.03",
+    "name": "Padang Sambian Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.1004",
+    "district_id": "51.71.04",
+    "name": "Tonja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.04.1007",
+    "district_id": "51.71.04",
+    "name": "Ubung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.04.1009",
+    "district_id": "51.71.04",
+    "name": "Peguyangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.04.2001",
+    "district_id": "51.71.04",
+    "name": "Dangin Puri Kangin",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2002",
+    "district_id": "51.71.04",
+    "name": "Dangin Puri Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2003",
+    "district_id": "51.71.04",
+    "name": "Dangin Puri Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2005",
+    "district_id": "51.71.04",
+    "name": "Pemecutan Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2006",
+    "district_id": "51.71.04",
+    "name": "Dauh Puri Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2008",
+    "district_id": "51.71.04",
+    "name": "Ubung Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2010",
+    "district_id": "51.71.04",
+    "name": "Peguyangan Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.04.2011",
+    "district_id": "51.71.04",
+    "name": "Peguyangan Kangin",
+    "type": "DESA"
+  }
+]

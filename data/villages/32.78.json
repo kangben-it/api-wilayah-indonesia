@@ -1,0 +1,416 @@
+[
+  {
+    "id": "32.78.01.1001",
+    "district_id": "32.78.01",
+    "name": "Yudanagara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.01.1002",
+    "district_id": "32.78.01",
+    "name": "Nagarawangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.01.1003",
+    "district_id": "32.78.01",
+    "name": "Cilembang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.01.1004",
+    "district_id": "32.78.01",
+    "name": "Argasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.01.1005",
+    "district_id": "32.78.01",
+    "name": "Tugujaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.01.1006",
+    "district_id": "32.78.01",
+    "name": "Tuguraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1001",
+    "district_id": "32.78.02",
+    "name": "Panglayungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1002",
+    "district_id": "32.78.02",
+    "name": "Cipedes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1003",
+    "district_id": "32.78.02",
+    "name": "Nagarasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1004",
+    "district_id": "32.78.02",
+    "name": "Sukamanah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.03.1001",
+    "district_id": "32.78.03",
+    "name": "Tawangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.03.1002",
+    "district_id": "32.78.03",
+    "name": "Empangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.03.1003",
+    "district_id": "32.78.03",
+    "name": "Lengkongsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.03.1004",
+    "district_id": "32.78.03",
+    "name": "Cikalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.03.1005",
+    "district_id": "32.78.03",
+    "name": "Kahuripan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1003",
+    "district_id": "32.78.04",
+    "name": "Indihiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1004",
+    "district_id": "32.78.04",
+    "name": "Sirnagalih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1005",
+    "district_id": "32.78.04",
+    "name": "Parakannyasag",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1006",
+    "district_id": "32.78.04",
+    "name": "Panyingkiran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1007",
+    "district_id": "32.78.04",
+    "name": "Sukamaju Kaler",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.04.1008",
+    "district_id": "32.78.04",
+    "name": "Sukamaju Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1001",
+    "district_id": "32.78.05",
+    "name": "Kersamenak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1002",
+    "district_id": "32.78.05",
+    "name": "Cilamajang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1003",
+    "district_id": "32.78.05",
+    "name": "Gunung Tandala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1004",
+    "district_id": "32.78.05",
+    "name": "Urug",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1005",
+    "district_id": "32.78.05",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1006",
+    "district_id": "32.78.05",
+    "name": "Cibeuti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1007",
+    "district_id": "32.78.05",
+    "name": "Karanganyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1008",
+    "district_id": "32.78.05",
+    "name": "Talagasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1009",
+    "district_id": "32.78.05",
+    "name": "Leuwiliang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.05.1010",
+    "district_id": "32.78.05",
+    "name": "Gunung Gede",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1005",
+    "district_id": "32.78.06",
+    "name": "Setiaratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1007",
+    "district_id": "32.78.06",
+    "name": "Kersanagara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1008",
+    "district_id": "32.78.06",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1009",
+    "district_id": "32.78.06",
+    "name": "Awipari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1010",
+    "district_id": "32.78.06",
+    "name": "Setianagara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1011",
+    "district_id": "32.78.06",
+    "name": "Ciherang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1012",
+    "district_id": "32.78.06",
+    "name": "Ciakar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1013",
+    "district_id": "32.78.06",
+    "name": "Margabakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.06.1014",
+    "district_id": "32.78.06",
+    "name": "Setiajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1001",
+    "district_id": "32.78.07",
+    "name": "Tamansari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1002",
+    "district_id": "32.78.07",
+    "name": "Mugarsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1003",
+    "district_id": "32.78.07",
+    "name": "Tamanjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1004",
+    "district_id": "32.78.07",
+    "name": "Sumelap",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1005",
+    "district_id": "32.78.07",
+    "name": "Setiawargi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1006",
+    "district_id": "32.78.07",
+    "name": "Mulyasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1007",
+    "district_id": "32.78.07",
+    "name": "Sukahurip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.07.1008",
+    "district_id": "32.78.07",
+    "name": "Setiamulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1001",
+    "district_id": "32.78.08",
+    "name": "Mangkubumi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1002",
+    "district_id": "32.78.08",
+    "name": "Cigantang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1003",
+    "district_id": "32.78.08",
+    "name": "Karikil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1004",
+    "district_id": "32.78.08",
+    "name": "Linggajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1005",
+    "district_id": "32.78.08",
+    "name": "Cipawitra",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1006",
+    "district_id": "32.78.08",
+    "name": "Sambongpari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1007",
+    "district_id": "32.78.08",
+    "name": "Sambongjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.08.1008",
+    "district_id": "32.78.08",
+    "name": "Cipari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1001",
+    "district_id": "32.78.09",
+    "name": "Sukamulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1002",
+    "district_id": "32.78.09",
+    "name": "Sukarindik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1003",
+    "district_id": "32.78.09",
+    "name": "Bungursari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1004",
+    "district_id": "32.78.09",
+    "name": "Sukajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1005",
+    "district_id": "32.78.09",
+    "name": "Cibunigeulis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1006",
+    "district_id": "32.78.09",
+    "name": "Bantarsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.09.1007",
+    "district_id": "32.78.09",
+    "name": "Sukalaksana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1001",
+    "district_id": "32.78.10",
+    "name": "Sukanagara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1002",
+    "district_id": "32.78.10",
+    "name": "Sukamenak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1003",
+    "district_id": "32.78.10",
+    "name": "Purbaratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1004",
+    "district_id": "32.78.10",
+    "name": "Sukaasih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1005",
+    "district_id": "32.78.10",
+    "name": "Sukajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.10.1006",
+    "district_id": "32.78.10",
+    "name": "Singkup",
+    "type": "KELURAHAN"
+  }
+]

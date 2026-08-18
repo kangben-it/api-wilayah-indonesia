@@ -1,0 +1,314 @@
+[
+  {
+    "id": "13.10.01.2002",
+    "district_id": "13.10.01",
+    "name": "Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.01.2003",
+    "district_id": "13.10.01",
+    "name": "Sialang Gaung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.01.2005",
+    "district_id": "13.10.01",
+    "name": "Ampang Kuranji",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.01.2008",
+    "district_id": "13.10.01",
+    "name": "Koto Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2001",
+    "district_id": "13.10.02",
+    "name": "Sungai Dareh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2002",
+    "district_id": "13.10.02",
+    "name": "Tebing Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2006",
+    "district_id": "13.10.02",
+    "name": "Empat Koto Pulau Punjung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2007",
+    "district_id": "13.10.02",
+    "name": "Sungai Kambut",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2008",
+    "district_id": "13.10.02",
+    "name": "Gunung Selasih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2009",
+    "district_id": "13.10.02",
+    "name": "Sikabau",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2003",
+    "district_id": "13.10.03",
+    "name": "Sungai Rumbai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2004",
+    "district_id": "13.10.03",
+    "name": "Kurnia Koto Salak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2007",
+    "district_id": "13.10.03",
+    "name": "Sungai Rumbai Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2008",
+    "district_id": "13.10.03",
+    "name": "Kurnia Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2001",
+    "district_id": "13.10.04",
+    "name": "Sitiung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2002",
+    "district_id": "13.10.04",
+    "name": "Siguntur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2004",
+    "district_id": "13.10.04",
+    "name": "Gunung Medan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2005",
+    "district_id": "13.10.04",
+    "name": "Sungai Duo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.05.2001",
+    "district_id": "13.10.05",
+    "name": "Silago",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.05.2002",
+    "district_id": "13.10.05",
+    "name": "Lubuak Karak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.05.2003",
+    "district_id": "13.10.05",
+    "name": "Koto Nan Empat Dibawuh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.05.2004",
+    "district_id": "13.10.05",
+    "name": "Banai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.06.2001",
+    "district_id": "13.10.06",
+    "name": "Timpeh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.06.2002",
+    "district_id": "13.10.06",
+    "name": "Taratak Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.06.2003",
+    "district_id": "13.10.06",
+    "name": "Tabek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.06.2004",
+    "district_id": "13.10.06",
+    "name": "Panyubarangan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.06.2005",
+    "district_id": "13.10.06",
+    "name": "Ranah Palabi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.07.2001",
+    "district_id": "13.10.07",
+    "name": "Koto Salak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.07.2002",
+    "district_id": "13.10.07",
+    "name": "Ampalu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.07.2003",
+    "district_id": "13.10.07",
+    "name": "Padukuan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.07.2004",
+    "district_id": "13.10.07",
+    "name": "Pulau Mainan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.07.2005",
+    "district_id": "13.10.07",
+    "name": "Simalidu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.08.2001",
+    "district_id": "13.10.08",
+    "name": "Tiumang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.08.2002",
+    "district_id": "13.10.08",
+    "name": "Sungai Langkok",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.08.2003",
+    "district_id": "13.10.08",
+    "name": "Koto Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.08.2004",
+    "district_id": "13.10.08",
+    "name": "Sipangkur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.09.2001",
+    "district_id": "13.10.09",
+    "name": "Padang Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.09.2002",
+    "district_id": "13.10.09",
+    "name": "Batu Rijal",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.09.2003",
+    "district_id": "13.10.09",
+    "name": "Muaro Sopan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.09.2004",
+    "district_id": "13.10.09",
+    "name": "Sopan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.10.2001",
+    "district_id": "13.10.10",
+    "name": "Sungai Limau",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.10.2002",
+    "district_id": "13.10.10",
+    "name": "Alahan Nan Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.10.2003",
+    "district_id": "13.10.10",
+    "name": "Lubuk Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.10.2004",
+    "district_id": "13.10.10",
+    "name": "Tanjung Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.10.2005",
+    "district_id": "13.10.10",
+    "name": "Sinamar",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2001",
+    "district_id": "13.10.11",
+    "name": "Koto Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2002",
+    "district_id": "13.10.11",
+    "name": "Koto Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2003",
+    "district_id": "13.10.11",
+    "name": "Koto Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2004",
+    "district_id": "13.10.11",
+    "name": "Bonjol",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2005",
+    "district_id": "13.10.11",
+    "name": "Abai Siat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2006",
+    "district_id": "13.10.11",
+    "name": "Koto Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.11.2007",
+    "district_id": "13.10.11",
+    "name": "Koto Ranah",
+    "type": "DESA"
+  }
+]

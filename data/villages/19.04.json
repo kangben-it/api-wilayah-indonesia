@@ -1,0 +1,380 @@
+[
+  {
+    "id": "19.04.01.1001",
+    "district_id": "19.04.01",
+    "name": "Koba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1002",
+    "district_id": "19.04.01",
+    "name": "Arung Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1017",
+    "district_id": "19.04.01",
+    "name": "Berok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1018",
+    "district_id": "19.04.01",
+    "name": "Padang Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1019",
+    "district_id": "19.04.01",
+    "name": "Simpang Perlang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.2003",
+    "district_id": "19.04.01",
+    "name": "Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2005",
+    "district_id": "19.04.01",
+    "name": "Kurau (Timur)",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2006",
+    "district_id": "19.04.01",
+    "name": "Guntung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2007",
+    "district_id": "19.04.01",
+    "name": "Penyak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2008",
+    "district_id": "19.04.01",
+    "name": "Terentang III",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2010",
+    "district_id": "19.04.01",
+    "name": "Kurau Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.1001",
+    "district_id": "19.04.02",
+    "name": "Dul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.02.2004",
+    "district_id": "19.04.02",
+    "name": "Air Mesu",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2006",
+    "district_id": "19.04.02",
+    "name": "Mangkol",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2007",
+    "district_id": "19.04.02",
+    "name": "Tanjung Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2010",
+    "district_id": "19.04.02",
+    "name": "Benteng",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2012",
+    "district_id": "19.04.02",
+    "name": "Padang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2013",
+    "district_id": "19.04.02",
+    "name": "Jeruk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2014",
+    "district_id": "19.04.02",
+    "name": "Beluluk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2016",
+    "district_id": "19.04.02",
+    "name": "Pedindang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2018",
+    "district_id": "19.04.02",
+    "name": "Batu Belubang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2020",
+    "district_id": "19.04.02",
+    "name": "Air Mesu Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.02.2021",
+    "district_id": "19.04.02",
+    "name": "Kebintik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.1001",
+    "district_id": "19.04.03",
+    "name": "Sungai Selan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.03.2002",
+    "district_id": "19.04.03",
+    "name": "Kerantai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2003",
+    "district_id": "19.04.03",
+    "name": "Keretak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2004",
+    "district_id": "19.04.03",
+    "name": "Lampur",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2005",
+    "district_id": "19.04.03",
+    "name": "Sarang Mandi",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2006",
+    "district_id": "19.04.03",
+    "name": "Munggu",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2007",
+    "district_id": "19.04.03",
+    "name": "Kemingking",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2008",
+    "district_id": "19.04.03",
+    "name": "Sungai Selan Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2009",
+    "district_id": "19.04.03",
+    "name": "Tanjung Pura",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2010",
+    "district_id": "19.04.03",
+    "name": "Romadhon",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2011",
+    "district_id": "19.04.03",
+    "name": "Kerakas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2012",
+    "district_id": "19.04.03",
+    "name": "Melabun",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2013",
+    "district_id": "19.04.03",
+    "name": "Keretak Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2001",
+    "district_id": "19.04.04",
+    "name": "Simpang Katis",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2002",
+    "district_id": "19.04.04",
+    "name": "Celuak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2003",
+    "district_id": "19.04.04",
+    "name": "Sungkap",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2004",
+    "district_id": "19.04.04",
+    "name": "Beruas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2005",
+    "district_id": "19.04.04",
+    "name": "Puput",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2006",
+    "district_id": "19.04.04",
+    "name": "Teru",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2007",
+    "district_id": "19.04.04",
+    "name": "Terak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2008",
+    "district_id": "19.04.04",
+    "name": "Pasir Garam",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2009",
+    "district_id": "19.04.04",
+    "name": "Katis",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2010",
+    "district_id": "19.04.04",
+    "name": "Pinang Sebatang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2001",
+    "district_id": "19.04.05",
+    "name": "Namang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2002",
+    "district_id": "19.04.05",
+    "name": "Cambai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2003",
+    "district_id": "19.04.05",
+    "name": "Kayu Besi",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2004",
+    "district_id": "19.04.05",
+    "name": "Jelutung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2005",
+    "district_id": "19.04.05",
+    "name": "Belilik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2006",
+    "district_id": "19.04.05",
+    "name": "Bhaskara Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2008",
+    "district_id": "19.04.05",
+    "name": "Bukit Kijang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.05.2009",
+    "district_id": "19.04.05",
+    "name": "Cambai Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2001",
+    "district_id": "19.04.06",
+    "name": "Perlang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2002",
+    "district_id": "19.04.06",
+    "name": "Batu Beriga",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2003",
+    "district_id": "19.04.06",
+    "name": "Lubuk Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2004",
+    "district_id": "19.04.06",
+    "name": "Kulur",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2005",
+    "district_id": "19.04.06",
+    "name": "Lubuk Lingkuk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2006",
+    "district_id": "19.04.06",
+    "name": "Lubuk Pabrik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2007",
+    "district_id": "19.04.06",
+    "name": "Trubus",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2008",
+    "district_id": "19.04.06",
+    "name": "Kulur Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.06.2009",
+    "district_id": "19.04.06",
+    "name": "Belimbing",
+    "type": "DESA"
+  }
+]

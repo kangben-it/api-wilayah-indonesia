@@ -1,0 +1,956 @@
+[
+  {
+    "id": "73.18.01.1009",
+    "district_id": "73.18.01",
+    "name": "Pattan Ulusalu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.01.2010",
+    "district_id": "73.18.01",
+    "name": "Salutandung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2011",
+    "district_id": "73.18.01",
+    "name": "Rea Tulak Langi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2012",
+    "district_id": "73.18.01",
+    "name": "Ratte Talonge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2013",
+    "district_id": "73.18.01",
+    "name": "Sa'tandung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2014",
+    "district_id": "73.18.01",
+    "name": "Ra'bung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2015",
+    "district_id": "73.18.01",
+    "name": "Salutapokko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2016",
+    "district_id": "73.18.01",
+    "name": "Salu Boronan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2017",
+    "district_id": "73.18.01",
+    "name": "Batu Tiakka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.1006",
+    "district_id": "73.18.02",
+    "name": "Bittuang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.02.2002",
+    "district_id": "73.18.02",
+    "name": "Se'seng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2004",
+    "district_id": "73.18.02",
+    "name": "Pali'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2007",
+    "district_id": "73.18.02",
+    "name": "Tiroan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2008",
+    "district_id": "73.18.02",
+    "name": "Balla",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2009",
+    "district_id": "73.18.02",
+    "name": "Le'tek",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2010",
+    "district_id": "73.18.02",
+    "name": "Kole Palian",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2011",
+    "district_id": "73.18.02",
+    "name": "Patongloan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2012",
+    "district_id": "73.18.02",
+    "name": "Sasak",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2013",
+    "district_id": "73.18.02",
+    "name": "Bau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2014",
+    "district_id": "73.18.02",
+    "name": "Sandana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2015",
+    "district_id": "73.18.02",
+    "name": "Rembo Rembo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2016",
+    "district_id": "73.18.02",
+    "name": "Burasia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2017",
+    "district_id": "73.18.02",
+    "name": "Kandua'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.02.2018",
+    "district_id": "73.18.02",
+    "name": "Buttu Limbong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.1007",
+    "district_id": "73.18.03",
+    "name": "Ratte Buttu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.03.2001",
+    "district_id": "73.18.03",
+    "name": "Bau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2002",
+    "district_id": "73.18.03",
+    "name": "Buakayu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2004",
+    "district_id": "73.18.03",
+    "name": "Mappa'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2006",
+    "district_id": "73.18.03",
+    "name": "Poton",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2008",
+    "district_id": "73.18.03",
+    "name": "Bau Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.05.1003",
+    "district_id": "73.18.05",
+    "name": "Bombongan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1005",
+    "district_id": "73.18.05",
+    "name": "Batupapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1006",
+    "district_id": "73.18.05",
+    "name": "Tarongko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1007",
+    "district_id": "73.18.05",
+    "name": "Lamunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1009",
+    "district_id": "73.18.05",
+    "name": "Manggau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1014",
+    "district_id": "73.18.05",
+    "name": "Tondon Mamullu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1015",
+    "district_id": "73.18.05",
+    "name": "Pantan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1016",
+    "district_id": "73.18.05",
+    "name": "Buntu Burake",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1017",
+    "district_id": "73.18.05",
+    "name": "Kamali Pentalluan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1018",
+    "district_id": "73.18.05",
+    "name": "Rante",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1019",
+    "district_id": "73.18.05",
+    "name": "Lapandan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1020",
+    "district_id": "73.18.05",
+    "name": "Tampo Makale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1021",
+    "district_id": "73.18.05",
+    "name": "Ariang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.1022",
+    "district_id": "73.18.05",
+    "name": "Botang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.05.2023",
+    "district_id": "73.18.05",
+    "name": "Lea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.1008",
+    "district_id": "73.18.09",
+    "name": "Sima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.09.2003",
+    "district_id": "73.18.09",
+    "name": "Simbuang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2004",
+    "district_id": "73.18.09",
+    "name": "Pongbembe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2006",
+    "district_id": "73.18.09",
+    "name": "Simbuang Batutallu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2009",
+    "district_id": "73.18.09",
+    "name": "Makkodo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2010",
+    "district_id": "73.18.09",
+    "name": "Puangbembe Mesakada",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.11.1003",
+    "district_id": "73.18.11",
+    "name": "Tapparan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.1012",
+    "district_id": "73.18.11",
+    "name": "Rantetayo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.1013",
+    "district_id": "73.18.11",
+    "name": "Padangiring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.2007",
+    "district_id": "73.18.11",
+    "name": "Madandan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.11.2011",
+    "district_id": "73.18.11",
+    "name": "Tapparan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.11.2014",
+    "district_id": "73.18.11",
+    "name": "Tonglo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.1002",
+    "district_id": "73.18.12",
+    "name": "Rante Kalua'",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.12.1016",
+    "district_id": "73.18.12",
+    "name": "Tampo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.12.1023",
+    "district_id": "73.18.12",
+    "name": "Lemo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.12.1024",
+    "district_id": "73.18.12",
+    "name": "Tengan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.12.2004",
+    "district_id": "73.18.12",
+    "name": "Gasing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2006",
+    "district_id": "73.18.12",
+    "name": "Uluway",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2012",
+    "district_id": "73.18.12",
+    "name": "Randanan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2015",
+    "district_id": "73.18.12",
+    "name": "Buntu Tangti",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2017",
+    "district_id": "73.18.12",
+    "name": "Rantedada",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2018",
+    "district_id": "73.18.12",
+    "name": "Pa'tengko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2019",
+    "district_id": "73.18.12",
+    "name": "Simbuang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2020",
+    "district_id": "73.18.12",
+    "name": "Pakala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2021",
+    "district_id": "73.18.12",
+    "name": "Uluway Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2022",
+    "district_id": "73.18.12",
+    "name": "Marinding",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2025",
+    "district_id": "73.18.12",
+    "name": "Palipu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2026",
+    "district_id": "73.18.12",
+    "name": "Ke'pe Tinoring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.12.2027",
+    "district_id": "73.18.12",
+    "name": "Buntudatu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.13.1009",
+    "district_id": "73.18.13",
+    "name": "Tongko Sarapung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.13.1010",
+    "district_id": "73.18.13",
+    "name": "Buntu Masakke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.13.2004",
+    "district_id": "73.18.13",
+    "name": "Bulian Massa'bu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.13.2006",
+    "district_id": "73.18.13",
+    "name": "Kaero",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.13.2008",
+    "district_id": "73.18.13",
+    "name": "Turunan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.1002",
+    "district_id": "73.18.19",
+    "name": "Benteng Ambeso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.19.1004",
+    "district_id": "73.18.19",
+    "name": "Salubarani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.19.1012",
+    "district_id": "73.18.19",
+    "name": "Mebali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.19.2001",
+    "district_id": "73.18.19",
+    "name": "Buntu Limbong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2003",
+    "district_id": "73.18.19",
+    "name": "Sillanan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2005",
+    "district_id": "73.18.19",
+    "name": "Gandangbatu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2006",
+    "district_id": "73.18.19",
+    "name": "Kaduaja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2007",
+    "district_id": "73.18.19",
+    "name": "Garassik",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2008",
+    "district_id": "73.18.19",
+    "name": "Pemanukan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2009",
+    "district_id": "73.18.19",
+    "name": "Perindingan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2010",
+    "district_id": "73.18.19",
+    "name": "Buntu Tabang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.19.2011",
+    "district_id": "73.18.19",
+    "name": "Betteng Deata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.1001",
+    "district_id": "73.18.20",
+    "name": "Talion",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.20.1013",
+    "district_id": "73.18.20",
+    "name": "Rembon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.20.2002",
+    "district_id": "73.18.20",
+    "name": "Palesan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2003",
+    "district_id": "73.18.20",
+    "name": "Banga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2004",
+    "district_id": "73.18.20",
+    "name": "Ullin",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2005",
+    "district_id": "73.18.20",
+    "name": "Limbong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2006",
+    "district_id": "73.18.20",
+    "name": "Sarapeang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2007",
+    "district_id": "73.18.20",
+    "name": "Buri'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2008",
+    "district_id": "73.18.20",
+    "name": "Maroson",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2009",
+    "district_id": "73.18.20",
+    "name": "Batusura'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2010",
+    "district_id": "73.18.20",
+    "name": "Bua ' Tarrung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2011",
+    "district_id": "73.18.20",
+    "name": "To'pao",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.20.2012",
+    "district_id": "73.18.20",
+    "name": "Kayuosing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.27.1001",
+    "district_id": "73.18.27",
+    "name": "Tambunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1002",
+    "district_id": "73.18.27",
+    "name": "Sarira",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1003",
+    "district_id": "73.18.27",
+    "name": "Bungin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1004",
+    "district_id": "73.18.27",
+    "name": "Lion Tondok Iring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1005",
+    "district_id": "73.18.27",
+    "name": "Lemo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.28.1004",
+    "district_id": "73.18.28",
+    "name": "Kondodewata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.28.2001",
+    "district_id": "73.18.28",
+    "name": "Tanete",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.28.2002",
+    "district_id": "73.18.28",
+    "name": "Dewata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.28.2003",
+    "district_id": "73.18.28",
+    "name": "Miallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.28.2005",
+    "district_id": "73.18.28",
+    "name": "Sangpeparikan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.28.2006",
+    "district_id": "73.18.28",
+    "name": "Butang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.1001",
+    "district_id": "73.18.29",
+    "name": "Tiromanda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1002",
+    "district_id": "73.18.29",
+    "name": "Sandabilik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1003",
+    "district_id": "73.18.29",
+    "name": "Tosapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1004",
+    "district_id": "73.18.29",
+    "name": "Pasang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.2005",
+    "district_id": "73.18.29",
+    "name": "Randan Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2006",
+    "district_id": "73.18.29",
+    "name": "Patekke",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2007",
+    "district_id": "73.18.29",
+    "name": "Pa'buaran",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2008",
+    "district_id": "73.18.29",
+    "name": "Bo'ne Buntu Sisong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2001",
+    "district_id": "73.18.31",
+    "name": "Ratte",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2002",
+    "district_id": "73.18.31",
+    "name": "Paliorong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2003",
+    "district_id": "73.18.31",
+    "name": "Kadundung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2004",
+    "district_id": "73.18.31",
+    "name": "Pondingao'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2005",
+    "district_id": "73.18.31",
+    "name": "Belau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2006",
+    "district_id": "73.18.31",
+    "name": "Belau Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2007",
+    "district_id": "73.18.31",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2008",
+    "district_id": "73.18.31",
+    "name": "Sesesalu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.33.1005",
+    "district_id": "73.18.33",
+    "name": "Rante Alang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.33.2001",
+    "district_id": "73.18.33",
+    "name": "Batualu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.33.2002",
+    "district_id": "73.18.33",
+    "name": "Tokesan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.33.2003",
+    "district_id": "73.18.33",
+    "name": "Batualu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.33.2004",
+    "district_id": "73.18.33",
+    "name": "Raru Sibunuan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.1001",
+    "district_id": "73.18.34",
+    "name": "Leatung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.34.1006",
+    "district_id": "73.18.34",
+    "name": "Bebo'",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.34.2002",
+    "district_id": "73.18.34",
+    "name": "Rantela'bi Kambisa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2003",
+    "district_id": "73.18.34",
+    "name": "Leatung Matallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2004",
+    "district_id": "73.18.34",
+    "name": "Saluallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2005",
+    "district_id": "73.18.34",
+    "name": "Tumbang Datu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.35.1001",
+    "district_id": "73.18.35",
+    "name": "Malimbong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.35.2002",
+    "district_id": "73.18.35",
+    "name": "Leppan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.35.2003",
+    "district_id": "73.18.35",
+    "name": "Kole Sawangan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.35.2004",
+    "district_id": "73.18.35",
+    "name": "Kole Barebatu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.35.2005",
+    "district_id": "73.18.35",
+    "name": "Lemo Menduruk",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.35.2006",
+    "district_id": "73.18.35",
+    "name": "Balepe'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.37.2001",
+    "district_id": "73.18.37",
+    "name": "Rano",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.37.2002",
+    "district_id": "73.18.37",
+    "name": "Rano Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.37.2003",
+    "district_id": "73.18.37",
+    "name": "Rumandan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.37.2004",
+    "district_id": "73.18.37",
+    "name": "Rano Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.37.2005",
+    "district_id": "73.18.37",
+    "name": "Rano Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.38.1001",
+    "district_id": "73.18.38",
+    "name": "Ratte Kurra",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.38.2002",
+    "district_id": "73.18.38",
+    "name": "Bambalu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.38.2003",
+    "district_id": "73.18.38",
+    "name": "Maroson",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.38.2004",
+    "district_id": "73.18.38",
+    "name": "Lipungan Tanete",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.38.2005",
+    "district_id": "73.18.38",
+    "name": "Rante limbong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.38.2006",
+    "district_id": "73.18.38",
+    "name": "Limbong Sangpolo",
+    "type": "DESA"
+  }
+]

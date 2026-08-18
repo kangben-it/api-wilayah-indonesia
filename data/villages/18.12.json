@@ -1,0 +1,620 @@
+[
+  {
+    "id": "18.12.01.1001",
+    "district_id": "18.12.01",
+    "name": "Mulyo Asri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.12.01.1007",
+    "district_id": "18.12.01",
+    "name": "Panaragan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.12.01.2002",
+    "district_id": "18.12.01",
+    "name": "Panaragan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2003",
+    "district_id": "18.12.01",
+    "name": "Bandar Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2004",
+    "district_id": "18.12.01",
+    "name": "Menggala Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2005",
+    "district_id": "18.12.01",
+    "name": "Penumangan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2006",
+    "district_id": "18.12.01",
+    "name": "Penumangan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2008",
+    "district_id": "18.12.01",
+    "name": "Tirta Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2009",
+    "district_id": "18.12.01",
+    "name": "Pulung Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2010",
+    "district_id": "18.12.01",
+    "name": "Mulya Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2011",
+    "district_id": "18.12.01",
+    "name": "Candra Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2012",
+    "district_id": "18.12.01",
+    "name": "Tunas Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2013",
+    "district_id": "18.12.01",
+    "name": "Wono Kerto",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2014",
+    "district_id": "18.12.01",
+    "name": "Panaragan Jaya Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2015",
+    "district_id": "18.12.01",
+    "name": "Panaragan Jaya Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2016",
+    "district_id": "18.12.01",
+    "name": "Mulya Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2017",
+    "district_id": "18.12.01",
+    "name": "Tirta Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2018",
+    "district_id": "18.12.01",
+    "name": "Candra Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2019",
+    "district_id": "18.12.01",
+    "name": "Candra Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2020",
+    "district_id": "18.12.01",
+    "name": "Marga Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.01.2021",
+    "district_id": "18.12.01",
+    "name": "Mekar Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.1001",
+    "district_id": "18.12.02",
+    "name": "Daya Murni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.12.02.2002",
+    "district_id": "18.12.02",
+    "name": "Daya Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2003",
+    "district_id": "18.12.02",
+    "name": "Margo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2004",
+    "district_id": "18.12.02",
+    "name": "Makarti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2005",
+    "district_id": "18.12.02",
+    "name": "Gunung Menanti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2006",
+    "district_id": "18.12.02",
+    "name": "Daya Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2007",
+    "district_id": "18.12.02",
+    "name": "Murni Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2008",
+    "district_id": "18.12.02",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2009",
+    "district_id": "18.12.02",
+    "name": "Margo Dadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2010",
+    "district_id": "18.12.02",
+    "name": "Gunung Timbul",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2001",
+    "district_id": "18.12.03",
+    "name": "Karta",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2002",
+    "district_id": "18.12.03",
+    "name": "Karta Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2003",
+    "district_id": "18.12.03",
+    "name": "Karta Raharja",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2004",
+    "district_id": "18.12.03",
+    "name": "Gunung Katun Tanjungan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2005",
+    "district_id": "18.12.03",
+    "name": "Gunung Katun Malai",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2006",
+    "district_id": "18.12.03",
+    "name": "Gedung Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2007",
+    "district_id": "18.12.03",
+    "name": "Kagungan Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2008",
+    "district_id": "18.12.03",
+    "name": "Marga Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2009",
+    "district_id": "18.12.03",
+    "name": "Way Sido",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2010",
+    "district_id": "18.12.03",
+    "name": "Kagungan Ratu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2011",
+    "district_id": "18.12.03",
+    "name": "Gading Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2012",
+    "district_id": "18.12.03",
+    "name": "Karta Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.03.2013",
+    "district_id": "18.12.03",
+    "name": "Karta Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2002",
+    "district_id": "18.12.04",
+    "name": "Toto Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2006",
+    "district_id": "18.12.04",
+    "name": "Setia Bumi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2007",
+    "district_id": "18.12.04",
+    "name": "Gunung Terang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2008",
+    "district_id": "18.12.04",
+    "name": "Gunung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2011",
+    "district_id": "18.12.04",
+    "name": "Kagungan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2012",
+    "district_id": "18.12.04",
+    "name": "Terang Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2013",
+    "district_id": "18.12.04",
+    "name": "Terang Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2015",
+    "district_id": "18.12.04",
+    "name": "Setia Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2017",
+    "district_id": "18.12.04",
+    "name": "Mulyo Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2020",
+    "district_id": "18.12.04",
+    "name": "Terang Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2001",
+    "district_id": "18.12.05",
+    "name": "Tunas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2002",
+    "district_id": "18.12.05",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2003",
+    "district_id": "18.12.05",
+    "name": "Marga Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2004",
+    "district_id": "18.12.05",
+    "name": "Jaya Murni",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2005",
+    "district_id": "18.12.05",
+    "name": "Suka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2006",
+    "district_id": "18.12.05",
+    "name": "Mulya Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2007",
+    "district_id": "18.12.05",
+    "name": "Bangun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2008",
+    "district_id": "18.12.05",
+    "name": "Sumber Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2009",
+    "district_id": "18.12.05",
+    "name": "Wono Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2010",
+    "district_id": "18.12.05",
+    "name": "Tri Tunggal Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2011",
+    "district_id": "18.12.05",
+    "name": "Mulya Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2012",
+    "district_id": "18.12.05",
+    "name": "Dwikora Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.05.2013",
+    "district_id": "18.12.05",
+    "name": "Sumber Rejeki",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2001",
+    "district_id": "18.12.06",
+    "name": "Agung Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2002",
+    "district_id": "18.12.06",
+    "name": "Mercu Buana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2003",
+    "district_id": "18.12.06",
+    "name": "Balam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2004",
+    "district_id": "18.12.06",
+    "name": "Pagar Buana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2005",
+    "district_id": "18.12.06",
+    "name": "Indraloka I",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2006",
+    "district_id": "18.12.06",
+    "name": "Indraloka II",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2007",
+    "district_id": "18.12.06",
+    "name": "Balam Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2008",
+    "district_id": "18.12.06",
+    "name": "Indraloka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2009",
+    "district_id": "18.12.06",
+    "name": "Indraloka Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2010",
+    "district_id": "18.12.06",
+    "name": "Sido Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2001",
+    "district_id": "18.12.07",
+    "name": "Kibang Budi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2002",
+    "district_id": "18.12.07",
+    "name": "Lesung Bhakti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2003",
+    "district_id": "18.12.07",
+    "name": "Mekar Sari Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2004",
+    "district_id": "18.12.07",
+    "name": "Pagar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2005",
+    "district_id": "18.12.07",
+    "name": "Gunung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2006",
+    "district_id": "18.12.07",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2007",
+    "district_id": "18.12.07",
+    "name": "Kibang Yekti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2008",
+    "district_id": "18.12.07",
+    "name": "Kibang Tri Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2009",
+    "district_id": "18.12.07",
+    "name": "Gilang Tunggal Makarta",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.07.2010",
+    "district_id": "18.12.07",
+    "name": "Kibang Mulya Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2001",
+    "district_id": "18.12.08",
+    "name": "Pagar Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2002",
+    "district_id": "18.12.08",
+    "name": "Pagar Dewa Suka Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2003",
+    "district_id": "18.12.08",
+    "name": "Cahyou Randu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2004",
+    "district_id": "18.12.08",
+    "name": "Bujung Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2005",
+    "district_id": "18.12.08",
+    "name": "Bujung Sari Marga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2006",
+    "district_id": "18.12.08",
+    "name": "Marga Jaya Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2001",
+    "district_id": "18.12.09",
+    "name": "Panca Marga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2002",
+    "district_id": "18.12.09",
+    "name": "Sido Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2003",
+    "district_id": "18.12.09",
+    "name": "Sakti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2004",
+    "district_id": "18.12.09",
+    "name": "Margo Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2005",
+    "district_id": "18.12.09",
+    "name": "Margo Dadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2006",
+    "district_id": "18.12.09",
+    "name": "Marga Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2007",
+    "district_id": "18.12.09",
+    "name": "Mulyo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2008",
+    "district_id": "18.12.09",
+    "name": "Toto Katon",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2009",
+    "district_id": "18.12.09",
+    "name": "Toto Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.09.2010",
+    "district_id": "18.12.09",
+    "name": "Toto Wonodadi",
+    "type": "DESA"
+  }
+]

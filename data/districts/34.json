@@ -1,0 +1,392 @@
+[
+  {
+    "id": "34.01.01",
+    "regency_id": "34.01",
+    "name": "Temon"
+  },
+  {
+    "id": "34.01.02",
+    "regency_id": "34.01",
+    "name": "Wates"
+  },
+  {
+    "id": "34.01.03",
+    "regency_id": "34.01",
+    "name": "Panjatan"
+  },
+  {
+    "id": "34.01.04",
+    "regency_id": "34.01",
+    "name": "Galur"
+  },
+  {
+    "id": "34.01.05",
+    "regency_id": "34.01",
+    "name": "Lendah"
+  },
+  {
+    "id": "34.01.06",
+    "regency_id": "34.01",
+    "name": "Sentolo"
+  },
+  {
+    "id": "34.01.07",
+    "regency_id": "34.01",
+    "name": "Pengasih"
+  },
+  {
+    "id": "34.01.08",
+    "regency_id": "34.01",
+    "name": "Kokap"
+  },
+  {
+    "id": "34.01.09",
+    "regency_id": "34.01",
+    "name": "Girimulyo"
+  },
+  {
+    "id": "34.01.10",
+    "regency_id": "34.01",
+    "name": "Nanggulan"
+  },
+  {
+    "id": "34.01.11",
+    "regency_id": "34.01",
+    "name": "Samigaluh"
+  },
+  {
+    "id": "34.01.12",
+    "regency_id": "34.01",
+    "name": "Kalibawang"
+  },
+  {
+    "id": "34.02.01",
+    "regency_id": "34.02",
+    "name": "Srandakan"
+  },
+  {
+    "id": "34.02.02",
+    "regency_id": "34.02",
+    "name": "Sanden"
+  },
+  {
+    "id": "34.02.03",
+    "regency_id": "34.02",
+    "name": "Kretek"
+  },
+  {
+    "id": "34.02.04",
+    "regency_id": "34.02",
+    "name": "Pundong"
+  },
+  {
+    "id": "34.02.05",
+    "regency_id": "34.02",
+    "name": "Bambanglipuro"
+  },
+  {
+    "id": "34.02.06",
+    "regency_id": "34.02",
+    "name": "Pandak"
+  },
+  {
+    "id": "34.02.07",
+    "regency_id": "34.02",
+    "name": "Pajangan"
+  },
+  {
+    "id": "34.02.08",
+    "regency_id": "34.02",
+    "name": "Bantul"
+  },
+  {
+    "id": "34.02.09",
+    "regency_id": "34.02",
+    "name": "Jetis"
+  },
+  {
+    "id": "34.02.10",
+    "regency_id": "34.02",
+    "name": "Imogiri"
+  },
+  {
+    "id": "34.02.11",
+    "regency_id": "34.02",
+    "name": "Dlingo"
+  },
+  {
+    "id": "34.02.12",
+    "regency_id": "34.02",
+    "name": "Banguntapan"
+  },
+  {
+    "id": "34.02.13",
+    "regency_id": "34.02",
+    "name": "Pleret"
+  },
+  {
+    "id": "34.02.14",
+    "regency_id": "34.02",
+    "name": "Piyungan"
+  },
+  {
+    "id": "34.02.15",
+    "regency_id": "34.02",
+    "name": "Sewon"
+  },
+  {
+    "id": "34.02.16",
+    "regency_id": "34.02",
+    "name": "Kasihan"
+  },
+  {
+    "id": "34.02.17",
+    "regency_id": "34.02",
+    "name": "Sedayu"
+  },
+  {
+    "id": "34.03.01",
+    "regency_id": "34.03",
+    "name": "Wonosari"
+  },
+  {
+    "id": "34.03.02",
+    "regency_id": "34.03",
+    "name": "Nglipar"
+  },
+  {
+    "id": "34.03.03",
+    "regency_id": "34.03",
+    "name": "Playen"
+  },
+  {
+    "id": "34.03.04",
+    "regency_id": "34.03",
+    "name": "Patuk"
+  },
+  {
+    "id": "34.03.05",
+    "regency_id": "34.03",
+    "name": "Paliyan"
+  },
+  {
+    "id": "34.03.06",
+    "regency_id": "34.03",
+    "name": "Panggang"
+  },
+  {
+    "id": "34.03.07",
+    "regency_id": "34.03",
+    "name": "Tepus"
+  },
+  {
+    "id": "34.03.08",
+    "regency_id": "34.03",
+    "name": "Semanu"
+  },
+  {
+    "id": "34.03.09",
+    "regency_id": "34.03",
+    "name": "Karangmojo"
+  },
+  {
+    "id": "34.03.10",
+    "regency_id": "34.03",
+    "name": "Ponjong"
+  },
+  {
+    "id": "34.03.11",
+    "regency_id": "34.03",
+    "name": "Rongkop"
+  },
+  {
+    "id": "34.03.12",
+    "regency_id": "34.03",
+    "name": "Semin"
+  },
+  {
+    "id": "34.03.13",
+    "regency_id": "34.03",
+    "name": "Ngawen"
+  },
+  {
+    "id": "34.03.14",
+    "regency_id": "34.03",
+    "name": "Gedangsari"
+  },
+  {
+    "id": "34.03.15",
+    "regency_id": "34.03",
+    "name": "Saptosari"
+  },
+  {
+    "id": "34.03.16",
+    "regency_id": "34.03",
+    "name": "Girisubo"
+  },
+  {
+    "id": "34.03.17",
+    "regency_id": "34.03",
+    "name": "Tanjungsari"
+  },
+  {
+    "id": "34.03.18",
+    "regency_id": "34.03",
+    "name": "Purwosari"
+  },
+  {
+    "id": "34.04.01",
+    "regency_id": "34.04",
+    "name": "Gamping"
+  },
+  {
+    "id": "34.04.02",
+    "regency_id": "34.04",
+    "name": "Godean"
+  },
+  {
+    "id": "34.04.03",
+    "regency_id": "34.04",
+    "name": "Moyudan"
+  },
+  {
+    "id": "34.04.04",
+    "regency_id": "34.04",
+    "name": "Minggir"
+  },
+  {
+    "id": "34.04.05",
+    "regency_id": "34.04",
+    "name": "Seyegan"
+  },
+  {
+    "id": "34.04.06",
+    "regency_id": "34.04",
+    "name": "Mlati"
+  },
+  {
+    "id": "34.04.07",
+    "regency_id": "34.04",
+    "name": "Depok"
+  },
+  {
+    "id": "34.04.08",
+    "regency_id": "34.04",
+    "name": "Berbah"
+  },
+  {
+    "id": "34.04.09",
+    "regency_id": "34.04",
+    "name": "Prambanan"
+  },
+  {
+    "id": "34.04.10",
+    "regency_id": "34.04",
+    "name": "Kalasan"
+  },
+  {
+    "id": "34.04.11",
+    "regency_id": "34.04",
+    "name": "Ngemplak"
+  },
+  {
+    "id": "34.04.12",
+    "regency_id": "34.04",
+    "name": "Ngaglik"
+  },
+  {
+    "id": "34.04.13",
+    "regency_id": "34.04",
+    "name": "Sleman"
+  },
+  {
+    "id": "34.04.14",
+    "regency_id": "34.04",
+    "name": "Tempel"
+  },
+  {
+    "id": "34.04.15",
+    "regency_id": "34.04",
+    "name": "Turi"
+  },
+  {
+    "id": "34.04.16",
+    "regency_id": "34.04",
+    "name": "Pakem"
+  },
+  {
+    "id": "34.04.17",
+    "regency_id": "34.04",
+    "name": "Cangkringan"
+  },
+  {
+    "id": "34.71.01",
+    "regency_id": "34.71",
+    "name": "Tegalrejo"
+  },
+  {
+    "id": "34.71.02",
+    "regency_id": "34.71",
+    "name": "Jetis"
+  },
+  {
+    "id": "34.71.03",
+    "regency_id": "34.71",
+    "name": "Gondokusuman"
+  },
+  {
+    "id": "34.71.04",
+    "regency_id": "34.71",
+    "name": "Danurejan"
+  },
+  {
+    "id": "34.71.05",
+    "regency_id": "34.71",
+    "name": "Gedongtengen"
+  },
+  {
+    "id": "34.71.06",
+    "regency_id": "34.71",
+    "name": "Ngampilan"
+  },
+  {
+    "id": "34.71.07",
+    "regency_id": "34.71",
+    "name": "Wirobrajan"
+  },
+  {
+    "id": "34.71.08",
+    "regency_id": "34.71",
+    "name": "Mantrijeron"
+  },
+  {
+    "id": "34.71.09",
+    "regency_id": "34.71",
+    "name": "Kraton"
+  },
+  {
+    "id": "34.71.10",
+    "regency_id": "34.71",
+    "name": "Gondomanan"
+  },
+  {
+    "id": "34.71.11",
+    "regency_id": "34.71",
+    "name": "Pakualaman"
+  },
+  {
+    "id": "34.71.12",
+    "regency_id": "34.71",
+    "name": "Mergangsan"
+  },
+  {
+    "id": "34.71.13",
+    "regency_id": "34.71",
+    "name": "Umbulharjo"
+  },
+  {
+    "id": "34.71.14",
+    "regency_id": "34.71",
+    "name": "Kotagede"
+  }
+]

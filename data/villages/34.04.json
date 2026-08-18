@@ -1,0 +1,518 @@
+[
+  {
+    "id": "34.04.01.2001",
+    "district_id": "34.04.01",
+    "name": "Balecatur",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.01.2002",
+    "district_id": "34.04.01",
+    "name": "Ambarketawang",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.01.2003",
+    "district_id": "34.04.01",
+    "name": "Banyuraden",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.01.2004",
+    "district_id": "34.04.01",
+    "name": "Nogotirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.01.2005",
+    "district_id": "34.04.01",
+    "name": "Trihanggo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2001",
+    "district_id": "34.04.02",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2002",
+    "district_id": "34.04.02",
+    "name": "Sidoluhur",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2003",
+    "district_id": "34.04.02",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2004",
+    "district_id": "34.04.02",
+    "name": "Sidoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2005",
+    "district_id": "34.04.02",
+    "name": "Sidokarto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2006",
+    "district_id": "34.04.02",
+    "name": "Sidoarum",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2007",
+    "district_id": "34.04.02",
+    "name": "Sidomoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.03.2001",
+    "district_id": "34.04.03",
+    "name": "Sumberrahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.03.2002",
+    "district_id": "34.04.03",
+    "name": "Sumbersari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.03.2003",
+    "district_id": "34.04.03",
+    "name": "Sumberagung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.03.2004",
+    "district_id": "34.04.03",
+    "name": "Sumberarum",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.04.2001",
+    "district_id": "34.04.04",
+    "name": "Sendangarum",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.04.2002",
+    "district_id": "34.04.04",
+    "name": "Sendangmulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.04.2003",
+    "district_id": "34.04.04",
+    "name": "Sendangagung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.04.2004",
+    "district_id": "34.04.04",
+    "name": "Sendangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.04.2005",
+    "district_id": "34.04.04",
+    "name": "Sendangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2001",
+    "district_id": "34.04.05",
+    "name": "Margoluwih",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2002",
+    "district_id": "34.04.05",
+    "name": "Margodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2003",
+    "district_id": "34.04.05",
+    "name": "Margokaton",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2004",
+    "district_id": "34.04.05",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2005",
+    "district_id": "34.04.05",
+    "name": "Margoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2001",
+    "district_id": "34.04.06",
+    "name": "Sinduadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2002",
+    "district_id": "34.04.06",
+    "name": "Sendangadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2003",
+    "district_id": "34.04.06",
+    "name": "Tlogoadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2004",
+    "district_id": "34.04.06",
+    "name": "Tirtoadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2005",
+    "district_id": "34.04.06",
+    "name": "Sumberadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.07.2001",
+    "district_id": "34.04.07",
+    "name": "Caturtunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.07.2002",
+    "district_id": "34.04.07",
+    "name": "Maguwoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.07.2003",
+    "district_id": "34.04.07",
+    "name": "Condongcatur",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.08.2001",
+    "district_id": "34.04.08",
+    "name": "Sendangtirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.08.2002",
+    "district_id": "34.04.08",
+    "name": "Tegaltirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.08.2003",
+    "district_id": "34.04.08",
+    "name": "Kalitirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.08.2004",
+    "district_id": "34.04.08",
+    "name": "Jogotirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2001",
+    "district_id": "34.04.09",
+    "name": "Sumberharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2002",
+    "district_id": "34.04.09",
+    "name": "Wukirharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2003",
+    "district_id": "34.04.09",
+    "name": "Gayamharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2004",
+    "district_id": "34.04.09",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2005",
+    "district_id": "34.04.09",
+    "name": "Madurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.09.2006",
+    "district_id": "34.04.09",
+    "name": "Bokoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.10.2001",
+    "district_id": "34.04.10",
+    "name": "Purwomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.10.2002",
+    "district_id": "34.04.10",
+    "name": "Tirtomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.10.2003",
+    "district_id": "34.04.10",
+    "name": "Tamanmartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.10.2004",
+    "district_id": "34.04.10",
+    "name": "Selomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.11.2001",
+    "district_id": "34.04.11",
+    "name": "Sindumartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.11.2002",
+    "district_id": "34.04.11",
+    "name": "Bimomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.11.2003",
+    "district_id": "34.04.11",
+    "name": "Widodomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.11.2004",
+    "district_id": "34.04.11",
+    "name": "Wedomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.11.2005",
+    "district_id": "34.04.11",
+    "name": "Umbulmartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2001",
+    "district_id": "34.04.12",
+    "name": "Sariharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2002",
+    "district_id": "34.04.12",
+    "name": "Minomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2003",
+    "district_id": "34.04.12",
+    "name": "Sinduharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2004",
+    "district_id": "34.04.12",
+    "name": "Sukoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2005",
+    "district_id": "34.04.12",
+    "name": "Sardonoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.12.2006",
+    "district_id": "34.04.12",
+    "name": "Donoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2001",
+    "district_id": "34.04.13",
+    "name": "Caturharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2002",
+    "district_id": "34.04.13",
+    "name": "Triharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2003",
+    "district_id": "34.04.13",
+    "name": "Tridadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2004",
+    "district_id": "34.04.13",
+    "name": "Pandowoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2005",
+    "district_id": "34.04.13",
+    "name": "Trimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2001",
+    "district_id": "34.04.14",
+    "name": "Banyurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2002",
+    "district_id": "34.04.14",
+    "name": "Tambakrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2003",
+    "district_id": "34.04.14",
+    "name": "Sumberrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2004",
+    "district_id": "34.04.14",
+    "name": "Pondokrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2005",
+    "district_id": "34.04.14",
+    "name": "Mororejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2006",
+    "district_id": "34.04.14",
+    "name": "Margorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2007",
+    "district_id": "34.04.14",
+    "name": "Lumbungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.14.2008",
+    "district_id": "34.04.14",
+    "name": "Merdikorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.15.2001",
+    "district_id": "34.04.15",
+    "name": "Bangunkerto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.15.2002",
+    "district_id": "34.04.15",
+    "name": "Donokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.15.2003",
+    "district_id": "34.04.15",
+    "name": "Girikerto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.15.2004",
+    "district_id": "34.04.15",
+    "name": "Wonokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2001",
+    "district_id": "34.04.16",
+    "name": "Purwobinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2002",
+    "district_id": "34.04.16",
+    "name": "Candibinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2003",
+    "district_id": "34.04.16",
+    "name": "Harjobinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2004",
+    "district_id": "34.04.16",
+    "name": "Pakembinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2005",
+    "district_id": "34.04.16",
+    "name": "Hargobinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.17.2001",
+    "district_id": "34.04.17",
+    "name": "Argomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.17.2002",
+    "district_id": "34.04.17",
+    "name": "Wukirsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.17.2003",
+    "district_id": "34.04.17",
+    "name": "Glagaharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.17.2004",
+    "district_id": "34.04.17",
+    "name": "Kepuharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.17.2005",
+    "district_id": "34.04.17",
+    "name": "Umbulharjo",
+    "type": "DESA"
+  }
+]

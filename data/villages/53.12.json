@@ -1,0 +1,446 @@
+[
+  {
+    "id": "53.12.04.2001",
+    "district_id": "53.12.04",
+    "name": "Loko Ry",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2002",
+    "district_id": "53.12.04",
+    "name": "Lolo Wano",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2003",
+    "district_id": "53.12.04",
+    "name": "Malata",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2004",
+    "district_id": "53.12.04",
+    "name": "Ngadu Pada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2005",
+    "district_id": "53.12.04",
+    "name": "Lingu Lango",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2006",
+    "district_id": "53.12.04",
+    "name": "Karaka Nduku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2007",
+    "district_id": "53.12.04",
+    "name": "Wano Kasa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2008",
+    "district_id": "53.12.04",
+    "name": "Wee Patola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2009",
+    "district_id": "53.12.04",
+    "name": "Zala Kadu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2010",
+    "district_id": "53.12.04",
+    "name": "Bondo Tera",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2011",
+    "district_id": "53.12.04",
+    "name": "Manu Kuku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2012",
+    "district_id": "53.12.04",
+    "name": "Lolo Tana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2013",
+    "district_id": "53.12.04",
+    "name": "Kareka Nduku Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2014",
+    "district_id": "53.12.04",
+    "name": "Kareka Nduku Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2015",
+    "district_id": "53.12.04",
+    "name": "Manu Mada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2016",
+    "district_id": "53.12.04",
+    "name": "Elu Loda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2017",
+    "district_id": "53.12.04",
+    "name": "Kalebu Ana Kaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.04.2018",
+    "district_id": "53.12.04",
+    "name": "Tarona",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.1007",
+    "district_id": "53.12.10",
+    "name": "Wee Karou",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1008",
+    "district_id": "53.12.10",
+    "name": "Sobawawi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1011",
+    "district_id": "53.12.10",
+    "name": "Loda Pare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1012",
+    "district_id": "53.12.10",
+    "name": "Wee Dabo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1013",
+    "district_id": "53.12.10",
+    "name": "Dira Tana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.2001",
+    "district_id": "53.12.10",
+    "name": "Bera Dolu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2002",
+    "district_id": "53.12.10",
+    "name": "Doka Kaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2003",
+    "district_id": "53.12.10",
+    "name": "Tana Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2004",
+    "district_id": "53.12.10",
+    "name": "Bali Ledo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2005",
+    "district_id": "53.12.10",
+    "name": "Dedekadu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2006",
+    "district_id": "53.12.10",
+    "name": "Ubu Pede",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2009",
+    "district_id": "53.12.10",
+    "name": "Tema Tana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2010",
+    "district_id": "53.12.10",
+    "name": "Ubu Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2014",
+    "district_id": "53.12.10",
+    "name": "Manola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2001",
+    "district_id": "53.12.11",
+    "name": "Katiku Loku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2002",
+    "district_id": "53.12.11",
+    "name": "Hupu Mada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2003",
+    "district_id": "53.12.11",
+    "name": "Praibakul",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2004",
+    "district_id": "53.12.11",
+    "name": "Hoba Wawi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2005",
+    "district_id": "53.12.11",
+    "name": "Waihura",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2006",
+    "district_id": "53.12.11",
+    "name": "Pahola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2007",
+    "district_id": "53.12.11",
+    "name": "Bali Loku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2008",
+    "district_id": "53.12.11",
+    "name": "Tara Manu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2009",
+    "district_id": "53.12.11",
+    "name": "Mamodu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2010",
+    "district_id": "53.12.11",
+    "name": "Rua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2011",
+    "district_id": "53.12.11",
+    "name": "Rewa Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2012",
+    "district_id": "53.12.11",
+    "name": "Wei Mangoma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2013",
+    "district_id": "53.12.11",
+    "name": "Ana Wolu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.11.2014",
+    "district_id": "53.12.11",
+    "name": "Pari Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2004",
+    "district_id": "53.12.12",
+    "name": "Patiala Bawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2005",
+    "district_id": "53.12.12",
+    "name": "Wailibo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2006",
+    "district_id": "53.12.12",
+    "name": "Lamboya Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2007",
+    "district_id": "53.12.12",
+    "name": "Watu Karere",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2008",
+    "district_id": "53.12.12",
+    "name": "Kabu Karudi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2009",
+    "district_id": "53.12.12",
+    "name": "Rajaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2010",
+    "district_id": "53.12.12",
+    "name": "Sodana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2011",
+    "district_id": "53.12.12",
+    "name": "Laboya Dete",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2012",
+    "district_id": "53.12.12",
+    "name": "Ringu Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2014",
+    "district_id": "53.12.12",
+    "name": "Bodo Hula",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.12.2015",
+    "district_id": "53.12.12",
+    "name": "Pala Moko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.1001",
+    "district_id": "53.12.15",
+    "name": "Wailiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1002",
+    "district_id": "53.12.15",
+    "name": "Komerda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1003",
+    "district_id": "53.12.15",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1004",
+    "district_id": "53.12.15",
+    "name": "Kampung Sawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1008",
+    "district_id": "53.12.15",
+    "name": "Pada Eweta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1009",
+    "district_id": "53.12.15",
+    "name": "Maliti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.2005",
+    "district_id": "53.12.15",
+    "name": "Kodaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2006",
+    "district_id": "53.12.15",
+    "name": "Tebara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2007",
+    "district_id": "53.12.15",
+    "name": "Kalembu Kuni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2010",
+    "district_id": "53.12.15",
+    "name": "Soba Rade",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2011",
+    "district_id": "53.12.15",
+    "name": "Lapale",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2012",
+    "district_id": "53.12.15",
+    "name": "Modu Waimaringu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2013",
+    "district_id": "53.12.15",
+    "name": "Puu Mawo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.18.2001",
+    "district_id": "53.12.18",
+    "name": "Wee Tana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.18.2002",
+    "district_id": "53.12.18",
+    "name": "Gaura",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.18.2003",
+    "district_id": "53.12.18",
+    "name": "Patiala Dete",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.18.2004",
+    "district_id": "53.12.18",
+    "name": "Harona Kalla",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "52.71.01.1004",
+    "district_id": "52.71.01",
+    "name": "Ampenan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1005",
+    "district_id": "52.71.01",
+    "name": "Ampenan Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1006",
+    "district_id": "52.71.01",
+    "name": "Pejeruk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1007",
+    "district_id": "52.71.01",
+    "name": "Ampenan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1008",
+    "district_id": "52.71.01",
+    "name": "Taman Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1009",
+    "district_id": "52.71.01",
+    "name": "Banjar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1010",
+    "district_id": "52.71.01",
+    "name": "Kebun Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1011",
+    "district_id": "52.71.01",
+    "name": "Pejarakan Karya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1012",
+    "district_id": "52.71.01",
+    "name": "Dayan Peken",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.01.1013",
+    "district_id": "52.71.01",
+    "name": "Bintaro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1001",
+    "district_id": "52.71.02",
+    "name": "Pagesangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1002",
+    "district_id": "52.71.02",
+    "name": "Mataram Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1008",
+    "district_id": "52.71.02",
+    "name": "Pagutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1009",
+    "district_id": "52.71.02",
+    "name": "Pagesangan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1010",
+    "district_id": "52.71.02",
+    "name": "Pagesangan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1011",
+    "district_id": "52.71.02",
+    "name": "Pejanggik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1012",
+    "district_id": "52.71.02",
+    "name": "Punia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1013",
+    "district_id": "52.71.02",
+    "name": "Pagutan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.02.1014",
+    "district_id": "52.71.02",
+    "name": "Pagutan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1004",
+    "district_id": "52.71.03",
+    "name": "Cakranegara Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1005",
+    "district_id": "52.71.03",
+    "name": "Cakranegara Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1006",
+    "district_id": "52.71.03",
+    "name": "Cakranegara Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1007",
+    "district_id": "52.71.03",
+    "name": "Cakranegara Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1009",
+    "district_id": "52.71.03",
+    "name": "Sayang-sayang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1010",
+    "district_id": "52.71.03",
+    "name": "Cakranegara Selatan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1011",
+    "district_id": "52.71.03",
+    "name": "Sapta Marga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1012",
+    "district_id": "52.71.03",
+    "name": "Cilinaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1013",
+    "district_id": "52.71.03",
+    "name": "Mayura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.03.1014",
+    "district_id": "52.71.03",
+    "name": "Karang Taliwang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.04.1001",
+    "district_id": "52.71.04",
+    "name": "Karang Pule",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.04.1002",
+    "district_id": "52.71.04",
+    "name": "Tanjung Karang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.04.1003",
+    "district_id": "52.71.04",
+    "name": "Jempong Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.04.1004",
+    "district_id": "52.71.04",
+    "name": "Tanjung Karang Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.04.1005",
+    "district_id": "52.71.04",
+    "name": "Kekalik Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1001",
+    "district_id": "52.71.05",
+    "name": "Mataram Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1002",
+    "district_id": "52.71.05",
+    "name": "Dasan Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1003",
+    "district_id": "52.71.05",
+    "name": "Monjok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1004",
+    "district_id": "52.71.05",
+    "name": "Karang Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1005",
+    "district_id": "52.71.05",
+    "name": "Rembiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1006",
+    "district_id": "52.71.05",
+    "name": "Gomong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1007",
+    "district_id": "52.71.05",
+    "name": "Dasan Agung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1008",
+    "district_id": "52.71.05",
+    "name": "Monjok Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.05.1009",
+    "district_id": "52.71.05",
+    "name": "Monjok Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1001",
+    "district_id": "52.71.06",
+    "name": "Dasan Cermen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1002",
+    "district_id": "52.71.06",
+    "name": "Babakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1003",
+    "district_id": "52.71.06",
+    "name": "Bertais",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1004",
+    "district_id": "52.71.06",
+    "name": "Selagalas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1005",
+    "district_id": "52.71.06",
+    "name": "Abian Tubuh Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1006",
+    "district_id": "52.71.06",
+    "name": "Turida",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.71.06.1007",
+    "district_id": "52.71.06",
+    "name": "Mandalika",
+    "type": "KELURAHAN"
+  }
+]

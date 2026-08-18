@@ -1,0 +1,476 @@
+[
+  {
+    "id": "13.07.01.2001",
+    "district_id": "13.07.01",
+    "name": "Kurai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.01.2002",
+    "district_id": "13.07.01",
+    "name": "Sungai Rimbang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.01.2003",
+    "district_id": "13.07.01",
+    "name": "Tanjuang Bungo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.01.2004",
+    "district_id": "13.07.01",
+    "name": "Suliki",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.01.2005",
+    "district_id": "13.07.01",
+    "name": "Limbanang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.01.2006",
+    "district_id": "13.07.01",
+    "name": "Andiang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2001",
+    "district_id": "13.07.02",
+    "name": "Guguak VIII Koto",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2002",
+    "district_id": "13.07.02",
+    "name": "VII Koto Talago",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2003",
+    "district_id": "13.07.02",
+    "name": "Sungai Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2004",
+    "district_id": "13.07.02",
+    "name": "Kubang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2005",
+    "district_id": "13.07.02",
+    "name": "Simpang Sugiran",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2001",
+    "district_id": "13.07.03",
+    "name": "Koto Baru Simalanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2002",
+    "district_id": "13.07.03",
+    "name": "Taeh Bukik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2003",
+    "district_id": "13.07.03",
+    "name": "Simalanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2004",
+    "district_id": "13.07.03",
+    "name": "Sungai Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2005",
+    "district_id": "13.07.03",
+    "name": "Piobang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2006",
+    "district_id": "13.07.03",
+    "name": "Taeh Baruah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.03.2007",
+    "district_id": "13.07.03",
+    "name": "Koto Tangah Simalanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.04.2001",
+    "district_id": "13.07.04",
+    "name": "Tj. Haro Sikabu-kabu Pd. Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.04.2002",
+    "district_id": "13.07.04",
+    "name": "Mungo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.04.2003",
+    "district_id": "13.07.04",
+    "name": "Sungai Kamuyang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.04.2004",
+    "district_id": "13.07.04",
+    "name": "Andaleh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2001",
+    "district_id": "13.07.05",
+    "name": "Taram",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2002",
+    "district_id": "13.07.05",
+    "name": "Solok Bio Bio",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2003",
+    "district_id": "13.07.05",
+    "name": "Tarantang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2004",
+    "district_id": "13.07.05",
+    "name": "Bukik Limbuku",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2005",
+    "district_id": "13.07.05",
+    "name": "Harau",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2006",
+    "district_id": "13.07.05",
+    "name": "Batu Balang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2007",
+    "district_id": "13.07.05",
+    "name": "Sarilamak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2008",
+    "district_id": "13.07.05",
+    "name": "Gurun",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2009",
+    "district_id": "13.07.05",
+    "name": "Lubuak Batingkok",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2010",
+    "district_id": "13.07.05",
+    "name": "Koto Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.05.2011",
+    "district_id": "13.07.05",
+    "name": "Pilubang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2001",
+    "district_id": "13.07.06",
+    "name": "Manggilang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2002",
+    "district_id": "13.07.06",
+    "name": "Tanjuang Balik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2003",
+    "district_id": "13.07.06",
+    "name": "Gunuang Malintang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2004",
+    "district_id": "13.07.06",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2005",
+    "district_id": "13.07.06",
+    "name": "Koto Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.06.2006",
+    "district_id": "13.07.06",
+    "name": "Tanjung Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2001",
+    "district_id": "13.07.07",
+    "name": "Muaro Paiti",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2002",
+    "district_id": "13.07.07",
+    "name": "Koto Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2003",
+    "district_id": "13.07.07",
+    "name": "Lubuak Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2004",
+    "district_id": "13.07.07",
+    "name": "Koto Lamo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2005",
+    "district_id": "13.07.07",
+    "name": "Durian Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2006",
+    "district_id": "13.07.07",
+    "name": "Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.07.2007",
+    "district_id": "13.07.07",
+    "name": "Galugua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.08.2001",
+    "district_id": "13.07.08",
+    "name": "Pandam Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.08.2002",
+    "district_id": "13.07.08",
+    "name": "Koto Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.08.2003",
+    "district_id": "13.07.08",
+    "name": "Talang Anau",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2001",
+    "district_id": "13.07.09",
+    "name": "Labuah Gunuang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2002",
+    "district_id": "13.07.09",
+    "name": "Batu Payuang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2003",
+    "district_id": "13.07.09",
+    "name": "Ampalu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2004",
+    "district_id": "13.07.09",
+    "name": "Bukik Sikumpa",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2005",
+    "district_id": "13.07.09",
+    "name": "Balai Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2006",
+    "district_id": "13.07.09",
+    "name": "Halaban",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2007",
+    "district_id": "13.07.09",
+    "name": "Tanjuang Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.09.2008",
+    "district_id": "13.07.09",
+    "name": "Sitanang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2001",
+    "district_id": "13.07.10",
+    "name": "Situjuah Batua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2002",
+    "district_id": "13.07.10",
+    "name": "Situjuah Ladang Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2003",
+    "district_id": "13.07.10",
+    "name": "Tungka",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2004",
+    "district_id": "13.07.10",
+    "name": "Situjuah Banda Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2005",
+    "district_id": "13.07.10",
+    "name": "Situjuah Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2001",
+    "district_id": "13.07.11",
+    "name": "Jopang Manganti",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2002",
+    "district_id": "13.07.11",
+    "name": "Simpang Kapuak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2003",
+    "district_id": "13.07.11",
+    "name": "Mungka",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2004",
+    "district_id": "13.07.11",
+    "name": "Talang Maur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2005",
+    "district_id": "13.07.11",
+    "name": "Sungai Antuan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.12.2001",
+    "district_id": "13.07.12",
+    "name": "Maek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.12.2002",
+    "district_id": "13.07.12",
+    "name": "Banja Loweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.12.2003",
+    "district_id": "13.07.12",
+    "name": "Baruah Gunuang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.12.2004",
+    "district_id": "13.07.12",
+    "name": "Sungai Naniang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.12.2005",
+    "district_id": "13.07.12",
+    "name": "Koto Tangah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2001",
+    "district_id": "13.07.13",
+    "name": "Sariak Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2002",
+    "district_id": "13.07.13",
+    "name": "Koto Tangah Batu Ampa",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2003",
+    "district_id": "13.07.13",
+    "name": "Batuhampar",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2004",
+    "district_id": "13.07.13",
+    "name": "Suayan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2005",
+    "district_id": "13.07.13",
+    "name": "Sungai Balantiak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2006",
+    "district_id": "13.07.13",
+    "name": "Pauh Sangik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.13.2007",
+    "district_id": "13.07.13",
+    "name": "Durian Gadang",
+    "type": "DESA"
+  }
+]

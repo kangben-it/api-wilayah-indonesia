@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "12.07.01.2001",
+    "district_id": "12.07.01",
+    "name": "Kuta Bayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2002",
+    "district_id": "12.07.01",
+    "name": "Gunung Paribuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2003",
+    "district_id": "12.07.01",
+    "name": "Simempar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2004",
+    "district_id": "12.07.01",
+    "name": "Gunung Seribu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2005",
+    "district_id": "12.07.01",
+    "name": "Gunung Sinembah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2006",
+    "district_id": "12.07.01",
+    "name": "Bintang Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2007",
+    "district_id": "12.07.01",
+    "name": "Kuta Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2008",
+    "district_id": "12.07.01",
+    "name": "Pekan Gunung Mariah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2009",
+    "district_id": "12.07.01",
+    "name": "Gunung Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2010",
+    "district_id": "12.07.01",
+    "name": "Ujung Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2011",
+    "district_id": "12.07.01",
+    "name": "Marjandi Pematang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.01.2012",
+    "district_id": "12.07.01",
+    "name": "Marjandi Tongah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.1026",
+    "district_id": "12.07.02",
+    "name": "Pekan Tanjung Morawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.02.2001",
+    "district_id": "12.07.02",
+    "name": "Medan Senembah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2002",
+    "district_id": "12.07.02",
+    "name": "Ujung Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2003",
+    "district_id": "12.07.02",
+    "name": "Limau Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2004",
+    "district_id": "12.07.02",
+    "name": "Bandar Labuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2005",
+    "district_id": "12.07.02",
+    "name": "Bangun Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2006",
+    "district_id": "12.07.02",
+    "name": "Aek Pancur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2007",
+    "district_id": "12.07.02",
+    "name": "Sei Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2008",
+    "district_id": "12.07.02",
+    "name": "Naga Timbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2009",
+    "district_id": "12.07.02",
+    "name": "Lengau Seprang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2010",
+    "district_id": "12.07.02",
+    "name": "Tanjung Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2011",
+    "district_id": "12.07.02",
+    "name": "Punden Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2012",
+    "district_id": "12.07.02",
+    "name": "Tanjung Morawa-B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2013",
+    "district_id": "12.07.02",
+    "name": "Dagang Kerawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2014",
+    "district_id": "12.07.02",
+    "name": "Tanjung Morawa-A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2015",
+    "district_id": "12.07.02",
+    "name": "Buntu Bedimbar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2016",
+    "district_id": "12.07.02",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2017",
+    "district_id": "12.07.02",
+    "name": "Dagang Kelambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2018",
+    "district_id": "12.07.02",
+    "name": "Dalu Sepuluh-A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2019",
+    "district_id": "12.07.02",
+    "name": "Dalu Sepuluh-B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2020",
+    "district_id": "12.07.02",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2021",
+    "district_id": "12.07.02",
+    "name": "Perdamean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2022",
+    "district_id": "12.07.02",
+    "name": "Penara Kebun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2023",
+    "district_id": "12.07.02",
+    "name": "Bangun Sari Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2024",
+    "district_id": "12.07.02",
+    "name": "Telaga Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.02.2025",
+    "district_id": "12.07.02",
+    "name": "Tanjung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2001",
+    "district_id": "12.07.03",
+    "name": "Bandar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2002",
+    "district_id": "12.07.03",
+    "name": "Batu Layang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2003",
+    "district_id": "12.07.03",
+    "name": "Batu Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2004",
+    "district_id": "12.07.03",
+    "name": "Betimus Mbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2005",
+    "district_id": "12.07.03",
+    "name": "Bengkurung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2006",
+    "district_id": "12.07.03",
+    "name": "Bingkawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2007",
+    "district_id": "12.07.03",
+    "name": "Buah Nabar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2008",
+    "district_id": "12.07.03",
+    "name": "Bukum",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2009",
+    "district_id": "12.07.03",
+    "name": "Buluh Awar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2010",
+    "district_id": "12.07.03",
+    "name": "Cinta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2011",
+    "district_id": "12.07.03",
+    "name": "Durin Serugun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2012",
+    "district_id": "12.07.03",
+    "name": "Ketangkuhen",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2013",
+    "district_id": "12.07.03",
+    "name": "Kuala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2014",
+    "district_id": "12.07.03",
+    "name": "Martelu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2015",
+    "district_id": "12.07.03",
+    "name": "Negeri Gugung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2016",
+    "district_id": "12.07.03",
+    "name": "Puangaja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2017",
+    "district_id": "12.07.03",
+    "name": "Rumah Kinangkung SP",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2018",
+    "district_id": "12.07.03",
+    "name": "Rambung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2019",
+    "district_id": "12.07.03",
+    "name": "Rumah Pil Pil",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2020",
+    "district_id": "12.07.03",
+    "name": "Rumah Sumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2021",
+    "district_id": "12.07.03",
+    "name": "Sala Bulan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2022",
+    "district_id": "12.07.03",
+    "name": "Sayum Sabah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2023",
+    "district_id": "12.07.03",
+    "name": "Sembahe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2024",
+    "district_id": "12.07.03",
+    "name": "Sibolangit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2025",
+    "district_id": "12.07.03",
+    "name": "Sikeben",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2026",
+    "district_id": "12.07.03",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2027",
+    "district_id": "12.07.03",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2028",
+    "district_id": "12.07.03",
+    "name": "Tambunen",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2029",
+    "district_id": "12.07.03",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.03.2030",
+    "district_id": "12.07.03",
+    "name": "Ujung Deleng",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2001",
+    "district_id": "12.07.04",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2002",
+    "district_id": "12.07.04",
+    "name": "Namo Mirik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2003",
+    "district_id": "12.07.04",
+    "name": "Suka Dame",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2004",
+    "district_id": "12.07.04",
+    "name": "Pasar X",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2005",
+    "district_id": "12.07.04",
+    "name": "Perpanden",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2006",
+    "district_id": "12.07.04",
+    "name": "Kutalimbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2007",
+    "district_id": "12.07.04",
+    "name": "Sampe Cita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2008",
+    "district_id": "12.07.04",
+    "name": "Suka Rende",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2009",
+    "district_id": "12.07.04",
+    "name": "Kwala Lau Bicik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2010",
+    "district_id": "12.07.04",
+    "name": "Lau Bekeri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2011",
+    "district_id": "12.07.04",
+    "name": "Silebo-Lebo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2012",
+    "district_id": "12.07.04",
+    "name": "Sawit Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2013",
+    "district_id": "12.07.04",
+    "name": "Namo Rube Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.04.2014",
+    "district_id": "12.07.04",
+    "name": "Sei Mencirim",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2001",
+    "district_id": "12.07.05",
+    "name": "Bintang Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2002",
+    "district_id": "12.07.05",
+    "name": "Sugau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2003",
+    "district_id": "12.07.05",
+    "name": "Tiang Layar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2004",
+    "district_id": "12.07.05",
+    "name": "Durin Simbelang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2005",
+    "district_id": "12.07.05",
+    "name": "Namo Riam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2006",
+    "district_id": "12.07.05",
+    "name": "Durin Tonggal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2007",
+    "district_id": "12.07.05",
+    "name": "Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2008",
+    "district_id": "12.07.05",
+    "name": "Pertampilen",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2009",
+    "district_id": "12.07.05",
+    "name": "Salam Tani",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2010",
+    "district_id": "12.07.05",
+    "name": "Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2011",
+    "district_id": "12.07.05",
+    "name": "Namo Simpur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2012",
+    "district_id": "12.07.05",
+    "name": "Simalingkar A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2013",
+    "district_id": "12.07.05",
+    "name": "Namo Bintang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2014",
+    "district_id": "12.07.05",
+    "name": "Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2015",
+    "district_id": "12.07.05",
+    "name": "Namo Rih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2016",
+    "district_id": "12.07.05",
+    "name": "Tuntungan I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2017",
+    "district_id": "12.07.05",
+    "name": "Gunung Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2018",
+    "district_id": "12.07.05",
+    "name": "Tuntungan II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2019",
+    "district_id": "12.07.05",
+    "name": "Durin Jangak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2020",
+    "district_id": "12.07.05",
+    "name": "Sembahe Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2021",
+    "district_id": "12.07.05",
+    "name": "Tanjung Anom",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2022",
+    "district_id": "12.07.05",
+    "name": "Sei Glugur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2023",
+    "district_id": "12.07.05",
+    "name": "Suka Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2024",
+    "district_id": "12.07.05",
+    "name": "Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.05.2025",
+    "district_id": "12.07.05",
+    "name": "Perumnas Simalingkar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2001",
+    "district_id": "12.07.06",
+    "name": "Deli Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2002",
+    "district_id": "12.07.06",
+    "name": "Jati Kesuma",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2003",
+    "district_id": "12.07.06",
+    "name": "Namo Rambe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2004",
+    "district_id": "12.07.06",
+    "name": "Gunung Kelawas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2005",
+    "district_id": "12.07.06",
+    "name": "Ujung Labuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2006",
+    "district_id": "12.07.06",
+    "name": "Lubang Ido",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2007",
+    "district_id": "12.07.06",
+    "name": "Silue-lue",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2008",
+    "district_id": "12.07.06",
+    "name": "Timbang Lawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2009",
+    "district_id": "12.07.06",
+    "name": "Batu Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2010",
+    "district_id": "12.07.06",
+    "name": "Namo Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2011",
+    "district_id": "12.07.06",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2012",
+    "district_id": "12.07.06",
+    "name": "Bekukul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2013",
+    "district_id": "12.07.06",
+    "name": "Namo Pakam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2014",
+    "district_id": "12.07.06",
+    "name": "Suka Mulia Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2015",
+    "district_id": "12.07.06",
+    "name": "Suka Mulia Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2016",
+    "district_id": "12.07.06",
+    "name": "Rumah Mbacang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2017",
+    "district_id": "12.07.06",
+    "name": "Cinta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2018",
+    "district_id": "12.07.06",
+    "name": "Batu Penjemuran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2019",
+    "district_id": "12.07.06",
+    "name": "Kuta Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2020",
+    "district_id": "12.07.06",
+    "name": "Namo Landur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2021",
+    "district_id": "12.07.06",
+    "name": "Gunung Berita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2022",
+    "district_id": "12.07.06",
+    "name": "Tangkahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2023",
+    "district_id": "12.07.06",
+    "name": "Uruk Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2024",
+    "district_id": "12.07.06",
+    "name": "Rumah Keben",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2025",
+    "district_id": "12.07.06",
+    "name": "Namo Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2026",
+    "district_id": "12.07.06",
+    "name": "Sudi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2027",
+    "district_id": "12.07.06",
+    "name": "Jaba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2028",
+    "district_id": "12.07.06",
+    "name": "Kuta Tualah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2029",
+    "district_id": "12.07.06",
+    "name": "Kwala Simeme",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2030",
+    "district_id": "12.07.06",
+    "name": "Batu Gemuk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2031",
+    "district_id": "12.07.06",
+    "name": "Lau Mulgap",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2032",
+    "district_id": "12.07.06",
+    "name": "Batu Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2033",
+    "district_id": "12.07.06",
+    "name": "Salang Tungir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2034",
+    "district_id": "12.07.06",
+    "name": "Namo Mbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2035",
+    "district_id": "12.07.06",
+    "name": "Rimo Mungkur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2036",
+    "district_id": "12.07.06",
+    "name": "Namo Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2001",
+    "district_id": "12.07.07",
+    "name": "Aji Baho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2002",
+    "district_id": "12.07.07",
+    "name": "Biru-biru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2003",
+    "district_id": "12.07.07",
+    "name": "Candi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2004",
+    "district_id": "12.07.07",
+    "name": "Kutomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2005",
+    "district_id": "12.07.07",
+    "name": "Kuala Dekah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2006",
+    "district_id": "12.07.07",
+    "name": "Mbaruai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2007",
+    "district_id": "12.07.07",
+    "name": "Mardinding Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2008",
+    "district_id": "12.07.07",
+    "name": "Namo Suro Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2009",
+    "district_id": "12.07.07",
+    "name": "Peria-ria",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2010",
+    "district_id": "12.07.07",
+    "name": "Penen",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2011",
+    "district_id": "12.07.07",
+    "name": "Rumah Gerat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2012",
+    "district_id": "12.07.07",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2013",
+    "district_id": "12.07.07",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2014",
+    "district_id": "12.07.07",
+    "name": "Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2015",
+    "district_id": "12.07.07",
+    "name": "Sarilaba Jahe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2016",
+    "district_id": "12.07.07",
+    "name": "Tanjung Sena",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.07.2017",
+    "district_id": "12.07.07",
+    "name": "Namo Tualang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2001",
+    "district_id": "12.07.08",
+    "name": "Talun Kenas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2002",
+    "district_id": "12.07.08",
+    "name": "Gunung Rintih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2003",
+    "district_id": "12.07.08",
+    "name": "Sumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2004",
+    "district_id": "12.07.08",
+    "name": "Tadukan Raga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2005",
+    "district_id": "12.07.08",
+    "name": "Limau Mungkur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2006",
+    "district_id": "12.07.08",
+    "name": "Negara Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2007",
+    "district_id": "12.07.08",
+    "name": "Lau Barus Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2008",
+    "district_id": "12.07.08",
+    "name": "Juma Tombak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2009",
+    "district_id": "12.07.08",
+    "name": "Siguci",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2010",
+    "district_id": "12.07.08",
+    "name": "Kuta Jurung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2011",
+    "district_id": "12.07.08",
+    "name": "Tala Peta",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2012",
+    "district_id": "12.07.08",
+    "name": "Lau Rakit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2013",
+    "district_id": "12.07.08",
+    "name": "Penungkiren",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2014",
+    "district_id": "12.07.08",
+    "name": "Rambai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.08.2015",
+    "district_id": "12.07.08",
+    "name": "Lau Rempak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2001",
+    "district_id": "12.07.09",
+    "name": "Bah Perak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2002",
+    "district_id": "12.07.09",
+    "name": "Bandar Kwala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2003",
+    "district_id": "12.07.09",
+    "name": "Bah Balua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2005",
+    "district_id": "12.07.09",
+    "name": "Bandar Gugung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2006",
+    "district_id": "12.07.09",
+    "name": "Bandar Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2007",
+    "district_id": "12.07.09",
+    "name": "Batu Gingging",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2008",
+    "district_id": "12.07.09",
+    "name": "Bangun Purba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2009",
+    "district_id": "12.07.09",
+    "name": "Bangun Purba Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2010",
+    "district_id": "12.07.09",
+    "name": "Begerpang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2011",
+    "district_id": "12.07.09",
+    "name": "Batu Rata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2012",
+    "district_id": "12.07.09",
+    "name": "Cimahi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2014",
+    "district_id": "12.07.09",
+    "name": "Damak Maliho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2015",
+    "district_id": "12.07.09",
+    "name": "Greahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2017",
+    "district_id": "12.07.09",
+    "name": "Marombun Ujung Jawi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2018",
+    "district_id": "12.07.09",
+    "name": "Marombun Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2019",
+    "district_id": "12.07.09",
+    "name": "Mabar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2020",
+    "district_id": "12.07.09",
+    "name": "Perguroan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2023",
+    "district_id": "12.07.09",
+    "name": "Rumah Deleng",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2024",
+    "district_id": "12.07.09",
+    "name": "Sibaganding",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2025",
+    "district_id": "12.07.09",
+    "name": "Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2027",
+    "district_id": "12.07.09",
+    "name": "Sukaluwei",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2030",
+    "district_id": "12.07.09",
+    "name": "Tanjung Purba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2032",
+    "district_id": "12.07.09",
+    "name": "Urung Ganjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.09.2033",
+    "district_id": "12.07.09",
+    "name": "Ujung Rambe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.1038",
+    "district_id": "12.07.19",
+    "name": "Galang Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.19.2001",
+    "district_id": "12.07.19",
+    "name": "Tanjung Gusti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2002",
+    "district_id": "12.07.19",
+    "name": "Baru Titi Besi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2003",
+    "district_id": "12.07.19",
+    "name": "Bandar Kuala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2004",
+    "district_id": "12.07.19",
+    "name": "Batu Lokong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2005",
+    "district_id": "12.07.19",
+    "name": "Galang Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2006",
+    "district_id": "12.07.19",
+    "name": "Galang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2007",
+    "district_id": "12.07.19",
+    "name": "Jaharun A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2008",
+    "district_id": "12.07.19",
+    "name": "Jaharun B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2009",
+    "district_id": "12.07.19",
+    "name": "Juhar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2012",
+    "district_id": "12.07.19",
+    "name": "Kramat Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2013",
+    "district_id": "12.07.19",
+    "name": "Kotasan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2015",
+    "district_id": "12.07.19",
+    "name": "Kotangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2016",
+    "district_id": "12.07.19",
+    "name": "Kelapa Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2019",
+    "district_id": "12.07.19",
+    "name": "Nogorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2022",
+    "district_id": "12.07.19",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2023",
+    "district_id": "12.07.19",
+    "name": "Petumbukan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2024",
+    "district_id": "12.07.19",
+    "name": "Petangguhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2025",
+    "district_id": "12.07.19",
+    "name": "Pisang Pala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2026",
+    "district_id": "12.07.19",
+    "name": "Paya Itik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2027",
+    "district_id": "12.07.19",
+    "name": "Pulo Tagor Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2028",
+    "district_id": "12.07.19",
+    "name": "Paya Kuda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2029",
+    "district_id": "12.07.19",
+    "name": "Paya Sampir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2030",
+    "district_id": "12.07.19",
+    "name": "Sei Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2031",
+    "district_id": "12.07.19",
+    "name": "Sei Karang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2034",
+    "district_id": "12.07.19",
+    "name": "Tanah Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2035",
+    "district_id": "12.07.19",
+    "name": "Timbang Deli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2036",
+    "district_id": "12.07.19",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2037",
+    "district_id": "12.07.19",
+    "name": "Tanjung Siporkis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2001",
+    "district_id": "12.07.20",
+    "name": "Tiga Juhar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2002",
+    "district_id": "12.07.20",
+    "name": "Tanjung Bampu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2003",
+    "district_id": "12.07.20",
+    "name": "Rumah Rih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2004",
+    "district_id": "12.07.20",
+    "name": "Liang Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2005",
+    "district_id": "12.07.20",
+    "name": "Durian IV Mbelang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2006",
+    "district_id": "12.07.20",
+    "name": "Tanah Gara Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2007",
+    "district_id": "12.07.20",
+    "name": "Gunung Manumpak A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2008",
+    "district_id": "12.07.20",
+    "name": "Bah Bah Buntu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2009",
+    "district_id": "12.07.20",
+    "name": "Tanjung Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2010",
+    "district_id": "12.07.20",
+    "name": "Tanjung Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2011",
+    "district_id": "12.07.20",
+    "name": "Kuta Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2012",
+    "district_id": "12.07.20",
+    "name": "Rumah Sumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2013",
+    "district_id": "12.07.20",
+    "name": "Ranggit-git",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2014",
+    "district_id": "12.07.20",
+    "name": "Liang Pematang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2015",
+    "district_id": "12.07.20",
+    "name": "Gunung Manumpak B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2016",
+    "district_id": "12.07.20",
+    "name": "Rumah Lengo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2017",
+    "district_id": "12.07.20",
+    "name": "Sipinggan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2018",
+    "district_id": "12.07.20",
+    "name": "Tanjung Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2019",
+    "district_id": "12.07.20",
+    "name": "Durian Tinggung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.20.2020",
+    "district_id": "12.07.20",
+    "name": "Sibunga Bunga Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2001",
+    "district_id": "12.07.21",
+    "name": "Lantasan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2002",
+    "district_id": "12.07.21",
+    "name": "Patumbak I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2003",
+    "district_id": "12.07.21",
+    "name": "Patumbak II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2004",
+    "district_id": "12.07.21",
+    "name": "Lantasan Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2005",
+    "district_id": "12.07.21",
+    "name": "Sigara-gara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2006",
+    "district_id": "12.07.21",
+    "name": "Marindal I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2007",
+    "district_id": "12.07.21",
+    "name": "Marindal II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2008",
+    "district_id": "12.07.21",
+    "name": "Patumbak Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.22.1004",
+    "district_id": "12.07.22",
+    "name": "Deli Tua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.1005",
+    "district_id": "12.07.22",
+    "name": "Deli Tua Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.1006",
+    "district_id": "12.07.22",
+    "name": "Deli Tua Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.2001",
+    "district_id": "12.07.22",
+    "name": "Kedai Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.22.2002",
+    "district_id": "12.07.22",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.22.2003",
+    "district_id": "12.07.22",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2001",
+    "district_id": "12.07.23",
+    "name": "Sei Semayang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2002",
+    "district_id": "12.07.23",
+    "name": "Lalang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2003",
+    "district_id": "12.07.23",
+    "name": "Puji Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2004",
+    "district_id": "12.07.23",
+    "name": "Paya Geli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2005",
+    "district_id": "12.07.23",
+    "name": "Mulio Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2006",
+    "district_id": "12.07.23",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2007",
+    "district_id": "12.07.23",
+    "name": "Sumber Melati Diski",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2008",
+    "district_id": "12.07.23",
+    "name": "Tanjung Gusta",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2009",
+    "district_id": "12.07.23",
+    "name": "Helvetia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2010",
+    "district_id": "12.07.23",
+    "name": "Medan Krio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2011",
+    "district_id": "12.07.23",
+    "name": "Sei Mencirim",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2012",
+    "district_id": "12.07.23",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2013",
+    "district_id": "12.07.23",
+    "name": "Sunggal Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2014",
+    "district_id": "12.07.23",
+    "name": "Serbajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2015",
+    "district_id": "12.07.23",
+    "name": "Telaga Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2016",
+    "district_id": "12.07.23",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.23.2017",
+    "district_id": "12.07.23",
+    "name": "Sei Beras Sekata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2001",
+    "district_id": "12.07.24",
+    "name": "Hamparan Perak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2002",
+    "district_id": "12.07.24",
+    "name": "Sei Baharu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2003",
+    "district_id": "12.07.24",
+    "name": "Klumpang Kebun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2004",
+    "district_id": "12.07.24",
+    "name": "Klumpang Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2005",
+    "district_id": "12.07.24",
+    "name": "Klambir Lima Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2006",
+    "district_id": "12.07.24",
+    "name": "Tandam Hulu II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2007",
+    "district_id": "12.07.24",
+    "name": "Klambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2008",
+    "district_id": "12.07.24",
+    "name": "Selemak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2009",
+    "district_id": "12.07.24",
+    "name": "Klambir Lima Kebun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2010",
+    "district_id": "12.07.24",
+    "name": "Sialang Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2011",
+    "district_id": "12.07.24",
+    "name": "Paya Bakung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2012",
+    "district_id": "12.07.24",
+    "name": "Tandem Hulu I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2013",
+    "district_id": "12.07.24",
+    "name": "Tandem Hilir I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2014",
+    "district_id": "12.07.24",
+    "name": "Tandam Hilir II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2015",
+    "district_id": "12.07.24",
+    "name": "Kota Datar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2016",
+    "district_id": "12.07.24",
+    "name": "Bulu Cina",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2017",
+    "district_id": "12.07.24",
+    "name": "Kota Rantang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2018",
+    "district_id": "12.07.24",
+    "name": "Paluh Manan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2019",
+    "district_id": "12.07.24",
+    "name": "Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.24.2020",
+    "district_id": "12.07.24",
+    "name": "Paluh Kurau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.25.2001",
+    "district_id": "12.07.25",
+    "name": "Helvetia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.25.2002",
+    "district_id": "12.07.25",
+    "name": "Manunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.25.2003",
+    "district_id": "12.07.25",
+    "name": "Pematang Johar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.25.2004",
+    "district_id": "12.07.25",
+    "name": "Karang Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.25.2005",
+    "district_id": "12.07.25",
+    "name": "Telaga Tujuh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.1019",
+    "district_id": "12.07.26",
+    "name": "Kenangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.26.1020",
+    "district_id": "12.07.26",
+    "name": "Kenangan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.26.2001",
+    "district_id": "12.07.26",
+    "name": "Pematang Lalang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2002",
+    "district_id": "12.07.26",
+    "name": "Sambirejo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2003",
+    "district_id": "12.07.26",
+    "name": "Kolam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2004",
+    "district_id": "12.07.26",
+    "name": "Percut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2005",
+    "district_id": "12.07.26",
+    "name": "Laut Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2006",
+    "district_id": "12.07.26",
+    "name": "Tembung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2007",
+    "district_id": "12.07.26",
+    "name": "Cinta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2008",
+    "district_id": "12.07.26",
+    "name": "Amplas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2009",
+    "district_id": "12.07.26",
+    "name": "Saentis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2010",
+    "district_id": "12.07.26",
+    "name": "Sampali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2011",
+    "district_id": "12.07.26",
+    "name": "Bandar Khalipah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2012",
+    "district_id": "12.07.26",
+    "name": "Bandar Klippa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2013",
+    "district_id": "12.07.26",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2014",
+    "district_id": "12.07.26",
+    "name": "Tanjung Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2015",
+    "district_id": "12.07.26",
+    "name": "Medan Estate",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2016",
+    "district_id": "12.07.26",
+    "name": "Cinta Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2017",
+    "district_id": "12.07.26",
+    "name": "Bandar Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2018",
+    "district_id": "12.07.26",
+    "name": "Sei Rotan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2001",
+    "district_id": "12.07.27",
+    "name": "Sena",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2002",
+    "district_id": "12.07.27",
+    "name": "Tumpatan Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2003",
+    "district_id": "12.07.27",
+    "name": "Tanjung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2004",
+    "district_id": "12.07.27",
+    "name": "Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2005",
+    "district_id": "12.07.27",
+    "name": "Batangkuis Pekan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2006",
+    "district_id": "12.07.27",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2007",
+    "district_id": "12.07.27",
+    "name": "Bintang Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2008",
+    "district_id": "12.07.27",
+    "name": "Bakaran Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2009",
+    "district_id": "12.07.27",
+    "name": "Paya Gambar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2010",
+    "district_id": "12.07.27",
+    "name": "Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.27.2011",
+    "district_id": "12.07.27",
+    "name": "Sugiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.1007",
+    "district_id": "12.07.28",
+    "name": "Lubuk Pakam I,II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1008",
+    "district_id": "12.07.28",
+    "name": "Lubuk Pakam III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1009",
+    "district_id": "12.07.28",
+    "name": "Paluh Kemiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1010",
+    "district_id": "12.07.28",
+    "name": "Cemara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1011",
+    "district_id": "12.07.28",
+    "name": "Syahmad",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1012",
+    "district_id": "12.07.28",
+    "name": "Petapahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1013",
+    "district_id": "12.07.28",
+    "name": "Lubuk Pakam Pekan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.2001",
+    "district_id": "12.07.28",
+    "name": "Sekip",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2002",
+    "district_id": "12.07.28",
+    "name": "Pagar Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2003",
+    "district_id": "12.07.28",
+    "name": "Tanjung Garbus I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2004",
+    "district_id": "12.07.28",
+    "name": "Pasar Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2005",
+    "district_id": "12.07.28",
+    "name": "Pagar Merbau III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2006",
+    "district_id": "12.07.28",
+    "name": "Bakaran Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2001",
+    "district_id": "12.07.31",
+    "name": "Tanjung Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2002",
+    "district_id": "12.07.31",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2003",
+    "district_id": "12.07.31",
+    "name": "Sidodadi Batu 8",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2004",
+    "district_id": "12.07.31",
+    "name": "Suka Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2005",
+    "district_id": "12.07.31",
+    "name": "Jati Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2006",
+    "district_id": "12.07.31",
+    "name": "Pagar Merbau I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2007",
+    "district_id": "12.07.31",
+    "name": "Pagar Merbau II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2008",
+    "district_id": "12.07.31",
+    "name": "Sidoharjo-I Pasar Miring",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2009",
+    "district_id": "12.07.31",
+    "name": "Sidoharjo-I Jati Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2010",
+    "district_id": "12.07.31",
+    "name": "Bandar Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2011",
+    "district_id": "12.07.31",
+    "name": "Tanjung Garbus II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2012",
+    "district_id": "12.07.31",
+    "name": "Tanjung Garbus Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2013",
+    "district_id": "12.07.31",
+    "name": "Perbarakan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2014",
+    "district_id": "12.07.31",
+    "name": "Sukamandi Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2015",
+    "district_id": "12.07.31",
+    "name": "Sukamandi Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.31.2016",
+    "district_id": "12.07.31",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2001",
+    "district_id": "12.07.32",
+    "name": "Sei Tuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2002",
+    "district_id": "12.07.32",
+    "name": "Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2003",
+    "district_id": "12.07.32",
+    "name": "Bagan Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2004",
+    "district_id": "12.07.32",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2005",
+    "district_id": "12.07.32",
+    "name": "Rugemuk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2006",
+    "district_id": "12.07.32",
+    "name": "Kubah Sentang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2007",
+    "district_id": "12.07.32",
+    "name": "Pantai Labu Pekan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2008",
+    "district_id": "12.07.32",
+    "name": "Pantai Labu Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2009",
+    "district_id": "12.07.32",
+    "name": "Ramunia 1",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2010",
+    "district_id": "12.07.32",
+    "name": "Ramunia 2",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2011",
+    "district_id": "12.07.32",
+    "name": "Perkebunan Ramunia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2012",
+    "district_id": "12.07.32",
+    "name": "Denai Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2013",
+    "district_id": "12.07.32",
+    "name": "Denai Kuala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2014",
+    "district_id": "12.07.32",
+    "name": "Denai Sarang Burung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2015",
+    "district_id": "12.07.32",
+    "name": "Binjai Bakung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2016",
+    "district_id": "12.07.32",
+    "name": "Paluh Sibaji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2017",
+    "district_id": "12.07.32",
+    "name": "Kelambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2018",
+    "district_id": "12.07.32",
+    "name": "Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.32.2019",
+    "district_id": "12.07.32",
+    "name": "Pematang Biara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2001",
+    "district_id": "12.07.33",
+    "name": "Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2002",
+    "district_id": "12.07.33",
+    "name": "Sidourip",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2003",
+    "district_id": "12.07.33",
+    "name": "Aras Kabu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2004",
+    "district_id": "12.07.33",
+    "name": "Pasar VI Kuala Namu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2005",
+    "district_id": "12.07.33",
+    "name": "Emplasmen Kuala Namu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2006",
+    "district_id": "12.07.33",
+    "name": "Pasar V Kebun Kelapa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2007",
+    "district_id": "12.07.33",
+    "name": "Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2008",
+    "district_id": "12.07.33",
+    "name": "Sidoarjo II Ramunia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2009",
+    "district_id": "12.07.33",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2010",
+    "district_id": "12.07.33",
+    "name": "Sidodadi Ramunia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.33.2011",
+    "district_id": "12.07.33",
+    "name": "Tumpatan",
+    "type": "DESA"
+  }
+]

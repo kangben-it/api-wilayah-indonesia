@@ -1,0 +1,302 @@
+[
+  {
+    "id": "81.71.01.1006",
+    "district_id": "81.71.01",
+    "name": "Nusaniwe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1007",
+    "district_id": "81.71.01",
+    "name": "Wainitu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1008",
+    "district_id": "81.71.01",
+    "name": "Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1009",
+    "district_id": "81.71.01",
+    "name": "Kudamati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1010",
+    "district_id": "81.71.01",
+    "name": "Mangga Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1011",
+    "district_id": "81.71.01",
+    "name": "Urimessing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1012",
+    "district_id": "81.71.01",
+    "name": "Waihaong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.1013",
+    "district_id": "81.71.01",
+    "name": "Silale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.01.2001",
+    "district_id": "81.71.01",
+    "name": "Latuhalat",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.01.2002",
+    "district_id": "81.71.01",
+    "name": "Seilale",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.01.2003",
+    "district_id": "81.71.01",
+    "name": "Nusaniwe",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.01.2004",
+    "district_id": "81.71.01",
+    "name": "Amahusu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.01.2005",
+    "district_id": "81.71.01",
+    "name": "Urimessing",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.1010",
+    "district_id": "81.71.02",
+    "name": "Pandan Kasturi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1011",
+    "district_id": "81.71.02",
+    "name": "Rijali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1012",
+    "district_id": "81.71.02",
+    "name": "Amantelu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1013",
+    "district_id": "81.71.02",
+    "name": "Karang Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1014",
+    "district_id": "81.71.02",
+    "name": "Waihoka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1015",
+    "district_id": "81.71.02",
+    "name": "Batu Meja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1016",
+    "district_id": "81.71.02",
+    "name": "Batu Gajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1017",
+    "district_id": "81.71.02",
+    "name": "Uritetu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1018",
+    "district_id": "81.71.02",
+    "name": "Honipopu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1019",
+    "district_id": "81.71.02",
+    "name": "Ahusen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.2001",
+    "district_id": "81.71.02",
+    "name": "Hative Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2002",
+    "district_id": "81.71.02",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2003",
+    "district_id": "81.71.02",
+    "name": "Batu Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2009",
+    "district_id": "81.71.02",
+    "name": "Soya",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.1018",
+    "district_id": "81.71.03",
+    "name": "Lateri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.03.2001",
+    "district_id": "81.71.03",
+    "name": "Passo",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.2002",
+    "district_id": "81.71.03",
+    "name": "Halong",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.2003",
+    "district_id": "81.71.03",
+    "name": "Latta",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.2004",
+    "district_id": "81.71.03",
+    "name": "Negeri Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.2005",
+    "district_id": "81.71.03",
+    "name": "Nania",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.03.2006",
+    "district_id": "81.71.03",
+    "name": "Waiheru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.1008",
+    "district_id": "81.71.04",
+    "name": "Tihu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.04.2001",
+    "district_id": "81.71.04",
+    "name": "Hunuth/Durian Patah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2002",
+    "district_id": "81.71.04",
+    "name": "Poka",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2003",
+    "district_id": "81.71.04",
+    "name": "Rumah Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2004",
+    "district_id": "81.71.04",
+    "name": "Wayame",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2005",
+    "district_id": "81.71.04",
+    "name": "Tawiri",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2006",
+    "district_id": "81.71.04",
+    "name": "Hative Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2007",
+    "district_id": "81.71.04",
+    "name": "Laha",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2001",
+    "district_id": "81.71.05",
+    "name": "Hukurila",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2002",
+    "district_id": "81.71.05",
+    "name": "Ema",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2003",
+    "district_id": "81.71.05",
+    "name": "Kilang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2004",
+    "district_id": "81.71.05",
+    "name": "Naku",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2005",
+    "district_id": "81.71.05",
+    "name": "Hatalai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2006",
+    "district_id": "81.71.05",
+    "name": "Hutumury",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2007",
+    "district_id": "81.71.05",
+    "name": "Rutong",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.05.2008",
+    "district_id": "81.71.05",
+    "name": "Leahari",
+    "type": "DESA"
+  }
+]

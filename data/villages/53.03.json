@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "53.03.01.2005",
+    "district_id": "53.03.01",
+    "name": "Bokon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2006",
+    "district_id": "53.03.01",
+    "name": "Bitefa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2007",
+    "district_id": "53.03.01",
+    "name": "Keanbaun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2018",
+    "district_id": "53.03.01",
+    "name": "Amol",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2019",
+    "district_id": "53.03.01",
+    "name": "Fatusene",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2020",
+    "district_id": "53.03.01",
+    "name": "Oesena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2021",
+    "district_id": "53.03.01",
+    "name": "Jak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2022",
+    "district_id": "53.03.01",
+    "name": "Tuntun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2023",
+    "district_id": "53.03.01",
+    "name": "Tunoe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2024",
+    "district_id": "53.03.01",
+    "name": "Femnasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.01.2025",
+    "district_id": "53.03.01",
+    "name": "Taekas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2001",
+    "district_id": "53.03.02",
+    "name": "Noepesu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2002",
+    "district_id": "53.03.02",
+    "name": "Fatuneno",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2003",
+    "district_id": "53.03.02",
+    "name": "Suanae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2004",
+    "district_id": "53.03.02",
+    "name": "Lemon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2005",
+    "district_id": "53.03.02",
+    "name": "Fatunisuan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2006",
+    "district_id": "53.03.02",
+    "name": "Haulasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2018",
+    "district_id": "53.03.02",
+    "name": "Neotoko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2019",
+    "district_id": "53.03.02",
+    "name": "Fatutasu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2020",
+    "district_id": "53.03.02",
+    "name": "Manusasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2025",
+    "district_id": "53.03.02",
+    "name": "Saenam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2026",
+    "district_id": "53.03.02",
+    "name": "Eban",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2027",
+    "district_id": "53.03.02",
+    "name": "Sallu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.02.2028",
+    "district_id": "53.03.02",
+    "name": "Sa'tab",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2001",
+    "district_id": "53.03.03",
+    "name": "Pantae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2002",
+    "district_id": "53.03.03",
+    "name": "Oenaem",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2003",
+    "district_id": "53.03.03",
+    "name": "Upfaon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2007",
+    "district_id": "53.03.03",
+    "name": "Tautpah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2009",
+    "district_id": "53.03.03",
+    "name": "Tokbesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2010",
+    "district_id": "53.03.03",
+    "name": "Sainiup",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2011",
+    "district_id": "53.03.03",
+    "name": "Supun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2012",
+    "district_id": "53.03.03",
+    "name": "Tunbaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2001",
+    "district_id": "53.03.04",
+    "name": "Bijeli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2002",
+    "district_id": "53.03.04",
+    "name": "Noebaun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2003",
+    "district_id": "53.03.04",
+    "name": "Seo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2004",
+    "district_id": "53.03.04",
+    "name": "Popnam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2009",
+    "district_id": "53.03.04",
+    "name": "Nibaaf",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2010",
+    "district_id": "53.03.04",
+    "name": "Banfanu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2011",
+    "district_id": "53.03.04",
+    "name": "Oenak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2012",
+    "district_id": "53.03.04",
+    "name": "Nifuboke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2013",
+    "district_id": "53.03.04",
+    "name": "Noemuti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2014",
+    "district_id": "53.03.04",
+    "name": "Fatumuti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2015",
+    "district_id": "53.03.04",
+    "name": "Kiuola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.04.2016",
+    "district_id": "53.03.04",
+    "name": "Oeperigi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.05.1001",
+    "district_id": "53.03.05",
+    "name": "Kefamenanu Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1002",
+    "district_id": "53.03.05",
+    "name": "Aplasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1003",
+    "district_id": "53.03.05",
+    "name": "Kefamenanu Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1004",
+    "district_id": "53.03.05",
+    "name": "Bansone",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1005",
+    "district_id": "53.03.05",
+    "name": "Benpasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1006",
+    "district_id": "53.03.05",
+    "name": "Kefamenanu Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1007",
+    "district_id": "53.03.05",
+    "name": "Tubuhue",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1008",
+    "district_id": "53.03.05",
+    "name": "Maubeli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.05.1009",
+    "district_id": "53.03.05",
+    "name": "Sasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.06.1015",
+    "district_id": "53.03.06",
+    "name": "Boronubaen Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.06.2001",
+    "district_id": "53.03.06",
+    "name": "Boronubaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2002",
+    "district_id": "53.03.06",
+    "name": "Hautaes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2003",
+    "district_id": "53.03.06",
+    "name": "Tualena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2004",
+    "district_id": "53.03.06",
+    "name": "Biloe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2005",
+    "district_id": "53.03.06",
+    "name": "Taunbaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2006",
+    "district_id": "53.03.06",
+    "name": "Sapaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2012",
+    "district_id": "53.03.06",
+    "name": "Lokomea",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2013",
+    "district_id": "53.03.06",
+    "name": "Taunbaen Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2014",
+    "district_id": "53.03.06",
+    "name": "Hauteas Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2001",
+    "district_id": "53.03.07",
+    "name": "Motadik",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2002",
+    "district_id": "53.03.07",
+    "name": "Nonotbatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2003",
+    "district_id": "53.03.07",
+    "name": "Sifaniha",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2004",
+    "district_id": "53.03.07",
+    "name": "Maukabatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2005",
+    "district_id": "53.03.07",
+    "name": "Kotafoun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2006",
+    "district_id": "53.03.07",
+    "name": "Tuamese",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2007",
+    "district_id": "53.03.07",
+    "name": "Ponu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2008",
+    "district_id": "53.03.07",
+    "name": "Oemanu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.07.2009",
+    "district_id": "53.03.07",
+    "name": "Nifutasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.1029",
+    "district_id": "53.03.08",
+    "name": "Bitauni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.08.2005",
+    "district_id": "53.03.08",
+    "name": "Nansean",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2006",
+    "district_id": "53.03.08",
+    "name": "Susulaku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2007",
+    "district_id": "53.03.08",
+    "name": "Loeram",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2008",
+    "district_id": "53.03.08",
+    "name": "Manunain B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2010",
+    "district_id": "53.03.08",
+    "name": "Tapenpah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2011",
+    "district_id": "53.03.08",
+    "name": "Sekon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2015",
+    "district_id": "53.03.08",
+    "name": "Ainiut",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2016",
+    "district_id": "53.03.08",
+    "name": "Nunmafo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2017",
+    "district_id": "53.03.08",
+    "name": "Oenbit",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2018",
+    "district_id": "53.03.08",
+    "name": "Manunain A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2022",
+    "district_id": "53.03.08",
+    "name": "Susulaku B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2024",
+    "district_id": "53.03.08",
+    "name": "Fatoin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2025",
+    "district_id": "53.03.08",
+    "name": "Keun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2026",
+    "district_id": "53.03.08",
+    "name": "Fatu'Ana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2027",
+    "district_id": "53.03.08",
+    "name": "Botof",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.08.2028",
+    "district_id": "53.03.08",
+    "name": "Nansean Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2006",
+    "district_id": "53.03.09",
+    "name": "Fatumtasa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2007",
+    "district_id": "53.03.09",
+    "name": "Oesoko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2008",
+    "district_id": "53.03.09",
+    "name": "Humusu Sainiup",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2009",
+    "district_id": "53.03.09",
+    "name": "Humusu Oekolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2010",
+    "district_id": "53.03.09",
+    "name": "Humusu Wini",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.10.2001",
+    "district_id": "53.03.10",
+    "name": "Naob",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.10.2002",
+    "district_id": "53.03.10",
+    "name": "Haekto",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.10.2003",
+    "district_id": "53.03.10",
+    "name": "Manikin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.10.2004",
+    "district_id": "53.03.10",
+    "name": "Kuaken",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2001",
+    "district_id": "53.03.11",
+    "name": "Tuabatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2002",
+    "district_id": "53.03.11",
+    "name": "Akomi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2003",
+    "district_id": "53.03.11",
+    "name": "Bijaepasu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2004",
+    "district_id": "53.03.11",
+    "name": "Neonasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2005",
+    "district_id": "53.03.11",
+    "name": "N i a n",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.11.2006",
+    "district_id": "53.03.11",
+    "name": "Tuabatan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2001",
+    "district_id": "53.03.12",
+    "name": "Oelneke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2002",
+    "district_id": "53.03.12",
+    "name": "Oetulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2003",
+    "district_id": "53.03.12",
+    "name": "Oeolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2004",
+    "district_id": "53.03.12",
+    "name": "Ainan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2005",
+    "district_id": "53.03.12",
+    "name": "Bisafe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2006",
+    "district_id": "53.03.12",
+    "name": "Batnes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.13.2001",
+    "district_id": "53.03.13",
+    "name": "Tasinifu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.13.2002",
+    "district_id": "53.03.13",
+    "name": "Naekake A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.13.2003",
+    "district_id": "53.03.13",
+    "name": "Naekake B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.13.2004",
+    "district_id": "53.03.13",
+    "name": "Noelelo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2001",
+    "district_id": "53.03.14",
+    "name": "Oelami",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2002",
+    "district_id": "53.03.14",
+    "name": "Kiusili",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2003",
+    "district_id": "53.03.14",
+    "name": "Naiola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2004",
+    "district_id": "53.03.14",
+    "name": "Maurisu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2005",
+    "district_id": "53.03.14",
+    "name": "Oetalus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2006",
+    "district_id": "53.03.14",
+    "name": "Tublopo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2007",
+    "district_id": "53.03.14",
+    "name": "Maurisu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2008",
+    "district_id": "53.03.14",
+    "name": "Maurisu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2009",
+    "district_id": "53.03.14",
+    "name": "Maurisu Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2010",
+    "district_id": "53.03.14",
+    "name": "Naiola Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2001",
+    "district_id": "53.03.15",
+    "name": "Buk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2002",
+    "district_id": "53.03.15",
+    "name": "Oenenu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2003",
+    "district_id": "53.03.15",
+    "name": "Nimasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2004",
+    "district_id": "53.03.15",
+    "name": "Oelbonak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2005",
+    "district_id": "53.03.15",
+    "name": "Kuenak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2006",
+    "district_id": "53.03.15",
+    "name": "Oenino",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2007",
+    "district_id": "53.03.15",
+    "name": "Oenenu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2008",
+    "district_id": "53.03.15",
+    "name": "Oenenu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2009",
+    "district_id": "53.03.15",
+    "name": "Sono",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2001",
+    "district_id": "53.03.16",
+    "name": "Inbate",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2002",
+    "district_id": "53.03.16",
+    "name": "Sunkaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2003",
+    "district_id": "53.03.16",
+    "name": "Nainaban",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2004",
+    "district_id": "53.03.16",
+    "name": "Haumeni Ana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2005",
+    "district_id": "53.03.16",
+    "name": "Nilulat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.16.2006",
+    "district_id": "53.03.16",
+    "name": "Tubu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2001",
+    "district_id": "53.03.17",
+    "name": "Faenake",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2002",
+    "district_id": "53.03.17",
+    "name": "Banain A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2003",
+    "district_id": "53.03.17",
+    "name": "Banain B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2004",
+    "district_id": "53.03.17",
+    "name": "Banain C",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2005",
+    "district_id": "53.03.17",
+    "name": "Sainoni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2006",
+    "district_id": "53.03.17",
+    "name": "Tes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2007",
+    "district_id": "53.03.17",
+    "name": "Napan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2008",
+    "district_id": "53.03.17",
+    "name": "Haumeni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.17.2009",
+    "district_id": "53.03.17",
+    "name": "Baas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.18.2001",
+    "district_id": "53.03.18",
+    "name": "Manamas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.18.2002",
+    "district_id": "53.03.18",
+    "name": "Benus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.18.2003",
+    "district_id": "53.03.18",
+    "name": "Bakitolas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.18.2004",
+    "district_id": "53.03.18",
+    "name": "Sunsea",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2001",
+    "district_id": "53.03.19",
+    "name": "Fafinesu A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2002",
+    "district_id": "53.03.19",
+    "name": "Fafinesu B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2003",
+    "district_id": "53.03.19",
+    "name": "Fafinesu C",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2004",
+    "district_id": "53.03.19",
+    "name": "Oenain",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2005",
+    "district_id": "53.03.19",
+    "name": "Baunuan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2006",
+    "district_id": "53.03.19",
+    "name": "Fafinesu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2001",
+    "district_id": "53.03.20",
+    "name": "Subun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2002",
+    "district_id": "53.03.20",
+    "name": "Usapinonot",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2003",
+    "district_id": "53.03.20",
+    "name": "Lapeom",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2004",
+    "district_id": "53.03.20",
+    "name": "Letneo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2005",
+    "district_id": "53.03.20",
+    "name": "Bannae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2006",
+    "district_id": "53.03.20",
+    "name": "Unini",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2007",
+    "district_id": "53.03.20",
+    "name": "Atmen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2008",
+    "district_id": "53.03.20",
+    "name": "Letneo Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2009",
+    "district_id": "53.03.20",
+    "name": "Oabikase",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2010",
+    "district_id": "53.03.20",
+    "name": "Nifunenas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2011",
+    "district_id": "53.03.20",
+    "name": "Subun Bestobe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.20.2012",
+    "district_id": "53.03.20",
+    "name": "Subun Tualele",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2001",
+    "district_id": "53.03.21",
+    "name": "Lanaus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2002",
+    "district_id": "53.03.21",
+    "name": "Letmafo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2003",
+    "district_id": "53.03.21",
+    "name": "Tainsala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2004",
+    "district_id": "53.03.21",
+    "name": "Maubesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2005",
+    "district_id": "53.03.21",
+    "name": "Sone",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2006",
+    "district_id": "53.03.21",
+    "name": "Letmafo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2007",
+    "district_id": "53.03.21",
+    "name": "Oehalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.22.2001",
+    "district_id": "53.03.22",
+    "name": "Teba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.22.2002",
+    "district_id": "53.03.22",
+    "name": "Oerinbesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.22.2003",
+    "district_id": "53.03.22",
+    "name": "Oekopa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.22.2004",
+    "district_id": "53.03.22",
+    "name": "T'Eba Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2001",
+    "district_id": "53.03.23",
+    "name": "Tunbes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2002",
+    "district_id": "53.03.23",
+    "name": "Luniup",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2003",
+    "district_id": "53.03.23",
+    "name": "Matabesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2004",
+    "district_id": "53.03.23",
+    "name": "Oepuah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2005",
+    "district_id": "53.03.23",
+    "name": "Kaubele",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2006",
+    "district_id": "53.03.23",
+    "name": "Oepuah Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.23.2007",
+    "district_id": "53.03.23",
+    "name": "Oepuah Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2001",
+    "district_id": "53.03.24",
+    "name": "Naku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2002",
+    "district_id": "53.03.24",
+    "name": "Birunatun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2003",
+    "district_id": "53.03.24",
+    "name": "Makun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2004",
+    "district_id": "53.03.24",
+    "name": "Manumean",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2005",
+    "district_id": "53.03.24",
+    "name": "Kuluan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": "81.07.01.1012",
+    "district_id": "81.07.01",
+    "name": "Galai Dubu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.07.01.1013",
+    "district_id": "81.07.01",
+    "name": "Siwa Lima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.07.01.2001",
+    "district_id": "81.07.01",
+    "name": "Ujir",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2002",
+    "district_id": "81.07.01",
+    "name": "Nafar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2003",
+    "district_id": "81.07.01",
+    "name": "Kobraur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2004",
+    "district_id": "81.07.01",
+    "name": "Lau-Lau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2005",
+    "district_id": "81.07.01",
+    "name": "Gorar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2006",
+    "district_id": "81.07.01",
+    "name": "Tungu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2007",
+    "district_id": "81.07.01",
+    "name": "Tunguwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2008",
+    "district_id": "81.07.01",
+    "name": "Jabulenga",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2009",
+    "district_id": "81.07.01",
+    "name": "Wokam",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2010",
+    "district_id": "81.07.01",
+    "name": "Karangguli",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2011",
+    "district_id": "81.07.01",
+    "name": "Durjela",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2014",
+    "district_id": "81.07.01",
+    "name": "Wangel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2015",
+    "district_id": "81.07.01",
+    "name": "Samang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2001",
+    "district_id": "81.07.02",
+    "name": "Jerol",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2002",
+    "district_id": "81.07.02",
+    "name": "Marfenfen",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2003",
+    "district_id": "81.07.02",
+    "name": "Kabalukin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2004",
+    "district_id": "81.07.02",
+    "name": "Kalar-Kalar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2005",
+    "district_id": "81.07.02",
+    "name": "Feruni",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2006",
+    "district_id": "81.07.02",
+    "name": "Ngaiguli",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2007",
+    "district_id": "81.07.02",
+    "name": "Fatural",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2008",
+    "district_id": "81.07.02",
+    "name": "Ngaibor",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2010",
+    "district_id": "81.07.02",
+    "name": "Popjetur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2026",
+    "district_id": "81.07.02",
+    "name": "Lor-lor",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2027",
+    "district_id": "81.07.02",
+    "name": "Gaimar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2028",
+    "district_id": "81.07.02",
+    "name": "Laininir",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2029",
+    "district_id": "81.07.02",
+    "name": "Doka Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2030",
+    "district_id": "81.07.02",
+    "name": "Doka Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.02.2031",
+    "district_id": "81.07.02",
+    "name": "Jelia",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2001",
+    "district_id": "81.07.03",
+    "name": "Benjina",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2003",
+    "district_id": "81.07.03",
+    "name": "Gardakau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2004",
+    "district_id": "81.07.03",
+    "name": "Irloy",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2005",
+    "district_id": "81.07.03",
+    "name": "Algadang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2006",
+    "district_id": "81.07.03",
+    "name": "Lorang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2007",
+    "district_id": "81.07.03",
+    "name": "Murai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2008",
+    "district_id": "81.07.03",
+    "name": "Manjau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2009",
+    "district_id": "81.07.03",
+    "name": "Kwarbola",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2028",
+    "district_id": "81.07.03",
+    "name": "Kobadangar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2029",
+    "district_id": "81.07.03",
+    "name": "Kobasel Fara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2030",
+    "district_id": "81.07.03",
+    "name": "Kobasel Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2031",
+    "district_id": "81.07.03",
+    "name": "Fatlabata",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2033",
+    "district_id": "81.07.03",
+    "name": "Wakua",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2034",
+    "district_id": "81.07.03",
+    "name": "Jirlay",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2035",
+    "district_id": "81.07.03",
+    "name": "Maririmar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2036",
+    "district_id": "81.07.03",
+    "name": "Papakula",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2037",
+    "district_id": "81.07.03",
+    "name": "Tanah Miring",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2038",
+    "district_id": "81.07.03",
+    "name": "Gulili",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2039",
+    "district_id": "81.07.03",
+    "name": "Namara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2040",
+    "district_id": "81.07.03",
+    "name": "Selilau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2043",
+    "district_id": "81.07.03",
+    "name": "Maijuring",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.03.2045",
+    "district_id": "81.07.03",
+    "name": "Selibata-bata",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2001",
+    "district_id": "81.07.04",
+    "name": "Marlasi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2002",
+    "district_id": "81.07.04",
+    "name": "Kolamar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2003",
+    "district_id": "81.07.04",
+    "name": "Kabufin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2004",
+    "district_id": "81.07.04",
+    "name": "Tasinwaha",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2005",
+    "district_id": "81.07.04",
+    "name": "Foket",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2006",
+    "district_id": "81.07.04",
+    "name": "Kaibolafin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2007",
+    "district_id": "81.07.04",
+    "name": "Wahangula-Ngula",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2008",
+    "district_id": "81.07.04",
+    "name": "Wahayum",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2009",
+    "district_id": "81.07.04",
+    "name": "Warialau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2010",
+    "district_id": "81.07.04",
+    "name": "Jerwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2013",
+    "district_id": "81.07.04",
+    "name": "Selmona",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.04.2014",
+    "district_id": "81.07.04",
+    "name": "Mesidang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2001",
+    "district_id": "81.07.05",
+    "name": "Kabalsiang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2002",
+    "district_id": "81.07.05",
+    "name": "Benjuring",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2003",
+    "district_id": "81.07.05",
+    "name": "Batuley",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2004",
+    "district_id": "81.07.05",
+    "name": "Kumul",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2005",
+    "district_id": "81.07.05",
+    "name": "Waria",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2006",
+    "district_id": "81.07.05",
+    "name": "Sewer",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2007",
+    "district_id": "81.07.05",
+    "name": "Jursiang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2008",
+    "district_id": "81.07.05",
+    "name": "Kompane",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.05.2009",
+    "district_id": "81.07.05",
+    "name": "Kobamar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2002",
+    "district_id": "81.07.06",
+    "name": "Waifual",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2003",
+    "district_id": "81.07.06",
+    "name": "Wafan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2004",
+    "district_id": "81.07.06",
+    "name": "Langhalau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2005",
+    "district_id": "81.07.06",
+    "name": "Gomsey",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2006",
+    "district_id": "81.07.06",
+    "name": "Leiting",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2007",
+    "district_id": "81.07.06",
+    "name": "Bardefan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2008",
+    "district_id": "81.07.06",
+    "name": "Mohongsel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2009",
+    "district_id": "81.07.06",
+    "name": "Kolaha",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.06.2010",
+    "district_id": "81.07.06",
+    "name": "Goda-Goda",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2001",
+    "district_id": "81.07.07",
+    "name": "Koijabi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2002",
+    "district_id": "81.07.07",
+    "name": "Balatan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2003",
+    "district_id": "81.07.07",
+    "name": "Warloy",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2004",
+    "district_id": "81.07.07",
+    "name": "Warjukur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2005",
+    "district_id": "81.07.07",
+    "name": "Kobror",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2006",
+    "district_id": "81.07.07",
+    "name": "Basada",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2007",
+    "district_id": "81.07.07",
+    "name": "Wailay",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2008",
+    "district_id": "81.07.07",
+    "name": "Kaiwabar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2009",
+    "district_id": "81.07.07",
+    "name": "Ponom",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2010",
+    "district_id": "81.07.07",
+    "name": "Lola",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2011",
+    "district_id": "81.07.07",
+    "name": "Mariri",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2012",
+    "district_id": "81.07.07",
+    "name": "Dosinamalau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.07.2013",
+    "district_id": "81.07.07",
+    "name": "Karawai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2001",
+    "district_id": "81.07.08",
+    "name": "Longgar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2002",
+    "district_id": "81.07.08",
+    "name": "Apara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2003",
+    "district_id": "81.07.08",
+    "name": "Bemun",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2004",
+    "district_id": "81.07.08",
+    "name": "Mesiang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2005",
+    "district_id": "81.07.08",
+    "name": "Gomo-Gomo",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2006",
+    "district_id": "81.07.08",
+    "name": "Jambu Air",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.08.2007",
+    "district_id": "81.07.08",
+    "name": "Warabal",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2001",
+    "district_id": "81.07.09",
+    "name": "Meror",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2002",
+    "district_id": "81.07.09",
+    "name": "Dosimar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2003",
+    "district_id": "81.07.09",
+    "name": "Batugoyang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2004",
+    "district_id": "81.07.09",
+    "name": "Salarem",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2005",
+    "district_id": "81.07.09",
+    "name": "Siya",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2006",
+    "district_id": "81.07.09",
+    "name": "Beltubur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2007",
+    "district_id": "81.07.09",
+    "name": "Karey",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2008",
+    "district_id": "81.07.09",
+    "name": "Jorang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2009",
+    "district_id": "81.07.09",
+    "name": "Gomar Sungai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.09.2010",
+    "district_id": "81.07.09",
+    "name": "Gomar Meti",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2001",
+    "district_id": "81.07.10",
+    "name": "Tabarfane",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2002",
+    "district_id": "81.07.10",
+    "name": "Rebi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2003",
+    "district_id": "81.07.10",
+    "name": "Lutur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2004",
+    "district_id": "81.07.10",
+    "name": "Hokmar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2005",
+    "district_id": "81.07.10",
+    "name": "Juring",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2006",
+    "district_id": "81.07.10",
+    "name": "Erersin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.10.2007",
+    "district_id": "81.07.10",
+    "name": "Maekor",
+    "type": "DESA"
+  }
+]

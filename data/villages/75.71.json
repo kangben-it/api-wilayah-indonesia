@@ -1,0 +1,302 @@
+[
+  {
+    "id": "75.71.01.1001",
+    "district_id": "75.71.01",
+    "name": "Dembe I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1002",
+    "district_id": "75.71.01",
+    "name": "Lekobalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1003",
+    "district_id": "75.71.01",
+    "name": "Pilolodaa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1004",
+    "district_id": "75.71.01",
+    "name": "Buliide",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1005",
+    "district_id": "75.71.01",
+    "name": "Tenilo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1006",
+    "district_id": "75.71.01",
+    "name": "Molosipat W",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.01.1008",
+    "district_id": "75.71.01",
+    "name": "Buladu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1010",
+    "district_id": "75.71.02",
+    "name": "Biawao",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1012",
+    "district_id": "75.71.02",
+    "name": "Biawu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1013",
+    "district_id": "75.71.02",
+    "name": "Limba B",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1019",
+    "district_id": "75.71.02",
+    "name": "Limba U I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1020",
+    "district_id": "75.71.02",
+    "name": "Limba U II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1003",
+    "district_id": "75.71.03",
+    "name": "Dembe II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1004",
+    "district_id": "75.71.03",
+    "name": "Wongkaditi Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1005",
+    "district_id": "75.71.03",
+    "name": "Wongkaditi Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1010",
+    "district_id": "75.71.03",
+    "name": "Dulomo Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1014",
+    "district_id": "75.71.03",
+    "name": "Dulomo Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.03.1015",
+    "district_id": "75.71.03",
+    "name": "Dembe Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.04.1001",
+    "district_id": "75.71.04",
+    "name": "Huangobotu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.04.1002",
+    "district_id": "75.71.04",
+    "name": "Libuo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.04.1003",
+    "district_id": "75.71.04",
+    "name": "Tomulabutao",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.04.1004",
+    "district_id": "75.71.04",
+    "name": "Tuladenggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.04.1005",
+    "district_id": "75.71.04",
+    "name": "Tomulabutao Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1003",
+    "district_id": "75.71.05",
+    "name": "Heledulaa Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1004",
+    "district_id": "75.71.05",
+    "name": "Heledulaa Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1005",
+    "district_id": "75.71.05",
+    "name": "Ipilo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1008",
+    "district_id": "75.71.05",
+    "name": "Moodu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1009",
+    "district_id": "75.71.05",
+    "name": "Padebuolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.05.1011",
+    "district_id": "75.71.05",
+    "name": "Tamalate",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1001",
+    "district_id": "75.71.06",
+    "name": "Wumialo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1002",
+    "district_id": "75.71.06",
+    "name": "Dulalowo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1003",
+    "district_id": "75.71.06",
+    "name": "Liluwo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1004",
+    "district_id": "75.71.06",
+    "name": "Pulubala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1005",
+    "district_id": "75.71.06",
+    "name": "Paguyaman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.06.1006",
+    "district_id": "75.71.06",
+    "name": "Dulalowo Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1001",
+    "district_id": "75.71.07",
+    "name": "Tanggikiki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1002",
+    "district_id": "75.71.07",
+    "name": "Tapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1003",
+    "district_id": "75.71.07",
+    "name": "Bulotadaa Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1004",
+    "district_id": "75.71.07",
+    "name": "Bulotadaa Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1005",
+    "district_id": "75.71.07",
+    "name": "Molosipat U",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.08.1001",
+    "district_id": "75.71.08",
+    "name": "Leato Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.08.1002",
+    "district_id": "75.71.08",
+    "name": "Leato Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.08.1003",
+    "district_id": "75.71.08",
+    "name": "Talumolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.08.1004",
+    "district_id": "75.71.08",
+    "name": "Botu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.08.1005",
+    "district_id": "75.71.08",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.09.1001",
+    "district_id": "75.71.09",
+    "name": "Tanjung Kramat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.09.1002",
+    "district_id": "75.71.09",
+    "name": "Pohe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.09.1003",
+    "district_id": "75.71.09",
+    "name": "Tenda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.09.1004",
+    "district_id": "75.71.09",
+    "name": "Donggala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.09.1005",
+    "district_id": "75.71.09",
+    "name": "Siendeng",
+    "type": "KELURAHAN"
+  }
+]

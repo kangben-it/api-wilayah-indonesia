@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "53.15.01.2001",
+    "district_id": "53.15.01",
+    "name": "Bari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2002",
+    "district_id": "53.15.01",
+    "name": "Rokap",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2003",
+    "district_id": "53.15.01",
+    "name": "Mbakung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2004",
+    "district_id": "53.15.01",
+    "name": "Nggilat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2005",
+    "district_id": "53.15.01",
+    "name": "Rego",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2006",
+    "district_id": "53.15.01",
+    "name": "Wontong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2007",
+    "district_id": "53.15.01",
+    "name": "Raba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2008",
+    "district_id": "53.15.01",
+    "name": "Nanga Kantor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2014",
+    "district_id": "53.15.01",
+    "name": "Watubaru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2015",
+    "district_id": "53.15.01",
+    "name": "Lewat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2016",
+    "district_id": "53.15.01",
+    "name": "Watu Manggar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2025",
+    "district_id": "53.15.01",
+    "name": "Sarae Naru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2026",
+    "district_id": "53.15.01",
+    "name": "Nanga Kantor Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.1022",
+    "district_id": "53.15.02",
+    "name": "Golo Ru'u",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.02.1023",
+    "district_id": "53.15.02",
+    "name": "Nantal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.02.2002",
+    "district_id": "53.15.02",
+    "name": "Coal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2004",
+    "district_id": "53.15.02",
+    "name": "Pangga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2010",
+    "district_id": "53.15.02",
+    "name": "Lewur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2011",
+    "district_id": "53.15.02",
+    "name": "Lawi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2017",
+    "district_id": "53.15.02",
+    "name": "Compang Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2018",
+    "district_id": "53.15.02",
+    "name": "Benteng Suru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2021",
+    "district_id": "53.15.02",
+    "name": "Sama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2030",
+    "district_id": "53.15.02",
+    "name": "Bangka Lewat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2031",
+    "district_id": "53.15.02",
+    "name": "Suka Kiong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2032",
+    "district_id": "53.15.02",
+    "name": "Golo Pua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.1032",
+    "district_id": "53.15.03",
+    "name": "Tangge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.03.2003",
+    "district_id": "53.15.03",
+    "name": "Wae Wako",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2010",
+    "district_id": "53.15.03",
+    "name": "Wae Kanta",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2011",
+    "district_id": "53.15.03",
+    "name": "Ponto Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2012",
+    "district_id": "53.15.03",
+    "name": "Wae Bangka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2013",
+    "district_id": "53.15.03",
+    "name": "Pong Majok",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2014",
+    "district_id": "53.15.03",
+    "name": "Daleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2021",
+    "district_id": "53.15.03",
+    "name": "Siru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2022",
+    "district_id": "53.15.03",
+    "name": "Pondo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2023",
+    "district_id": "53.15.03",
+    "name": "Poco Rutang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2025",
+    "district_id": "53.15.03",
+    "name": "Ngancar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2033",
+    "district_id": "53.15.03",
+    "name": "LIang Sola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2034",
+    "district_id": "53.15.03",
+    "name": "Wae Mowol",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2035",
+    "district_id": "53.15.03",
+    "name": "Golo Ndeweng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.03.2036",
+    "district_id": "53.15.03",
+    "name": "Poco Dedeng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2001",
+    "district_id": "53.15.04",
+    "name": "Golo Ndaring",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2005",
+    "district_id": "53.15.04",
+    "name": "Golo Kempo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2008",
+    "district_id": "53.15.04",
+    "name": "Golo Manting",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2009",
+    "district_id": "53.15.04",
+    "name": "Matawae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2011",
+    "district_id": "53.15.04",
+    "name": "Nampar Macing",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2014",
+    "district_id": "53.15.04",
+    "name": "Wae Sano",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2016",
+    "district_id": "53.15.04",
+    "name": "Golo Mbu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2017",
+    "district_id": "53.15.04",
+    "name": "Golo Leleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2018",
+    "district_id": "53.15.04",
+    "name": "Sano Nggoang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2020",
+    "district_id": "53.15.04",
+    "name": "Wae Lolos",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2024",
+    "district_id": "53.15.04",
+    "name": "Golo Sengang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2025",
+    "district_id": "53.15.04",
+    "name": "Watu Panggal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2026",
+    "district_id": "53.15.04",
+    "name": "Golo Kondeng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2027",
+    "district_id": "53.15.04",
+    "name": "Poco Golo Kempo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.04.2028",
+    "district_id": "53.15.04",
+    "name": "Pulau Nuncung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.1024",
+    "district_id": "53.15.05",
+    "name": "Wae Kelambu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.05.1025",
+    "district_id": "53.15.05",
+    "name": "Labuan Bajo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.05.2001",
+    "district_id": "53.15.05",
+    "name": "Komodo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2002",
+    "district_id": "53.15.05",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2003",
+    "district_id": "53.15.05",
+    "name": "Pasir Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2004",
+    "district_id": "53.15.05",
+    "name": "Golo Mori",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2005",
+    "district_id": "53.15.05",
+    "name": "Warloka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2007",
+    "district_id": "53.15.05",
+    "name": "Golo Bilas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2008",
+    "district_id": "53.15.05",
+    "name": "Macang Tanggar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2009",
+    "district_id": "53.15.05",
+    "name": "Watu Nggelek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2015",
+    "district_id": "53.15.05",
+    "name": "Golo Pongkor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2016",
+    "district_id": "53.15.05",
+    "name": "Nggorang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2018",
+    "district_id": "53.15.05",
+    "name": "Papa Garang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2019",
+    "district_id": "53.15.05",
+    "name": "Batu Cermin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2020",
+    "district_id": "53.15.05",
+    "name": "Gorontalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2022",
+    "district_id": "53.15.05",
+    "name": "Tiwu Nampar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2026",
+    "district_id": "53.15.05",
+    "name": "Seraya Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2027",
+    "district_id": "53.15.05",
+    "name": "Compang Longgo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2028",
+    "district_id": "53.15.05",
+    "name": "Pantar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2001",
+    "district_id": "53.15.06",
+    "name": "Mbuit",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2002",
+    "district_id": "53.15.06",
+    "name": "Golo Ketak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2003",
+    "district_id": "53.15.06",
+    "name": "Pota Wangka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2004",
+    "district_id": "53.15.06",
+    "name": "Tanjung Boleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2005",
+    "district_id": "53.15.06",
+    "name": "Golo Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2006",
+    "district_id": "53.15.06",
+    "name": "Pontianak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2007",
+    "district_id": "53.15.06",
+    "name": "Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2008",
+    "district_id": "53.15.06",
+    "name": "Golo Lujang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2009",
+    "district_id": "53.15.06",
+    "name": "Batu Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2020",
+    "district_id": "53.15.06",
+    "name": "Golo Nobo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.06.2021",
+    "district_id": "53.15.06",
+    "name": "Beo Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2001",
+    "district_id": "53.15.07",
+    "name": "Golo Ronggot",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2002",
+    "district_id": "53.15.07",
+    "name": "Semang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2003",
+    "district_id": "53.15.07",
+    "name": "Dunta",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2004",
+    "district_id": "53.15.07",
+    "name": "Gurung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2005",
+    "district_id": "53.15.07",
+    "name": "Orong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2006",
+    "district_id": "53.15.07",
+    "name": "Pong Welak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2007",
+    "district_id": "53.15.07",
+    "name": "Galang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2008",
+    "district_id": "53.15.07",
+    "name": "Rehak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2009",
+    "district_id": "53.15.07",
+    "name": "Watu Umpu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2010",
+    "district_id": "53.15.07",
+    "name": "Pengka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2011",
+    "district_id": "53.15.07",
+    "name": "Lale",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2015",
+    "district_id": "53.15.07",
+    "name": "Racang Welak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2016",
+    "district_id": "53.15.07",
+    "name": "Sewar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2017",
+    "district_id": "53.15.07",
+    "name": "Robo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2018",
+    "district_id": "53.15.07",
+    "name": "Wewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.07.2019",
+    "district_id": "53.15.07",
+    "name": "Golo Ndari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2001",
+    "district_id": "53.15.08",
+    "name": "Golo Poleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2002",
+    "district_id": "53.15.08",
+    "name": "Tentang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2003",
+    "district_id": "53.15.08",
+    "name": "Raka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2004",
+    "district_id": "53.15.08",
+    "name": "Kasong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2005",
+    "district_id": "53.15.08",
+    "name": "Ndoso",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2006",
+    "district_id": "53.15.08",
+    "name": "Waning",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2007",
+    "district_id": "53.15.08",
+    "name": "Wae Buka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2008",
+    "district_id": "53.15.08",
+    "name": "Momol",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2009",
+    "district_id": "53.15.08",
+    "name": "Lumut",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2010",
+    "district_id": "53.15.08",
+    "name": "Pong Narang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2011",
+    "district_id": "53.15.08",
+    "name": "Golo Bore",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2012",
+    "district_id": "53.15.08",
+    "name": "Pateng Lesuh",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2013",
+    "district_id": "53.15.08",
+    "name": "Tehong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2014",
+    "district_id": "53.15.08",
+    "name": "Golo Ru'a",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.08.2015",
+    "district_id": "53.15.08",
+    "name": "Golo Keli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2001",
+    "district_id": "53.15.09",
+    "name": "Repi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2002",
+    "district_id": "53.15.09",
+    "name": "Watu Waja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2003",
+    "district_id": "53.15.09",
+    "name": "Surunumbeng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2004",
+    "district_id": "53.15.09",
+    "name": "Munting",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2005",
+    "district_id": "53.15.09",
+    "name": "Kakor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2006",
+    "district_id": "53.15.09",
+    "name": "Lalong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2007",
+    "district_id": "53.15.09",
+    "name": "Wae Mose",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2008",
+    "district_id": "53.15.09",
+    "name": "Nanga Lili",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2009",
+    "district_id": "53.15.09",
+    "name": "Nanga Bere",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2010",
+    "district_id": "53.15.09",
+    "name": "Benteng Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2011",
+    "district_id": "53.15.09",
+    "name": "Watu Rambung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2012",
+    "district_id": "53.15.09",
+    "name": "Lendong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2013",
+    "district_id": "53.15.09",
+    "name": "Watu Tiri",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2014",
+    "district_id": "53.15.09",
+    "name": "Benteng Tado",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.09.2015",
+    "district_id": "53.15.09",
+    "name": "Modo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2001",
+    "district_id": "53.15.10",
+    "name": "Liang Ndara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2002",
+    "district_id": "53.15.10",
+    "name": "Tandong Belang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2003",
+    "district_id": "53.15.10",
+    "name": "Cunca Lolos",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2004",
+    "district_id": "53.15.10",
+    "name": "Cunca Wulang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2005",
+    "district_id": "53.15.10",
+    "name": "Golo Damu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2006",
+    "district_id": "53.15.10",
+    "name": "Golo Ndoal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2007",
+    "district_id": "53.15.10",
+    "name": "Golo Sembea",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2008",
+    "district_id": "53.15.10",
+    "name": "Golo Desat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2009",
+    "district_id": "53.15.10",
+    "name": "Kempo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2010",
+    "district_id": "53.15.10",
+    "name": "Wae Jare",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2011",
+    "district_id": "53.15.10",
+    "name": "Golo Tantong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2012",
+    "district_id": "53.15.10",
+    "name": "Tiwi Riwung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2013",
+    "district_id": "53.15.10",
+    "name": "Watu Wangka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2014",
+    "district_id": "53.15.10",
+    "name": "Compang Liang Ndara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.10.2015",
+    "district_id": "53.15.10",
+    "name": "Watu Galang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2001",
+    "district_id": "53.15.11",
+    "name": "Pacar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2002",
+    "district_id": "53.15.11",
+    "name": "Manong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2003",
+    "district_id": "53.15.11",
+    "name": "Romang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2004",
+    "district_id": "53.15.11",
+    "name": "Compang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2005",
+    "district_id": "53.15.11",
+    "name": "Waka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2006",
+    "district_id": "53.15.11",
+    "name": "Pong Kolong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2007",
+    "district_id": "53.15.11",
+    "name": "Loha",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2008",
+    "district_id": "53.15.11",
+    "name": "Benteng Ndope",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2009",
+    "district_id": "53.15.11",
+    "name": "Golo Lajang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2010",
+    "district_id": "53.15.11",
+    "name": "Golo Lajang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2011",
+    "district_id": "53.15.11",
+    "name": "Kombo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2012",
+    "district_id": "53.15.11",
+    "name": "Kombo Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.11.2013",
+    "district_id": "53.15.11",
+    "name": "Kombo Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2001",
+    "district_id": "53.15.12",
+    "name": "Golo Lewe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2002",
+    "district_id": "53.15.12",
+    "name": "Tueng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2003",
+    "district_id": "53.15.12",
+    "name": "Sompang Kolang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2004",
+    "district_id": "53.15.12",
+    "name": "Wajur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2005",
+    "district_id": "53.15.12",
+    "name": "Kolang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2006",
+    "district_id": "53.15.12",
+    "name": "Golo Riwu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2007",
+    "district_id": "53.15.12",
+    "name": "Compang Kules",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2008",
+    "district_id": "53.15.12",
+    "name": "Tengku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2009",
+    "district_id": "53.15.12",
+    "name": "Golo Wedong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.12.2010",
+    "district_id": "53.15.12",
+    "name": "Ranggu",
+    "type": "DESA"
+  }
+]

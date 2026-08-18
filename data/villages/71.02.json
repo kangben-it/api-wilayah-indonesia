@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "71.02.01.1007",
+    "district_id": "71.02.01",
+    "name": "Masarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1008",
+    "district_id": "71.02.01",
+    "name": "Rinegetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1009",
+    "district_id": "71.02.01",
+    "name": "Roong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1010",
+    "district_id": "71.02.01",
+    "name": "Tuutu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1011",
+    "district_id": "71.02.01",
+    "name": "Tounkuramber",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1012",
+    "district_id": "71.02.01",
+    "name": "Wawalintouan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1013",
+    "district_id": "71.02.01",
+    "name": "Rerewokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1014",
+    "district_id": "71.02.01",
+    "name": "Watulambot",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.01.1015",
+    "district_id": "71.02.01",
+    "name": "Wewelan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1001",
+    "district_id": "71.02.02",
+    "name": "Luaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1005",
+    "district_id": "71.02.02",
+    "name": "Ranowangko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1006",
+    "district_id": "71.02.02",
+    "name": "Wengkol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1007",
+    "district_id": "71.02.02",
+    "name": "Kendis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1008",
+    "district_id": "71.02.02",
+    "name": "Katinggolan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1009",
+    "district_id": "71.02.02",
+    "name": "Liningaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1010",
+    "district_id": "71.02.02",
+    "name": "Taler",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1011",
+    "district_id": "71.02.02",
+    "name": "Kiniar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1012",
+    "district_id": "71.02.02",
+    "name": "Touluor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1013",
+    "district_id": "71.02.02",
+    "name": "Papakelan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.02.1014",
+    "district_id": "71.02.02",
+    "name": "Makalounsow",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.03.2001",
+    "district_id": "71.02.03",
+    "name": "Telap",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2002",
+    "district_id": "71.02.03",
+    "name": "Watumea",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2003",
+    "district_id": "71.02.03",
+    "name": "Eris",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2004",
+    "district_id": "71.02.03",
+    "name": "Maumbi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2005",
+    "district_id": "71.02.03",
+    "name": "Tandengan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2006",
+    "district_id": "71.02.03",
+    "name": "Ranomerut",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2007",
+    "district_id": "71.02.03",
+    "name": "Touliang Oki",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.03.2008",
+    "district_id": "71.02.03",
+    "name": "Tandengan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2001",
+    "district_id": "71.02.04",
+    "name": "Tulap",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2002",
+    "district_id": "71.02.04",
+    "name": "Lalumpe",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2003",
+    "district_id": "71.02.04",
+    "name": "Kayubesi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2004",
+    "district_id": "71.02.04",
+    "name": "Ranowangko II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2005",
+    "district_id": "71.02.04",
+    "name": "Kombi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2006",
+    "district_id": "71.02.04",
+    "name": "Sawangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2007",
+    "district_id": "71.02.04",
+    "name": "Kolongan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2008",
+    "district_id": "71.02.04",
+    "name": "Rerer",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2009",
+    "district_id": "71.02.04",
+    "name": "Kinaleosan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2010",
+    "district_id": "71.02.04",
+    "name": "Makalisung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2011",
+    "district_id": "71.02.04",
+    "name": "Kalawiran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2012",
+    "district_id": "71.02.04",
+    "name": "Kolongan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.04.2013",
+    "district_id": "71.02.04",
+    "name": "Rerer Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2001",
+    "district_id": "71.02.05",
+    "name": "Kapataran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2002",
+    "district_id": "71.02.05",
+    "name": "Seretan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2003",
+    "district_id": "71.02.05",
+    "name": "Atep Oki",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2004",
+    "district_id": "71.02.05",
+    "name": "Karor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2005",
+    "district_id": "71.02.05",
+    "name": "Kaleosan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2006",
+    "district_id": "71.02.05",
+    "name": "Watulaney",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2007",
+    "district_id": "71.02.05",
+    "name": "Kayuroya",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2008",
+    "district_id": "71.02.05",
+    "name": "Seretan Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2009",
+    "district_id": "71.02.05",
+    "name": "Parentek",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2010",
+    "district_id": "71.02.05",
+    "name": "Kapataran Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.05.2011",
+    "district_id": "71.02.05",
+    "name": "Watulaney Amian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2003",
+    "district_id": "71.02.06",
+    "name": "Kayuwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2004",
+    "district_id": "71.02.06",
+    "name": "Wineru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2005",
+    "district_id": "71.02.06",
+    "name": "Rinondor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2006",
+    "district_id": "71.02.06",
+    "name": "Sendangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2015",
+    "district_id": "71.02.06",
+    "name": "Pahaleten",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2016",
+    "district_id": "71.02.06",
+    "name": "Talikuran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2017",
+    "district_id": "71.02.06",
+    "name": "Tounelet",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2018",
+    "district_id": "71.02.06",
+    "name": "Paslaten",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2019",
+    "district_id": "71.02.06",
+    "name": "Kaweng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2020",
+    "district_id": "71.02.06",
+    "name": "Toulimembet",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2021",
+    "district_id": "71.02.06",
+    "name": "Makalelon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2022",
+    "district_id": "71.02.06",
+    "name": "Tumpaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.06.2023",
+    "district_id": "71.02.06",
+    "name": "Mahembang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2004",
+    "district_id": "71.02.07",
+    "name": "Tember",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2005",
+    "district_id": "71.02.07",
+    "name": "Kamanga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2006",
+    "district_id": "71.02.07",
+    "name": "Sendangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2007",
+    "district_id": "71.02.07",
+    "name": "Talikuran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2009",
+    "district_id": "71.02.07",
+    "name": "Tempok",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2010",
+    "district_id": "71.02.07",
+    "name": "Liba",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2011",
+    "district_id": "71.02.07",
+    "name": "Tolok",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2012",
+    "district_id": "71.02.07",
+    "name": "Kamanga Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2016",
+    "district_id": "71.02.07",
+    "name": "Tempok Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2017",
+    "district_id": "71.02.07",
+    "name": "Tolok Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2001",
+    "district_id": "71.02.08",
+    "name": "Kasuratan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2002",
+    "district_id": "71.02.08",
+    "name": "Parepei",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2003",
+    "district_id": "71.02.08",
+    "name": "Pulutan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2004",
+    "district_id": "71.02.08",
+    "name": "Sinuian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2005",
+    "district_id": "71.02.08",
+    "name": "Kaima",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2006",
+    "district_id": "71.02.08",
+    "name": "Sendangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2007",
+    "district_id": "71.02.08",
+    "name": "Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2008",
+    "district_id": "71.02.08",
+    "name": "Talikuran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2009",
+    "district_id": "71.02.08",
+    "name": "Tampusu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2010",
+    "district_id": "71.02.08",
+    "name": "Paslaten",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.08.2011",
+    "district_id": "71.02.08",
+    "name": "Leleko",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2004",
+    "district_id": "71.02.09",
+    "name": "Wolaang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2005",
+    "district_id": "71.02.09",
+    "name": "Teep",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2006",
+    "district_id": "71.02.09",
+    "name": "Karondoran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2007",
+    "district_id": "71.02.09",
+    "name": "Waleure",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2008",
+    "district_id": "71.02.09",
+    "name": "Amongena I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2009",
+    "district_id": "71.02.09",
+    "name": "Amongena II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2010",
+    "district_id": "71.02.09",
+    "name": "Sumarayar",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2018",
+    "district_id": "71.02.09",
+    "name": "Amongena III",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2001",
+    "district_id": "71.02.10",
+    "name": "Koyawas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2002",
+    "district_id": "71.02.10",
+    "name": "Walewangko",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2003",
+    "district_id": "71.02.10",
+    "name": "Noongan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2004",
+    "district_id": "71.02.10",
+    "name": "Raringis",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2005",
+    "district_id": "71.02.10",
+    "name": "Ampreng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2006",
+    "district_id": "71.02.10",
+    "name": "Tumaratas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2009",
+    "district_id": "71.02.10",
+    "name": "Paslaten",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2010",
+    "district_id": "71.02.10",
+    "name": "Lowian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2011",
+    "district_id": "71.02.10",
+    "name": "Tounelet",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2014",
+    "district_id": "71.02.10",
+    "name": "Kopiwangker",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2015",
+    "district_id": "71.02.10",
+    "name": "Noongan Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2016",
+    "district_id": "71.02.10",
+    "name": "Noongan Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2017",
+    "district_id": "71.02.10",
+    "name": "Tumaratas Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2018",
+    "district_id": "71.02.10",
+    "name": "Raranon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2019",
+    "district_id": "71.02.10",
+    "name": "Raringis Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.10.2020",
+    "district_id": "71.02.10",
+    "name": "Raringis Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2001",
+    "district_id": "71.02.11",
+    "name": "Leilem",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2002",
+    "district_id": "71.02.11",
+    "name": "Kolongan Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2003",
+    "district_id": "71.02.11",
+    "name": "Tounelet Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2004",
+    "district_id": "71.02.11",
+    "name": "Talikuran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2005",
+    "district_id": "71.02.11",
+    "name": "Kauneran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2006",
+    "district_id": "71.02.11",
+    "name": "Sendangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2007",
+    "district_id": "71.02.11",
+    "name": "Rambunan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2008",
+    "district_id": "71.02.11",
+    "name": "Sawangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2009",
+    "district_id": "71.02.11",
+    "name": "Tincep",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2010",
+    "district_id": "71.02.11",
+    "name": "Timbukar",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2011",
+    "district_id": "71.02.11",
+    "name": "Leilem Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2012",
+    "district_id": "71.02.11",
+    "name": "Leilem Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2013",
+    "district_id": "71.02.11",
+    "name": "Kolongan Atas Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2014",
+    "district_id": "71.02.11",
+    "name": "Kauneran Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2015",
+    "district_id": "71.02.11",
+    "name": "Rambunan Amian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2016",
+    "district_id": "71.02.11",
+    "name": "Sendangan I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2017",
+    "district_id": "71.02.11",
+    "name": "Talikuran Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2018",
+    "district_id": "71.02.11",
+    "name": "Tounelet Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.11.2019",
+    "district_id": "71.02.11",
+    "name": "Kolongan Atas Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.1005",
+    "district_id": "71.02.12",
+    "name": "Sendangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1011",
+    "district_id": "71.02.12",
+    "name": "Kinali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1019",
+    "district_id": "71.02.12",
+    "name": "Sendangan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1020",
+    "district_id": "71.02.12",
+    "name": "Sendangan Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1028",
+    "district_id": "71.02.12",
+    "name": "Uner Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1029",
+    "district_id": "71.02.12",
+    "name": "Kinali Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.2012",
+    "district_id": "71.02.12",
+    "name": "Tondegesan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2016",
+    "district_id": "71.02.12",
+    "name": "Kanonang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2030",
+    "district_id": "71.02.12",
+    "name": "Tondegesan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2031",
+    "district_id": "71.02.12",
+    "name": "Tondegesan Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2001",
+    "district_id": "71.02.13",
+    "name": "Pineleng I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2002",
+    "district_id": "71.02.13",
+    "name": "Pineleng II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2003",
+    "district_id": "71.02.13",
+    "name": "Sea I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2004",
+    "district_id": "71.02.13",
+    "name": "Sea II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2005",
+    "district_id": "71.02.13",
+    "name": "Winagun Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2006",
+    "district_id": "71.02.13",
+    "name": "Warembungan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2007",
+    "district_id": "71.02.13",
+    "name": "Sea",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2014",
+    "district_id": "71.02.13",
+    "name": "Kali",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2016",
+    "district_id": "71.02.13",
+    "name": "Kali Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2020",
+    "district_id": "71.02.13",
+    "name": "Pineleng Dua Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2021",
+    "district_id": "71.02.13",
+    "name": "Lotta",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2022",
+    "district_id": "71.02.13",
+    "name": "Sea Mitra",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2023",
+    "district_id": "71.02.13",
+    "name": "Sea Tumpengan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.13.2024",
+    "district_id": "71.02.13",
+    "name": "Pineleng Satu Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2001",
+    "district_id": "71.02.14",
+    "name": "Kembes II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2002",
+    "district_id": "71.02.14",
+    "name": "Kembes I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2003",
+    "district_id": "71.02.14",
+    "name": "Toumbuluan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2004",
+    "district_id": "71.02.14",
+    "name": "Koka",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2005",
+    "district_id": "71.02.14",
+    "name": "Suluan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2006",
+    "district_id": "71.02.14",
+    "name": "Kamangta",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2007",
+    "district_id": "71.02.14",
+    "name": "Sawangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2008",
+    "district_id": "71.02.14",
+    "name": "Rumengkor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2009",
+    "district_id": "71.02.14",
+    "name": "Tikela",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2010",
+    "district_id": "71.02.14",
+    "name": "Rumengkor Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2011",
+    "district_id": "71.02.14",
+    "name": "Rumengkor Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2001",
+    "district_id": "71.02.15",
+    "name": "Kumu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2002",
+    "district_id": "71.02.15",
+    "name": "Teling",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2003",
+    "district_id": "71.02.15",
+    "name": "Poopoh",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2004",
+    "district_id": "71.02.15",
+    "name": "Ranowangko",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2005",
+    "district_id": "71.02.15",
+    "name": "Senduk",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2007",
+    "district_id": "71.02.15",
+    "name": "Pinasungkulan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2009",
+    "district_id": "71.02.15",
+    "name": "Mokupa",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2010",
+    "district_id": "71.02.15",
+    "name": "Sarani Matani",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2011",
+    "district_id": "71.02.15",
+    "name": "Borgo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.15.2012",
+    "district_id": "71.02.15",
+    "name": "Tambala",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.16.1001",
+    "district_id": "71.02.16",
+    "name": "Sumalangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1002",
+    "district_id": "71.02.16",
+    "name": "Sasaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1003",
+    "district_id": "71.02.16",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1004",
+    "district_id": "71.02.16",
+    "name": "Wulauan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1005",
+    "district_id": "71.02.16",
+    "name": "Marawas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.2006",
+    "district_id": "71.02.16",
+    "name": "Tonsea Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.16.2007",
+    "district_id": "71.02.16",
+    "name": "Kembuan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.16.2008",
+    "district_id": "71.02.16",
+    "name": "Kembuan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2001",
+    "district_id": "71.02.17",
+    "name": "Palamba",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2002",
+    "district_id": "71.02.17",
+    "name": "Atep",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2003",
+    "district_id": "71.02.17",
+    "name": "Manembo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2004",
+    "district_id": "71.02.17",
+    "name": "Temboan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2005",
+    "district_id": "71.02.17",
+    "name": "Rumbia",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2006",
+    "district_id": "71.02.17",
+    "name": "Winebetan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2007",
+    "district_id": "71.02.17",
+    "name": "Kaayuran Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2008",
+    "district_id": "71.02.17",
+    "name": "Kaayuran Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2009",
+    "district_id": "71.02.17",
+    "name": "Kawatak",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.17.2010",
+    "district_id": "71.02.17",
+    "name": "Atep Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.18.1001",
+    "district_id": "71.02.18",
+    "name": "Urongo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1002",
+    "district_id": "71.02.18",
+    "name": "Tounsaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1003",
+    "district_id": "71.02.18",
+    "name": "Tataaran II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1004",
+    "district_id": "71.02.18",
+    "name": "Tataaran I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1005",
+    "district_id": "71.02.18",
+    "name": "Koya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1006",
+    "district_id": "71.02.18",
+    "name": "Paleloan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1007",
+    "district_id": "71.02.18",
+    "name": "Tataaran Patar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.18.1008",
+    "district_id": "71.02.18",
+    "name": "Maesa Unima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.19.2001",
+    "district_id": "71.02.19",
+    "name": "Walantakan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2002",
+    "district_id": "71.02.19",
+    "name": "Taraitak",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2003",
+    "district_id": "71.02.19",
+    "name": "Karumenga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2004",
+    "district_id": "71.02.19",
+    "name": "Toraget",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2005",
+    "district_id": "71.02.19",
+    "name": "Tempang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2006",
+    "district_id": "71.02.19",
+    "name": "Tempang Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2007",
+    "district_id": "71.02.19",
+    "name": "Tempang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.19.2008",
+    "district_id": "71.02.19",
+    "name": "Taraitak Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2001",
+    "district_id": "71.02.20",
+    "name": "Wasian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2002",
+    "district_id": "71.02.20",
+    "name": "Panasen",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2003",
+    "district_id": "71.02.20",
+    "name": "Tountimomor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2004",
+    "district_id": "71.02.20",
+    "name": "Totolan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2005",
+    "district_id": "71.02.20",
+    "name": "Passo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2006",
+    "district_id": "71.02.20",
+    "name": "Kalawiran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2007",
+    "district_id": "71.02.20",
+    "name": "Touliang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2008",
+    "district_id": "71.02.20",
+    "name": "Simbel",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2009",
+    "district_id": "71.02.20",
+    "name": "Wailang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.20.2010",
+    "district_id": "71.02.20",
+    "name": "Bukit Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.1001",
+    "district_id": "71.02.21",
+    "name": "Talikuran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1002",
+    "district_id": "71.02.21",
+    "name": "Talikuran Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1003",
+    "district_id": "71.02.21",
+    "name": "Talikuran Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1004",
+    "district_id": "71.02.21",
+    "name": "Uner",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.2005",
+    "district_id": "71.02.21",
+    "name": "Kiawa Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2006",
+    "district_id": "71.02.21",
+    "name": "Kiawa Satu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2007",
+    "district_id": "71.02.21",
+    "name": "Kiawa Satu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2008",
+    "district_id": "71.02.21",
+    "name": "Kiawa Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2009",
+    "district_id": "71.02.21",
+    "name": "Kiawa Dua Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2010",
+    "district_id": "71.02.21",
+    "name": "Kiawa Dua Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2001",
+    "district_id": "71.02.22",
+    "name": "Kayuuwi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2002",
+    "district_id": "71.02.22",
+    "name": "Kayuuwi Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2003",
+    "district_id": "71.02.22",
+    "name": "Kanonang Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2004",
+    "district_id": "71.02.22",
+    "name": "Kanonang Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2005",
+    "district_id": "71.02.22",
+    "name": "Kanonang Empat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2006",
+    "district_id": "71.02.22",
+    "name": "Kanonang Lima",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2007",
+    "district_id": "71.02.22",
+    "name": "Tombasian Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2008",
+    "district_id": "71.02.22",
+    "name": "Tombasian Atas Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2009",
+    "district_id": "71.02.22",
+    "name": "Tombasian Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.22.2010",
+    "district_id": "71.02.22",
+    "name": "Ranolambot",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2001",
+    "district_id": "71.02.23",
+    "name": "Kalasey Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2002",
+    "district_id": "71.02.23",
+    "name": "Kalasey Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2003",
+    "district_id": "71.02.23",
+    "name": "Tateli",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2004",
+    "district_id": "71.02.23",
+    "name": "Tateli Weru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2005",
+    "district_id": "71.02.23",
+    "name": "Tateli Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2006",
+    "district_id": "71.02.23",
+    "name": "Tateli Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2007",
+    "district_id": "71.02.23",
+    "name": "Tateli Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2008",
+    "district_id": "71.02.23",
+    "name": "Koha",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2009",
+    "district_id": "71.02.23",
+    "name": "Koha Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2010",
+    "district_id": "71.02.23",
+    "name": "Koha Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2011",
+    "district_id": "71.02.23",
+    "name": "Koha Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.23.2012",
+    "district_id": "71.02.23",
+    "name": "Agotey",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2001",
+    "district_id": "71.02.24",
+    "name": "Lemoh",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2002",
+    "district_id": "71.02.24",
+    "name": "Lemoh Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2003",
+    "district_id": "71.02.24",
+    "name": "Lemoh Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2004",
+    "district_id": "71.02.24",
+    "name": "Lemoh Uner",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2005",
+    "district_id": "71.02.24",
+    "name": "Lolah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2006",
+    "district_id": "71.02.24",
+    "name": "Lolah Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2007",
+    "district_id": "71.02.24",
+    "name": "Lolah Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2008",
+    "district_id": "71.02.24",
+    "name": "Lolah Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2009",
+    "district_id": "71.02.24",
+    "name": "Ranotongkor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.24.2010",
+    "district_id": "71.02.24",
+    "name": "Ranotongkor Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2001",
+    "district_id": "71.02.25",
+    "name": "Pinaesaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2002",
+    "district_id": "71.02.25",
+    "name": "Tompaso Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2003",
+    "district_id": "71.02.25",
+    "name": "Tompaso II Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2004",
+    "district_id": "71.02.25",
+    "name": "Pinabetengan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2005",
+    "district_id": "71.02.25",
+    "name": "Pinabetengan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2006",
+    "district_id": "71.02.25",
+    "name": "Pinabetengan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2007",
+    "district_id": "71.02.25",
+    "name": "Tonsewer",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2008",
+    "district_id": "71.02.25",
+    "name": "Tonsewer Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2009",
+    "district_id": "71.02.25",
+    "name": "Touure",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.25.2010",
+    "district_id": "71.02.25",
+    "name": "Touure Dua",
+    "type": "DESA"
+  }
+]

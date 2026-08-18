@@ -1,0 +1,620 @@
+[
+  {
+    "id": "73.09.01.1001",
+    "district_id": "73.09.01",
+    "name": "Hasanuddin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.01.1002",
+    "district_id": "73.09.01",
+    "name": "Bontoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.01.2003",
+    "district_id": "73.09.01",
+    "name": "Tenrigangkae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.01.2004",
+    "district_id": "73.09.01",
+    "name": "Pattontongang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.01.2005",
+    "district_id": "73.09.01",
+    "name": "Bonto Mate'ne",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.01.2006",
+    "district_id": "73.09.01",
+    "name": "Baji Mangngai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.1001",
+    "district_id": "73.09.02",
+    "name": "Cempaniga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.02.1002",
+    "district_id": "73.09.02",
+    "name": "Mario Pulana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.02.2003",
+    "district_id": "73.09.02",
+    "name": "Timpuseng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.2004",
+    "district_id": "73.09.02",
+    "name": "Cenrana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.2005",
+    "district_id": "73.09.02",
+    "name": "Sawaru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.2006",
+    "district_id": "73.09.02",
+    "name": "Patanyamang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.2007",
+    "district_id": "73.09.02",
+    "name": "Pattiro Deceng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.02.2008",
+    "district_id": "73.09.02",
+    "name": "Benteng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.1001",
+    "district_id": "73.09.03",
+    "name": "Kalabbirang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.03.1002",
+    "district_id": "73.09.03",
+    "name": "Leang-Leang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.03.2003",
+    "district_id": "73.09.03",
+    "name": "Alatengae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2004",
+    "district_id": "73.09.03",
+    "name": "Minasa Baji",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2005",
+    "district_id": "73.09.03",
+    "name": "Tukamasea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2006",
+    "district_id": "73.09.03",
+    "name": "Mattoanging",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2007",
+    "district_id": "73.09.03",
+    "name": "Mangeloreng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2008",
+    "district_id": "73.09.03",
+    "name": "Baruga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.1001",
+    "district_id": "73.09.04",
+    "name": "Baji Pa'mai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.1002",
+    "district_id": "73.09.04",
+    "name": "Pallantikang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.1003",
+    "district_id": "73.09.04",
+    "name": "Baju Bodoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.2004",
+    "district_id": "73.09.04",
+    "name": "Borikamase",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2005",
+    "district_id": "73.09.04",
+    "name": "Mattirotasi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2006",
+    "district_id": "73.09.04",
+    "name": "Majannang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2007",
+    "district_id": "73.09.04",
+    "name": "Borimasunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.1001",
+    "district_id": "73.09.05",
+    "name": "Bontoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.05.2002",
+    "district_id": "73.09.05",
+    "name": "Pajjukukang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2003",
+    "district_id": "73.09.05",
+    "name": "Tunikamaseang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2004",
+    "district_id": "73.09.05",
+    "name": "Tupabbiring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2005",
+    "district_id": "73.09.05",
+    "name": "Botolempangang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2006",
+    "district_id": "73.09.05",
+    "name": "Salenrang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2007",
+    "district_id": "73.09.05",
+    "name": "Minasa Upa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2008",
+    "district_id": "73.09.05",
+    "name": "Ampekale",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2009",
+    "district_id": "73.09.05",
+    "name": "Bonto Bahari",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.1001",
+    "district_id": "73.09.06",
+    "name": "Sabila",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.06.2002",
+    "district_id": "73.09.06",
+    "name": "Padaelo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2003",
+    "district_id": "73.09.06",
+    "name": "Batu Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2004",
+    "district_id": "73.09.06",
+    "name": "Wanua Waru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2005",
+    "district_id": "73.09.06",
+    "name": "Telumpanuae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2006",
+    "district_id": "73.09.06",
+    "name": "Samaenre",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2007",
+    "district_id": "73.09.06",
+    "name": "Bentenge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2008",
+    "district_id": "73.09.06",
+    "name": "Mattampapole",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2009",
+    "district_id": "73.09.06",
+    "name": "Uludaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2010",
+    "district_id": "73.09.06",
+    "name": "Gattareng Matinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.06.2011",
+    "district_id": "73.09.06",
+    "name": "Barugae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.1001",
+    "district_id": "73.09.07",
+    "name": "Borong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.07.2002",
+    "district_id": "73.09.07",
+    "name": "Allaere",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2003",
+    "district_id": "73.09.07",
+    "name": "Toddopulia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2004",
+    "district_id": "73.09.07",
+    "name": "Kurusumange",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2005",
+    "district_id": "73.09.07",
+    "name": "Lekopancing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2006",
+    "district_id": "73.09.07",
+    "name": "Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2007",
+    "district_id": "73.09.07",
+    "name": "Sudirman",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.07.2008",
+    "district_id": "73.09.07",
+    "name": "Purnakarya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2001",
+    "district_id": "73.09.08",
+    "name": "Temmapaduae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2002",
+    "district_id": "73.09.08",
+    "name": "Nisombalia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2003",
+    "district_id": "73.09.08",
+    "name": "Tellumpoccoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2004",
+    "district_id": "73.09.08",
+    "name": "Ma'rumpa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2005",
+    "district_id": "73.09.08",
+    "name": "Bonto Mate'ne",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2006",
+    "district_id": "73.09.08",
+    "name": "Abbulosibatang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.08.2007",
+    "district_id": "73.09.08",
+    "name": "Pabbentengang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2001",
+    "district_id": "73.09.09",
+    "name": "Jenetaesa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2002",
+    "district_id": "73.09.09",
+    "name": "Bonto Tallasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2003",
+    "district_id": "73.09.09",
+    "name": "Sambueja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2004",
+    "district_id": "73.09.09",
+    "name": "Tanete",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2005",
+    "district_id": "73.09.09",
+    "name": "Samangki",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.09.2006",
+    "district_id": "73.09.09",
+    "name": "Simbang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2001",
+    "district_id": "73.09.10",
+    "name": "Laiya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2002",
+    "district_id": "73.09.10",
+    "name": "Labuaja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2003",
+    "district_id": "73.09.10",
+    "name": "Limampoccoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2004",
+    "district_id": "73.09.10",
+    "name": "Lebbo Tengae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2005",
+    "district_id": "73.09.10",
+    "name": "Rompegading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2006",
+    "district_id": "73.09.10",
+    "name": "Baji pa'mai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.10.2007",
+    "district_id": "73.09.10",
+    "name": "Cenrana Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2001",
+    "district_id": "73.09.11",
+    "name": "Tompobulu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2002",
+    "district_id": "73.09.11",
+    "name": "Benteng Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2003",
+    "district_id": "73.09.11",
+    "name": "Bonto Manai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2004",
+    "district_id": "73.09.11",
+    "name": "Bonto Somba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2005",
+    "district_id": "73.09.11",
+    "name": "Toddolimae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2006",
+    "district_id": "73.09.11",
+    "name": "Pucak",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2007",
+    "district_id": "73.09.11",
+    "name": "Bonto Matinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.11.2008",
+    "district_id": "73.09.11",
+    "name": "Bonto Manurung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.12.1001",
+    "district_id": "73.09.12",
+    "name": "Allepolea",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1002",
+    "district_id": "73.09.12",
+    "name": "Maccini Baji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1003",
+    "district_id": "73.09.12",
+    "name": "Soreang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1004",
+    "district_id": "73.09.12",
+    "name": "Mattirodeceng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.2005",
+    "district_id": "73.09.12",
+    "name": "Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.12.2006",
+    "district_id": "73.09.12",
+    "name": "Tengkuru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.13.2001",
+    "district_id": "73.09.13",
+    "name": "Moncongloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.13.2002",
+    "district_id": "73.09.13",
+    "name": "Moncongloe Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.13.2003",
+    "district_id": "73.09.13",
+    "name": "Moncongloe Lappara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.13.2004",
+    "district_id": "73.09.13",
+    "name": "Bonto Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.13.2005",
+    "district_id": "73.09.13",
+    "name": "Bonto Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.14.1001",
+    "district_id": "73.09.14",
+    "name": "Pettuadae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1002",
+    "district_id": "73.09.14",
+    "name": "Boribellayya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1003",
+    "district_id": "73.09.14",
+    "name": "Alliritengae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1004",
+    "district_id": "73.09.14",
+    "name": "Turikale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1005",
+    "district_id": "73.09.14",
+    "name": "Taroada",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1006",
+    "district_id": "73.09.14",
+    "name": "Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.14.1007",
+    "district_id": "73.09.14",
+    "name": "Adatongeng",
+    "type": "KELURAHAN"
+  }
+]

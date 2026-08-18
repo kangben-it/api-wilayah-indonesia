@@ -1,0 +1,206 @@
+[
+  {
+    "id": "64.71.01.1001",
+    "district_id": "64.71.01",
+    "name": "Manggar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.01.1002",
+    "district_id": "64.71.01",
+    "name": "Lamaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.01.1003",
+    "district_id": "64.71.01",
+    "name": "Teritip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.01.1004",
+    "district_id": "64.71.01",
+    "name": "Manggar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1001",
+    "district_id": "64.71.02",
+    "name": "Baru Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1002",
+    "district_id": "64.71.02",
+    "name": "Baru Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1003",
+    "district_id": "64.71.02",
+    "name": "Baru Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1004",
+    "district_id": "64.71.02",
+    "name": "Kariangau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1005",
+    "district_id": "64.71.02",
+    "name": "Margo Mulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1006",
+    "district_id": "64.71.02",
+    "name": "Marga Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1001",
+    "district_id": "64.71.03",
+    "name": "Batu Ampar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1002",
+    "district_id": "64.71.03",
+    "name": "Gunung Samarinda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1003",
+    "district_id": "64.71.03",
+    "name": "Karang Joang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1004",
+    "district_id": "64.71.03",
+    "name": "Muara Rapak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1005",
+    "district_id": "64.71.03",
+    "name": "Gunung Samarinda Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.03.1006",
+    "district_id": "64.71.03",
+    "name": "Graha Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1001",
+    "district_id": "64.71.04",
+    "name": "Gunung Sari Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1002",
+    "district_id": "64.71.04",
+    "name": "Gunung Sari Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1003",
+    "district_id": "64.71.04",
+    "name": "Karang Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1004",
+    "district_id": "64.71.04",
+    "name": "Karang Jati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1005",
+    "district_id": "64.71.04",
+    "name": "Mekar Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1006",
+    "district_id": "64.71.04",
+    "name": "Sumber Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1002",
+    "district_id": "64.71.05",
+    "name": "Sepinggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1006",
+    "district_id": "64.71.05",
+    "name": "Gunung Bahagia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1008",
+    "district_id": "64.71.05",
+    "name": "Sepinggan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1009",
+    "district_id": "64.71.05",
+    "name": "Sepinggan Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1010",
+    "district_id": "64.71.05",
+    "name": "Sungainangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1011",
+    "district_id": "64.71.05",
+    "name": "Damai Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.05.1012",
+    "district_id": "64.71.05",
+    "name": "Damai Bahagia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1001",
+    "district_id": "64.71.06",
+    "name": "Prapatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1002",
+    "district_id": "64.71.06",
+    "name": "Telaga Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1003",
+    "district_id": "64.71.06",
+    "name": "Klandasan Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1004",
+    "district_id": "64.71.06",
+    "name": "Klandasan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1005",
+    "district_id": "64.71.06",
+    "name": "Damai",
+    "type": "KELURAHAN"
+  }
+]

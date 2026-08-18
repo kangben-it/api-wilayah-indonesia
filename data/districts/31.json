@@ -1,0 +1,222 @@
+[
+  {
+    "id": "31.01.01",
+    "regency_id": "31.01",
+    "name": "Kepulauan Seribu Utara"
+  },
+  {
+    "id": "31.01.02",
+    "regency_id": "31.01",
+    "name": "Kepulauan Seribu Selatan."
+  },
+  {
+    "id": "31.71.01",
+    "regency_id": "31.71",
+    "name": "Gambir"
+  },
+  {
+    "id": "31.71.02",
+    "regency_id": "31.71",
+    "name": "Sawah Besar"
+  },
+  {
+    "id": "31.71.03",
+    "regency_id": "31.71",
+    "name": "Kemayoran"
+  },
+  {
+    "id": "31.71.04",
+    "regency_id": "31.71",
+    "name": "Senen"
+  },
+  {
+    "id": "31.71.05",
+    "regency_id": "31.71",
+    "name": "Cempaka Putih"
+  },
+  {
+    "id": "31.71.06",
+    "regency_id": "31.71",
+    "name": "Menteng"
+  },
+  {
+    "id": "31.71.07",
+    "regency_id": "31.71",
+    "name": "Tanah Abang"
+  },
+  {
+    "id": "31.71.08",
+    "regency_id": "31.71",
+    "name": "Johar Baru"
+  },
+  {
+    "id": "31.72.01",
+    "regency_id": "31.72",
+    "name": "Penjaringan"
+  },
+  {
+    "id": "31.72.02",
+    "regency_id": "31.72",
+    "name": "Tanjung Priok"
+  },
+  {
+    "id": "31.72.03",
+    "regency_id": "31.72",
+    "name": "Koja"
+  },
+  {
+    "id": "31.72.04",
+    "regency_id": "31.72",
+    "name": "Cilincing"
+  },
+  {
+    "id": "31.72.05",
+    "regency_id": "31.72",
+    "name": "Pademangan"
+  },
+  {
+    "id": "31.72.06",
+    "regency_id": "31.72",
+    "name": "Kelapa Gading"
+  },
+  {
+    "id": "31.73.01",
+    "regency_id": "31.73",
+    "name": "Cengkareng"
+  },
+  {
+    "id": "31.73.02",
+    "regency_id": "31.73",
+    "name": "Grogol Petamburan"
+  },
+  {
+    "id": "31.73.03",
+    "regency_id": "31.73",
+    "name": "Taman Sari"
+  },
+  {
+    "id": "31.73.04",
+    "regency_id": "31.73",
+    "name": "Tambora"
+  },
+  {
+    "id": "31.73.05",
+    "regency_id": "31.73",
+    "name": "Kebon Jeruk"
+  },
+  {
+    "id": "31.73.06",
+    "regency_id": "31.73",
+    "name": "Kalideres"
+  },
+  {
+    "id": "31.73.07",
+    "regency_id": "31.73",
+    "name": "Pal Merah"
+  },
+  {
+    "id": "31.73.08",
+    "regency_id": "31.73",
+    "name": "Kembangan"
+  },
+  {
+    "id": "31.74.01",
+    "regency_id": "31.74",
+    "name": "Tebet"
+  },
+  {
+    "id": "31.74.02",
+    "regency_id": "31.74",
+    "name": "Setiabudi"
+  },
+  {
+    "id": "31.74.03",
+    "regency_id": "31.74",
+    "name": "Mampang Prapatan"
+  },
+  {
+    "id": "31.74.04",
+    "regency_id": "31.74",
+    "name": "Pasar Minggu"
+  },
+  {
+    "id": "31.74.05",
+    "regency_id": "31.74",
+    "name": "Kebayoran Lama"
+  },
+  {
+    "id": "31.74.06",
+    "regency_id": "31.74",
+    "name": "Cilandak"
+  },
+  {
+    "id": "31.74.07",
+    "regency_id": "31.74",
+    "name": "Kebayoran Baru"
+  },
+  {
+    "id": "31.74.08",
+    "regency_id": "31.74",
+    "name": "Pancoran"
+  },
+  {
+    "id": "31.74.09",
+    "regency_id": "31.74",
+    "name": "Jagakarsa"
+  },
+  {
+    "id": "31.74.10",
+    "regency_id": "31.74",
+    "name": "Pesanggrahan"
+  },
+  {
+    "id": "31.75.01",
+    "regency_id": "31.75",
+    "name": "Matraman"
+  },
+  {
+    "id": "31.75.02",
+    "regency_id": "31.75",
+    "name": "Pulogadung"
+  },
+  {
+    "id": "31.75.03",
+    "regency_id": "31.75",
+    "name": "Jatinegara"
+  },
+  {
+    "id": "31.75.04",
+    "regency_id": "31.75",
+    "name": "Kramatjati"
+  },
+  {
+    "id": "31.75.05",
+    "regency_id": "31.75",
+    "name": "Pasar Rebo"
+  },
+  {
+    "id": "31.75.06",
+    "regency_id": "31.75",
+    "name": "Cakung"
+  },
+  {
+    "id": "31.75.07",
+    "regency_id": "31.75",
+    "name": "Duren Sawit"
+  },
+  {
+    "id": "31.75.08",
+    "regency_id": "31.75",
+    "name": "Makasar"
+  },
+  {
+    "id": "31.75.09",
+    "regency_id": "31.75",
+    "name": "Ciracas"
+  },
+  {
+    "id": "31.75.10",
+    "regency_id": "31.75",
+    "name": "Cipayung"
+  }
+]

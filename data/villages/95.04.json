@@ -1,0 +1,3272 @@
+[
+  {
+    "id": "95.04.01.1001",
+    "district_id": "95.04.01",
+    "name": "Karubaga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.04.01.2002",
+    "district_id": "95.04.01",
+    "name": "Kogimagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2003",
+    "district_id": "95.04.01",
+    "name": "Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2004",
+    "district_id": "95.04.01",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2005",
+    "district_id": "95.04.01",
+    "name": "Elsadai",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2006",
+    "district_id": "95.04.01",
+    "name": "Ebenhaiser",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2007",
+    "district_id": "95.04.01",
+    "name": "Kolilan",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2008",
+    "district_id": "95.04.01",
+    "name": "Kuloname",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2009",
+    "district_id": "95.04.01",
+    "name": "Lirak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2010",
+    "district_id": "95.04.01",
+    "name": "Kimobur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2011",
+    "district_id": "95.04.01",
+    "name": "Kuragepura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2012",
+    "district_id": "95.04.01",
+    "name": "Kiranage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2013",
+    "district_id": "95.04.01",
+    "name": "Luwik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2014",
+    "district_id": "95.04.01",
+    "name": "Gininggadonak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2015",
+    "district_id": "95.04.01",
+    "name": "Danggulurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2016",
+    "district_id": "95.04.01",
+    "name": "Gurikme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2017",
+    "district_id": "95.04.01",
+    "name": "Molera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2018",
+    "district_id": "95.04.01",
+    "name": "Nalorini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2019",
+    "district_id": "95.04.01",
+    "name": "Beleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2020",
+    "district_id": "95.04.01",
+    "name": "Gurikagewa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2021",
+    "district_id": "95.04.01",
+    "name": "Pulanggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2022",
+    "district_id": "95.04.01",
+    "name": "Yalikaluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2023",
+    "district_id": "95.04.01",
+    "name": "Losmen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.1001",
+    "district_id": "95.04.02",
+    "name": "Bokondini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.04.02.2002",
+    "district_id": "95.04.02",
+    "name": "Mairini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2003",
+    "district_id": "95.04.02",
+    "name": "Apiam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2004",
+    "district_id": "95.04.02",
+    "name": "Umaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2005",
+    "district_id": "95.04.02",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2006",
+    "district_id": "95.04.02",
+    "name": "Mingganggo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2007",
+    "district_id": "95.04.02",
+    "name": "Tenggagama",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2008",
+    "district_id": "95.04.02",
+    "name": "Kologume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2009",
+    "district_id": "95.04.02",
+    "name": "Lambogo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2010",
+    "district_id": "95.04.02",
+    "name": "Jawalane",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.02.2011",
+    "district_id": "95.04.02",
+    "name": "Dunduma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.1001",
+    "district_id": "95.04.03",
+    "name": "Kanggime",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.04.03.2002",
+    "district_id": "95.04.03",
+    "name": "Marlo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2003",
+    "district_id": "95.04.03",
+    "name": "Logon",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2004",
+    "district_id": "95.04.03",
+    "name": "Aulani",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2005",
+    "district_id": "95.04.03",
+    "name": "Ligiibak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2006",
+    "district_id": "95.04.03",
+    "name": "Kerena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2007",
+    "district_id": "95.04.03",
+    "name": "Purugi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2008",
+    "district_id": "95.04.03",
+    "name": "Lawor",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2009",
+    "district_id": "95.04.03",
+    "name": "Kagimaluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.03.2010",
+    "district_id": "95.04.03",
+    "name": "Dundu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.1001",
+    "district_id": "95.04.04",
+    "name": "Kembu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.04.04.2002",
+    "district_id": "95.04.04",
+    "name": "Mamit",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2003",
+    "district_id": "95.04.04",
+    "name": "Yowo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2004",
+    "district_id": "95.04.04",
+    "name": "Nugari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2005",
+    "district_id": "95.04.04",
+    "name": "Kobon",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2006",
+    "district_id": "95.04.04",
+    "name": "Kabori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2007",
+    "district_id": "95.04.04",
+    "name": "Genani",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2008",
+    "district_id": "95.04.04",
+    "name": "Wulinaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2009",
+    "district_id": "95.04.04",
+    "name": "Aworera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2010",
+    "district_id": "95.04.04",
+    "name": "Agimdek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.04.2011",
+    "district_id": "95.04.04",
+    "name": "Tioga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2001",
+    "district_id": "95.04.05",
+    "name": "Goyage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2002",
+    "district_id": "95.04.05",
+    "name": "Yemarima",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2003",
+    "district_id": "95.04.05",
+    "name": "Tigikun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2004",
+    "district_id": "95.04.05",
+    "name": "Dugi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2005",
+    "district_id": "95.04.05",
+    "name": "Doge",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2006",
+    "district_id": "95.04.05",
+    "name": "Benari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2007",
+    "district_id": "95.04.05",
+    "name": "Wijamurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2008",
+    "district_id": "95.04.05",
+    "name": "Woji",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2009",
+    "district_id": "95.04.05",
+    "name": "Mampulaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2010",
+    "district_id": "95.04.05",
+    "name": "Tidur Mabuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2011",
+    "district_id": "95.04.05",
+    "name": "Bini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2012",
+    "district_id": "95.04.05",
+    "name": "Didelonik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2013",
+    "district_id": "95.04.05",
+    "name": "Kumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2014",
+    "district_id": "95.04.05",
+    "name": "Peko",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2015",
+    "district_id": "95.04.05",
+    "name": "Tiri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2016",
+    "district_id": "95.04.05",
+    "name": "Tigir",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2017",
+    "district_id": "95.04.05",
+    "name": "Bopa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2018",
+    "district_id": "95.04.05",
+    "name": "Angkasa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.05.2019",
+    "district_id": "95.04.05",
+    "name": "Gilok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2001",
+    "district_id": "95.04.06",
+    "name": "Wurineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2002",
+    "district_id": "95.04.06",
+    "name": "Pokegi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2003",
+    "district_id": "95.04.06",
+    "name": "Arombok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2004",
+    "district_id": "95.04.06",
+    "name": "Enanagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2005",
+    "district_id": "95.04.06",
+    "name": "Pindak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2006",
+    "district_id": "95.04.06",
+    "name": "Gilopaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2007",
+    "district_id": "95.04.06",
+    "name": "Keribaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2008",
+    "district_id": "95.04.06",
+    "name": "Wona",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.06.2009",
+    "district_id": "95.04.06",
+    "name": "Numbuboton",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2001",
+    "district_id": "95.04.07",
+    "name": "Wina",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2002",
+    "district_id": "95.04.07",
+    "name": "Gualo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2003",
+    "district_id": "95.04.07",
+    "name": "Bimbogul",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2004",
+    "district_id": "95.04.07",
+    "name": "Yugumengga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2005",
+    "district_id": "95.04.07",
+    "name": "Wariru",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2006",
+    "district_id": "95.04.07",
+    "name": "Yugubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2007",
+    "district_id": "95.04.07",
+    "name": "Akima",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2008",
+    "district_id": "95.04.07",
+    "name": "Malela",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2009",
+    "district_id": "95.04.07",
+    "name": "Nakwil",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2010",
+    "district_id": "95.04.07",
+    "name": "Finai",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2011",
+    "district_id": "95.04.07",
+    "name": "Holandia",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2012",
+    "district_id": "95.04.07",
+    "name": "Tawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.07.2013",
+    "district_id": "95.04.07",
+    "name": "Yogweme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2001",
+    "district_id": "95.04.08",
+    "name": "Umagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2002",
+    "district_id": "95.04.08",
+    "name": "Yali",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2003",
+    "district_id": "95.04.08",
+    "name": "Nambu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2004",
+    "district_id": "95.04.08",
+    "name": "Nolopur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2005",
+    "district_id": "95.04.08",
+    "name": "Yaleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2006",
+    "district_id": "95.04.08",
+    "name": "Gatini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2007",
+    "district_id": "95.04.08",
+    "name": "Mino",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2008",
+    "district_id": "95.04.08",
+    "name": "Gurin",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2009",
+    "district_id": "95.04.08",
+    "name": "Piriluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2010",
+    "district_id": "95.04.08",
+    "name": "Pagongga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2011",
+    "district_id": "95.04.08",
+    "name": "Warna",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.08.2012",
+    "district_id": "95.04.08",
+    "name": "Popaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2001",
+    "district_id": "95.04.09",
+    "name": "Panaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2002",
+    "district_id": "95.04.09",
+    "name": "Ibunuh",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2003",
+    "district_id": "95.04.09",
+    "name": "Saksi Maler",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2004",
+    "district_id": "95.04.09",
+    "name": "Kutiom",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2005",
+    "district_id": "95.04.09",
+    "name": "Eragani",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2006",
+    "district_id": "95.04.09",
+    "name": "Pindanggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2007",
+    "district_id": "95.04.09",
+    "name": "Siak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2008",
+    "district_id": "95.04.09",
+    "name": "Yandono",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.09.2009",
+    "district_id": "95.04.09",
+    "name": "Paido",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2001",
+    "district_id": "95.04.10",
+    "name": "Lugwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2002",
+    "district_id": "95.04.10",
+    "name": "Yaliwak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2003",
+    "district_id": "95.04.10",
+    "name": "Teropme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2004",
+    "district_id": "95.04.10",
+    "name": "Yigonime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2005",
+    "district_id": "95.04.10",
+    "name": "Mome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2006",
+    "district_id": "95.04.10",
+    "name": "Bugum",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2007",
+    "district_id": "95.04.10",
+    "name": "Pagona",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2008",
+    "district_id": "95.04.10",
+    "name": "Wunabu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2009",
+    "district_id": "95.04.10",
+    "name": "Wilileme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.10.2010",
+    "district_id": "95.04.10",
+    "name": "Yangguni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2001",
+    "district_id": "95.04.11",
+    "name": "Aruku",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2002",
+    "district_id": "95.04.11",
+    "name": "Kubugiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2003",
+    "district_id": "95.04.11",
+    "name": "Kubu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2004",
+    "district_id": "95.04.11",
+    "name": "Numbugawe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2005",
+    "district_id": "95.04.11",
+    "name": "Tiyenggupur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2006",
+    "district_id": "95.04.11",
+    "name": "Murik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2007",
+    "district_id": "95.04.11",
+    "name": "Minagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2008",
+    "district_id": "95.04.11",
+    "name": "Kalewi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2009",
+    "district_id": "95.04.11",
+    "name": "Menggenagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2001",
+    "district_id": "95.04.12",
+    "name": "Konda",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2002",
+    "district_id": "95.04.12",
+    "name": "Arulo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2003",
+    "district_id": "95.04.12",
+    "name": "Mandura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2004",
+    "district_id": "95.04.12",
+    "name": "Mowilome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2005",
+    "district_id": "95.04.12",
+    "name": "Arumagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2006",
+    "district_id": "95.04.12",
+    "name": "Gimo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2007",
+    "district_id": "95.04.12",
+    "name": "Silabulo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2008",
+    "district_id": "95.04.12",
+    "name": "Arikoba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2009",
+    "district_id": "95.04.12",
+    "name": "Tingapura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2010",
+    "district_id": "95.04.12",
+    "name": "Ganage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.12.2011",
+    "district_id": "95.04.12",
+    "name": "Yawineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2001",
+    "district_id": "95.04.13",
+    "name": "Mondagul",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2002",
+    "district_id": "95.04.13",
+    "name": "Timojimo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2003",
+    "district_id": "95.04.13",
+    "name": "Tabowanimbo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2004",
+    "district_id": "95.04.13",
+    "name": "Nelawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2005",
+    "district_id": "95.04.13",
+    "name": "Woromolome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2006",
+    "district_id": "95.04.13",
+    "name": "Kendemaya",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2007",
+    "district_id": "95.04.13",
+    "name": "Palagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2008",
+    "district_id": "95.04.13",
+    "name": "Megapura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2009",
+    "district_id": "95.04.13",
+    "name": "Wabuna",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2010",
+    "district_id": "95.04.13",
+    "name": "Minagame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2011",
+    "district_id": "95.04.13",
+    "name": "Barename/Luanggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.13.2012",
+    "district_id": "95.04.13",
+    "name": "Yilogonime/Tabinabo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2001",
+    "district_id": "95.04.14",
+    "name": "Kuari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2002",
+    "district_id": "95.04.14",
+    "name": "Menggeba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2003",
+    "district_id": "95.04.14",
+    "name": "Alopur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2004",
+    "district_id": "95.04.14",
+    "name": "Kenen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2005",
+    "district_id": "95.04.14",
+    "name": "Wanggugup",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2006",
+    "district_id": "95.04.14",
+    "name": "Baliminggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2007",
+    "district_id": "95.04.14",
+    "name": "Abepur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2008",
+    "district_id": "95.04.14",
+    "name": "Markar",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2009",
+    "district_id": "95.04.14",
+    "name": "Luanggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2010",
+    "district_id": "95.04.14",
+    "name": "Kondegun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2011",
+    "district_id": "95.04.14",
+    "name": "Jinulira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2012",
+    "district_id": "95.04.14",
+    "name": "Kibur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2013",
+    "district_id": "95.04.14",
+    "name": "Tebenalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2014",
+    "district_id": "95.04.14",
+    "name": "Umaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2015",
+    "district_id": "95.04.14",
+    "name": "Kurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2016",
+    "district_id": "95.04.14",
+    "name": "Menggenagame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.14.2017",
+    "district_id": "95.04.14",
+    "name": "Gubagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2001",
+    "district_id": "95.04.15",
+    "name": "Bokoneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2002",
+    "district_id": "95.04.15",
+    "name": "Donggem",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2003",
+    "district_id": "95.04.15",
+    "name": "Abimbak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2004",
+    "district_id": "95.04.15",
+    "name": "Munagame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2005",
+    "district_id": "95.04.15",
+    "name": "Kanewunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2006",
+    "district_id": "95.04.15",
+    "name": "Nanggurilime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2007",
+    "district_id": "95.04.15",
+    "name": "Kurewunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2008",
+    "district_id": "95.04.15",
+    "name": "Durima",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2009",
+    "district_id": "95.04.15",
+    "name": "Lerewere",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2010",
+    "district_id": "95.04.15",
+    "name": "Bolly",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2011",
+    "district_id": "95.04.15",
+    "name": "Omuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2012",
+    "district_id": "95.04.15",
+    "name": "Wonaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2013",
+    "district_id": "95.04.15",
+    "name": "Waringga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2014",
+    "district_id": "95.04.15",
+    "name": "Tanabume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2015",
+    "district_id": "95.04.15",
+    "name": "Kanere",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2016",
+    "district_id": "95.04.15",
+    "name": "Nunggalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.15.2017",
+    "district_id": "95.04.15",
+    "name": "Weri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2001",
+    "district_id": "95.04.16",
+    "name": "Abena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2002",
+    "district_id": "95.04.16",
+    "name": "Nogobumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2003",
+    "district_id": "95.04.16",
+    "name": "Bilubaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2004",
+    "district_id": "95.04.16",
+    "name": "Gabunggobak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2005",
+    "district_id": "95.04.16",
+    "name": "Wulurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2006",
+    "district_id": "95.04.16",
+    "name": "Wanggulam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2007",
+    "district_id": "95.04.16",
+    "name": "Bitillabur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2008",
+    "district_id": "95.04.16",
+    "name": "Windik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2009",
+    "district_id": "95.04.16",
+    "name": "Yibalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2010",
+    "district_id": "95.04.16",
+    "name": "Wania",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2011",
+    "district_id": "95.04.16",
+    "name": "Arelam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2012",
+    "district_id": "95.04.16",
+    "name": "Gelalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2013",
+    "district_id": "95.04.16",
+    "name": "Duma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.16.2014",
+    "district_id": "95.04.16",
+    "name": "Yinama",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2001",
+    "district_id": "95.04.17",
+    "name": "Nabunage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2002",
+    "district_id": "95.04.17",
+    "name": "Kupara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2003",
+    "district_id": "95.04.17",
+    "name": "Kutime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2004",
+    "district_id": "95.04.17",
+    "name": "Kumbo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2005",
+    "district_id": "95.04.17",
+    "name": "Timbindelo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2006",
+    "district_id": "95.04.17",
+    "name": "Jekito",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2007",
+    "district_id": "95.04.17",
+    "name": "Wewo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2008",
+    "district_id": "95.04.17",
+    "name": "Geningga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2009",
+    "district_id": "95.04.17",
+    "name": "Kimilo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2010",
+    "district_id": "95.04.17",
+    "name": "Missa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.17.2011",
+    "district_id": "95.04.17",
+    "name": "Logilome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2001",
+    "district_id": "95.04.18",
+    "name": "Tinggom",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2002",
+    "district_id": "95.04.18",
+    "name": "Egoni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2003",
+    "district_id": "95.04.18",
+    "name": "Martelo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2004",
+    "district_id": "95.04.18",
+    "name": "Lerewere",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2005",
+    "district_id": "95.04.18",
+    "name": "Yakep",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2006",
+    "district_id": "95.04.18",
+    "name": "Welesi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2007",
+    "district_id": "95.04.18",
+    "name": "Orelukban",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2008",
+    "district_id": "95.04.18",
+    "name": "Baguni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2009",
+    "district_id": "95.04.18",
+    "name": "Kulutin",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.18.2010",
+    "district_id": "95.04.18",
+    "name": "Yamulo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2001",
+    "district_id": "95.04.19",
+    "name": "Nunggawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2002",
+    "district_id": "95.04.19",
+    "name": "Kokondao",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2003",
+    "district_id": "95.04.19",
+    "name": "Belep",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2004",
+    "district_id": "95.04.19",
+    "name": "Kuripaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2005",
+    "district_id": "95.04.19",
+    "name": "Kimobur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2006",
+    "district_id": "95.04.19",
+    "name": "Wondame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2007",
+    "district_id": "95.04.19",
+    "name": "Kilungga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2008",
+    "district_id": "95.04.19",
+    "name": "Nombori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2009",
+    "district_id": "95.04.19",
+    "name": "Delelah",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2010",
+    "district_id": "95.04.19",
+    "name": "Gilo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2011",
+    "district_id": "95.04.19",
+    "name": "Undi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2012",
+    "district_id": "95.04.19",
+    "name": "Derek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2013",
+    "district_id": "95.04.19",
+    "name": "Numbe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2014",
+    "district_id": "95.04.19",
+    "name": "Kanggineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2015",
+    "district_id": "95.04.19",
+    "name": "Wonoluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2016",
+    "district_id": "95.04.19",
+    "name": "Barenggo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2017",
+    "district_id": "95.04.19",
+    "name": "Tunibur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2018",
+    "district_id": "95.04.19",
+    "name": "Woyi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2019",
+    "district_id": "95.04.19",
+    "name": "Kubalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2020",
+    "district_id": "95.04.19",
+    "name": "Tinoweno",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2021",
+    "district_id": "95.04.19",
+    "name": "Mololowa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2022",
+    "district_id": "95.04.19",
+    "name": "Kunipaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2023",
+    "district_id": "95.04.19",
+    "name": "Kabumanggen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2024",
+    "district_id": "95.04.19",
+    "name": "Kondangwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2025",
+    "district_id": "95.04.19",
+    "name": "Kipino",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.19.2026",
+    "district_id": "95.04.19",
+    "name": "Tomobur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2001",
+    "district_id": "95.04.20",
+    "name": "Wamolo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2002",
+    "district_id": "95.04.20",
+    "name": "Woraga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2003",
+    "district_id": "95.04.20",
+    "name": "Kalarin",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2004",
+    "district_id": "95.04.20",
+    "name": "Gubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2005",
+    "district_id": "95.04.20",
+    "name": "Umar",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2006",
+    "district_id": "95.04.20",
+    "name": "Wobe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2007",
+    "district_id": "95.04.20",
+    "name": "Gingga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2008",
+    "district_id": "95.04.20",
+    "name": "Punggelak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2009",
+    "district_id": "95.04.20",
+    "name": "Kurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2010",
+    "district_id": "95.04.20",
+    "name": "Gumbini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2011",
+    "district_id": "95.04.20",
+    "name": "Muruneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2012",
+    "district_id": "95.04.20",
+    "name": "Nangga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2013",
+    "district_id": "95.04.20",
+    "name": "Enggawogo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2014",
+    "district_id": "95.04.20",
+    "name": "Wamili",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2015",
+    "district_id": "95.04.20",
+    "name": "Oker",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2016",
+    "district_id": "95.04.20",
+    "name": "Winengga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.20.2017",
+    "district_id": "95.04.20",
+    "name": "Aworera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2001",
+    "district_id": "95.04.21",
+    "name": "Numba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2002",
+    "district_id": "95.04.21",
+    "name": "Baliminggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2003",
+    "district_id": "95.04.21",
+    "name": "Kuma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2004",
+    "district_id": "95.04.21",
+    "name": "Yugumena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2005",
+    "district_id": "95.04.21",
+    "name": "Yalogo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2006",
+    "district_id": "95.04.21",
+    "name": "Yiragame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2007",
+    "district_id": "95.04.21",
+    "name": "Tingwineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2008",
+    "district_id": "95.04.21",
+    "name": "Guniki",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2009",
+    "district_id": "95.04.21",
+    "name": "Keragigelok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.21.2010",
+    "district_id": "95.04.21",
+    "name": "Jinuwanu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2001",
+    "district_id": "95.04.22",
+    "name": "Bolubur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2002",
+    "district_id": "95.04.22",
+    "name": "Geneluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2003",
+    "district_id": "95.04.22",
+    "name": "Tirib",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2004",
+    "district_id": "95.04.22",
+    "name": "Beremo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2005",
+    "district_id": "95.04.22",
+    "name": "Pirage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2006",
+    "district_id": "95.04.22",
+    "name": "Koinggambu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2007",
+    "district_id": "95.04.22",
+    "name": "Liwina",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2008",
+    "district_id": "95.04.22",
+    "name": "Eragani",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2009",
+    "district_id": "95.04.22",
+    "name": "Luki",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2010",
+    "district_id": "95.04.22",
+    "name": "Tioner",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2011",
+    "district_id": "95.04.22",
+    "name": "Logulo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.22.2012",
+    "district_id": "95.04.22",
+    "name": "Bawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2001",
+    "district_id": "95.04.23",
+    "name": "Dundu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2002",
+    "district_id": "95.04.23",
+    "name": "Nugini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2003",
+    "district_id": "95.04.23",
+    "name": "Kembu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2004",
+    "district_id": "95.04.23",
+    "name": "Kurupu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2005",
+    "district_id": "95.04.23",
+    "name": "Yiku",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2006",
+    "district_id": "95.04.23",
+    "name": "Bimo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2007",
+    "district_id": "95.04.23",
+    "name": "Dugunagep",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2008",
+    "district_id": "95.04.23",
+    "name": "Nilogabu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2009",
+    "district_id": "95.04.23",
+    "name": "Nakwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.23.2010",
+    "district_id": "95.04.23",
+    "name": "Nini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2001",
+    "district_id": "95.04.24",
+    "name": "Geya",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2002",
+    "district_id": "95.04.24",
+    "name": "Alobaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2003",
+    "district_id": "95.04.24",
+    "name": "Timori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2004",
+    "district_id": "95.04.24",
+    "name": "Nawu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2005",
+    "district_id": "95.04.24",
+    "name": "Tinagoga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2006",
+    "district_id": "95.04.24",
+    "name": "Witipur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2007",
+    "district_id": "95.04.24",
+    "name": "Jelepele",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2008",
+    "district_id": "95.04.24",
+    "name": "Winalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2009",
+    "district_id": "95.04.24",
+    "name": "Kibu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2010",
+    "district_id": "95.04.24",
+    "name": "Wunggilipur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2011",
+    "district_id": "95.04.24",
+    "name": "Weyambi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.24.2012",
+    "district_id": "95.04.24",
+    "name": "Dimbara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2001",
+    "district_id": "95.04.25",
+    "name": "Egiam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2002",
+    "district_id": "95.04.25",
+    "name": "Yonira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2003",
+    "district_id": "95.04.25",
+    "name": "Tabonakme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2004",
+    "district_id": "95.04.25",
+    "name": "Murni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2005",
+    "district_id": "95.04.25",
+    "name": "Yoka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2006",
+    "district_id": "95.04.25",
+    "name": "Wayongga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2007",
+    "district_id": "95.04.25",
+    "name": "Weri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2008",
+    "district_id": "95.04.25",
+    "name": "Pinde",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2009",
+    "district_id": "95.04.25",
+    "name": "Kurba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.25.2010",
+    "district_id": "95.04.25",
+    "name": "Kaliundi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2001",
+    "district_id": "95.04.26",
+    "name": "Gagulineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2002",
+    "district_id": "95.04.26",
+    "name": "Telekonok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2003",
+    "district_id": "95.04.26",
+    "name": "Kuoklanggunik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2004",
+    "district_id": "95.04.26",
+    "name": "Bogokila",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2005",
+    "district_id": "95.04.26",
+    "name": "Mabuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2006",
+    "district_id": "95.04.26",
+    "name": "Nogari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2007",
+    "district_id": "95.04.26",
+    "name": "Genage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2008",
+    "district_id": "95.04.26",
+    "name": "Tigir",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2009",
+    "district_id": "95.04.26",
+    "name": "Gindugunik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.26.2010",
+    "district_id": "95.04.26",
+    "name": "Konengga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2001",
+    "district_id": "95.04.27",
+    "name": "Berembanak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2002",
+    "district_id": "95.04.27",
+    "name": "Habag",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2003",
+    "district_id": "95.04.27",
+    "name": "Kekoli",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2004",
+    "district_id": "95.04.27",
+    "name": "Kamboniki",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2005",
+    "district_id": "95.04.27",
+    "name": "Kaloniki",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2006",
+    "district_id": "95.04.27",
+    "name": "Tari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2007",
+    "district_id": "95.04.27",
+    "name": "Marbuna",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.27.2008",
+    "district_id": "95.04.27",
+    "name": "Malta",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2001",
+    "district_id": "95.04.28",
+    "name": "Onggokme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2002",
+    "district_id": "95.04.28",
+    "name": "Kubur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2003",
+    "district_id": "95.04.28",
+    "name": "Weu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2004",
+    "district_id": "95.04.28",
+    "name": "Liwese",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2005",
+    "district_id": "95.04.28",
+    "name": "Wenduri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2006",
+    "district_id": "95.04.28",
+    "name": "Tabo Wanimbo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2007",
+    "district_id": "95.04.28",
+    "name": "Lenggup",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.28.2008",
+    "district_id": "95.04.28",
+    "name": "Tinger",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2001",
+    "district_id": "95.04.29",
+    "name": "Yanora",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2002",
+    "district_id": "95.04.29",
+    "name": "Wari/Taiyeve",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2003",
+    "district_id": "95.04.29",
+    "name": "Papedari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2004",
+    "district_id": "95.04.29",
+    "name": "Dotori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2005",
+    "district_id": "95.04.29",
+    "name": "Arebe/Ninggame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2006",
+    "district_id": "95.04.29",
+    "name": "Kowari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2007",
+    "district_id": "95.04.29",
+    "name": "Wiki",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2008",
+    "district_id": "95.04.29",
+    "name": "Kuruku",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2009",
+    "district_id": "95.04.29",
+    "name": "Friji",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2010",
+    "district_id": "95.04.29",
+    "name": "Dorera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2011",
+    "district_id": "95.04.29",
+    "name": "Dustra/Yamiriko",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2012",
+    "district_id": "95.04.29",
+    "name": "Muna",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2013",
+    "district_id": "95.04.29",
+    "name": "Kalibu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2014",
+    "district_id": "95.04.29",
+    "name": "Laniloma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2015",
+    "district_id": "95.04.29",
+    "name": "Wakumendek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2016",
+    "district_id": "95.04.29",
+    "name": "Timoga/Kabupaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.29.2017",
+    "district_id": "95.04.29",
+    "name": "Beleise",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2001",
+    "district_id": "95.04.30",
+    "name": "Dow/Bijere",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2002",
+    "district_id": "95.04.30",
+    "name": "Takri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2003",
+    "district_id": "95.04.30",
+    "name": "Prawa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2004",
+    "district_id": "95.04.30",
+    "name": "Sigou",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2005",
+    "district_id": "95.04.30",
+    "name": "Dagari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2006",
+    "district_id": "95.04.30",
+    "name": "Warka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2007",
+    "district_id": "95.04.30",
+    "name": "Pakare",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2008",
+    "district_id": "95.04.30",
+    "name": "Tigu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2009",
+    "district_id": "95.04.30",
+    "name": "Bire",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2010",
+    "district_id": "95.04.30",
+    "name": "Itoli",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.30.2011",
+    "district_id": "95.04.30",
+    "name": "Vokuyo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2001",
+    "district_id": "95.04.31",
+    "name": "Silo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2002",
+    "district_id": "95.04.31",
+    "name": "Logi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2003",
+    "district_id": "95.04.31",
+    "name": "Tagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2004",
+    "district_id": "95.04.31",
+    "name": "Bini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2005",
+    "district_id": "95.04.31",
+    "name": "Dunda",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2006",
+    "district_id": "95.04.31",
+    "name": "Getiem",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2007",
+    "district_id": "95.04.31",
+    "name": "Rumbepaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2008",
+    "district_id": "95.04.31",
+    "name": "Yimabnime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2009",
+    "district_id": "95.04.31",
+    "name": "Wanuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.31.2010",
+    "district_id": "95.04.31",
+    "name": "Lamaluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2001",
+    "district_id": "95.04.32",
+    "name": "Yuneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2002",
+    "district_id": "95.04.32",
+    "name": "Yido",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2003",
+    "district_id": "95.04.32",
+    "name": "Omibur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2004",
+    "district_id": "95.04.32",
+    "name": "Tenabaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2005",
+    "district_id": "95.04.32",
+    "name": "Wonabunggame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2006",
+    "district_id": "95.04.32",
+    "name": "Gembileme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2007",
+    "district_id": "95.04.32",
+    "name": "Wenome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2008",
+    "district_id": "95.04.32",
+    "name": "Mopi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2009",
+    "district_id": "95.04.32",
+    "name": "Kanggilo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2010",
+    "district_id": "95.04.32",
+    "name": "Yudimba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.32.2011",
+    "district_id": "95.04.32",
+    "name": "Umar",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2001",
+    "district_id": "95.04.33",
+    "name": "Wama",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2002",
+    "district_id": "95.04.33",
+    "name": "Wonitu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2003",
+    "district_id": "95.04.33",
+    "name": "Kumbur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2004",
+    "district_id": "95.04.33",
+    "name": "Kwarini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2005",
+    "district_id": "95.04.33",
+    "name": "Weyage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2006",
+    "district_id": "95.04.33",
+    "name": "Timer",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2007",
+    "district_id": "95.04.33",
+    "name": "Gulak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2008",
+    "district_id": "95.04.33",
+    "name": "Nowo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2009",
+    "district_id": "95.04.33",
+    "name": "Gunalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2010",
+    "district_id": "95.04.33",
+    "name": "Korlo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2011",
+    "district_id": "95.04.33",
+    "name": "Towolome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.33.2012",
+    "district_id": "95.04.33",
+    "name": "Golena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2001",
+    "district_id": "95.04.34",
+    "name": "Geka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2002",
+    "district_id": "95.04.34",
+    "name": "Kwa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2003",
+    "district_id": "95.04.34",
+    "name": "Gelok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2004",
+    "district_id": "95.04.34",
+    "name": "Makido",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2005",
+    "district_id": "95.04.34",
+    "name": "Yinuwanu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2006",
+    "district_id": "95.04.34",
+    "name": "Wanuwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2007",
+    "district_id": "95.04.34",
+    "name": "Dimbara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2008",
+    "district_id": "95.04.34",
+    "name": "Wenigi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2009",
+    "district_id": "95.04.34",
+    "name": "Membramonggen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2010",
+    "district_id": "95.04.34",
+    "name": "Tabunakme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2001",
+    "district_id": "95.04.35",
+    "name": "Telenggeme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2002",
+    "district_id": "95.04.35",
+    "name": "Aukuni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2003",
+    "district_id": "95.04.35",
+    "name": "Tenek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2004",
+    "district_id": "95.04.35",
+    "name": "Kimunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2005",
+    "district_id": "95.04.35",
+    "name": "Kimugu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2006",
+    "district_id": "95.04.35",
+    "name": "Yagagobak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2007",
+    "district_id": "95.04.35",
+    "name": "Linggira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2008",
+    "district_id": "95.04.35",
+    "name": "Wekaru",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2009",
+    "district_id": "95.04.35",
+    "name": "Dolunggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.35.2010",
+    "district_id": "95.04.35",
+    "name": "Kagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2001",
+    "district_id": "95.04.36",
+    "name": "Anawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2002",
+    "district_id": "95.04.36",
+    "name": "Yalipura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2003",
+    "district_id": "95.04.36",
+    "name": "Kotori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2004",
+    "district_id": "95.04.36",
+    "name": "Bieleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2005",
+    "district_id": "95.04.36",
+    "name": "Yalokobak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2006",
+    "district_id": "95.04.36",
+    "name": "Linggira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2007",
+    "district_id": "95.04.36",
+    "name": "Aridunda",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2008",
+    "district_id": "95.04.36",
+    "name": "Loguk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2009",
+    "district_id": "95.04.36",
+    "name": "Imurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.36.2010",
+    "district_id": "95.04.36",
+    "name": "Gineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2001",
+    "district_id": "95.04.37",
+    "name": "Banggeri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2002",
+    "district_id": "95.04.37",
+    "name": "Igari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2003",
+    "district_id": "95.04.37",
+    "name": "Tina",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2004",
+    "district_id": "95.04.37",
+    "name": "Telelomi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2005",
+    "district_id": "95.04.37",
+    "name": "Kopenawai",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2006",
+    "district_id": "95.04.37",
+    "name": "Wunggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2007",
+    "district_id": "95.04.37",
+    "name": "Baganagapur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2008",
+    "district_id": "95.04.37",
+    "name": "Milineri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2009",
+    "district_id": "95.04.37",
+    "name": "Mili",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.37.2010",
+    "district_id": "95.04.37",
+    "name": "Geyaneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2001",
+    "district_id": "95.04.38",
+    "name": "Wugi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2002",
+    "district_id": "95.04.38",
+    "name": "Loma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2003",
+    "district_id": "95.04.38",
+    "name": "Gitar",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2004",
+    "district_id": "95.04.38",
+    "name": "Gilime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2005",
+    "district_id": "95.04.38",
+    "name": "Lena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2006",
+    "district_id": "95.04.38",
+    "name": "Timoneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2007",
+    "district_id": "95.04.38",
+    "name": "Kuagembur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2008",
+    "district_id": "95.04.38",
+    "name": "Wuronggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2009",
+    "district_id": "95.04.38",
+    "name": "Buangludah",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2010",
+    "district_id": "95.04.38",
+    "name": "Pindelo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.38.2011",
+    "district_id": "95.04.38",
+    "name": "Koli",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2001",
+    "district_id": "95.04.39",
+    "name": "Wania",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2002",
+    "district_id": "95.04.39",
+    "name": "Milipaa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2003",
+    "district_id": "95.04.39",
+    "name": "Tarawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2004",
+    "district_id": "95.04.39",
+    "name": "Niagale",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2005",
+    "district_id": "95.04.39",
+    "name": "Bumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2006",
+    "district_id": "95.04.39",
+    "name": "Ambena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2007",
+    "district_id": "95.04.39",
+    "name": "Gunombo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2008",
+    "district_id": "95.04.39",
+    "name": "Mawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2009",
+    "district_id": "95.04.39",
+    "name": "Ripa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.39.2010",
+    "district_id": "95.04.39",
+    "name": "Delegari",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2001",
+    "district_id": "95.04.40",
+    "name": "Peyola",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2002",
+    "district_id": "95.04.40",
+    "name": "Kogotime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2003",
+    "district_id": "95.04.40",
+    "name": "Gabunam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2004",
+    "district_id": "95.04.40",
+    "name": "Gulak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2005",
+    "district_id": "95.04.40",
+    "name": "Melaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2006",
+    "district_id": "95.04.40",
+    "name": "Ekoni",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2007",
+    "district_id": "95.04.40",
+    "name": "Minggen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2008",
+    "district_id": "95.04.40",
+    "name": "Kandimbaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2009",
+    "district_id": "95.04.40",
+    "name": "Kinebe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.40.2010",
+    "district_id": "95.04.40",
+    "name": "Belela",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2001",
+    "district_id": "95.04.41",
+    "name": "Kaiga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2002",
+    "district_id": "95.04.41",
+    "name": "Bawi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2003",
+    "district_id": "95.04.41",
+    "name": "Tina",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2004",
+    "district_id": "95.04.41",
+    "name": "Kurbaya",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2005",
+    "district_id": "95.04.41",
+    "name": "Wiyangger",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2006",
+    "district_id": "95.04.41",
+    "name": "Again",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2007",
+    "district_id": "95.04.41",
+    "name": "Piraleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2008",
+    "district_id": "95.04.41",
+    "name": "Tunggunale",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2009",
+    "district_id": "95.04.41",
+    "name": "Kotorambur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.41.2010",
+    "district_id": "95.04.41",
+    "name": "Wolu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2001",
+    "district_id": "95.04.42",
+    "name": "Wuluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2002",
+    "district_id": "95.04.42",
+    "name": "Wenggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2003",
+    "district_id": "95.04.42",
+    "name": "Posman",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2004",
+    "district_id": "95.04.42",
+    "name": "Tiyonggi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2005",
+    "district_id": "95.04.42",
+    "name": "Yelly",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2006",
+    "district_id": "95.04.42",
+    "name": "Agin",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2007",
+    "district_id": "95.04.42",
+    "name": "Kogagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2008",
+    "district_id": "95.04.42",
+    "name": "Yebena",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2009",
+    "district_id": "95.04.42",
+    "name": "Wamigi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.42.2010",
+    "district_id": "95.04.42",
+    "name": "Kolanggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2001",
+    "district_id": "95.04.43",
+    "name": "Bogonuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2002",
+    "district_id": "95.04.43",
+    "name": "Wisman",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2003",
+    "district_id": "95.04.43",
+    "name": "Paba",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2004",
+    "district_id": "95.04.43",
+    "name": "Ewan",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2005",
+    "district_id": "95.04.43",
+    "name": "Wumelak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2006",
+    "district_id": "95.04.43",
+    "name": "Walelo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2007",
+    "district_id": "95.04.43",
+    "name": "Laura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2008",
+    "district_id": "95.04.43",
+    "name": "Talinamber",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2009",
+    "district_id": "95.04.43",
+    "name": "Aliduda",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.43.2010",
+    "district_id": "95.04.43",
+    "name": "Andomak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2001",
+    "district_id": "95.04.44",
+    "name": "Wiyaluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2002",
+    "district_id": "95.04.44",
+    "name": "Aburage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2003",
+    "district_id": "95.04.44",
+    "name": "Kogoyapura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2004",
+    "district_id": "95.04.44",
+    "name": "Erimbur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2005",
+    "district_id": "95.04.44",
+    "name": "Leragawi/Megagirakuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2006",
+    "district_id": "95.04.44",
+    "name": "Longgoboma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2007",
+    "district_id": "95.04.44",
+    "name": "Tingwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2008",
+    "district_id": "95.04.44",
+    "name": "Gubura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2009",
+    "district_id": "95.04.44",
+    "name": "Lubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.44.2010",
+    "district_id": "95.04.44",
+    "name": "Bogome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2001",
+    "district_id": "95.04.45",
+    "name": "Biuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2002",
+    "district_id": "95.04.45",
+    "name": "Guburini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2003",
+    "district_id": "95.04.45",
+    "name": "Yiluk/Kondenggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2004",
+    "district_id": "95.04.45",
+    "name": "Yugu Mabur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2005",
+    "district_id": "95.04.45",
+    "name": "Tomagipura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2006",
+    "district_id": "95.04.45",
+    "name": "Yiyogobak/Kibur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2007",
+    "district_id": "95.04.45",
+    "name": "Galubup",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2008",
+    "district_id": "95.04.45",
+    "name": "Mbinime/Jinulira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2009",
+    "district_id": "95.04.45",
+    "name": "Wonabu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2010",
+    "district_id": "95.04.45",
+    "name": "Tomagi/Gubagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2011",
+    "district_id": "95.04.45",
+    "name": "Purugi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2001",
+    "district_id": "95.04.46",
+    "name": "Pekaleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2002",
+    "district_id": "95.04.46",
+    "name": "Teleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2003",
+    "district_id": "95.04.46",
+    "name": "Giko",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2004",
+    "district_id": "95.04.46",
+    "name": "Kungge",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2005",
+    "district_id": "95.04.46",
+    "name": "Kotorambur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2006",
+    "district_id": "95.04.46",
+    "name": "Miyanagame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2007",
+    "district_id": "95.04.46",
+    "name": "Karu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2008",
+    "district_id": "95.04.46",
+    "name": "Tabuh",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2009",
+    "district_id": "95.04.46",
+    "name": "Gwak Dugunik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2010",
+    "district_id": "95.04.46",
+    "name": "Minegimen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.46.2011",
+    "district_id": "95.04.46",
+    "name": "Ambirik",
+    "type": "DESA"
+  }
+]

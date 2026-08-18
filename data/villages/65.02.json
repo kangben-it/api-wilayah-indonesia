@@ -1,0 +1,656 @@
+[
+  {
+    "id": "65.02.01.2002",
+    "district_id": "65.02.01",
+    "name": "Long Bisai",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2005",
+    "district_id": "65.02.01",
+    "name": "Pulau Sapi",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2006",
+    "district_id": "65.02.01",
+    "name": "Paking",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2007",
+    "district_id": "65.02.01",
+    "name": "Lidung Kemenci",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2008",
+    "district_id": "65.02.01",
+    "name": "Mentarang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2009",
+    "district_id": "65.02.01",
+    "name": "Harapan Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2001",
+    "district_id": "65.02.02",
+    "name": "Batu Lidung",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2002",
+    "district_id": "65.02.02",
+    "name": "Malinau Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2003",
+    "district_id": "65.02.02",
+    "name": "Pelita Kanaan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2004",
+    "district_id": "65.02.02",
+    "name": "Malinau Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2005",
+    "district_id": "65.02.02",
+    "name": "Malinau Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.02.2006",
+    "district_id": "65.02.02",
+    "name": "Tanjung Keranjang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2001",
+    "district_id": "65.02.03",
+    "name": "Long Pujungan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2002",
+    "district_id": "65.02.03",
+    "name": "Long Ketaman",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2003",
+    "district_id": "65.02.03",
+    "name": "Long Pua",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2004",
+    "district_id": "65.02.03",
+    "name": "Long Lame",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2005",
+    "district_id": "65.02.03",
+    "name": "Long Jelet",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2006",
+    "district_id": "65.02.03",
+    "name": "Long Aran",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2007",
+    "district_id": "65.02.03",
+    "name": "Long Peliran",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2008",
+    "district_id": "65.02.03",
+    "name": "Long Bena",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.03.2009",
+    "district_id": "65.02.03",
+    "name": "Long Belaka Pitau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.04.2001",
+    "district_id": "65.02.04",
+    "name": "Data Dian",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.04.2002",
+    "district_id": "65.02.04",
+    "name": "Long Pipa",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.04.2003",
+    "district_id": "65.02.04",
+    "name": "Long Sule",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.04.2004",
+    "district_id": "65.02.04",
+    "name": "Sungai Anai",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.04.2005",
+    "district_id": "65.02.04",
+    "name": "Long Metun",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.05.2001",
+    "district_id": "65.02.05",
+    "name": "Long Nawang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.05.2002",
+    "district_id": "65.02.05",
+    "name": "Nawang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.05.2003",
+    "district_id": "65.02.05",
+    "name": "Long Temuyat",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.05.2004",
+    "district_id": "65.02.05",
+    "name": "Long Betaoh",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.05.2005",
+    "district_id": "65.02.05",
+    "name": "Long Payau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2001",
+    "district_id": "65.02.06",
+    "name": "Bila Bekayuk",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2002",
+    "district_id": "65.02.06",
+    "name": "Long Loreh",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2003",
+    "district_id": "65.02.06",
+    "name": "Langap",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2004",
+    "district_id": "65.02.06",
+    "name": "Laban Nyarit",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2005",
+    "district_id": "65.02.06",
+    "name": "Nunuk Tanah Kibang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2006",
+    "district_id": "65.02.06",
+    "name": "Pelencau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2007",
+    "district_id": "65.02.06",
+    "name": "Paya Seturan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2008",
+    "district_id": "65.02.06",
+    "name": "Punan Rian",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.06.2009",
+    "district_id": "65.02.06",
+    "name": "Sengayan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2001",
+    "district_id": "65.02.07",
+    "name": "Kaliamok",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2002",
+    "district_id": "65.02.07",
+    "name": "Luso",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2003",
+    "district_id": "65.02.07",
+    "name": "Malinau Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2004",
+    "district_id": "65.02.07",
+    "name": "Putat",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2005",
+    "district_id": "65.02.07",
+    "name": "Salap",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2006",
+    "district_id": "65.02.07",
+    "name": "Seruyung",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2007",
+    "district_id": "65.02.07",
+    "name": "Respen Tubu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2008",
+    "district_id": "65.02.07",
+    "name": "Belayan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2009",
+    "district_id": "65.02.07",
+    "name": "Sembuak Warod",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2010",
+    "district_id": "65.02.07",
+    "name": "Lubak Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2011",
+    "district_id": "65.02.07",
+    "name": "Kelapis",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.07.2012",
+    "district_id": "65.02.07",
+    "name": "Semengaris",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2001",
+    "district_id": "65.02.08",
+    "name": "Long Bila",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2002",
+    "district_id": "65.02.08",
+    "name": "Long Kenipe",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2003",
+    "district_id": "65.02.08",
+    "name": "Punan Bengalun",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2004",
+    "district_id": "65.02.08",
+    "name": "Sesua",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2005",
+    "district_id": "65.02.08",
+    "name": "Sentaban",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2006",
+    "district_id": "65.02.08",
+    "name": "Tanjung Lapang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2007",
+    "district_id": "65.02.08",
+    "name": "Taras",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2008",
+    "district_id": "65.02.08",
+    "name": "Kuala Lapang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2009",
+    "district_id": "65.02.08",
+    "name": "Sempayang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2001",
+    "district_id": "65.02.09",
+    "name": "Dumu Mahak",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2002",
+    "district_id": "65.02.09",
+    "name": "Long Lebusan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2003",
+    "district_id": "65.02.09",
+    "name": "Mahak Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2004",
+    "district_id": "65.02.09",
+    "name": "Long Top",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2005",
+    "district_id": "65.02.09",
+    "name": "Agung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2006",
+    "district_id": "65.02.09",
+    "name": "Data Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.10.2001",
+    "district_id": "65.02.10",
+    "name": "Long Ampung",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.10.2002",
+    "district_id": "65.02.10",
+    "name": "Long Uro",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.10.2003",
+    "district_id": "65.02.10",
+    "name": "Lidung Payau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.10.2004",
+    "district_id": "65.02.10",
+    "name": "Sungai Barang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.10.2005",
+    "district_id": "65.02.10",
+    "name": "Metulang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2001",
+    "district_id": "65.02.11",
+    "name": "Long Uli",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2002",
+    "district_id": "65.02.11",
+    "name": "Long Alango",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2003",
+    "district_id": "65.02.11",
+    "name": "Long Berini",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2004",
+    "district_id": "65.02.11",
+    "name": "Long Tebulo",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2005",
+    "district_id": "65.02.11",
+    "name": "Apau Ping",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.11.2006",
+    "district_id": "65.02.11",
+    "name": "Long Kemuat",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2001",
+    "district_id": "65.02.12",
+    "name": "Lung Fala",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2002",
+    "district_id": "65.02.12",
+    "name": "Lung Kebinu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2003",
+    "district_id": "65.02.12",
+    "name": "Lung Mekatif",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2004",
+    "district_id": "65.02.12",
+    "name": "Lung Simau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2005",
+    "district_id": "65.02.12",
+    "name": "Lung Berang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2006",
+    "district_id": "65.02.12",
+    "name": "Lung Sulit",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2007",
+    "district_id": "65.02.12",
+    "name": "Lung Semamu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2008",
+    "district_id": "65.02.12",
+    "name": "Long Gafid",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2009",
+    "district_id": "65.02.12",
+    "name": "Temalang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.12.2010",
+    "district_id": "65.02.12",
+    "name": "Long Liku",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2001",
+    "district_id": "65.02.13",
+    "name": "Setulang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2002",
+    "district_id": "65.02.13",
+    "name": "Setarap",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2003",
+    "district_id": "65.02.13",
+    "name": "Punan Setarap",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2004",
+    "district_id": "65.02.13",
+    "name": "Batu Kajang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2005",
+    "district_id": "65.02.13",
+    "name": "Gong Solok",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2006",
+    "district_id": "65.02.13",
+    "name": "Punan Gong Solok",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2007",
+    "district_id": "65.02.13",
+    "name": "Long Adiu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.13.2008",
+    "district_id": "65.02.13",
+    "name": "Punan Long Adiu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2001",
+    "district_id": "65.02.14",
+    "name": "Long Lake",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2002",
+    "district_id": "65.02.14",
+    "name": "Punan Mirau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2003",
+    "district_id": "65.02.14",
+    "name": "Long Rat",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2004",
+    "district_id": "65.02.14",
+    "name": "Halanga",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2005",
+    "district_id": "65.02.14",
+    "name": "Metut",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2006",
+    "district_id": "65.02.14",
+    "name": "Long Jalan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2007",
+    "district_id": "65.02.14",
+    "name": "Nahakramo",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.14.2008",
+    "district_id": "65.02.14",
+    "name": "Tanjung Nanga",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2001",
+    "district_id": "65.02.15",
+    "name": "Long Nyau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2002",
+    "district_id": "65.02.15",
+    "name": "Long Titi",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2003",
+    "district_id": "65.02.15",
+    "name": "Long Ranau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2004",
+    "district_id": "65.02.15",
+    "name": "Rian Tubu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2005",
+    "district_id": "65.02.15",
+    "name": "Long Pada",
+    "type": "DESA"
+  }
+]

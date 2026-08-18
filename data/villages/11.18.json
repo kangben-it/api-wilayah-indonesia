@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "11.18.01.2001",
+    "district_id": "11.18.01",
+    "name": "Meunasah Balek",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2002",
+    "district_id": "11.18.01",
+    "name": "Kota Meureudu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2003",
+    "district_id": "11.18.01",
+    "name": "Mesjid Tuha",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2004",
+    "district_id": "11.18.01",
+    "name": "Rungkom",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2005",
+    "district_id": "11.18.01",
+    "name": "Blang Awe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2006",
+    "district_id": "11.18.01",
+    "name": "Manyang Lancok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2007",
+    "district_id": "11.18.01",
+    "name": "Manyang Cut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2008",
+    "district_id": "11.18.01",
+    "name": "Beurawang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2009",
+    "district_id": "11.18.01",
+    "name": "Rhieng Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2010",
+    "district_id": "11.18.01",
+    "name": "Rhieng Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2011",
+    "district_id": "11.18.01",
+    "name": "Rhieng Mancang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2012",
+    "district_id": "11.18.01",
+    "name": "Meunasah Lhok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2013",
+    "district_id": "11.18.01",
+    "name": "Meuraksa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2014",
+    "district_id": "11.18.01",
+    "name": "Pulo U",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2015",
+    "district_id": "11.18.01",
+    "name": "Geuleudah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2016",
+    "district_id": "11.18.01",
+    "name": "Dayah Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2017",
+    "district_id": "11.18.01",
+    "name": "Bunot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2018",
+    "district_id": "11.18.01",
+    "name": "Glumpang Tutong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2019",
+    "district_id": "11.18.01",
+    "name": "Meunasah Hagu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2020",
+    "district_id": "11.18.01",
+    "name": "Pohroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2021",
+    "district_id": "11.18.01",
+    "name": "Kudrang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2022",
+    "district_id": "11.18.01",
+    "name": "Lampoh Lada",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2023",
+    "district_id": "11.18.01",
+    "name": "Mulieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2024",
+    "district_id": "11.18.01",
+    "name": "Dayah Tuha",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2025",
+    "district_id": "11.18.01",
+    "name": "Rumpuen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2026",
+    "district_id": "11.18.01",
+    "name": "Rambong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2027",
+    "district_id": "11.18.01",
+    "name": "Meunasah Kulam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2028",
+    "district_id": "11.18.01",
+    "name": "Grong-Grong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2029",
+    "district_id": "11.18.01",
+    "name": "Kuta Trieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.01.2030",
+    "district_id": "11.18.01",
+    "name": "Teupin Peuraho",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2001",
+    "district_id": "11.18.02",
+    "name": "Dayah Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2002",
+    "district_id": "11.18.02",
+    "name": "Reuleut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2003",
+    "district_id": "11.18.02",
+    "name": "Sambongan Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2004",
+    "district_id": "11.18.02",
+    "name": "Tijien Husen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2005",
+    "district_id": "11.18.02",
+    "name": "Meunasah Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2006",
+    "district_id": "11.18.02",
+    "name": "Geulanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2007",
+    "district_id": "11.18.02",
+    "name": "Mesjid Ulim Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2008",
+    "district_id": "11.18.02",
+    "name": "Pulo Lhok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2009",
+    "district_id": "11.18.02",
+    "name": "Dayah Leubue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2010",
+    "district_id": "11.18.02",
+    "name": "Tijien Daboh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2011",
+    "district_id": "11.18.02",
+    "name": "Keude Ulim",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2012",
+    "district_id": "11.18.02",
+    "name": "Meunasah Bueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2013",
+    "district_id": "11.18.02",
+    "name": "Balee Ulim",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2014",
+    "district_id": "11.18.02",
+    "name": "Grong Grong Capa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2015",
+    "district_id": "11.18.02",
+    "name": "Meunasah Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2016",
+    "district_id": "11.18.02",
+    "name": "Tanjong Ulim",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2017",
+    "district_id": "11.18.02",
+    "name": "Mesjid Ulim Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2018",
+    "district_id": "11.18.02",
+    "name": "Pulo Ulim",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2019",
+    "district_id": "11.18.02",
+    "name": "Siblah Coh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2020",
+    "district_id": "11.18.02",
+    "name": "Bidok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2021",
+    "district_id": "11.18.02",
+    "name": "Pantang Cot Baloi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2022",
+    "district_id": "11.18.02",
+    "name": "Meunasah Pupu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2023",
+    "district_id": "11.18.02",
+    "name": "Nangrhoe Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2024",
+    "district_id": "11.18.02",
+    "name": "Nangrhoe Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2025",
+    "district_id": "11.18.02",
+    "name": "Meunasah Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2026",
+    "district_id": "11.18.02",
+    "name": "Blang Rheue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2027",
+    "district_id": "11.18.02",
+    "name": "Cot Seutui",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2028",
+    "district_id": "11.18.02",
+    "name": "Lhok Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2029",
+    "district_id": "11.18.02",
+    "name": "Alue Keumiki",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.02.2030",
+    "district_id": "11.18.02",
+    "name": "Blang Cari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2001",
+    "district_id": "11.18.03",
+    "name": "Meuko Jurong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2002",
+    "district_id": "11.18.03",
+    "name": "Kuta Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2003",
+    "district_id": "11.18.03",
+    "name": "Meuko Meugit",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2004",
+    "district_id": "11.18.03",
+    "name": "Kiran Dayah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2005",
+    "district_id": "11.18.03",
+    "name": "Kiran Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2006",
+    "district_id": "11.18.03",
+    "name": "Keurisi Meunasah Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2007",
+    "district_id": "11.18.03",
+    "name": "Keurisi Meunasah Lueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2008",
+    "district_id": "11.18.03",
+    "name": "Keurisi Meunasah Beurembang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2009",
+    "district_id": "11.18.03",
+    "name": "Meunasah Mee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2010",
+    "district_id": "11.18.03",
+    "name": "Meunasah Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2011",
+    "district_id": "11.18.03",
+    "name": "Kiran Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2012",
+    "district_id": "11.18.03",
+    "name": "Buket Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2013",
+    "district_id": "11.18.03",
+    "name": "Reului Mangat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2014",
+    "district_id": "11.18.03",
+    "name": "Gampong Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2015",
+    "district_id": "11.18.03",
+    "name": "Jurong Binje",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2016",
+    "district_id": "11.18.03",
+    "name": "Jurong Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2017",
+    "district_id": "11.18.03",
+    "name": "Jurong Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.03.2018",
+    "district_id": "11.18.03",
+    "name": "Keude Jangka Buya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2001",
+    "district_id": "11.18.04",
+    "name": "Keude Ulee Gle",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2002",
+    "district_id": "11.18.04",
+    "name": "Ulee Gle",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2003",
+    "district_id": "11.18.04",
+    "name": "Blang Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2004",
+    "district_id": "11.18.04",
+    "name": "Pulo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2005",
+    "district_id": "11.18.04",
+    "name": "Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2006",
+    "district_id": "11.18.04",
+    "name": "Meuko Kuthang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2007",
+    "district_id": "11.18.04",
+    "name": "Uteun Bayu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2008",
+    "district_id": "11.18.04",
+    "name": "Alue Ketapang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2009",
+    "district_id": "11.18.04",
+    "name": "Jaulanga Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2010",
+    "district_id": "11.18.04",
+    "name": "Kumba",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2011",
+    "district_id": "11.18.04",
+    "name": "Babah Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2012",
+    "district_id": "11.18.04",
+    "name": "Pohroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2013",
+    "district_id": "11.18.04",
+    "name": "Seunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2014",
+    "district_id": "11.18.04",
+    "name": "Alue Mee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2015",
+    "district_id": "11.18.04",
+    "name": "Blang Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2016",
+    "district_id": "11.18.04",
+    "name": "Drien Tujoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2017",
+    "district_id": "11.18.04",
+    "name": "Alue Sane",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2018",
+    "district_id": "11.18.04",
+    "name": "Gahru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2019",
+    "district_id": "11.18.04",
+    "name": "Lhok Pusong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2020",
+    "district_id": "11.18.04",
+    "name": "Paya Pisang Klat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2021",
+    "district_id": "11.18.04",
+    "name": "Cot Geurefai",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2022",
+    "district_id": "11.18.04",
+    "name": "Muko Dayah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2023",
+    "district_id": "11.18.04",
+    "name": "Meuko Buloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2024",
+    "district_id": "11.18.04",
+    "name": "Peulakan Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2025",
+    "district_id": "11.18.04",
+    "name": "Adan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2026",
+    "district_id": "11.18.04",
+    "name": "Meugit Kayee Panyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2027",
+    "district_id": "11.18.04",
+    "name": "Meugit Sagoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2028",
+    "district_id": "11.18.04",
+    "name": "Meurandeh Alue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2029",
+    "district_id": "11.18.04",
+    "name": "Reudeup Melayu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2030",
+    "district_id": "11.18.04",
+    "name": "Meunasah Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2031",
+    "district_id": "11.18.04",
+    "name": "Jeulanga Mata Ie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2032",
+    "district_id": "11.18.04",
+    "name": "Jeulanga Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2033",
+    "district_id": "11.18.04",
+    "name": "Pulo Gapu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2034",
+    "district_id": "11.18.04",
+    "name": "Blang Miroe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2035",
+    "district_id": "11.18.04",
+    "name": "Beurasan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2036",
+    "district_id": "11.18.04",
+    "name": "Cot Keng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2037",
+    "district_id": "11.18.04",
+    "name": "Krueng Kiran",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2038",
+    "district_id": "11.18.04",
+    "name": "Asan Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2039",
+    "district_id": "11.18.04",
+    "name": "Drien Bungong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2040",
+    "district_id": "11.18.04",
+    "name": "Peulakan Cibrek",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2041",
+    "district_id": "11.18.04",
+    "name": "Paya Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2042",
+    "district_id": "11.18.04",
+    "name": "Peulakan Tambo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2043",
+    "district_id": "11.18.04",
+    "name": "Paya Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2044",
+    "district_id": "11.18.04",
+    "name": "Meuko Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.04.2045",
+    "district_id": "11.18.04",
+    "name": "Kuta Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2001",
+    "district_id": "11.18.05",
+    "name": "Lhok Sandeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2002",
+    "district_id": "11.18.05",
+    "name": "Sarah Mane",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2003",
+    "district_id": "11.18.05",
+    "name": "Seunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2004",
+    "district_id": "11.18.05",
+    "name": "Lancok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2005",
+    "district_id": "11.18.05",
+    "name": "Meunasah Kulam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2006",
+    "district_id": "11.18.05",
+    "name": "Meunasah Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2007",
+    "district_id": "11.18.05",
+    "name": "Meunasah Bie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2008",
+    "district_id": "11.18.05",
+    "name": "Meunasah Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2009",
+    "district_id": "11.18.05",
+    "name": "Geunteng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2010",
+    "district_id": "11.18.05",
+    "name": "Gampong Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2011",
+    "district_id": "11.18.05",
+    "name": "Blang Cut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2012",
+    "district_id": "11.18.05",
+    "name": "Dayah Kruet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2013",
+    "district_id": "11.18.05",
+    "name": "Meunasah Mancang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2014",
+    "district_id": "11.18.05",
+    "name": "Dayah Usen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2015",
+    "district_id": "11.18.05",
+    "name": "Lueng Bimba",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2016",
+    "district_id": "11.18.05",
+    "name": "Beuringen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2017",
+    "district_id": "11.18.05",
+    "name": "Buangan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2018",
+    "district_id": "11.18.05",
+    "name": "Meunasah Jurong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.05.2019",
+    "district_id": "11.18.05",
+    "name": "Pante Beureune",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2001",
+    "district_id": "11.18.06",
+    "name": "Cut Nyong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2002",
+    "district_id": "11.18.06",
+    "name": "Meunasah Gampong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2003",
+    "district_id": "11.18.06",
+    "name": "Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2004",
+    "district_id": "11.18.06",
+    "name": "Pulo Rheng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2005",
+    "district_id": "11.18.06",
+    "name": "Dayah Nyong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2006",
+    "district_id": "11.18.06",
+    "name": "Daboih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2007",
+    "district_id": "11.18.06",
+    "name": "Beurandeh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2008",
+    "district_id": "11.18.06",
+    "name": "Kaye Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2009",
+    "district_id": "11.18.06",
+    "name": "Blang Glong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2010",
+    "district_id": "11.18.06",
+    "name": "Tutong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2011",
+    "district_id": "11.18.06",
+    "name": "Siren",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2012",
+    "district_id": "11.18.06",
+    "name": "Keude Lueng Putu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2013",
+    "district_id": "11.18.06",
+    "name": "Peub Lueng Nibong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2014",
+    "district_id": "11.18.06",
+    "name": "Baroh Musa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2015",
+    "district_id": "11.18.06",
+    "name": "Teungoh Musa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2016",
+    "district_id": "11.18.06",
+    "name": "Balee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2017",
+    "district_id": "11.18.06",
+    "name": "Udeung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2018",
+    "district_id": "11.18.06",
+    "name": "Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2019",
+    "district_id": "11.18.06",
+    "name": "Baroh Lancok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2020",
+    "district_id": "11.18.06",
+    "name": "Manyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2021",
+    "district_id": "11.18.06",
+    "name": "Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2022",
+    "district_id": "11.18.06",
+    "name": "Pulo Pueb",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2023",
+    "district_id": "11.18.06",
+    "name": "Sawang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2024",
+    "district_id": "11.18.06",
+    "name": "Tualada",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2025",
+    "district_id": "11.18.06",
+    "name": "Cut Langien",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2026",
+    "district_id": "11.18.06",
+    "name": "Sagoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2027",
+    "district_id": "11.18.06",
+    "name": "Dayah Langien",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2028",
+    "district_id": "11.18.06",
+    "name": "Baroh Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2029",
+    "district_id": "11.18.06",
+    "name": "Meunasah Blang Iboih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2030",
+    "district_id": "11.18.06",
+    "name": "Blang Sukon",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2031",
+    "district_id": "11.18.06",
+    "name": "Kayee Jatoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2032",
+    "district_id": "11.18.06",
+    "name": "Blang Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2033",
+    "district_id": "11.18.06",
+    "name": "Lancang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2034",
+    "district_id": "11.18.06",
+    "name": "Paru Keude",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2035",
+    "district_id": "11.18.06",
+    "name": "Blang Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2036",
+    "district_id": "11.18.06",
+    "name": "Jijiem",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2037",
+    "district_id": "11.18.06",
+    "name": "Sarah Panyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2038",
+    "district_id": "11.18.06",
+    "name": "Abah Lueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2039",
+    "district_id": "11.18.06",
+    "name": "Aki Neungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2040",
+    "district_id": "11.18.06",
+    "name": "Ujong Leubat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2041",
+    "district_id": "11.18.06",
+    "name": "Alue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2042",
+    "district_id": "11.18.06",
+    "name": "Tanoh Mirah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.06.2043",
+    "district_id": "11.18.06",
+    "name": "Paru Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2001",
+    "district_id": "11.18.07",
+    "name": "Keude Panteraja",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2002",
+    "district_id": "11.18.07",
+    "name": "Tu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2003",
+    "district_id": "11.18.07",
+    "name": "Hagu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2004",
+    "district_id": "11.18.07",
+    "name": "Muka Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2005",
+    "district_id": "11.18.07",
+    "name": "Lhok Puuk",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2006",
+    "district_id": "11.18.07",
+    "name": "Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2007",
+    "district_id": "11.18.07",
+    "name": "Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2008",
+    "district_id": "11.18.07",
+    "name": "Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2009",
+    "district_id": "11.18.07",
+    "name": "Peurade",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.07.2010",
+    "district_id": "11.18.07",
+    "name": "Reudeup",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2001",
+    "district_id": "11.18.08",
+    "name": "Sagoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2002",
+    "district_id": "11.18.08",
+    "name": "Mee Peuduek",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2003",
+    "district_id": "11.18.08",
+    "name": "Mesjid Peuduek",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2004",
+    "district_id": "11.18.08",
+    "name": "Tuha",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2005",
+    "district_id": "11.18.08",
+    "name": "Reuseb",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2006",
+    "district_id": "11.18.08",
+    "name": "Dee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2007",
+    "district_id": "11.18.08",
+    "name": "Panton Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2008",
+    "district_id": "11.18.08",
+    "name": "Deah Teumanah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2009",
+    "district_id": "11.18.08",
+    "name": "Tampui",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2010",
+    "district_id": "11.18.08",
+    "name": "Keude Trienggadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2011",
+    "district_id": "11.18.08",
+    "name": "Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2012",
+    "district_id": "11.18.08",
+    "name": "Paya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2013",
+    "district_id": "11.18.08",
+    "name": "Meue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2014",
+    "district_id": "11.18.08",
+    "name": "Mesjid Trienggadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2015",
+    "district_id": "11.18.08",
+    "name": "Teungkluet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2016",
+    "district_id": "11.18.08",
+    "name": "Matang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2017",
+    "district_id": "11.18.08",
+    "name": "Deah Ujong Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2018",
+    "district_id": "11.18.08",
+    "name": "Peulandok Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2019",
+    "district_id": "11.18.08",
+    "name": "Peulandok Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2020",
+    "district_id": "11.18.08",
+    "name": "Deah Pangwa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2021",
+    "district_id": "11.18.08",
+    "name": "Meucat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2022",
+    "district_id": "11.18.08",
+    "name": "Cot Makaso",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2023",
+    "district_id": "11.18.08",
+    "name": "Buloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2024",
+    "district_id": "11.18.08",
+    "name": "Mee Pangwa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2025",
+    "district_id": "11.18.08",
+    "name": "Kuta Pangwa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2026",
+    "district_id": "11.18.08",
+    "name": "Cot Lheue Rheng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.18.08.2027",
+    "district_id": "11.18.08",
+    "name": "Rawasari",
+    "type": "DESA"
+  }
+]

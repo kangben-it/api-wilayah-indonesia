@@ -1,0 +1,998 @@
+[
+  {
+    "id": "92.12.01.2001",
+    "district_id": "92.12.01",
+    "name": "Iraiweri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2002",
+    "district_id": "92.12.01",
+    "name": "Igembai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2003",
+    "district_id": "92.12.01",
+    "name": "Imbai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2004",
+    "district_id": "92.12.01",
+    "name": "Suteibey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2005",
+    "district_id": "92.12.01",
+    "name": "Susi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2006",
+    "district_id": "92.12.01",
+    "name": "Ullong",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2007",
+    "district_id": "92.12.01",
+    "name": "Mentubey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2008",
+    "district_id": "92.12.01",
+    "name": "Ayaubey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2009",
+    "district_id": "92.12.01",
+    "name": "Testega Pamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2010",
+    "district_id": "92.12.01",
+    "name": "Pamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2011",
+    "district_id": "92.12.01",
+    "name": "Uper",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2012",
+    "district_id": "92.12.01",
+    "name": "Hungku",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2013",
+    "district_id": "92.12.01",
+    "name": "Srubey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2001",
+    "district_id": "92.12.02",
+    "name": "Sibiogud",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2002",
+    "district_id": "92.12.02",
+    "name": "Krobut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2003",
+    "district_id": "92.12.02",
+    "name": "Tubyam",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2004",
+    "district_id": "92.12.02",
+    "name": "Sakumi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2005",
+    "district_id": "92.12.02",
+    "name": "Tombrok",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2006",
+    "district_id": "92.12.02",
+    "name": "Sisrang",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2007",
+    "district_id": "92.12.02",
+    "name": "Ngisrow",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2008",
+    "district_id": "92.12.02",
+    "name": "Itkau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2001",
+    "district_id": "92.12.03",
+    "name": "Inyebuow",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2002",
+    "district_id": "92.12.03",
+    "name": "Imbeisba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2003",
+    "district_id": "92.12.03",
+    "name": "Usti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2004",
+    "district_id": "92.12.03",
+    "name": "Memti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2005",
+    "district_id": "92.12.03",
+    "name": "Koney",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.03.2006",
+    "district_id": "92.12.03",
+    "name": "Membey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2001",
+    "district_id": "92.12.04",
+    "name": "Sururey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2002",
+    "district_id": "92.12.04",
+    "name": "Tuhubea",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2003",
+    "district_id": "92.12.04",
+    "name": "Sungedes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2004",
+    "district_id": "92.12.04",
+    "name": "Inyaub",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2005",
+    "district_id": "92.12.04",
+    "name": "Saugemeba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2006",
+    "district_id": "92.12.04",
+    "name": "Kobrey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2007",
+    "district_id": "92.12.04",
+    "name": "Kopo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2008",
+    "district_id": "92.12.04",
+    "name": "Dugahani",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2009",
+    "district_id": "92.12.04",
+    "name": "Tomstera",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2010",
+    "district_id": "92.12.04",
+    "name": "Kostera",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2011",
+    "district_id": "92.12.04",
+    "name": "Anuk",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.04.2012",
+    "district_id": "92.12.04",
+    "name": "Menesrij",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2001",
+    "district_id": "92.12.05",
+    "name": "Iranmeba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2002",
+    "district_id": "92.12.05",
+    "name": "Cirnohu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2003",
+    "district_id": "92.12.05",
+    "name": "Dibetik",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2004",
+    "district_id": "92.12.05",
+    "name": "Danmou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2005",
+    "district_id": "92.12.05",
+    "name": "Miseda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2006",
+    "district_id": "92.12.05",
+    "name": "Sirgemeh",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2007",
+    "district_id": "92.12.05",
+    "name": "Sneremer",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2008",
+    "district_id": "92.12.05",
+    "name": "Kusmenau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2009",
+    "district_id": "92.12.05",
+    "name": "Cigera",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2010",
+    "district_id": "92.12.05",
+    "name": "Tomstir",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2011",
+    "district_id": "92.12.05",
+    "name": "Gedeira",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2012",
+    "district_id": "92.12.05",
+    "name": "Demdamei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2013",
+    "district_id": "92.12.05",
+    "name": "Dugrimog",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.05.2014",
+    "district_id": "92.12.05",
+    "name": "Disra",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2001",
+    "district_id": "92.12.06",
+    "name": "Genyu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2002",
+    "district_id": "92.12.06",
+    "name": "Ansum",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2003",
+    "district_id": "92.12.06",
+    "name": "Deurohu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2004",
+    "district_id": "92.12.06",
+    "name": "Horeta",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2005",
+    "district_id": "92.12.06",
+    "name": "Ubeisa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2006",
+    "district_id": "92.12.06",
+    "name": "Taige",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2007",
+    "district_id": "92.12.06",
+    "name": "Tridaga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2008",
+    "district_id": "92.12.06",
+    "name": "Disura",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2009",
+    "district_id": "92.12.06",
+    "name": "Awigau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2010",
+    "district_id": "92.12.06",
+    "name": "Siskedowo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.06.2011",
+    "district_id": "92.12.06",
+    "name": "Irbos",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2001",
+    "district_id": "92.12.07",
+    "name": "Catubouw",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2002",
+    "district_id": "92.12.07",
+    "name": "Bigwaimud",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2003",
+    "district_id": "92.12.07",
+    "name": "Mihou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2004",
+    "district_id": "92.12.07",
+    "name": "Kaungwam",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2005",
+    "district_id": "92.12.07",
+    "name": "Aiga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2006",
+    "district_id": "92.12.07",
+    "name": "Imandrigo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2007",
+    "district_id": "92.12.07",
+    "name": "Unti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2008",
+    "district_id": "92.12.07",
+    "name": "Ndabouw",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2009",
+    "district_id": "92.12.07",
+    "name": "Sugemeh",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2010",
+    "district_id": "92.12.07",
+    "name": "Manggesuk",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2011",
+    "district_id": "92.12.07",
+    "name": "Ijigreg",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2012",
+    "district_id": "92.12.07",
+    "name": "Jim",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2013",
+    "district_id": "92.12.07",
+    "name": "Slomiou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2014",
+    "district_id": "92.12.07",
+    "name": "Binggrayud",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2015",
+    "district_id": "92.12.07",
+    "name": "Minmo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2016",
+    "district_id": "92.12.07",
+    "name": "Mihij",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2017",
+    "district_id": "92.12.07",
+    "name": "Soudin",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2018",
+    "district_id": "92.12.07",
+    "name": "Timtouw",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2019",
+    "district_id": "92.12.07",
+    "name": "Idemai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2020",
+    "district_id": "92.12.07",
+    "name": "Mieycomti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.07.2021",
+    "district_id": "92.12.07",
+    "name": "Coijut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2001",
+    "district_id": "92.12.08",
+    "name": "Testega",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2002",
+    "district_id": "92.12.08",
+    "name": "Meidogda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2003",
+    "district_id": "92.12.08",
+    "name": "Meifekeni",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2004",
+    "district_id": "92.12.08",
+    "name": "Demuora",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2005",
+    "district_id": "92.12.08",
+    "name": "Jigja",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2006",
+    "district_id": "92.12.08",
+    "name": "Meigehenawu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2007",
+    "district_id": "92.12.08",
+    "name": "Morumfeyi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2008",
+    "district_id": "92.12.08",
+    "name": "Iba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2009",
+    "district_id": "92.12.08",
+    "name": "Meimersa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2010",
+    "district_id": "92.12.08",
+    "name": "Meifowoska",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2011",
+    "district_id": "92.12.08",
+    "name": "Meijugjijigja",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2012",
+    "district_id": "92.12.08",
+    "name": "Meifokeda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2013",
+    "district_id": "92.12.08",
+    "name": "Dumbrey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2014",
+    "district_id": "92.12.08",
+    "name": "Meksi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.08.2015",
+    "district_id": "92.12.08",
+    "name": "Asai Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2001",
+    "district_id": "92.12.09",
+    "name": "Minyambouw",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2002",
+    "district_id": "92.12.09",
+    "name": "Demaisi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2003",
+    "district_id": "92.12.09",
+    "name": "Awaibehel",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2004",
+    "district_id": "92.12.09",
+    "name": "Indabri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2005",
+    "district_id": "92.12.09",
+    "name": "Coisi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2006",
+    "district_id": "92.12.09",
+    "name": "Imbenti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2007",
+    "district_id": "92.12.09",
+    "name": "Sigim",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2008",
+    "district_id": "92.12.09",
+    "name": "Imbonggun",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2009",
+    "district_id": "92.12.09",
+    "name": "Aduer",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2010",
+    "district_id": "92.12.09",
+    "name": "Ugjeheg",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2011",
+    "district_id": "92.12.09",
+    "name": "Micadiwor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2012",
+    "district_id": "92.12.09",
+    "name": "Ungga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2013",
+    "district_id": "92.12.09",
+    "name": "Mitiede",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2014",
+    "district_id": "92.12.09",
+    "name": "Simerbei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2015",
+    "district_id": "92.12.09",
+    "name": "Driye",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2016",
+    "district_id": "92.12.09",
+    "name": "Wamminda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2017",
+    "district_id": "92.12.09",
+    "name": "Umpug",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2018",
+    "district_id": "92.12.09",
+    "name": "Handuk",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2019",
+    "district_id": "92.12.09",
+    "name": "Ninsimoi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2020",
+    "district_id": "92.12.09",
+    "name": "Anggra",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2021",
+    "district_id": "92.12.09",
+    "name": "Inggramhim",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2022",
+    "district_id": "92.12.09",
+    "name": "Mbingma",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2023",
+    "district_id": "92.12.09",
+    "name": "Injuar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2024",
+    "district_id": "92.12.09",
+    "name": "Apul",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2025",
+    "district_id": "92.12.09",
+    "name": "Memangker",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2026",
+    "district_id": "92.12.09",
+    "name": "Mainda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2027",
+    "district_id": "92.12.09",
+    "name": "Imbrekti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2028",
+    "district_id": "92.12.09",
+    "name": "Ipingosi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2029",
+    "district_id": "92.12.09",
+    "name": "Pinyausi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2030",
+    "district_id": "92.12.09",
+    "name": "Sinaltousi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2031",
+    "district_id": "92.12.09",
+    "name": "Misangoisi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2032",
+    "district_id": "92.12.09",
+    "name": "Smanggei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2033",
+    "district_id": "92.12.09",
+    "name": "Nimbiau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2034",
+    "district_id": "92.12.09",
+    "name": "Bingwoyut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2035",
+    "district_id": "92.12.09",
+    "name": "Ayau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2036",
+    "district_id": "92.12.09",
+    "name": "Andang",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.09.2039",
+    "district_id": "92.12.09",
+    "name": "Miconti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2001",
+    "district_id": "92.12.10",
+    "name": "Sopnyai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2002",
+    "district_id": "92.12.10",
+    "name": "Ikimabou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2003",
+    "district_id": "92.12.10",
+    "name": "Manggot",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2004",
+    "district_id": "92.12.10",
+    "name": "Kisap",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2005",
+    "district_id": "92.12.10",
+    "name": "Nungkimor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2006",
+    "district_id": "92.12.10",
+    "name": "Cangoisi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2007",
+    "district_id": "92.12.10",
+    "name": "Minyeimemud",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2008",
+    "district_id": "92.12.10",
+    "name": "Penibut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2009",
+    "district_id": "92.12.10",
+    "name": "Demunti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2010",
+    "district_id": "92.12.10",
+    "name": "Gueipimbai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2011",
+    "district_id": "92.12.10",
+    "name": "Tigaucomti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2012",
+    "district_id": "92.12.10",
+    "name": "Urwong",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2013",
+    "district_id": "92.12.10",
+    "name": "Aryon",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2014",
+    "district_id": "92.12.10",
+    "name": "Punggung",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2015",
+    "district_id": "92.12.10",
+    "name": "Humeisi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2016",
+    "district_id": "92.12.10",
+    "name": "Haktiebou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2017",
+    "district_id": "92.12.10",
+    "name": "Kwok Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2018",
+    "district_id": "92.12.10",
+    "name": "Kwok Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2019",
+    "district_id": "92.12.10",
+    "name": "Kwaiyehep",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2020",
+    "district_id": "92.12.10",
+    "name": "Mbegau",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2021",
+    "district_id": "92.12.10",
+    "name": "Ngimoubri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2022",
+    "district_id": "92.12.10",
+    "name": "Liehak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2023",
+    "district_id": "92.12.10",
+    "name": "Umcep",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2024",
+    "district_id": "92.12.10",
+    "name": "Tumbeibehei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2025",
+    "district_id": "92.12.10",
+    "name": "Tingwoikiou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2026",
+    "district_id": "92.12.10",
+    "name": "Guwei Uti",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2027",
+    "district_id": "92.12.10",
+    "name": "Ntap",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2028",
+    "district_id": "92.12.10",
+    "name": "Monut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.10.2029",
+    "district_id": "92.12.10",
+    "name": "Mbrande",
+    "type": "DESA"
+  }
+]

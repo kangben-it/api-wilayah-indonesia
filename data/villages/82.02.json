@@ -1,0 +1,368 @@
+[
+  {
+    "id": "82.02.01.2004",
+    "district_id": "82.02.01",
+    "name": "Nusliko",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2005",
+    "district_id": "82.02.01",
+    "name": "Were",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2020",
+    "district_id": "82.02.01",
+    "name": "Fidy Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2021",
+    "district_id": "82.02.01",
+    "name": "Sidanga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2022",
+    "district_id": "82.02.01",
+    "name": "Nurweda",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2023",
+    "district_id": "82.02.01",
+    "name": "Wedana",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.01.2024",
+    "district_id": "82.02.01",
+    "name": "Goeng",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.02.2004",
+    "district_id": "82.02.02",
+    "name": "Wailegi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.02.2005",
+    "district_id": "82.02.02",
+    "name": "Kipai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.02.2006",
+    "district_id": "82.02.02",
+    "name": "Yeisowo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.02.2012",
+    "district_id": "82.02.02",
+    "name": "Yondeliu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.02.2013",
+    "district_id": "82.02.02",
+    "name": "Baka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2001",
+    "district_id": "82.02.03",
+    "name": "Kapaleo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2002",
+    "district_id": "82.02.03",
+    "name": "Kacepi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2003",
+    "district_id": "82.02.03",
+    "name": "Sanafi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2004",
+    "district_id": "82.02.03",
+    "name": "Umera",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2005",
+    "district_id": "82.02.03",
+    "name": "Umiyal",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2006",
+    "district_id": "82.02.03",
+    "name": "Sonof Kacepo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2007",
+    "district_id": "82.02.03",
+    "name": "Elfanun",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.03.2008",
+    "district_id": "82.02.03",
+    "name": "Yang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2001",
+    "district_id": "82.02.04",
+    "name": "Gemaf",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2002",
+    "district_id": "82.02.04",
+    "name": "Sagea",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2003",
+    "district_id": "82.02.04",
+    "name": "Fritu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2004",
+    "district_id": "82.02.04",
+    "name": "Waleh",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2008",
+    "district_id": "82.02.04",
+    "name": "Kiya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2001",
+    "district_id": "82.02.05",
+    "name": "Tilope",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2002",
+    "district_id": "82.02.05",
+    "name": "Sosowomo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2003",
+    "district_id": "82.02.05",
+    "name": "Loleo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2004",
+    "district_id": "82.02.05",
+    "name": "Wairoro Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2005",
+    "district_id": "82.02.05",
+    "name": "Kluting Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2006",
+    "district_id": "82.02.05",
+    "name": "Lembah Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2007",
+    "district_id": "82.02.05",
+    "name": "Sumber Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.05.2008",
+    "district_id": "82.02.05",
+    "name": "Air Salobar",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2001",
+    "district_id": "82.02.06",
+    "name": "Gemia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2002",
+    "district_id": "82.02.06",
+    "name": "Tepeleo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2006",
+    "district_id": "82.02.06",
+    "name": "Bilifitu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2007",
+    "district_id": "82.02.06",
+    "name": "Tepeleo Batudua",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2008",
+    "district_id": "82.02.06",
+    "name": "Pantura Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2011",
+    "district_id": "82.02.06",
+    "name": "Maliforo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2001",
+    "district_id": "82.02.07",
+    "name": "Lililef Waibulan",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2002",
+    "district_id": "82.02.07",
+    "name": "Lililef Sawai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2003",
+    "district_id": "82.02.07",
+    "name": "Sawai Itepo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2004",
+    "district_id": "82.02.07",
+    "name": "Kobe",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2005",
+    "district_id": "82.02.07",
+    "name": "Woekob",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2006",
+    "district_id": "82.02.07",
+    "name": "Woejerana",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.07.2007",
+    "district_id": "82.02.07",
+    "name": "Kulo Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.08.2001",
+    "district_id": "82.02.08",
+    "name": "Banemo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.08.2002",
+    "district_id": "82.02.08",
+    "name": "Bobane Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.08.2003",
+    "district_id": "82.02.08",
+    "name": "Bobane Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.08.2004",
+    "district_id": "82.02.08",
+    "name": "Mareala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.08.2005",
+    "district_id": "82.02.08",
+    "name": "Sibenpope",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.09.2001",
+    "district_id": "82.02.09",
+    "name": "Dotte",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.09.2002",
+    "district_id": "82.02.09",
+    "name": "Messa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.09.2003",
+    "district_id": "82.02.09",
+    "name": "Kotalo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.09.2004",
+    "district_id": "82.02.09",
+    "name": "Yeke",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2001",
+    "district_id": "82.02.10",
+    "name": "Sakam",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2002",
+    "district_id": "82.02.10",
+    "name": "Nursifa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2003",
+    "district_id": "82.02.10",
+    "name": "Damuli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2004",
+    "district_id": "82.02.10",
+    "name": "Peniti",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2005",
+    "district_id": "82.02.10",
+    "name": "Masure",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.10.2006",
+    "district_id": "82.02.10",
+    "name": "Palo",
+    "type": "DESA"
+  }
+]

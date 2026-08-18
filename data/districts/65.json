@@ -1,0 +1,277 @@
+[
+  {
+    "id": "65.01.01",
+    "regency_id": "65.01",
+    "name": "Tanjung Palas"
+  },
+  {
+    "id": "65.01.02",
+    "regency_id": "65.01",
+    "name": "Tanjung Palas Barat"
+  },
+  {
+    "id": "65.01.03",
+    "regency_id": "65.01",
+    "name": "Tanjung Palas Utara"
+  },
+  {
+    "id": "65.01.04",
+    "regency_id": "65.01",
+    "name": "Tanjung Palas Timur"
+  },
+  {
+    "id": "65.01.05",
+    "regency_id": "65.01",
+    "name": "Tanjung Selor"
+  },
+  {
+    "id": "65.01.06",
+    "regency_id": "65.01",
+    "name": "Tanjung Palas Tengah"
+  },
+  {
+    "id": "65.01.07",
+    "regency_id": "65.01",
+    "name": "Peso"
+  },
+  {
+    "id": "65.01.08",
+    "regency_id": "65.01",
+    "name": "Peso Hilir"
+  },
+  {
+    "id": "65.01.09",
+    "regency_id": "65.01",
+    "name": "Sekatak"
+  },
+  {
+    "id": "65.01.10",
+    "regency_id": "65.01",
+    "name": "Bunyu"
+  },
+  {
+    "id": "65.02.01",
+    "regency_id": "65.02",
+    "name": "Mentarang"
+  },
+  {
+    "id": "65.02.02",
+    "regency_id": "65.02",
+    "name": "Malinau Kota"
+  },
+  {
+    "id": "65.02.03",
+    "regency_id": "65.02",
+    "name": "Pujungan"
+  },
+  {
+    "id": "65.02.04",
+    "regency_id": "65.02",
+    "name": "Kayan Hilir"
+  },
+  {
+    "id": "65.02.05",
+    "regency_id": "65.02",
+    "name": "Kayan Hulu"
+  },
+  {
+    "id": "65.02.06",
+    "regency_id": "65.02",
+    "name": "Malinau Selatan"
+  },
+  {
+    "id": "65.02.07",
+    "regency_id": "65.02",
+    "name": "Malinau Utara"
+  },
+  {
+    "id": "65.02.08",
+    "regency_id": "65.02",
+    "name": "Malinau Barat"
+  },
+  {
+    "id": "65.02.09",
+    "regency_id": "65.02",
+    "name": "Sungai Boh"
+  },
+  {
+    "id": "65.02.10",
+    "regency_id": "65.02",
+    "name": "Kayan Selatan"
+  },
+  {
+    "id": "65.02.11",
+    "regency_id": "65.02",
+    "name": "Bahau Hulu"
+  },
+  {
+    "id": "65.02.12",
+    "regency_id": "65.02",
+    "name": "Mentarang Hulu"
+  },
+  {
+    "id": "65.02.13",
+    "regency_id": "65.02",
+    "name": "Malinau Selatan Hilir"
+  },
+  {
+    "id": "65.02.14",
+    "regency_id": "65.02",
+    "name": "Malinau Selatan Hulu"
+  },
+  {
+    "id": "65.02.15",
+    "regency_id": "65.02",
+    "name": "Sungai Tubu"
+  },
+  {
+    "id": "65.03.01",
+    "regency_id": "65.03",
+    "name": "Sebatik"
+  },
+  {
+    "id": "65.03.02",
+    "regency_id": "65.03",
+    "name": "Nunukan"
+  },
+  {
+    "id": "65.03.03",
+    "regency_id": "65.03",
+    "name": "Sembakung"
+  },
+  {
+    "id": "65.03.04",
+    "regency_id": "65.03",
+    "name": "Lumbis"
+  },
+  {
+    "id": "65.03.05",
+    "regency_id": "65.03",
+    "name": "Krayan"
+  },
+  {
+    "id": "65.03.06",
+    "regency_id": "65.03",
+    "name": "Sebuku"
+  },
+  {
+    "id": "65.03.07",
+    "regency_id": "65.03",
+    "name": "Krayan Selatan"
+  },
+  {
+    "id": "65.03.08",
+    "regency_id": "65.03",
+    "name": "Sebatik Barat"
+  },
+  {
+    "id": "65.03.09",
+    "regency_id": "65.03",
+    "name": "Nunukan Selatan"
+  },
+  {
+    "id": "65.03.10",
+    "regency_id": "65.03",
+    "name": "Sebatik Timur"
+  },
+  {
+    "id": "65.03.11",
+    "regency_id": "65.03",
+    "name": "Sebatik Utara"
+  },
+  {
+    "id": "65.03.12",
+    "regency_id": "65.03",
+    "name": "Sebatik Tengah"
+  },
+  {
+    "id": "65.03.13",
+    "regency_id": "65.03",
+    "name": "Sei Menggaris"
+  },
+  {
+    "id": "65.03.14",
+    "regency_id": "65.03",
+    "name": "Tulin Onsoi"
+  },
+  {
+    "id": "65.03.15",
+    "regency_id": "65.03",
+    "name": "Lumbis Ogong"
+  },
+  {
+    "id": "65.03.16",
+    "regency_id": "65.03",
+    "name": "Sembakung Atulai"
+  },
+  {
+    "id": "65.03.17",
+    "regency_id": "65.03",
+    "name": "Krayan Tengah"
+  },
+  {
+    "id": "65.03.18",
+    "regency_id": "65.03",
+    "name": "Krayan Timur"
+  },
+  {
+    "id": "65.03.19",
+    "regency_id": "65.03",
+    "name": "Krayan Barat"
+  },
+  {
+    "id": "65.03.20",
+    "regency_id": "65.03",
+    "name": "Lumbis Pansiangan"
+  },
+  {
+    "id": "65.03.21",
+    "regency_id": "65.03",
+    "name": "Lumbis Hulu"
+  },
+  {
+    "id": "65.04.01",
+    "regency_id": "65.04",
+    "name": "Sesayap"
+  },
+  {
+    "id": "65.04.02",
+    "regency_id": "65.04",
+    "name": "Sesayap Hilir"
+  },
+  {
+    "id": "65.04.03",
+    "regency_id": "65.04",
+    "name": "Tana Lia"
+  },
+  {
+    "id": "65.04.04",
+    "regency_id": "65.04",
+    "name": "Betayau"
+  },
+  {
+    "id": "65.04.05",
+    "regency_id": "65.04",
+    "name": "Muruk Rian"
+  },
+  {
+    "id": "65.71.01",
+    "regency_id": "65.71",
+    "name": "Tarakan Barat"
+  },
+  {
+    "id": "65.71.02",
+    "regency_id": "65.71",
+    "name": "Tarakan Tengah"
+  },
+  {
+    "id": "65.71.03",
+    "regency_id": "65.71",
+    "name": "Tarakan Timur"
+  },
+  {
+    "id": "65.71.04",
+    "regency_id": "65.71",
+    "name": "Tarakan Utara"
+  }
+]

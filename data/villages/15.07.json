@@ -1,0 +1,560 @@
+[
+  {
+    "id": "15.07.01.1010",
+    "district_id": "15.07.01",
+    "name": "Muara Sabak Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.01.1013",
+    "district_id": "15.07.01",
+    "name": "Muara Sabak Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.01.2001",
+    "district_id": "15.07.01",
+    "name": "Alang-Alang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2002",
+    "district_id": "15.07.01",
+    "name": "Lambur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2004",
+    "district_id": "15.07.01",
+    "name": "Simbur Naik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2011",
+    "district_id": "15.07.01",
+    "name": "Lambur I",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2012",
+    "district_id": "15.07.01",
+    "name": "Lambur II",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2014",
+    "district_id": "15.07.01",
+    "name": "Kota Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2015",
+    "district_id": "15.07.01",
+    "name": "Siau Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2016",
+    "district_id": "15.07.01",
+    "name": "Sungai Ular",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2017",
+    "district_id": "15.07.01",
+    "name": "Kota Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2018",
+    "district_id": "15.07.01",
+    "name": "Kuala Simbur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.1001",
+    "district_id": "15.07.02",
+    "name": "Nipah Panjang I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.02.1002",
+    "district_id": "15.07.02",
+    "name": "Nipah Panjang II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.02.2003",
+    "district_id": "15.07.02",
+    "name": "Simpang Jelita",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2004",
+    "district_id": "15.07.02",
+    "name": "Simpang Datuk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2005",
+    "district_id": "15.07.02",
+    "name": "Teluk Kijing",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2006",
+    "district_id": "15.07.02",
+    "name": "Sungai Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2007",
+    "district_id": "15.07.02",
+    "name": "Pemusiran",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2008",
+    "district_id": "15.07.02",
+    "name": "Sungai Tering",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2009",
+    "district_id": "15.07.02",
+    "name": "Sungai Jeruk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.02.2010",
+    "district_id": "15.07.02",
+    "name": "Bunga Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.1002",
+    "district_id": "15.07.03",
+    "name": "Mendahara Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.03.2001",
+    "district_id": "15.07.03",
+    "name": "Pangkal Duri",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2003",
+    "district_id": "15.07.03",
+    "name": "Mendahara Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2007",
+    "district_id": "15.07.03",
+    "name": "Lagan Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2014",
+    "district_id": "15.07.03",
+    "name": "Sinar Kalimantan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2015",
+    "district_id": "15.07.03",
+    "name": "Sungai Tawar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2016",
+    "district_id": "15.07.03",
+    "name": "Bakti Idaman",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2017",
+    "district_id": "15.07.03",
+    "name": "Merbau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.03.2018",
+    "district_id": "15.07.03",
+    "name": "Pangkal Duri Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.1006",
+    "district_id": "15.07.04",
+    "name": "Bandar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.04.2004",
+    "district_id": "15.07.04",
+    "name": "Rantau Rasau I",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2005",
+    "district_id": "15.07.04",
+    "name": "Rantau Rasau II",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2007",
+    "district_id": "15.07.04",
+    "name": "Harapan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2008",
+    "district_id": "15.07.04",
+    "name": "Bangun Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2009",
+    "district_id": "15.07.04",
+    "name": "Rantau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2011",
+    "district_id": "15.07.04",
+    "name": "Sungai Dusun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2013",
+    "district_id": "15.07.04",
+    "name": "Karya Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2014",
+    "district_id": "15.07.04",
+    "name": "Marga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2015",
+    "district_id": "15.07.04",
+    "name": "Pematang Mayan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2016",
+    "district_id": "15.07.04",
+    "name": "Tri Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.1005",
+    "district_id": "15.07.05",
+    "name": "Sungai Lokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.05.2001",
+    "district_id": "15.07.05",
+    "name": "Sungai Sayang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2002",
+    "district_id": "15.07.05",
+    "name": "Air Hitam Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2003",
+    "district_id": "15.07.05",
+    "name": "Sungai Jambat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2004",
+    "district_id": "15.07.05",
+    "name": "Sungai Itik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2006",
+    "district_id": "15.07.05",
+    "name": "Sungai Benuh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2007",
+    "district_id": "15.07.05",
+    "name": "Sungai Cemara",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2008",
+    "district_id": "15.07.05",
+    "name": "Remau Baku Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2009",
+    "district_id": "15.07.05",
+    "name": "Labuhan Pering",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.1006",
+    "district_id": "15.07.06",
+    "name": "Rantau Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.06.2003",
+    "district_id": "15.07.06",
+    "name": "Kuala Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2004",
+    "district_id": "15.07.06",
+    "name": "Koto Kandis Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2005",
+    "district_id": "15.07.06",
+    "name": "Koto Kandis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2007",
+    "district_id": "15.07.06",
+    "name": "Sido Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2008",
+    "district_id": "15.07.06",
+    "name": "Catur Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2009",
+    "district_id": "15.07.06",
+    "name": "Jati Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.07.1001",
+    "district_id": "15.07.07",
+    "name": "Kampung Singkep",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1002",
+    "district_id": "15.07.07",
+    "name": "Nibung Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1003",
+    "district_id": "15.07.07",
+    "name": "Rano",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1004",
+    "district_id": "15.07.07",
+    "name": "Talang Babat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1005",
+    "district_id": "15.07.07",
+    "name": "Parit Culum I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1006",
+    "district_id": "15.07.07",
+    "name": "Parit Culum II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.07.1007",
+    "district_id": "15.07.07",
+    "name": "Teluk Dawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.08.1001",
+    "district_id": "15.07.08",
+    "name": "Kampung Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.08.1002",
+    "district_id": "15.07.08",
+    "name": "Tanjung Solok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.08.2003",
+    "district_id": "15.07.08",
+    "name": "Teluk Majelis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.08.2004",
+    "district_id": "15.07.08",
+    "name": "Kuala Lagan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.08.2005",
+    "district_id": "15.07.08",
+    "name": "Majelis Hidayah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.08.2006",
+    "district_id": "15.07.08",
+    "name": "Manunggal Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.1001",
+    "district_id": "15.07.09",
+    "name": "Simpang Tuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.09.2002",
+    "district_id": "15.07.09",
+    "name": "Pematang Rahim",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.2003",
+    "district_id": "15.07.09",
+    "name": "Sungai Toman",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.2004",
+    "district_id": "15.07.09",
+    "name": "Bukit Tempurung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.2005",
+    "district_id": "15.07.09",
+    "name": "Sinar Wajo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.2006",
+    "district_id": "15.07.09",
+    "name": "Sungai Beras",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.09.2007",
+    "district_id": "15.07.09",
+    "name": "Mencolok",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.1010",
+    "district_id": "15.07.10",
+    "name": "Pandan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.10.2001",
+    "district_id": "15.07.10",
+    "name": "Lagan Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2002",
+    "district_id": "15.07.10",
+    "name": "Lagan Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2004",
+    "district_id": "15.07.10",
+    "name": "Pandan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2005",
+    "district_id": "15.07.10",
+    "name": "Pandan Lagan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2006",
+    "district_id": "15.07.10",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2007",
+    "district_id": "15.07.10",
+    "name": "Kota Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2008",
+    "district_id": "15.07.10",
+    "name": "Rantau Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2009",
+    "district_id": "15.07.10",
+    "name": "Pandan Sejahtera",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.1001",
+    "district_id": "15.07.11",
+    "name": "Simpang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.11.2002",
+    "district_id": "15.07.11",
+    "name": "Rantau Rasau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2003",
+    "district_id": "15.07.11",
+    "name": "Rantau Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2004",
+    "district_id": "15.07.11",
+    "name": "Sungai Rambut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2005",
+    "district_id": "15.07.11",
+    "name": "Rawasari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2006",
+    "district_id": "15.07.11",
+    "name": "Telaga Limo",
+    "type": "DESA"
+  }
+]

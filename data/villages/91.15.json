@@ -1,0 +1,602 @@
+[
+  {
+    "id": "91.15.01.2003",
+    "district_id": "91.15.01",
+    "name": "Waren I",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2004",
+    "district_id": "91.15.01",
+    "name": "Waren II",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2011",
+    "district_id": "91.15.01",
+    "name": "Nonomi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2020",
+    "district_id": "91.15.01",
+    "name": "Sarafambai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2025",
+    "district_id": "91.15.01",
+    "name": "Uri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2027",
+    "district_id": "91.15.01",
+    "name": "Batu Zaman",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.01.2029",
+    "district_id": "91.15.01",
+    "name": "Sawara Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2006",
+    "district_id": "91.15.03",
+    "name": "Saurisirami",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2009",
+    "district_id": "91.15.03",
+    "name": "Sinonde",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2013",
+    "district_id": "91.15.03",
+    "name": "Kali Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2014",
+    "district_id": "91.15.03",
+    "name": "Sirami",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2015",
+    "district_id": "91.15.03",
+    "name": "Bunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2016",
+    "district_id": "91.15.03",
+    "name": "Kowogi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2017",
+    "district_id": "91.15.03",
+    "name": "Emauri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2018",
+    "district_id": "91.15.03",
+    "name": "Obutay",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.03.2019",
+    "district_id": "91.15.03",
+    "name": "Wairo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2002",
+    "district_id": "91.15.07",
+    "name": "Fafado",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2003",
+    "district_id": "91.15.07",
+    "name": "Wobari",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2013",
+    "district_id": "91.15.07",
+    "name": "Aimasi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2014",
+    "district_id": "91.15.07",
+    "name": "Mui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2015",
+    "district_id": "91.15.07",
+    "name": "Waghare",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2016",
+    "district_id": "91.15.07",
+    "name": "Ghaiwando",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2017",
+    "district_id": "91.15.07",
+    "name": "Womorisi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2018",
+    "district_id": "91.15.07",
+    "name": "Orambin",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2019",
+    "district_id": "91.15.07",
+    "name": "Unareu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2020",
+    "district_id": "91.15.07",
+    "name": "Ghaiwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2001",
+    "district_id": "91.15.08",
+    "name": "Ureifaisei I/Sanggae",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2002",
+    "district_id": "91.15.08",
+    "name": "Urfas II",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2003",
+    "district_id": "91.15.08",
+    "name": "Nubuai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2004",
+    "district_id": "91.15.08",
+    "name": "Ureifaisei III/ Paradoi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2005",
+    "district_id": "91.15.08",
+    "name": "Apainabo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2006",
+    "district_id": "91.15.08",
+    "name": "Mambui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2007",
+    "district_id": "91.15.08",
+    "name": "Khemoon Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2008",
+    "district_id": "91.15.08",
+    "name": "Usaiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2009",
+    "district_id": "91.15.08",
+    "name": "Paradoi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2010",
+    "district_id": "91.15.08",
+    "name": "Ghoyui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2011",
+    "district_id": "91.15.08",
+    "name": "Rorisi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.08.2012",
+    "district_id": "91.15.08",
+    "name": "Ronggaiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2002",
+    "district_id": "91.15.09",
+    "name": "Somiangga",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2004",
+    "district_id": "91.15.09",
+    "name": "Toire",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2005",
+    "district_id": "91.15.09",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2006",
+    "district_id": "91.15.09",
+    "name": "Demisa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2008",
+    "district_id": "91.15.09",
+    "name": "Otodemo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2011",
+    "district_id": "91.15.09",
+    "name": "Awaso",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2012",
+    "district_id": "91.15.09",
+    "name": "Firo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2001",
+    "district_id": "91.15.10",
+    "name": "Dairi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2002",
+    "district_id": "91.15.10",
+    "name": "Spoiri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2003",
+    "district_id": "91.15.10",
+    "name": "Sooh",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2004",
+    "district_id": "91.15.10",
+    "name": "Dirou",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2005",
+    "district_id": "91.15.10",
+    "name": "Diwah",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2006",
+    "district_id": "91.15.10",
+    "name": "Kuaisa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2007",
+    "district_id": "91.15.10",
+    "name": "Aru Antu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2008",
+    "district_id": "91.15.10",
+    "name": "Foira",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2009",
+    "district_id": "91.15.10",
+    "name": "Kawari",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.10.2010",
+    "district_id": "91.15.10",
+    "name": "Wafuka",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2001",
+    "district_id": "91.15.11",
+    "name": "Botawa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2002",
+    "district_id": "91.15.11",
+    "name": "Sowiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2003",
+    "district_id": "91.15.11",
+    "name": "Baino Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2004",
+    "district_id": "91.15.11",
+    "name": "Nau",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2005",
+    "district_id": "91.15.11",
+    "name": "Rasawa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2006",
+    "district_id": "91.15.11",
+    "name": "Ruambak Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2007",
+    "district_id": "91.15.11",
+    "name": "Moroa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.11.2008",
+    "district_id": "91.15.11",
+    "name": "Oiboa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2001",
+    "district_id": "91.15.12",
+    "name": "Wapoga",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2002",
+    "district_id": "91.15.12",
+    "name": "Pirare",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2003",
+    "district_id": "91.15.12",
+    "name": "Awera",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2004",
+    "district_id": "91.15.12",
+    "name": "Syewa Merare",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2005",
+    "district_id": "91.15.12",
+    "name": "Kamarisano",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2006",
+    "district_id": "91.15.12",
+    "name": "Waweri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.12.2007",
+    "district_id": "91.15.12",
+    "name": "Dokis",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2001",
+    "district_id": "91.15.13",
+    "name": "Urato",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2002",
+    "district_id": "91.15.13",
+    "name": "Mayaghaido",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2003",
+    "district_id": "91.15.13",
+    "name": "Aniboi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2007",
+    "district_id": "91.15.13",
+    "name": "Tetui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2008",
+    "district_id": "91.15.13",
+    "name": "Demba",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2009",
+    "district_id": "91.15.13",
+    "name": "Fafai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2017",
+    "district_id": "91.15.13",
+    "name": "Wudokuri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2018",
+    "district_id": "91.15.13",
+    "name": "Aiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2019",
+    "district_id": "91.15.13",
+    "name": "Biati",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.13.2020",
+    "district_id": "91.15.13",
+    "name": "Ronarai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2001",
+    "district_id": "91.15.14",
+    "name": "Odase",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2002",
+    "district_id": "91.15.14",
+    "name": "Wanda",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2003",
+    "district_id": "91.15.14",
+    "name": "Bakadaro",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2004",
+    "district_id": "91.15.14",
+    "name": "Moyufuri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2005",
+    "district_id": "91.15.14",
+    "name": "Wonti Kai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2006",
+    "district_id": "91.15.14",
+    "name": "Ghoiwi Samberi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2007",
+    "district_id": "91.15.14",
+    "name": "Gheroi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2008",
+    "district_id": "91.15.14",
+    "name": "Fimore",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2009",
+    "district_id": "91.15.14",
+    "name": "Sifuisera",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.14.2010",
+    "district_id": "91.15.14",
+    "name": "Borumei",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2001",
+    "district_id": "91.15.15",
+    "name": "Mambai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2002",
+    "district_id": "91.15.15",
+    "name": "Soyoi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2003",
+    "district_id": "91.15.15",
+    "name": "Daimboa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2004",
+    "district_id": "91.15.15",
+    "name": "Napani",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2005",
+    "district_id": "91.15.15",
+    "name": "Segha",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2006",
+    "district_id": "91.15.15",
+    "name": "Wainarisi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2007",
+    "district_id": "91.15.15",
+    "name": "Fafarui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2008",
+    "district_id": "91.15.15",
+    "name": "Dawoa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2009",
+    "district_id": "91.15.15",
+    "name": "Sinabo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2010",
+    "district_id": "91.15.15",
+    "name": "Woinui",
+    "type": "DESA"
+  }
+]

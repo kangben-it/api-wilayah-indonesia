@@ -1,0 +1,536 @@
+[
+  {
+    "id": "82.72.01.1001",
+    "district_id": "82.72.01",
+    "name": "Soasio",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1002",
+    "district_id": "82.72.01",
+    "name": "Gamtufkange",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1003",
+    "district_id": "82.72.01",
+    "name": "Indonesiana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1005",
+    "district_id": "82.72.01",
+    "name": "Seli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1006",
+    "district_id": "82.72.01",
+    "name": "Soadara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1007",
+    "district_id": "82.72.01",
+    "name": "Topo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1008",
+    "district_id": "82.72.01",
+    "name": "Gurabunga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1012",
+    "district_id": "82.72.01",
+    "name": "Goto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1013",
+    "district_id": "82.72.01",
+    "name": "Tomagoba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1014",
+    "district_id": "82.72.01",
+    "name": "Folarora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1015",
+    "district_id": "82.72.01",
+    "name": "Topo Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1016",
+    "district_id": "82.72.01",
+    "name": "Tambula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.01.1017",
+    "district_id": "82.72.01",
+    "name": "Tuguwaji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.02.1002",
+    "district_id": "82.72.02",
+    "name": "Guraping",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.02.1003",
+    "district_id": "82.72.02",
+    "name": "Sofifi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.02.2001",
+    "district_id": "82.72.02",
+    "name": "Kaiyasa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2005",
+    "district_id": "82.72.02",
+    "name": "Oba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2006",
+    "district_id": "82.72.02",
+    "name": "Somahode",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2007",
+    "district_id": "82.72.02",
+    "name": "Ake Kolano",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2009",
+    "district_id": "82.72.02",
+    "name": "Balbar",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2010",
+    "district_id": "82.72.02",
+    "name": "Bukit Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2011",
+    "district_id": "82.72.02",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2012",
+    "district_id": "82.72.02",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2013",
+    "district_id": "82.72.02",
+    "name": "Kusu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2014",
+    "district_id": "82.72.02",
+    "name": "Garojou",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2015",
+    "district_id": "82.72.02",
+    "name": "Gosale",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.1004",
+    "district_id": "82.72.03",
+    "name": "Payahe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.03.2001",
+    "district_id": "82.72.03",
+    "name": "Woda",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2002",
+    "district_id": "82.72.03",
+    "name": "Gita",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2003",
+    "district_id": "82.72.03",
+    "name": "Toseho",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2005",
+    "district_id": "82.72.03",
+    "name": "Kususinopa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2008",
+    "district_id": "82.72.03",
+    "name": "Bale",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2009",
+    "district_id": "82.72.03",
+    "name": "Koli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2010",
+    "district_id": "82.72.03",
+    "name": "Kosa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2011",
+    "district_id": "82.72.03",
+    "name": "Tului",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2012",
+    "district_id": "82.72.03",
+    "name": "Todapa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2013",
+    "district_id": "82.72.03",
+    "name": "Talasi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2014",
+    "district_id": "82.72.03",
+    "name": "Sigela Yef",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2015",
+    "district_id": "82.72.03",
+    "name": "Talagamori",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.04.1001",
+    "district_id": "82.72.04",
+    "name": "Toloa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.1002",
+    "district_id": "82.72.04",
+    "name": "Dokiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.1003",
+    "district_id": "82.72.04",
+    "name": "Tuguiha",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.1004",
+    "district_id": "82.72.04",
+    "name": "Tomalou",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.1005",
+    "district_id": "82.72.04",
+    "name": "Gurabati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.1006",
+    "district_id": "82.72.04",
+    "name": "Tongowai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.04.2007",
+    "district_id": "82.72.04",
+    "name": "Mare Kofo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.04.2008",
+    "district_id": "82.72.04",
+    "name": "Mare Gam",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.1001",
+    "district_id": "82.72.05",
+    "name": "Rum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1002",
+    "district_id": "82.72.05",
+    "name": "Fobaharu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1003",
+    "district_id": "82.72.05",
+    "name": "Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1004",
+    "district_id": "82.72.05",
+    "name": "Ome",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1005",
+    "district_id": "82.72.05",
+    "name": "Mareku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1006",
+    "district_id": "82.72.05",
+    "name": "Afa Afa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1008",
+    "district_id": "82.72.05",
+    "name": "Bobo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1009",
+    "district_id": "82.72.05",
+    "name": "Gubu Kusuma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1010",
+    "district_id": "82.72.05",
+    "name": "Sirongo Folaraha",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1011",
+    "district_id": "82.72.05",
+    "name": "Rum Balibunga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.2007",
+    "district_id": "82.72.05",
+    "name": "Maitara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2012",
+    "district_id": "82.72.05",
+    "name": "Maitara Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2013",
+    "district_id": "82.72.05",
+    "name": "Maitara Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2014",
+    "district_id": "82.72.05",
+    "name": "Maitara Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.1001",
+    "district_id": "82.72.06",
+    "name": "Akelamo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.06.2002",
+    "district_id": "82.72.06",
+    "name": "Lola",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2003",
+    "district_id": "82.72.06",
+    "name": "Aketobololo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2004",
+    "district_id": "82.72.06",
+    "name": "Aketobatu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2005",
+    "district_id": "82.72.06",
+    "name": "Akedotilou",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2006",
+    "district_id": "82.72.06",
+    "name": "Akeguraci",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2007",
+    "district_id": "82.72.06",
+    "name": "Akesai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2008",
+    "district_id": "82.72.06",
+    "name": "Togeme",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2009",
+    "district_id": "82.72.06",
+    "name": "Tadupi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2010",
+    "district_id": "82.72.06",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2011",
+    "district_id": "82.72.06",
+    "name": "Tauno",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2012",
+    "district_id": "82.72.06",
+    "name": "Fanaha",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2013",
+    "district_id": "82.72.06",
+    "name": "Yehu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.06.2014",
+    "district_id": "82.72.06",
+    "name": "Siokona",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2001",
+    "district_id": "82.72.07",
+    "name": "Maidi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2002",
+    "district_id": "82.72.07",
+    "name": "Lifofa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2003",
+    "district_id": "82.72.07",
+    "name": "Hager",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2004",
+    "district_id": "82.72.07",
+    "name": "Wama",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2005",
+    "district_id": "82.72.07",
+    "name": "Selamalofo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2006",
+    "district_id": "82.72.07",
+    "name": "Tagalaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.07.2007",
+    "district_id": "82.72.07",
+    "name": "Nuku",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.08.1001",
+    "district_id": "82.72.08",
+    "name": "Mafututu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1002",
+    "district_id": "82.72.08",
+    "name": "Tosa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1003",
+    "district_id": "82.72.08",
+    "name": "Dowora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1004",
+    "district_id": "82.72.08",
+    "name": "Kalaodi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1005",
+    "district_id": "82.72.08",
+    "name": "Cobodoe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1006",
+    "district_id": "82.72.08",
+    "name": "Doyado",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.08.1007",
+    "district_id": "82.72.08",
+    "name": "Jiko Cobo",
+    "type": "KELURAHAN"
+  }
+]

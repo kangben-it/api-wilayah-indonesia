@@ -1,0 +1,608 @@
+[
+  {
+    "id": "12.78.01.1030",
+    "district_id": "12.78.01",
+    "name": "Pasar Gunungsitoli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.1031",
+    "district_id": "12.78.01",
+    "name": "Saombo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.1032",
+    "district_id": "12.78.01",
+    "name": "Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.2001",
+    "district_id": "12.78.01",
+    "name": "Bawodesolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2002",
+    "district_id": "12.78.01",
+    "name": "Boyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2003",
+    "district_id": "12.78.01",
+    "name": "Dahadano Gawu-Gawu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2004",
+    "district_id": "12.78.01",
+    "name": "Dahana Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2005",
+    "district_id": "12.78.01",
+    "name": "Fadoro Lasara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2006",
+    "district_id": "12.78.01",
+    "name": "Hilihao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2007",
+    "district_id": "12.78.01",
+    "name": "Hilimbaruzo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2008",
+    "district_id": "12.78.01",
+    "name": "Hilina'a",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2009",
+    "district_id": "12.78.01",
+    "name": "Iraonogeba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2010",
+    "district_id": "12.78.01",
+    "name": "Lasara Bahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2011",
+    "district_id": "12.78.01",
+    "name": "Lolowonu Niko'otano",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2012",
+    "district_id": "12.78.01",
+    "name": "Madula",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2013",
+    "district_id": "12.78.01",
+    "name": "Madolaoli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2014",
+    "district_id": "12.78.01",
+    "name": "Mudik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2015",
+    "district_id": "12.78.01",
+    "name": "Miga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2016",
+    "district_id": "12.78.01",
+    "name": "Mo'awo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2017",
+    "district_id": "12.78.01",
+    "name": "Ombolata Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2018",
+    "district_id": "12.78.01",
+    "name": "Onowaembo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2019",
+    "district_id": "12.78.01",
+    "name": "Onozitoli Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2020",
+    "district_id": "12.78.01",
+    "name": "Onozitoli Sifaoroasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2021",
+    "district_id": "12.78.01",
+    "name": "Saewe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2022",
+    "district_id": "12.78.01",
+    "name": "Sifalaete Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2023",
+    "district_id": "12.78.01",
+    "name": "Sifalaete Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2024",
+    "district_id": "12.78.01",
+    "name": "Sihare'o II Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2025",
+    "district_id": "12.78.01",
+    "name": "Simandraolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2026",
+    "district_id": "12.78.01",
+    "name": "Sisarahiligamo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2027",
+    "district_id": "12.78.01",
+    "name": "Sisarahili Sisambualahe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2028",
+    "district_id": "12.78.01",
+    "name": "Sisobahili Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2029",
+    "district_id": "12.78.01",
+    "name": "Tuhemberua Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2001",
+    "district_id": "12.78.02",
+    "name": "Ononamolo I Lot",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2002",
+    "district_id": "12.78.02",
+    "name": "Fodo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2003",
+    "district_id": "12.78.02",
+    "name": "Faekhu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2004",
+    "district_id": "12.78.02",
+    "name": "Lolofaoso Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2005",
+    "district_id": "12.78.02",
+    "name": "Lolomboli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2006",
+    "district_id": "12.78.02",
+    "name": "Mazingo Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2007",
+    "district_id": "12.78.02",
+    "name": "Onozitoli Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2008",
+    "district_id": "12.78.02",
+    "name": "Lololakha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2009",
+    "district_id": "12.78.02",
+    "name": "Sihare'o I Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2010",
+    "district_id": "12.78.02",
+    "name": "Ombolata Simenari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2011",
+    "district_id": "12.78.02",
+    "name": "Hiligara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2012",
+    "district_id": "12.78.02",
+    "name": "Luahalaraga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2013",
+    "district_id": "12.78.02",
+    "name": "Sisobahili II Tanose'o",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2014",
+    "district_id": "12.78.02",
+    "name": "Hiligodu Ombolata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.02.2015",
+    "district_id": "12.78.02",
+    "name": "Tetehosi Ombolata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2001",
+    "district_id": "12.78.03",
+    "name": "Afia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2002",
+    "district_id": "12.78.03",
+    "name": "Lolo'ana'a Lolomoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2003",
+    "district_id": "12.78.03",
+    "name": "Lasara Sowu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2004",
+    "district_id": "12.78.03",
+    "name": "Telukbelukar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2005",
+    "district_id": "12.78.03",
+    "name": "Tetehosi Afia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2006",
+    "district_id": "12.78.03",
+    "name": "Hambawa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2007",
+    "district_id": "12.78.03",
+    "name": "Gawu-Gawu Bo'uso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2008",
+    "district_id": "12.78.03",
+    "name": "Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2009",
+    "district_id": "12.78.03",
+    "name": "Hilimbowo Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2010",
+    "district_id": "12.78.03",
+    "name": "Hiligodu Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2001",
+    "district_id": "12.78.04",
+    "name": "Sifalaete",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2002",
+    "district_id": "12.78.04",
+    "name": "Hilimbawodesolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2003",
+    "district_id": "12.78.04",
+    "name": "Dahana",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2004",
+    "district_id": "12.78.04",
+    "name": "Bawodesolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2005",
+    "district_id": "12.78.04",
+    "name": "Tuhegeo I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2006",
+    "district_id": "12.78.04",
+    "name": "Simanaere",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2007",
+    "district_id": "12.78.04",
+    "name": "Humene",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2008",
+    "district_id": "12.78.04",
+    "name": "Siwalubanua II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2009",
+    "district_id": "12.78.04",
+    "name": "Helefanikha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2010",
+    "district_id": "12.78.04",
+    "name": "Tetehosi I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2011",
+    "district_id": "12.78.04",
+    "name": "Fowa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2012",
+    "district_id": "12.78.04",
+    "name": "Binaka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2013",
+    "district_id": "12.78.04",
+    "name": "Idanotae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2014",
+    "district_id": "12.78.04",
+    "name": "Tetehosi II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2015",
+    "district_id": "12.78.04",
+    "name": "Lolo'ana'a Idanoi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2016",
+    "district_id": "12.78.04",
+    "name": "Siwalubanua I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2017",
+    "district_id": "12.78.04",
+    "name": "Hilihambawa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2018",
+    "district_id": "12.78.04",
+    "name": "Awa'ai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2019",
+    "district_id": "12.78.04",
+    "name": "Lewuoguru Idanoi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2020",
+    "district_id": "12.78.04",
+    "name": "Fadoro",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2021",
+    "district_id": "12.78.04",
+    "name": "Hiliweto Idanoi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2022",
+    "district_id": "12.78.04",
+    "name": "Hilimbowo Idanoi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2023",
+    "district_id": "12.78.04",
+    "name": "Onowaembo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2024",
+    "district_id": "12.78.04",
+    "name": "Ombolata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2025",
+    "district_id": "12.78.04",
+    "name": "Samasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.04.2026",
+    "district_id": "12.78.04",
+    "name": "Tuhegeo II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2001",
+    "district_id": "12.78.05",
+    "name": "Nazalou Alo'oa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2002",
+    "district_id": "12.78.05",
+    "name": "Niko'otano Dao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2003",
+    "district_id": "12.78.05",
+    "name": "Iraonolase",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2004",
+    "district_id": "12.78.05",
+    "name": "Orahili Tanose'o",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2005",
+    "district_id": "12.78.05",
+    "name": "Tarakhaini",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2006",
+    "district_id": "12.78.05",
+    "name": "Fadoro Hilimbowo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2007",
+    "district_id": "12.78.05",
+    "name": "Fadoro You",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2008",
+    "district_id": "12.78.05",
+    "name": "Lololawa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.05.2009",
+    "district_id": "12.78.05",
+    "name": "Nazalou Lolowua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2001",
+    "district_id": "12.78.06",
+    "name": "Tumori",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2002",
+    "district_id": "12.78.06",
+    "name": "Tumori Balohili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2003",
+    "district_id": "12.78.06",
+    "name": "Orahili Tumori",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2004",
+    "district_id": "12.78.06",
+    "name": "Gada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2005",
+    "district_id": "12.78.06",
+    "name": "Lolomoyo Tuhemberua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2006",
+    "district_id": "12.78.06",
+    "name": "Sihare'o Siwahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2007",
+    "district_id": "12.78.06",
+    "name": "Hilinakhe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2008",
+    "district_id": "12.78.06",
+    "name": "Onozikho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2009",
+    "district_id": "12.78.06",
+    "name": "Ononamolo II Lot",
+    "type": "DESA"
+  }
+]

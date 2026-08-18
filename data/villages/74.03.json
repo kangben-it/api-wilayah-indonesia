@@ -1,0 +1,902 @@
+[
+  {
+    "id": "74.03.06.1004",
+    "district_id": "74.03.06",
+    "name": "Napabalano",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.06.1005",
+    "district_id": "74.03.06",
+    "name": "Tampo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.06.2003",
+    "district_id": "74.03.06",
+    "name": "Napalakura",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.06.2006",
+    "district_id": "74.03.06",
+    "name": "Pentiro",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.06.2007",
+    "district_id": "74.03.06",
+    "name": "Langkumapo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.06.2009",
+    "district_id": "74.03.06",
+    "name": "Lambiku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2001",
+    "district_id": "74.03.07",
+    "name": "Langkoroni",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2002",
+    "district_id": "74.03.07",
+    "name": "Latompa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2003",
+    "district_id": "74.03.07",
+    "name": "Raimuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2004",
+    "district_id": "74.03.07",
+    "name": "Maligano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2005",
+    "district_id": "74.03.07",
+    "name": "Lapole",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.07.2007",
+    "district_id": "74.03.07",
+    "name": "Pohorua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.1003",
+    "district_id": "74.03.13",
+    "name": "Labunia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.13.2001",
+    "district_id": "74.03.13",
+    "name": "Wambona",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2004",
+    "district_id": "74.03.13",
+    "name": "Bakealu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2005",
+    "district_id": "74.03.13",
+    "name": "Pure",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2006",
+    "district_id": "74.03.13",
+    "name": "Wakorumba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2001",
+    "district_id": "74.03.14",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2002",
+    "district_id": "74.03.14",
+    "name": "Labone",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2003",
+    "district_id": "74.03.14",
+    "name": "Bonea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2004",
+    "district_id": "74.03.14",
+    "name": "Kombungo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2005",
+    "district_id": "74.03.14",
+    "name": "Labunti",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2006",
+    "district_id": "74.03.14",
+    "name": "Parida",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.14.2007",
+    "district_id": "74.03.14",
+    "name": "Lasalepa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.15.1003",
+    "district_id": "74.03.15",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.15.1004",
+    "district_id": "74.03.15",
+    "name": "Laiworu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.15.2001",
+    "district_id": "74.03.15",
+    "name": "Wawesa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.15.2002",
+    "district_id": "74.03.15",
+    "name": "Wakorambu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.16.1001",
+    "district_id": "74.03.16",
+    "name": "Watonea",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1002",
+    "district_id": "74.03.16",
+    "name": "Raha III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1003",
+    "district_id": "74.03.16",
+    "name": "Wamponiki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1004",
+    "district_id": "74.03.16",
+    "name": "Butung Butung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1005",
+    "district_id": "74.03.16",
+    "name": "Raha II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1006",
+    "district_id": "74.03.16",
+    "name": "Foo Kuni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1007",
+    "district_id": "74.03.16",
+    "name": "Laende",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.16.1008",
+    "district_id": "74.03.16",
+    "name": "Raha I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.17.1002",
+    "district_id": "74.03.17",
+    "name": "Palangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.17.1005",
+    "district_id": "74.03.17",
+    "name": "Wapunto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.17.2001",
+    "district_id": "74.03.17",
+    "name": "Ghonsume",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.17.2003",
+    "district_id": "74.03.17",
+    "name": "Lagasa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.17.2004",
+    "district_id": "74.03.17",
+    "name": "Ghone Bhalano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.17.2006",
+    "district_id": "74.03.17",
+    "name": "Lasunapa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.17.2007",
+    "district_id": "74.03.17",
+    "name": "Banggai",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2001",
+    "district_id": "74.03.18",
+    "name": "Liangkobori",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2002",
+    "district_id": "74.03.18",
+    "name": "Mabolu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2003",
+    "district_id": "74.03.18",
+    "name": "Kondongia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2004",
+    "district_id": "74.03.18",
+    "name": "Waara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2005",
+    "district_id": "74.03.18",
+    "name": "Mantobua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2006",
+    "district_id": "74.03.18",
+    "name": "Loghiya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2007",
+    "district_id": "74.03.18",
+    "name": "Lohia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2008",
+    "district_id": "74.03.18",
+    "name": "Korihi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.18.2009",
+    "district_id": "74.03.18",
+    "name": "Lakarinta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.1004",
+    "district_id": "74.03.19",
+    "name": "Dana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.19.1007",
+    "district_id": "74.03.19",
+    "name": "Wali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.19.2001",
+    "district_id": "74.03.19",
+    "name": "Lakapodo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.2002",
+    "district_id": "74.03.19",
+    "name": "Wakadia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.2003",
+    "district_id": "74.03.19",
+    "name": "Matarawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.2005",
+    "district_id": "74.03.19",
+    "name": "Bhangkali Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.2006",
+    "district_id": "74.03.19",
+    "name": "Bangkali",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.19.2008",
+    "district_id": "74.03.19",
+    "name": "Labaha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2001",
+    "district_id": "74.03.20",
+    "name": "Liabalano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2002",
+    "district_id": "74.03.20",
+    "name": "Lapodidi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2003",
+    "district_id": "74.03.20",
+    "name": "Bungi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2004",
+    "district_id": "74.03.20",
+    "name": "Kontunaga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2005",
+    "district_id": "74.03.20",
+    "name": "Madodo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.20.2006",
+    "district_id": "74.03.20",
+    "name": "Masalili",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2001",
+    "district_id": "74.03.23",
+    "name": "Komba Komba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2002",
+    "district_id": "74.03.23",
+    "name": "Kabangka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2003",
+    "district_id": "74.03.23",
+    "name": "Wakobalu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2004",
+    "district_id": "74.03.23",
+    "name": "Lupia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2007",
+    "district_id": "74.03.23",
+    "name": "Sarimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2008",
+    "district_id": "74.03.23",
+    "name": "Oensuli",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2009",
+    "district_id": "74.03.23",
+    "name": "Wansugi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2010",
+    "district_id": "74.03.23",
+    "name": "Wataliku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.23.2011",
+    "district_id": "74.03.23",
+    "name": "Lakandito",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.1009",
+    "district_id": "74.03.24",
+    "name": "Laimpi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.24.2001",
+    "district_id": "74.03.24",
+    "name": "Lamanu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2002",
+    "district_id": "74.03.24",
+    "name": "Kawite Wite",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2003",
+    "district_id": "74.03.24",
+    "name": "Bente",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2004",
+    "district_id": "74.03.24",
+    "name": "Bea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2006",
+    "district_id": "74.03.24",
+    "name": "Rangka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2010",
+    "district_id": "74.03.24",
+    "name": "Kambawuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2011",
+    "district_id": "74.03.24",
+    "name": "Kontumere",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2012",
+    "district_id": "74.03.24",
+    "name": "Lamaeo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2013",
+    "district_id": "74.03.24",
+    "name": "Wantiworo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.24.2014",
+    "district_id": "74.03.24",
+    "name": "Kasaka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.1005",
+    "district_id": "74.03.25",
+    "name": "Wakumoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.25.1006",
+    "district_id": "74.03.25",
+    "name": "Walambeno Wite",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.25.1007",
+    "district_id": "74.03.25",
+    "name": "Kolasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.25.1009",
+    "district_id": "74.03.25",
+    "name": "Wasolangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.25.2001",
+    "district_id": "74.03.25",
+    "name": "Labulu Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2002",
+    "district_id": "74.03.25",
+    "name": "Latampu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2003",
+    "district_id": "74.03.25",
+    "name": "Laiba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2004",
+    "district_id": "74.03.25",
+    "name": "Warambe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2008",
+    "district_id": "74.03.25",
+    "name": "Parigi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2010",
+    "district_id": "74.03.25",
+    "name": "Wapuale",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.25.2012",
+    "district_id": "74.03.25",
+    "name": "Wakumoro",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.26.2006",
+    "district_id": "74.03.26",
+    "name": "Bone Tondo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.26.2007",
+    "district_id": "74.03.26",
+    "name": "Bhone Kainsetala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.26.2008",
+    "district_id": "74.03.26",
+    "name": "Bone Lolibu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.26.2009",
+    "district_id": "74.03.26",
+    "name": "Oelongko",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.26.2010",
+    "district_id": "74.03.26",
+    "name": "Matombura",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.1005",
+    "district_id": "74.03.27",
+    "name": "Danagoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.27.1007",
+    "district_id": "74.03.27",
+    "name": "Kontumolepe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.27.1008",
+    "district_id": "74.03.27",
+    "name": "Tombula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.27.2003",
+    "district_id": "74.03.27",
+    "name": "Lahontohe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2004",
+    "district_id": "74.03.27",
+    "name": "Lamorende",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2006",
+    "district_id": "74.03.27",
+    "name": "Lakologou",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2009",
+    "district_id": "74.03.27",
+    "name": "Matano Oe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2014",
+    "district_id": "74.03.27",
+    "name": "Lapadindi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2015",
+    "district_id": "74.03.27",
+    "name": "Oempu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2016",
+    "district_id": "74.03.27",
+    "name": "Fongkaniwa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2017",
+    "district_id": "74.03.27",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.27.2019",
+    "district_id": "74.03.27",
+    "name": "Kotano Wuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2001",
+    "district_id": "74.03.28",
+    "name": "Kogholifano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2002",
+    "district_id": "74.03.28",
+    "name": "Pola",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2007",
+    "district_id": "74.03.28",
+    "name": "Kamosope",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2008",
+    "district_id": "74.03.28",
+    "name": "Liwumetingki",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2009",
+    "district_id": "74.03.28",
+    "name": "Labulawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.28.2010",
+    "district_id": "74.03.28",
+    "name": "Bumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2001",
+    "district_id": "74.03.30",
+    "name": "Kafo Foo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2002",
+    "district_id": "74.03.30",
+    "name": "Lembo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2003",
+    "district_id": "74.03.30",
+    "name": "Kilambibito",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2004",
+    "district_id": "74.03.30",
+    "name": "Bahutara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2005",
+    "district_id": "74.03.30",
+    "name": "Kontu Kowuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2006",
+    "district_id": "74.03.30",
+    "name": "Lahorio",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2001",
+    "district_id": "74.03.31",
+    "name": "Marobo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2002",
+    "district_id": "74.03.31",
+    "name": "Wadolao",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2003",
+    "district_id": "74.03.31",
+    "name": "Pasikuta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2004",
+    "district_id": "74.03.31",
+    "name": "Tapitapi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2005",
+    "district_id": "74.03.31",
+    "name": "Poaroha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.1001",
+    "district_id": "74.03.32",
+    "name": "Lawama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.32.2002",
+    "district_id": "74.03.32",
+    "name": "Wale-Ale",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2003",
+    "district_id": "74.03.32",
+    "name": "Kulidawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2004",
+    "district_id": "74.03.32",
+    "name": "Labasa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2005",
+    "district_id": "74.03.32",
+    "name": "Watondo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2006",
+    "district_id": "74.03.32",
+    "name": "Lianosa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.33.2001",
+    "district_id": "74.03.33",
+    "name": "Kolese",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.33.2002",
+    "district_id": "74.03.33",
+    "name": "Tampunabale",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.33.2003",
+    "district_id": "74.03.33",
+    "name": "Mata Indaha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.33.2004",
+    "district_id": "74.03.33",
+    "name": "Lambelu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.34.2001",
+    "district_id": "74.03.34",
+    "name": "Bone Bone",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.34.2002",
+    "district_id": "74.03.34",
+    "name": "Lanobake",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.34.2003",
+    "district_id": "74.03.34",
+    "name": "Moolo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.34.2004",
+    "district_id": "74.03.34",
+    "name": "Baluara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2001",
+    "district_id": "74.03.37",
+    "name": "Wangkolabu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2002",
+    "district_id": "74.03.37",
+    "name": "Lakarama",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2003",
+    "district_id": "74.03.37",
+    "name": "Moasi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2004",
+    "district_id": "74.03.37",
+    "name": "Renda",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2005",
+    "district_id": "74.03.37",
+    "name": "Bhontu-Bhontu",
+    "type": "DESA"
+  }
+]

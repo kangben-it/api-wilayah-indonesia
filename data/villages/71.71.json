@@ -1,0 +1,524 @@
+[
+  {
+    "id": "71.71.01.1001",
+    "district_id": "71.71.01",
+    "name": "Molas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1006",
+    "district_id": "71.71.01",
+    "name": "Tongkaina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1007",
+    "district_id": "71.71.01",
+    "name": "Meras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1008",
+    "district_id": "71.71.01",
+    "name": "Bailang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1009",
+    "district_id": "71.71.01",
+    "name": "Pandu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1001",
+    "district_id": "71.71.02",
+    "name": "Bitung Karangria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1002",
+    "district_id": "71.71.02",
+    "name": "Tuminting",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1003",
+    "district_id": "71.71.02",
+    "name": "Tumumpa Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1004",
+    "district_id": "71.71.02",
+    "name": "Maasing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1005",
+    "district_id": "71.71.02",
+    "name": "Sindulang Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1006",
+    "district_id": "71.71.02",
+    "name": "Sindulang Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1007",
+    "district_id": "71.71.02",
+    "name": "Islam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1008",
+    "district_id": "71.71.02",
+    "name": "Tumumpa Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1009",
+    "district_id": "71.71.02",
+    "name": "Sumompo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.02.1010",
+    "district_id": "71.71.02",
+    "name": "Mahawu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1001",
+    "district_id": "71.71.03",
+    "name": "Singkil Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1002",
+    "district_id": "71.71.03",
+    "name": "Singkil Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1003",
+    "district_id": "71.71.03",
+    "name": "Wawonasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1004",
+    "district_id": "71.71.03",
+    "name": "Karame",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1005",
+    "district_id": "71.71.03",
+    "name": "Ketang Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1006",
+    "district_id": "71.71.03",
+    "name": "Ternate Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1007",
+    "district_id": "71.71.03",
+    "name": "Kombos Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1008",
+    "district_id": "71.71.03",
+    "name": "Kombos Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.03.1009",
+    "district_id": "71.71.03",
+    "name": "Ternate Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1001",
+    "district_id": "71.71.04",
+    "name": "Tikala Kumaraka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1002",
+    "district_id": "71.71.04",
+    "name": "Mahakeret Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1003",
+    "district_id": "71.71.04",
+    "name": "Mahakeret Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1004",
+    "district_id": "71.71.04",
+    "name": "Teling Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1005",
+    "district_id": "71.71.04",
+    "name": "Wenang Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1006",
+    "district_id": "71.71.04",
+    "name": "Wenang Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1007",
+    "district_id": "71.71.04",
+    "name": "Pinaesaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1008",
+    "district_id": "71.71.04",
+    "name": "Calaca",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1009",
+    "district_id": "71.71.04",
+    "name": "Istiqlal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1010",
+    "district_id": "71.71.04",
+    "name": "Lawangirung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1011",
+    "district_id": "71.71.04",
+    "name": "Komo Luar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.04.1012",
+    "district_id": "71.71.04",
+    "name": "Bumi Beringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.05.1008",
+    "district_id": "71.71.05",
+    "name": "Tikala Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.05.1009",
+    "district_id": "71.71.05",
+    "name": "Taas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.05.1010",
+    "district_id": "71.71.05",
+    "name": "Paal IV",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.05.1011",
+    "district_id": "71.71.05",
+    "name": "Banjer",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.05.1012",
+    "district_id": "71.71.05",
+    "name": "Tikala Ares",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1001",
+    "district_id": "71.71.06",
+    "name": "Sario Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1002",
+    "district_id": "71.71.06",
+    "name": "Sario Kotabaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1003",
+    "district_id": "71.71.06",
+    "name": "Sario Tumpaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1004",
+    "district_id": "71.71.06",
+    "name": "Sario",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1005",
+    "district_id": "71.71.06",
+    "name": "Titiwungan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1006",
+    "district_id": "71.71.06",
+    "name": "Titiwungan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.06.1007",
+    "district_id": "71.71.06",
+    "name": "Ranotana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1001",
+    "district_id": "71.71.07",
+    "name": "Wanea",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1002",
+    "district_id": "71.71.07",
+    "name": "Tanjung Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1003",
+    "district_id": "71.71.07",
+    "name": "Pakowa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1004",
+    "district_id": "71.71.07",
+    "name": "Bumi Nyiur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1005",
+    "district_id": "71.71.07",
+    "name": "Ranotana Weru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1006",
+    "district_id": "71.71.07",
+    "name": "Teling Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1007",
+    "district_id": "71.71.07",
+    "name": "Tingkulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1008",
+    "district_id": "71.71.07",
+    "name": "Karombasan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.07.1009",
+    "district_id": "71.71.07",
+    "name": "Karombasan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1001",
+    "district_id": "71.71.08",
+    "name": "Paniki Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1002",
+    "district_id": "71.71.08",
+    "name": "Lapangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1003",
+    "district_id": "71.71.08",
+    "name": "Mapanget Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1004",
+    "district_id": "71.71.08",
+    "name": "Kima Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1005",
+    "district_id": "71.71.08",
+    "name": "Buha",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1006",
+    "district_id": "71.71.08",
+    "name": "Bengkol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1008",
+    "district_id": "71.71.08",
+    "name": "Kairagi Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1009",
+    "district_id": "71.71.08",
+    "name": "Kairagi Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1010",
+    "district_id": "71.71.08",
+    "name": "Paniki Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.08.1011",
+    "district_id": "71.71.08",
+    "name": "Paniki Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1001",
+    "district_id": "71.71.09",
+    "name": "Malalayang Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1002",
+    "district_id": "71.71.09",
+    "name": "Bahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1003",
+    "district_id": "71.71.09",
+    "name": "Kleak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1004",
+    "district_id": "71.71.09",
+    "name": "Batu Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1005",
+    "district_id": "71.71.09",
+    "name": "Malalayang Satu Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1006",
+    "district_id": "71.71.09",
+    "name": "Malalayang Satu Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1007",
+    "district_id": "71.71.09",
+    "name": "Malalayang Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1008",
+    "district_id": "71.71.09",
+    "name": "Winangun Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.09.1009",
+    "district_id": "71.71.09",
+    "name": "Winangun Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.10.1001",
+    "district_id": "71.71.10",
+    "name": "Bunaken",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.10.1002",
+    "district_id": "71.71.10",
+    "name": "Manado Tua Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.10.1003",
+    "district_id": "71.71.10",
+    "name": "Manado Tua Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.10.1004",
+    "district_id": "71.71.10",
+    "name": "Alung Banua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1001",
+    "district_id": "71.71.11",
+    "name": "Ranomuut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1002",
+    "district_id": "71.71.11",
+    "name": "Kairagi Weru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1003",
+    "district_id": "71.71.11",
+    "name": "Paal Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1004",
+    "district_id": "71.71.11",
+    "name": "Perkamil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1005",
+    "district_id": "71.71.11",
+    "name": "Malendeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1006",
+    "district_id": "71.71.11",
+    "name": "Dendengan Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1007",
+    "district_id": "71.71.11",
+    "name": "Dendengan Luar",
+    "type": "KELURAHAN"
+  }
+]

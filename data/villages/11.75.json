@@ -1,0 +1,494 @@
+[
+  {
+    "id": "11.75.01.2001",
+    "district_id": "11.75.01",
+    "name": "Subulussalam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2002",
+    "district_id": "11.75.01",
+    "name": "Pegayo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2003",
+    "district_id": "11.75.01",
+    "name": "Sikalondang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2004",
+    "district_id": "11.75.01",
+    "name": "Buluh Dori",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2005",
+    "district_id": "11.75.01",
+    "name": "Subulussalam Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2006",
+    "district_id": "11.75.01",
+    "name": "Subulussalam Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2007",
+    "district_id": "11.75.01",
+    "name": "Subulussalam Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2008",
+    "district_id": "11.75.01",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2009",
+    "district_id": "11.75.01",
+    "name": "Tangga Besi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2010",
+    "district_id": "11.75.01",
+    "name": "Kuta Cepu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2011",
+    "district_id": "11.75.01",
+    "name": "Pasar Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2012",
+    "district_id": "11.75.01",
+    "name": "Mukti Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2013",
+    "district_id": "11.75.01",
+    "name": "Lae Oram",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2014",
+    "district_id": "11.75.01",
+    "name": "Makmur Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2015",
+    "district_id": "11.75.01",
+    "name": "Belegen Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2016",
+    "district_id": "11.75.01",
+    "name": "Danau Tras",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.01.2017",
+    "district_id": "11.75.01",
+    "name": "Subulussalam Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2001",
+    "district_id": "11.75.02",
+    "name": "Penanggalan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2002",
+    "district_id": "11.75.02",
+    "name": "Cepu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2003",
+    "district_id": "11.75.02",
+    "name": "Kuta Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2004",
+    "district_id": "11.75.02",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2005",
+    "district_id": "11.75.02",
+    "name": "Sikelang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2006",
+    "district_id": "11.75.02",
+    "name": "Penuntungan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2007",
+    "district_id": "11.75.02",
+    "name": "Jontor",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2008",
+    "district_id": "11.75.02",
+    "name": "Lae Motong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2009",
+    "district_id": "11.75.02",
+    "name": "Lae Ikan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2010",
+    "district_id": "11.75.02",
+    "name": "Lae Bersih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2011",
+    "district_id": "11.75.02",
+    "name": "Dasan Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2012",
+    "district_id": "11.75.02",
+    "name": "Penanggalan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.02.2013",
+    "district_id": "11.75.02",
+    "name": "Penanggalan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2001",
+    "district_id": "11.75.03",
+    "name": "Pasar Rundeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2002",
+    "district_id": "11.75.03",
+    "name": "Dah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2003",
+    "district_id": "11.75.03",
+    "name": "Oboh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2004",
+    "district_id": "11.75.03",
+    "name": "Sepadan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2005",
+    "district_id": "11.75.03",
+    "name": "Sibuasan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2006",
+    "district_id": "11.75.03",
+    "name": "Binanga",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2007",
+    "district_id": "11.75.03",
+    "name": "Kuta Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2008",
+    "district_id": "11.75.03",
+    "name": "Muara Batu-batu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2009",
+    "district_id": "11.75.03",
+    "name": "Siperkas",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2010",
+    "district_id": "11.75.03",
+    "name": "Lae Mate",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2011",
+    "district_id": "11.75.03",
+    "name": "Sibungke",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2012",
+    "district_id": "11.75.03",
+    "name": "Harapan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2013",
+    "district_id": "11.75.03",
+    "name": "Teladan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2014",
+    "district_id": "11.75.03",
+    "name": "Bulukur Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2015",
+    "district_id": "11.75.03",
+    "name": "Badar",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2016",
+    "district_id": "11.75.03",
+    "name": "Lae Pemulaan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2017",
+    "district_id": "11.75.03",
+    "name": "Panglima Saman",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2018",
+    "district_id": "11.75.03",
+    "name": "Suak Jampak",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2019",
+    "district_id": "11.75.03",
+    "name": "Geruguh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2020",
+    "district_id": "11.75.03",
+    "name": "Mandilam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2021",
+    "district_id": "11.75.03",
+    "name": "Tualang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2022",
+    "district_id": "11.75.03",
+    "name": "Kuala Kepeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.03.2023",
+    "district_id": "11.75.03",
+    "name": "Tanah Tumbuh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2001",
+    "district_id": "11.75.04",
+    "name": "Pasir Belo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2002",
+    "district_id": "11.75.04",
+    "name": "Bawan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2003",
+    "district_id": "11.75.04",
+    "name": "Sigrun",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2004",
+    "district_id": "11.75.04",
+    "name": "Jabi-jabi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2005",
+    "district_id": "11.75.04",
+    "name": "Lae Simolap",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2006",
+    "district_id": "11.75.04",
+    "name": "Lae Langge",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2007",
+    "district_id": "11.75.04",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2008",
+    "district_id": "11.75.04",
+    "name": "Gunung Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2009",
+    "district_id": "11.75.04",
+    "name": "Jambi Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2010",
+    "district_id": "11.75.04",
+    "name": "Pulo Kedep",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2011",
+    "district_id": "11.75.04",
+    "name": "Pulo Belen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2012",
+    "district_id": "11.75.04",
+    "name": "Singgersing",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2013",
+    "district_id": "11.75.04",
+    "name": "Namo Buaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2014",
+    "district_id": "11.75.04",
+    "name": "Cipare Pare",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2015",
+    "district_id": "11.75.04",
+    "name": "Bunga Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2016",
+    "district_id": "11.75.04",
+    "name": "Cipar-Pari Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2018",
+    "district_id": "11.75.04",
+    "name": "Darul Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2019",
+    "district_id": "11.75.04",
+    "name": "Jabi-Jabi Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.04.2020",
+    "district_id": "11.75.04",
+    "name": "Batu Napal",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2001",
+    "district_id": "11.75.05",
+    "name": "Longkib",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2002",
+    "district_id": "11.75.05",
+    "name": "Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2003",
+    "district_id": "11.75.05",
+    "name": "Panji",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2004",
+    "district_id": "11.75.05",
+    "name": "Lae Saga",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2005",
+    "district_id": "11.75.05",
+    "name": "Sikerabang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2006",
+    "district_id": "11.75.05",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2007",
+    "district_id": "11.75.05",
+    "name": "Bukit Alim",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2008",
+    "district_id": "11.75.05",
+    "name": "Darul Aman",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2009",
+    "district_id": "11.75.05",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.75.05.2010",
+    "district_id": "11.75.05",
+    "name": "Darussalam",
+    "type": "DESA"
+  }
+]

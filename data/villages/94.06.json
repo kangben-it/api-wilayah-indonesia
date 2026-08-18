@@ -1,0 +1,476 @@
+[
+  {
+    "id": "94.06.01.2001",
+    "district_id": "94.06.01",
+    "name": "Ikebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2002",
+    "district_id": "94.06.01",
+    "name": "Mauwa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2003",
+    "district_id": "94.06.01",
+    "name": "Ekemanida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2004",
+    "district_id": "94.06.01",
+    "name": "Bukapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2005",
+    "district_id": "94.06.01",
+    "name": "Kimupugi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2006",
+    "district_id": "94.06.01",
+    "name": "Dikiyouwo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2007",
+    "district_id": "94.06.01",
+    "name": "Idakotu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.01.2008",
+    "district_id": "94.06.01",
+    "name": "Putapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2001",
+    "district_id": "94.06.02",
+    "name": "Bobomani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2002",
+    "district_id": "94.06.02",
+    "name": "Abaimaida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2003",
+    "district_id": "94.06.02",
+    "name": "Bonakunu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2004",
+    "district_id": "94.06.02",
+    "name": "Dawaikunu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2005",
+    "district_id": "94.06.02",
+    "name": "Magone",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2006",
+    "district_id": "94.06.02",
+    "name": "Diyoudimi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.02.2007",
+    "district_id": "94.06.02",
+    "name": "Obaikagopa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2001",
+    "district_id": "94.06.03",
+    "name": "Apogomakida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2002",
+    "district_id": "94.06.03",
+    "name": "Deneiode",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2003",
+    "district_id": "94.06.03",
+    "name": "Yegiyepa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2004",
+    "district_id": "94.06.03",
+    "name": "Ideduwa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2005",
+    "district_id": "94.06.03",
+    "name": "Kegata",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2006",
+    "district_id": "94.06.03",
+    "name": "Egipa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2007",
+    "district_id": "94.06.03",
+    "name": "Ukagu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.03.2008",
+    "district_id": "94.06.03",
+    "name": "Tibaugi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2001",
+    "district_id": "94.06.04",
+    "name": "Idakebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2002",
+    "district_id": "94.06.04",
+    "name": "Pugatadi I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2003",
+    "district_id": "94.06.04",
+    "name": "Pugatadi II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2004",
+    "district_id": "94.06.04",
+    "name": "Ikrar",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2005",
+    "district_id": "94.06.04",
+    "name": "Obayo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2006",
+    "district_id": "94.06.04",
+    "name": "Kuyakago",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2007",
+    "district_id": "94.06.04",
+    "name": "Mogou",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2008",
+    "district_id": "94.06.04",
+    "name": "Yametadi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2009",
+    "district_id": "94.06.04",
+    "name": "Duntek",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2010",
+    "district_id": "94.06.04",
+    "name": "Ekimani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.05.2001",
+    "district_id": "94.06.05",
+    "name": "Unito",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.05.2002",
+    "district_id": "94.06.05",
+    "name": "Sukikai",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.05.2003",
+    "district_id": "94.06.05",
+    "name": "Iyaro",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.05.2004",
+    "district_id": "94.06.05",
+    "name": "Wigoumakida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.06.2001",
+    "district_id": "94.06.06",
+    "name": "Abouyaga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.06.2002",
+    "district_id": "94.06.06",
+    "name": "Maikotu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.06.2003",
+    "district_id": "94.06.06",
+    "name": "Taubaikebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.06.2004",
+    "district_id": "94.06.06",
+    "name": "Yegoukotu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2001",
+    "district_id": "94.06.07",
+    "name": "Puweta I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2002",
+    "district_id": "94.06.07",
+    "name": "Pouwouda",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2003",
+    "district_id": "94.06.07",
+    "name": "Puweta II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2004",
+    "district_id": "94.06.07",
+    "name": "Botumoma",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2005",
+    "district_id": "94.06.07",
+    "name": "Obaibega",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2006",
+    "district_id": "94.06.07",
+    "name": "Digikebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2007",
+    "district_id": "94.06.07",
+    "name": "Bogiyateugi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2008",
+    "district_id": "94.06.07",
+    "name": "Matadi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2009",
+    "district_id": "94.06.07",
+    "name": "Tuwaida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2010",
+    "district_id": "94.06.07",
+    "name": "Yepo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2011",
+    "district_id": "94.06.07",
+    "name": "Ugikagouda",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.07.2012",
+    "district_id": "94.06.07",
+    "name": "Ugikebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2001",
+    "district_id": "94.06.08",
+    "name": "Ugapuga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2002",
+    "district_id": "94.06.08",
+    "name": "Deiyapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2003",
+    "district_id": "94.06.08",
+    "name": "Boduda",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2004",
+    "district_id": "94.06.08",
+    "name": "Yotapuga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2005",
+    "district_id": "94.06.08",
+    "name": "Bokaibutu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2006",
+    "district_id": "94.06.08",
+    "name": "Bunauwo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.08.2007",
+    "district_id": "94.06.08",
+    "name": "Nuwa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2001",
+    "district_id": "94.06.09",
+    "name": "Piyakunu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2002",
+    "district_id": "94.06.09",
+    "name": "Diyeugi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2003",
+    "district_id": "94.06.09",
+    "name": "Putaapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2004",
+    "district_id": "94.06.09",
+    "name": "Atou",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2005",
+    "district_id": "94.06.09",
+    "name": "Modio",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2006",
+    "district_id": "94.06.09",
+    "name": "Upibega",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2007",
+    "district_id": "94.06.09",
+    "name": "Timepa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2008",
+    "district_id": "94.06.09",
+    "name": "Gabaikunu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2009",
+    "district_id": "94.06.09",
+    "name": "Adauwo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.09.2010",
+    "district_id": "94.06.09",
+    "name": "Megaikebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2001",
+    "district_id": "94.06.10",
+    "name": "Dogimani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2002",
+    "district_id": "94.06.10",
+    "name": "Kigamani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2003",
+    "district_id": "94.06.10",
+    "name": "Idadagi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2004",
+    "district_id": "94.06.10",
+    "name": "Denemani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2005",
+    "district_id": "94.06.10",
+    "name": "Makidimi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2006",
+    "district_id": "94.06.10",
+    "name": "Egebutu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2007",
+    "district_id": "94.06.10",
+    "name": "Motito",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2008",
+    "district_id": "94.06.10",
+    "name": "Bobobutu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.10.2009",
+    "district_id": "94.06.10",
+    "name": "Pona",
+    "type": "DESA"
+  }
+]
