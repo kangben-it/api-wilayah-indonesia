@@ -1,0 +1,82 @@
+[
+  {
+    "id": "81.04.12.2001",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waelo",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2002",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Debowae",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2003",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Parbulu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2004",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waetina",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2005",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waeleman",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2006",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Basalale",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2007",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waflan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2008",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Dava",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2009",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waehata",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.12.2010",
+    "district_id": "81.04.12",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Widit",
+    "type": "DESA"
+  }
+]

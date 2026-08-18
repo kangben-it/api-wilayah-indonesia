@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.78.02.1001",
+    "district_id": "32.78.02",
+    "regency_id": "32.78",
+    "province_id": "32",
+    "name": "Panglayungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1002",
+    "district_id": "32.78.02",
+    "regency_id": "32.78",
+    "province_id": "32",
+    "name": "Cipedes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1003",
+    "district_id": "32.78.02",
+    "regency_id": "32.78",
+    "province_id": "32",
+    "name": "Nagarasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.78.02.1004",
+    "district_id": "32.78.02",
+    "regency_id": "32.78",
+    "province_id": "32",
+    "name": "Sukamanah",
+    "type": "KELURAHAN"
+  }
+]

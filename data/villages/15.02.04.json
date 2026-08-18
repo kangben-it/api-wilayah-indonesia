@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.02.04.2007",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2008",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tiangko",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2009",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Palipan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2010",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Seringat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2011",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Durian Lecah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2015",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Bukit Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2016",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Nilau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2017",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Manau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2025",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Benteng",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.04.2026",
+    "district_id": "15.02.04",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Gelanggang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "74.02.25.1003",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Meluhu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.25.2001",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Woerahi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2002",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lamelai",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2004",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Ahuhu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2005",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tudameaso",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2006",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Larowiu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2007",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Ahuloa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2008",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sambasule",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.25.2009",
+    "district_id": "74.02.25",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalopisi",
+    "type": "DESA"
+  }
+]

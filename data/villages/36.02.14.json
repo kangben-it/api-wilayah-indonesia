@@ -1,0 +1,130 @@
+[
+  {
+    "id": "36.02.14.1002",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Rangkasbitung Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.02.14.1006",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cijoro Lebak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.02.14.1007",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Muara Ciujung Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.02.14.1008",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cijoro Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.02.14.1012",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Muara Ciujung Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.02.14.2001",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Pasirtanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2009",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Citeras",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2010",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Nameng",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2011",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Kolelet Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2013",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Jatimulya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2014",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2016",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Pabuaran",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2017",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Rangkasbitung Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2019",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sukamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2021",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cimangeunteung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.14.2023",
+    "district_id": "36.02.14",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Narimbang Mulia",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "12.13.16.1008",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar II Natal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.16.1025",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar I Natal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.16.2001",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Balimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2002",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bintuas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2003",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bonda Kase",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2004",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Buburan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2005",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Kampung Sawah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2006",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Panggautan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2007",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pardamean Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2009",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar III Natal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2010",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar V Natal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2011",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Patiluban Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2012",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Patiluban Mudik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2013",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Perkebunan Patiluban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2014",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rukun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2015",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Setia Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2016",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikara Kara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2017",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikara Kara I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2018",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikara Kara II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2019",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikara Kara III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2020",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikara Kara IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2021",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sundutan Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2022",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Taluk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2023",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tegal Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2024",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tunas Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2026",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar VI Natal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2027",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sinunukan V",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2028",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2029",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sasaran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.16.2030",
+    "district_id": "12.13.16",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Kun-Kun",
+    "type": "DESA"
+  }
+]

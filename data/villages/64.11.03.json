@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.11.03.2001",
+    "district_id": "64.11.03",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Laham",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.03.2002",
+    "district_id": "64.11.03",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Gelawang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.03.2003",
+    "district_id": "64.11.03",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Muara Ratah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.03.2004",
+    "district_id": "64.11.03",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Danum Paroy",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.03.2005",
+    "district_id": "64.11.03",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Nyaribungan",
+    "type": "DESA"
+  }
+]

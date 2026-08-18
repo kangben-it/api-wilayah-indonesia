@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.01.19.2001",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Patimuan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2002",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Rawaapu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2003",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sidamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2004",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Purwadadi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2005",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Cinyawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2006",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Bulupayung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.19.2007",
+    "district_id": "33.01.19",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Cimrutu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.01.06.2001",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klawana",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2002",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klamono",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2003",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wariyau",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2004",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klalomon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2005",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2006",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Gisim Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2007",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mlais",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2008",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malasmiliy",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2009",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasafet",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.06.2010",
+    "district_id": "96.01.06",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Posa",
+    "type": "DESA"
+  }
+]

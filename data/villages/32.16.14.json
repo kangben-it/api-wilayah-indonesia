@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.16.14.2001",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukamurni",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2002",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukaindah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2003",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukakarya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2004",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukalaksana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2005",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2006",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukakarsa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.14.2007",
+    "district_id": "32.16.14",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukamakmur",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "96.01.09.1001",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Makbusun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.09.1002",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Makbalim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.09.1003",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Makotyamsa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.09.2004",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Jeflio",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2005",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Arar",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2006",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klain",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2007",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasmelek",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2008",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wen",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2009",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Warmon Kokoda",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2010",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Asjidba",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.09.2011",
+    "district_id": "96.01.09",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malamay",
+    "type": "DESA"
+  }
+]

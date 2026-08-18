@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.17.13.2001",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cibedug",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2002",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2003",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Bojongsalam",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2004",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cibitung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2005",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cicadas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2006",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cinengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2007",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Sukamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.13.2008",
+    "district_id": "32.17.13",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Sukaresmi",
+    "type": "DESA"
+  }
+]

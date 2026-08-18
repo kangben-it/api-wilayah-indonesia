@@ -1,0 +1,82 @@
+[
+  {
+    "id": "63.09.06.1001",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Belimbing Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.06.1002",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Belimbing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.06.1003",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Sulingan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.06.1006",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Mabu'un",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.06.1009",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Pembataan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.06.2004",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Maburai",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.06.2005",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kasiau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.06.2007",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kapar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.06.2008",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Masukau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.06.2010",
+    "district_id": "63.09.06",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kasiau Raya",
+    "type": "DESA"
+  }
+]

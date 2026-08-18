@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32.04.28.1014",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancaekek Kencana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.28.2001",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancaekek Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2002",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancaekek Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2003",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojongsalam",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2004",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojongloa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2005",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Jelegong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2006",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Linggar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2007",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cangkuang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2008",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Haurpugur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2009",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2010",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2011",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Tegal Sumedang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2012",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sangiang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.28.2013",
+    "district_id": "32.04.28",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Nanjung Mekar",
+    "type": "DESA"
+  }
+]

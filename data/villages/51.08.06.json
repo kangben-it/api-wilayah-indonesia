@@ -1,0 +1,234 @@
+[
+  {
+    "id": "51.08.06.1006",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Banyuasri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1007",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Banjar Tegal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1008",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kendran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1009",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Paket Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1010",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kampung Singaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1011",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Liligundi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1012",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Beratan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1019",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Banyuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1020",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Penarukan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1021",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kampung Kajanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1022",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Astina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1023",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Banjar Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1024",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kaliuntu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1025",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kampung Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1026",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kampung Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1027",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Banjar Bali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.1029",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.08.06.2001",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Kalibukbuk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2002",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Anturan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2003",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Tukadmungga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2004",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Pemaron",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2005",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Baktiseraga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2013",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Sarimekar",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2014",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Nagasepaha",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2015",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Petandakan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2016",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Alasangker",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2017",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Poh Bergong",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2018",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Jinengdalem",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.06.2028",
+    "district_id": "51.08.06",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Penglatan",
+    "type": "DESA"
+  }
+]

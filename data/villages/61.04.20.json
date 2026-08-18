@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61.04.20.2001",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Semandang Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.20.2002",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Gema",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.20.2003",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Mekar Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.20.2004",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kampar Sebomban",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.20.2005",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Batu Daya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.20.2006",
+    "district_id": "61.04.20",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kamora",
+    "type": "DESA"
+  }
+]

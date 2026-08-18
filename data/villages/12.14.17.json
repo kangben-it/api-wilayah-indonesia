@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.14.17.2001",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Tetegawa'ai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2002",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilimbaruzo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2003",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Luahandroito",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2005",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Orahuahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2006",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Ulu Mazo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2007",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Guigui",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2009",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilimaufa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2010",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Siofabanua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2011",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Tetegawa'ai Ehomo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.17.2013",
+    "district_id": "12.14.17",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Tafulu",
+    "type": "DESA"
+  }
+]

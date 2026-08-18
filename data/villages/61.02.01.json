@@ -1,0 +1,66 @@
+[
+  {
+    "id": "61.02.01.1006",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.01.1007",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.01.1009",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Terusan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.01.2001",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sengkubang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.01.2002",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Penibung",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.01.2003",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pasir",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.01.2013",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Kuala Secapah",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.01.2015",
+    "district_id": "61.02.01",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Malikian",
+    "type": "DESA"
+  }
+]

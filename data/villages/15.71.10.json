@@ -1,0 +1,42 @@
+[
+  {
+    "id": "15.71.10.1001",
+    "district_id": "15.71.10",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Sungai Putri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.10.1002",
+    "district_id": "15.71.10",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Murni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.10.1003",
+    "district_id": "15.71.10",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Legok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.10.1004",
+    "district_id": "15.71.10",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Selamat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.10.1005",
+    "district_id": "15.71.10",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Solok Sipin",
+    "type": "KELURAHAN"
+  }
+]

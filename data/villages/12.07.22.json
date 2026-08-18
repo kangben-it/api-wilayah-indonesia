@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.07.22.1004",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Deli Tua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.1005",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Deli Tua Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.1006",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Deli Tua Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.22.2001",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kedai Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.22.2002",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.22.2003",
+    "district_id": "12.07.22",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  }
+]

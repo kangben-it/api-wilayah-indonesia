@@ -1,0 +1,82 @@
+[
+  {
+    "id": "91.15.07.2002",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Fafado",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2003",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Wobari",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2013",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Aimasi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2014",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Mui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2015",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Waghare",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2016",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Ghaiwando",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2017",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Womorisi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2018",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Orambin",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2019",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Unareu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.07.2020",
+    "district_id": "91.15.07",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Ghaiwaru",
+    "type": "DESA"
+  }
+]

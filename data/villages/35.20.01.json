@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.20.01.1005",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Alastuwo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.20.01.2001",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Poncol",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2002",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Gonggang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2003",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Janggan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2004",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Genilangit",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2006",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Plangkrongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2007",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Cileng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.01.2008",
+    "district_id": "35.20.01",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Sombo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "74.06.03.1010",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Taubonto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.03.2001",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Rau Rau",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2008",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Ladumpi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2009",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Rarowatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2011",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lakomea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2012",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Pangkuri",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2013",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lampeantani",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2014",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Watu Kalangkari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.03.2015",
+    "district_id": "74.06.03",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Tahi ite",
+    "type": "DESA"
+  }
+]

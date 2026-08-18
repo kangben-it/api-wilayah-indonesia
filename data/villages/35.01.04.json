@@ -1,0 +1,202 @@
+[
+  {
+    "id": "35.01.04.1001",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sidoharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.01.04.1002",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Ploso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.01.04.1008",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Baleharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.01.04.1012",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Pucangsewu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.01.04.1013",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Pacitan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.01.04.2003",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2004",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sukoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2005",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Kayen",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2006",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sirnoboyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2007",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Arjowinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2009",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Bangunsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2010",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sedeng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2011",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sumberharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2014",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2015",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Menadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2016",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Mentoro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2017",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Purworejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2018",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Nanggungan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2019",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Widoro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2020",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Semanten",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2021",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sambong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2022",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Banjarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2023",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Bolosingo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2024",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Ponggok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.04.2025",
+    "district_id": "35.01.04",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Tambakrejo",
+    "type": "DESA"
+  }
+]

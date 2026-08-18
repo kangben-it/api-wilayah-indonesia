@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.13.26.2001",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sindangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2002",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pasanggrahan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2003",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Bojongloa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2004",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sukamelang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2005",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Tenjolaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2006",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kasomalang Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2007",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kasomalang Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.26.2008",
+    "district_id": "32.13.26",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cimanglid",
+    "type": "DESA"
+  }
+]

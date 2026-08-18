@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.04.04.2001",
+    "district_id": "13.04.04",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.04.2002",
+    "district_id": "13.04.04",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Limo Kaum",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.04.2003",
+    "district_id": "13.04.04",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Parambahan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.04.2004",
+    "district_id": "13.04.04",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Cubadak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.04.2005",
+    "district_id": "13.04.04",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Labuh",
+    "type": "DESA"
+  }
+]

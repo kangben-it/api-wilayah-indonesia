@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.03.06.2001",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Foley",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.06.2002",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Tomolol",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.06.2003",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Usaha Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.06.2004",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Limalas Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.06.2005",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Audam",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.06.2006",
+    "district_id": "96.03.06",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Limalas Barat",
+    "type": "DESA"
+  }
+]

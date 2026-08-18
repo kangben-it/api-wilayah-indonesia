@@ -1,0 +1,90 @@
+[
+  {
+    "id": "17.01.05.1009",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Gunung Ayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.1010",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Kota Medan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.1016",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.1017",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.1019",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Ibul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.1020",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Kapuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.05.2001",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Pagar Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.05.2004",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Niur",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.05.2005",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Tebat Kubu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.05.2006",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Gelumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.05.2018",
+    "district_id": "17.01.05",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Berangin",
+    "type": "DESA"
+  }
+]

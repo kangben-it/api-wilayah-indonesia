@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.05.09.2001",
+    "district_id": "13.05.09",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "III Koto Aur Malintang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.09.2002",
+    "district_id": "13.05.09",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "III Koto Aur Malintang Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.09.2003",
+    "district_id": "13.05.09",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "III Koto Aur Malintang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.09.2004",
+    "district_id": "13.05.09",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "III Koto Aur Malintang Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.09.2005",
+    "district_id": "13.05.09",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Balai Baiak Malai III Koto",
+    "type": "DESA"
+  }
+]

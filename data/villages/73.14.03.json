@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.14.03.1001",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lawawoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.03.1002",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Arawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.03.1003",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bangkai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.03.1004",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Uluale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.03.1005",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Batu Lappa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.03.2006",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lainungan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.03.2007",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Carawali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.03.2008",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Buae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.03.2009",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Mattirotasi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.03.2010",
+    "district_id": "73.14.03",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Ciro-Ciroe",
+    "type": "DESA"
+  }
+]

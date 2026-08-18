@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.04.06.2001",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Berindat",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.06.2002",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Sedamai",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.06.2003",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Lanjut",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.06.2004",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Kote",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.06.2005",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Persing",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.06.2006",
+    "district_id": "21.04.06",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Pelakak",
+    "type": "DESA"
+  }
+]

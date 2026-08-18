@@ -1,0 +1,98 @@
+[
+  {
+    "id": "19.01.02.1001",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Kuto Panji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1002",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Air Jukung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1003",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Bukit Ketok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1009",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Remodong Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1010",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Air Asam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1011",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Mantung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.1012",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Belinyu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.02.2004",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Gunung Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.02.2005",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Gunung Pelawan",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.02.2006",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Riding Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.02.2007",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Lumut",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.02.2008",
+    "district_id": "19.01.02",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Bintet",
+    "type": "DESA"
+  }
+]

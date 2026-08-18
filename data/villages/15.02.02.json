@@ -1,0 +1,66 @@
+[
+  {
+    "id": "15.02.02.1009",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pasar Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.02.1010",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pasar Bangko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.02.1011",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Dusun Bangko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.02.1013",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pematang Kandis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.02.2004",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kungkai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.02.2008",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Mudo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.02.2012",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Langling",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.02.2024",
+    "district_id": "15.02.02",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Kapas",
+    "type": "DESA"
+  }
+]

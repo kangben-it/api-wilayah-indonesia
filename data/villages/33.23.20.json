@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.23.20.2001",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Gemawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2002",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Muncar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2003",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kemiriombo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2004",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Ngadisepi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2005",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Krempong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2006",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Sucen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2007",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Karangseneng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2008",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Banaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2009",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kalibanger",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.20.2010",
+    "district_id": "33.23.20",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Jambon",
+    "type": "DESA"
+  }
+]

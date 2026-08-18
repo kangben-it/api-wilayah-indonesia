@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.02.02.2001",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Biloto",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2003",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kesetnana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2006",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Tuasene",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2008",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oinlasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2010",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Bisene",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2012",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noinbila",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.02.2013",
+    "district_id": "53.02.02",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Bikekneno",
+    "type": "DESA"
+  }
+]

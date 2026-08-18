@@ -1,0 +1,74 @@
+[
+  {
+    "id": "64.08.14.2001",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Mukti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2002",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Pulung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2003",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Margo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2004",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Rantau Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2005",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Manunggal Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2006",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Tanjung Labu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2007",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Kebon Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2008",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Tepian Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.14.2009",
+    "district_id": "64.08.14",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Masalap Raya",
+    "type": "DESA"
+  }
+]

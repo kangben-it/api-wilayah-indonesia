@@ -1,0 +1,122 @@
+[
+  {
+    "id": "18.10.01.1001",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Fajaresuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.10.01.1002",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Pringsewu Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.10.01.1003",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Pringsewu Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.10.01.1004",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Pringsewu Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.10.01.1005",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Pringsewu Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.10.01.2006",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Margakaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2007",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Waluyojati",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2008",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Sidoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2009",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Podomoro",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2010",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Bumi Arum",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2011",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Fajar Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2012",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Rejo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2013",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Bumi Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2014",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Podosari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.01.2015",
+    "district_id": "18.10.01",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Fajar Agung Barat",
+    "type": "DESA"
+  }
+]

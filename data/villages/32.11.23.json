@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.11.23.2001",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cisarua",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2002",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Ciuyah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2003",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cimara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2004",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Bantarmara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2005",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cipandanwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2006",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cisalak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.23.2007",
+    "district_id": "32.11.23",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Kebonkalapa",
+    "type": "DESA"
+  }
+]

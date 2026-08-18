@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.07.11.1001",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Simpang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.11.2002",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Rasau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2003",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2004",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Rambut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2005",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rawasari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.11.2006",
+    "district_id": "15.07.11",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Telaga Limo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.04.16.1002",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kamoro Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.16.1003",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wonosari Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.16.1005",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Inauga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.16.2001",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kadun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.16.2004",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Nawaripi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.16.2006",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Mawokau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.16.2007",
+    "district_id": "94.04.16",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Mandiri Jaya",
+    "type": "DESA"
+  }
+]

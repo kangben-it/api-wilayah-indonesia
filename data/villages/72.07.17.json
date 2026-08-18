@@ -1,0 +1,98 @@
+[
+  {
+    "id": "72.07.17.1009",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Sabang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.07.17.2001",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Sambulangan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2002",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Bangunemo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2003",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Paisuluno",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2004",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Montop",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2005",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Bolubung",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2006",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Bakalinga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2007",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Lukpanenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2008",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Koyobunga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2010",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Ombuli",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2011",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Minanga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.07.17.2012",
+    "district_id": "72.07.17",
+    "regency_id": "72.07",
+    "province_id": "72",
+    "name": "Mandok",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14.01.13.2001",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Salo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.13.2002",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Siabu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.13.2003",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Salo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.13.2004",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Sipungguk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.13.2005",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Ganting Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.13.2006",
+    "district_id": "14.01.13",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Ganting",
+    "type": "DESA"
+  }
+]

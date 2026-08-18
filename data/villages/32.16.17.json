@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.16.17.2001",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantai Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.17.2002",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantai Bahagia",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.17.2003",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantai Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.17.2004",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantai Harapanjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.17.2005",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantai Sederhana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.17.2006",
+    "district_id": "32.16.17",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Jayasakti",
+    "type": "DESA"
+  }
+]

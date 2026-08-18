@@ -1,0 +1,90 @@
+[
+  {
+    "id": "91.10.14.2001",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Arare",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2002",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Wakde",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2003",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Timron/Keder",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2004",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Dabe",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2005",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Nengke",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2006",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Finyabor",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2012",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Tambrawar",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2013",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Keder Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2014",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Finyabor Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2015",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Dabe Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.14.2016",
+    "district_id": "91.10.14",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Nengke Dua",
+    "type": "DESA"
+  }
+]

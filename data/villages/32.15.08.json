@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.15.08.2001",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Batujaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2002",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Telukambulu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2003",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Telukbango",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2004",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karyabhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2005",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Baturaden",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2006",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Segaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2007",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Segarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2008",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kutaampel",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2009",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karyamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.08.2010",
+    "district_id": "32.15.08",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karyamakmur",
+    "type": "DESA"
+  }
+]

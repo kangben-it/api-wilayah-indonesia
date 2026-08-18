@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17.07.05.1002",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Rimbo Pengadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.05.2009",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Ratau",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.05.2010",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Bioa Sengok",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.05.2011",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tik Kuto",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.05.2012",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Teluk Dien",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.05.2013",
+    "district_id": "17.07.05",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Bajok",
+    "type": "DESA"
+  }
+]

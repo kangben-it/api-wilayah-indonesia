@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.04.07.2001",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Jatiendah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.07.2002",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cilengkrang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.07.2003",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cipanjalu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.07.2004",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Melatiwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.07.2005",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Ciporeat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.07.2006",
+    "district_id": "32.04.07",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Girimekar",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "76.04.03.1001",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.03.2002",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2003",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sumberjo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2004",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Bumiayu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2005",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Kebunsari",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2006",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Banua Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2007",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Nepo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2008",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sugihwaras",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2009",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Campurjo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2010",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Bumimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2011",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tumpiling",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2012",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Bakka-Bakka",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2013",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Arjosari",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.03.2014",
+    "district_id": "76.04.03",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Galeso",
+    "type": "DESA"
+  }
+]

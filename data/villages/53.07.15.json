@@ -1,0 +1,90 @@
+[
+  {
+    "id": "53.07.15.1001",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Beru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.15.1002",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.15.1003",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Nangameting",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.15.1004",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Waioti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.15.1005",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Wairotang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.15.2006",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Koja Doi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.15.2007",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kojagete",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.15.2008",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Lepo Lima",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.15.2009",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Perumaan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.15.2010",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Watugong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.15.2011",
+    "district_id": "53.07.15",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Gong Bekor",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "74.12.01.1001",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Langara Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.12.01.2002",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Langara Iwawo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2003",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Wawolaa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2004",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Langara Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2005",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Lamoluo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2006",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Bukit Permai",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2007",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Wawobili",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2008",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Langaro Bajo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2009",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Mata Langara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2010",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Mata Baho",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2011",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Lanowatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2012",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Lantula",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2013",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2014",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "langkowala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2015",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Kawa-Kawali",
+    "type": "DESA"
+  },
+  {
+    "id": "74.12.01.2016",
+    "district_id": "74.12.01",
+    "regency_id": "74.12",
+    "province_id": "74",
+    "name": "Langara Tanjung Batu",
+    "type": "DESA"
+  }
+]

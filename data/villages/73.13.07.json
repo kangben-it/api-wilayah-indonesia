@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.13.07.1001",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Macero",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.07.1002",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Malangke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.07.1003",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Belawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.07.2004",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ongkoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.07.2005",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Leppangeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.07.2006",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Wele",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.07.2007",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Limporilau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.07.2008",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Sappa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.07.2009",
+    "district_id": "73.13.07",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lautang",
+    "type": "DESA"
+  }
+]

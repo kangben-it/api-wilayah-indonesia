@@ -1,0 +1,114 @@
+[
+  {
+    "id": "76.03.05.1001",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Lakahang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.05.2002",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Periangan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2003",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Malatiro",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2004",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tabulahan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2005",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Saluleang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2007",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tampak Kurra",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2008",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Gandang Dewata",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2009",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Burana",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2010",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salubakka",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2011",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pangandaran",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2012",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Talopak",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2013",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Peu'",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2014",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Timoro",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.05.2015",
+    "district_id": "76.03.05",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Lakahang Utama",
+    "type": "DESA"
+  }
+]

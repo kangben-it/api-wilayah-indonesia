@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.02.09.2004",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Wolaang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2005",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Teep",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2006",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Karondoran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2007",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Waleure",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2008",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Amongena I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2009",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Amongena II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2010",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sumarayar",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.09.2018",
+    "district_id": "71.02.09",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Amongena III",
+    "type": "DESA"
+  }
+]

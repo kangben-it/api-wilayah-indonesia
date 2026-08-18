@@ -1,0 +1,114 @@
+[
+  {
+    "id": "16.06.06.1038",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Babat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.06.1039",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mangun Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.06.2001",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sereka",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2002",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sugi Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2003",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sugi Waras",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2004",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Beruge",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2005",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Muara Punjung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2007",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2008",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Toman",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2009",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Kasmaran",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2022",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sungai Angit",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2023",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Srimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2042",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Pangkalan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.06.2043",
+    "district_id": "16.06.06",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Toman Baru",
+    "type": "DESA"
+  }
+]

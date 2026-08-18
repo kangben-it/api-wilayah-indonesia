@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.06.12.1001",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Benteng Somba Opu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.12.1005",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Lembang Parang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.12.2002",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Kanjilo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.12.2003",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Moncobalang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.12.2004",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tinggimae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.12.2006",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Biringala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.12.2007",
+    "district_id": "73.06.12",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tamannyeleng",
+    "type": "DESA"
+  }
+]

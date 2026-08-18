@@ -1,0 +1,210 @@
+[
+  {
+    "id": "61.03.01.1001",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Tanjung Kapuas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.1002",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Tanjung Sekayam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.1003",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Sengkuang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.1004",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Ilir Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.1005",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Beringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.1006",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Bunut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.03.01.2007",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Penyeladi",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2008",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Nanga Biang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2009",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Rambin",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2010",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Entakai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2011",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Pana",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2012",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Mengkiang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2013",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Kambong",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2014",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Mawang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2015",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Lape",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2016",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Penyalimau",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2017",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2018",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Semerangkai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2019",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2020",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Muntik",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2021",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Lintang Kapuas",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2022",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Lintang Pelaman",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2023",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Belangin",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2024",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Penyalimau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2025",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Tapang Dulang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.01.2026",
+    "district_id": "61.03.01",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Botuh Lintang",
+    "type": "DESA"
+  }
+]

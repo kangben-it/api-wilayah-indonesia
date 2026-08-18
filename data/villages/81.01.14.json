@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81.01.14.2001",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Liang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.14.2002",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Waai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.14.2003",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Tulehu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.14.2004",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Tial",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.14.2005",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Tengah Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.14.2006",
+    "district_id": "81.01.14",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Suli",
+    "type": "DESA"
+  }
+]

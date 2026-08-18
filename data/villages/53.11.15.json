@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.11.15.2001",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Prai Bakul",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.15.2002",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Katikutana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.15.2003",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Karipi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.15.2004",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Wangga Meti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.15.2005",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Katiku Wai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.15.2006",
+    "district_id": "53.11.15",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Katiku Luku",
+    "type": "DESA"
+  }
+]

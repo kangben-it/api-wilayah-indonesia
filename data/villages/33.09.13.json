@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.09.13.2001",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Pelem",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2002",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Bendungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2003",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Temon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2004",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Teter",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2005",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Simo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2006",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Walen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2007",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Pentur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2008",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2009",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Talakbroto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2010",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Kedunglengkong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2011",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Blagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2012",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Sumber",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.13.2013",
+    "district_id": "33.09.13",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Wates",
+    "type": "DESA"
+  }
+]

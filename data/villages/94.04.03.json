@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.04.03.1001",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wania",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.03.2002",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kaugapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.03.2003",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Poumako",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.03.2004",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Tipuka",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.03.2005",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Muare",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.03.2006",
+    "district_id": "94.04.03",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Hiripau",
+    "type": "DESA"
+  }
+]

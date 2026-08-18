@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.24.05.2001",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Berua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2002",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Esiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2003",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Dahana Hiligodu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2004",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilibanua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2005",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Sisarahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2006",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Sisobahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2007",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Lasara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2008",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Namohalu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2009",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Tuhenakhe I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2010",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Orahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.05.2011",
+    "district_id": "12.24.05",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Banua Sibohou",
+    "type": "DESA"
+  }
+]

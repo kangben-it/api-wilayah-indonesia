@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.14.14.2001",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Lawindra",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2003",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Sifaoro'asi Mola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2004",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hiliuso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2005",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Balohili Mola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2006",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Ambukha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2007",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Tobualo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2008",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilibadalu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2009",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Foikhugaga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2010",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Orlin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2011",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Orahili Mola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.14.2012",
+    "district_id": "12.14.14",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Umbunasi",
+    "type": "DESA"
+  }
+]

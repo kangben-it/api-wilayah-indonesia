@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21.05.08.2001",
+    "district_id": "21.05.08",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Mubur",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.08.2002",
+    "district_id": "21.05.08",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Piasan",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.08.2003",
+    "district_id": "21.05.08",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Bayat",
+    "type": "DESA"
+  }
+]

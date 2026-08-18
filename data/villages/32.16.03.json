@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.16.03.2001",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukaringin",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2002",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukabudi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2003",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukadaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2004",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2005",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukakerta",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2006",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukatenang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.03.2007",
+    "district_id": "32.16.03",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukamekar",
+    "type": "DESA"
+  }
+]

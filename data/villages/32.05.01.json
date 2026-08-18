@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.05.01.1001",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Kota Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1002",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Kota Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1003",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Margawati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1004",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Pakuwon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1005",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Muara Sanding",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1006",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukamentri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1007",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Ciwalen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1008",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Paminggir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1009",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Regol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1010",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukanegla",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.01.1011",
+    "district_id": "32.05.01",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cimuncang",
+    "type": "KELURAHAN"
+  }
+]

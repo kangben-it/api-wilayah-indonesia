@@ -1,0 +1,66 @@
+[
+  {
+    "id": "96.05.08.1001",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Ayamaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.05.08.2002",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Framu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2003",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Mefkajim II",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2004",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Fraharo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2005",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Smusswioh",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2006",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Twer",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2007",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Afes",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.08.2008",
+    "district_id": "96.05.08",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Tuso",
+    "type": "DESA"
+  }
+]

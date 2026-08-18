@@ -1,0 +1,130 @@
+[
+  {
+    "id": "15.05.02.1010",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Sengeti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.05.02.2001",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Suak Putat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2002",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Rantau Majo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2003",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Pulau Kayu Aro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2004",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Pematang Pulai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2005",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tan Tan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2006",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Kedotan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2007",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Keranggan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2008",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Berembang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2009",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Sekernan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2011",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Gerunggung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2012",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tunas Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2013",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Bukit Baling",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2014",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tanjung Lanjut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2015",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Suko Awin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.02.2016",
+    "district_id": "15.05.02",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tunas Mudo",
+    "type": "DESA"
+  }
+]

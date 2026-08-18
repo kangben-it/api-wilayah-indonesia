@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.24.09.2001",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Afulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2002",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Lauru Fadoro",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2003",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Lauru I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2004",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Ombolata Afulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2005",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Harewakhe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2006",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Sisobahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2007",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Lauru Lahewa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2008",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Sifaoro'asi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.09.2009",
+    "district_id": "12.24.09",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Faekhuna'a",
+    "type": "DESA"
+  }
+]

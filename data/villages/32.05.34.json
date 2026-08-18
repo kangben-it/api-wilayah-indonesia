@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.05.34.2001",
+    "district_id": "32.05.34",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Pakenjeng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.34.2002",
+    "district_id": "32.05.34",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Garumukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.34.2003",
+    "district_id": "32.05.34",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Panawa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.34.2004",
+    "district_id": "32.05.34",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Pananjung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.34.2005",
+    "district_id": "32.05.34",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Linggarjati",
+    "type": "DESA"
+  }
+]

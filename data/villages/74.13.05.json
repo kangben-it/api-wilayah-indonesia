@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.13.05.2001",
+    "district_id": "74.13.05",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Parura Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.05.2002",
+    "district_id": "74.13.05",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Katangana",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.05.2003",
+    "district_id": "74.13.05",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Kasimpa Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.05.2004",
+    "district_id": "74.13.05",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Sangia Tiworo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.05.2005",
+    "district_id": "74.13.05",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Barakkah",
+    "type": "DESA"
+  }
+]

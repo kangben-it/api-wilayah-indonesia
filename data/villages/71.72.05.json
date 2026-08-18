@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.72.05.1001",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Tanjung Merah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1002",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Sagerat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1003",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Manembo-nembo Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1007",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Manembo-nembo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1011",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Sagerat Weru Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1012",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Sagerat Weru Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1013",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Manembo-nembo Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.05.1014",
+    "district_id": "71.72.05",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Tendeki",
+    "type": "KELURAHAN"
+  }
+]

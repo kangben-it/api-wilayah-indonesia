@@ -1,0 +1,66 @@
+[
+  {
+    "id": "63.02.05.2001",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sekapung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2002",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Kanibungan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2003",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Mandin",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2004",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Serakaman",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2005",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sungai Bali",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2006",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Balambus",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2007",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Rampa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.05.2008",
+    "district_id": "63.02.05",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Ujung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "32.11.18.1001",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Kota Kaler",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.18.1002",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Situ",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.18.1003",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Talun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.18.2004",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Padasuka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2005",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Mulyasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2006",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Girimukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2007",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2008",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Margamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2009",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sirnamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2010",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Kebonjati",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2011",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Jatihurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2012",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Jatimulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.18.2013",
+    "district_id": "32.11.18",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Rancamulya",
+    "type": "DESA"
+  }
+]

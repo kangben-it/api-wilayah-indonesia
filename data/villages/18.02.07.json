@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.02.07.1002",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bandar Jaya Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.02.07.1003",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bandar Jaya Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.02.07.1004",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Yukum Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.02.07.2001",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Adi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2005",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Indra Putra Subing",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2006",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Karang Endah",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2007",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Nambah Dadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2008",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Ono Harjo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2009",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Terbanggi Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.07.2010",
+    "district_id": "18.02.07",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Poncowati",
+    "type": "DESA"
+  }
+]

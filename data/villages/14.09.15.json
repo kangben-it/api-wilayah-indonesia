@@ -1,0 +1,82 @@
+[
+  {
+    "id": "14.09.15.2001",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Perhentian Sungkai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2002",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Ibul",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2003",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Muarapetai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2004",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2005",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sungaibesar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2006",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Setiang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2007",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Muaro Tiu Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2008",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Muaratobek",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2009",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sungaibesar Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.15.2010",
+    "district_id": "14.09.15",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Kampung Baru Ibul",
+    "type": "DESA"
+  }
+]

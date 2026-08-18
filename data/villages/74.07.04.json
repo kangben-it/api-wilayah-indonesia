@@ -1,0 +1,74 @@
+[
+  {
+    "id": "74.07.04.1005",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Taipabu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.04.1007",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Palahidu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.04.1010",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.04.1012",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Rukuwa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.04.2006",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Makoro",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.04.2008",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Kampo Kampo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.04.2009",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Lagongga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.04.2011",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Palahidu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.04.2013",
+    "district_id": "74.07.04",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Jaya Makmur",
+    "type": "DESA"
+  }
+]

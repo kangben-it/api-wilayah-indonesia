@@ -1,0 +1,42 @@
+[
+  {
+    "id": "19.71.07.1001",
+    "district_id": "19.71.07",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Pasar Padi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.07.1002",
+    "district_id": "19.71.07",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Batu Intan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.07.1003",
+    "district_id": "19.71.07",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Bukit Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.07.1004",
+    "district_id": "19.71.07",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Sriwijaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.07.1005",
+    "district_id": "19.71.07",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Semabung Baru",
+    "type": "KELURAHAN"
+  }
+]

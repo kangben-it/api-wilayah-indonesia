@@ -1,0 +1,18 @@
+[
+  {
+    "id": "13.02.13.2001",
+    "district_id": "13.02.13",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Paninggahan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.13.2002",
+    "district_id": "13.02.13",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Muaro Pingai",
+    "type": "DESA"
+  }
+]

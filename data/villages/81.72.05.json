@@ -1,0 +1,58 @@
+[
+  {
+    "id": "81.72.05.2001",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Kanara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2002",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Warkar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2003",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Yapas",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2004",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Rumoin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2005",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Hirit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2006",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Tiflen",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.05.2007",
+    "district_id": "81.72.05",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Niela",
+    "type": "DESA"
+  }
+]

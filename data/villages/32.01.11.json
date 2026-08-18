@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.01.11.2001",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cidokom",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2002",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Padurenan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2003",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pengasinan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2004",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Curug",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2005",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Gunungsindur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2006",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Jampang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2007",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibadung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2008",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibinong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2009",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Rawakalong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.11.2010",
+    "district_id": "32.01.11",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabuaran",
+    "type": "DESA"
+  }
+]

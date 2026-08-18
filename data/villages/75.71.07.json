@@ -1,0 +1,42 @@
+[
+  {
+    "id": "75.71.07.1001",
+    "district_id": "75.71.07",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Tanggikiki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1002",
+    "district_id": "75.71.07",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Tapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1003",
+    "district_id": "75.71.07",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Bulotadaa Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1004",
+    "district_id": "75.71.07",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Bulotadaa Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.07.1005",
+    "district_id": "75.71.07",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Molosipat U",
+    "type": "KELURAHAN"
+  }
+]

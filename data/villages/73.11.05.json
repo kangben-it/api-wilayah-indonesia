@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.11.05.1001",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Palanro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.05.1002",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Mallawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.05.1003",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Bojo Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.05.2004",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Cilellang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.05.2005",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Manuba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.05.2006",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Nepo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.05.2007",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Kupa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.05.2008",
+    "district_id": "73.11.05",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Bojo",
+    "type": "DESA"
+  }
+]

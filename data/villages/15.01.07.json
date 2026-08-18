@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15.01.07.2004",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Tarutung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2006",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Lubuk Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2007",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Tamiai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2008",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Pematang Lingkung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2009",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Pasar Tamiai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2010",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Seberang Merangin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2011",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Baru Pulau Sangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2013",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Batang Merangin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.07.2014",
+    "district_id": "15.01.07",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Muara Hemat",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.14.02.1001",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Amparita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.1002",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Massepe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.1003",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Toddang Pulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.1004",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Pajalele",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.1005",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Baula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.1006",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Arateng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.02.2007",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Teteaji",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.02.2008",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Polewali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.02.2009",
+    "district_id": "73.14.02",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Teppo",
+    "type": "DESA"
+  }
+]

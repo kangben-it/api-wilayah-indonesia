@@ -1,0 +1,50 @@
+[
+  {
+    "id": "52.04.07.2001",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Batu Rotok",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.07.2002",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Tangkam Pulit",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.07.2003",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Bao Desa",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.07.2004",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Tepal",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.07.2005",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Batu Dulang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.07.2006",
+    "district_id": "52.04.07",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Kelungkung",
+    "type": "DESA"
+  }
+]

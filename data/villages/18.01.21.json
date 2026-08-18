@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18.01.21.2001",
+    "district_id": "18.01.21",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Semanak",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.21.2002",
+    "district_id": "18.01.21",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Toto Harjo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.21.2003",
+    "district_id": "18.01.21",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Hatta",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.21.2004",
+    "district_id": "18.01.21",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Bakauheni",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.21.2005",
+    "district_id": "18.01.21",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kelawi",
+    "type": "DESA"
+  }
+]

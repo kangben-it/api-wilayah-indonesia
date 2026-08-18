@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.03.11.2001",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Guruh Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2002",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Petiduran Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2003",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Butang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2004",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Butang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2005",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2006",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Jati Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2007",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Jati Baru Mudo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2008",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Meranti Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2009",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Meranti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.11.2010",
+    "district_id": "15.03.11",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Jernang Baru",
+    "type": "DESA"
+  }
+]

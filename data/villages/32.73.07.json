@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.73.07.1001",
+    "district_id": "32.73.07",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasteur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.07.1002",
+    "district_id": "32.73.07",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipedes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.07.1003",
+    "district_id": "32.73.07",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sukawarna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.07.1004",
+    "district_id": "32.73.07",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sukagalih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.07.1005",
+    "district_id": "32.73.07",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sukabungah",
+    "type": "KELURAHAN"
+  }
+]

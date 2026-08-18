@@ -1,0 +1,122 @@
+[
+  {
+    "id": "16.13.06.1009",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Karang Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.13.06.2001",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Bukit Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2002",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sukaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2003",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Lubuk Kumbung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2004",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Muara Batang Empu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2005",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2006",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Rantau Telang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2007",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Suka Menang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2008",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Terusan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2010",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Muara Tiku",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2011",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Embacang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2012",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Embacang Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2013",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Rantau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2014",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Bukit Langkap",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.06.2015",
+    "district_id": "16.13.06",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Embacang Baru Ilir",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "71.04.15.2001",
+    "district_id": "71.04.15",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Pulutan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.15.2002",
+    "district_id": "71.04.15",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Pulutan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.15.2003",
+    "district_id": "71.04.15",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Pulutan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.15.2004",
+    "district_id": "71.04.15",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Daran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.15.2005",
+    "district_id": "71.04.15",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Daran Utara",
+    "type": "DESA"
+  }
+]

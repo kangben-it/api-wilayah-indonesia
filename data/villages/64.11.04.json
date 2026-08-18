@@ -1,0 +1,82 @@
+[
+  {
+    "id": "64.11.04.2001",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Penaneh I",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2002",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Kerioq",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2003",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Penaneh II",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2004",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Tiong Ohang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2005",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Penaneh III",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2006",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Tiong Bu'u",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2007",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Naha Buan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2008",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Naha Tifab",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2009",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Naha Silat",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.04.2010",
+    "district_id": "64.11.04",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Apari",
+    "type": "DESA"
+  }
+]

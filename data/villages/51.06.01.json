@@ -1,0 +1,74 @@
+[
+  {
+    "id": "51.06.01.2001",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Apuan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2002",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Demulih",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2003",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Abuan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2004",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Susut",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2005",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Sulahan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2006",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Penglumbaran",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2007",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2008",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Selat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.01.2009",
+    "district_id": "51.06.01",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Pengiangan",
+    "type": "DESA"
+  }
+]

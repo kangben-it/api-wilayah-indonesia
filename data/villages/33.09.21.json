@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.09.21.2001",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Lampar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2002",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Dragan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2003",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Karanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2004",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Jemowo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2005",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Sumur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2006",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Sangup",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2007",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Mriyan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2008",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Lanjaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2009",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Karangkendal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.21.2010",
+    "district_id": "33.09.21",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Keposong",
+    "type": "DESA"
+  }
+]

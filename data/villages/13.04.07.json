@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.04.07.2001",
+    "district_id": "13.04.07",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Sungai Patai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.07.2002",
+    "district_id": "13.04.07",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Andaleh Baruh Bukik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.07.2003",
+    "district_id": "13.04.07",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.07.2004",
+    "district_id": "13.04.07",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Sungayang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.07.2005",
+    "district_id": "13.04.07",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Minang Kabau",
+    "type": "DESA"
+  }
+]

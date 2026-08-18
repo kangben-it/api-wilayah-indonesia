@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.08.14.2001",
+    "district_id": "81.08.14",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Telemar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.14.2002",
+    "district_id": "81.08.14",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Karbubu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.14.2003",
+    "district_id": "81.08.14",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ustutun",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.14.2004",
+    "district_id": "81.08.14",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Klishatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.14.2005",
+    "district_id": "81.08.14",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ilmamau",
+    "type": "DESA"
+  }
+]

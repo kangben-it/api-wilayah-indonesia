@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.72.02.1001",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Dwikora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1002",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Proklamasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1003",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Bantan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1004",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Timbang Galung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1005",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Simarito",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1006",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sipinggolpinggol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1007",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Banjar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.02.1008",
+    "district_id": "12.72.02",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Teladan",
+    "type": "KELURAHAN"
+  }
+]

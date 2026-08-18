@@ -1,0 +1,26 @@
+[
+  {
+    "id": "71.03.25.2001",
+    "district_id": "71.03.25",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Marore",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.25.2002",
+    "district_id": "71.03.25",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kawio",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.25.2003",
+    "district_id": "71.03.25",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Matutuang",
+    "type": "DESA"
+  }
+]

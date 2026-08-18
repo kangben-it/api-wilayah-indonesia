@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92.03.14.2001",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Darembang",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2002",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Goras",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2003",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Mitimber",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2004",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Waremu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2005",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Wos",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2006",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Mbahamdandra",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.14.2007",
+    "district_id": "92.03.14",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Goras Selatan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.72.03.1001",
+    "district_id": "32.72.03",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Citamiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.03.1002",
+    "district_id": "32.72.03",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Tipar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.03.1003",
+    "district_id": "32.72.03",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Nanggeleng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.03.1004",
+    "district_id": "32.72.03",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Gedong Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.03.1005",
+    "district_id": "32.72.03",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cikondang",
+    "type": "KELURAHAN"
+  }
+]

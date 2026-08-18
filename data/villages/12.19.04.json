@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.19.04.1001",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Lima Puluh Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.04.2011",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mangkai Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2012",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mangkai Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2014",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2015",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Kwala Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2016",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Antara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2017",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Lima Puluh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2018",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Limau Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2019",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Tanah Gambus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2025",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Simpang Gambus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2026",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sumber Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.04.2027",
+    "district_id": "12.19.04",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sumber Padi",
+    "type": "DESA"
+  }
+]

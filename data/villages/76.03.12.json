@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.03.12.2001",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Balla",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2002",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Balla Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2003",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Balla Satanetean",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2004",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Balla Tumuka",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2005",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Sepakuan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2006",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pidara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2007",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bambapuang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.12.2008",
+    "district_id": "76.03.12",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Balla Timur",
+    "type": "DESA"
+  }
+]

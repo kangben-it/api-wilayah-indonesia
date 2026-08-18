@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.02.28.2001",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bina Karya Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2002",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bina Karya Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2003",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bina Karya Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2004",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Joharan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2005",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Rantau Jaya Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2006",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Rantau Jaya Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2007",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bina Karya Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2008",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Meranggi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2009",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.28.2010",
+    "district_id": "18.02.28",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Rantau Jaya makmur",
+    "type": "DESA"
+  }
+]

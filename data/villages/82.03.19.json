@@ -1,0 +1,82 @@
+[
+  {
+    "id": "82.03.19.2001",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Salube",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2002",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Dama",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2003",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Dowonggila",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2004",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Tuakara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2005",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Jikolamo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2006",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Dagasuli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2007",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Dedeta",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2008",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Fitako",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2009",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Tobo Tobo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.19.2010",
+    "district_id": "82.03.19",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Cera",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.03.31.2001",
+    "district_id": "74.03.31",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Marobo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2002",
+    "district_id": "74.03.31",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Wadolao",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2003",
+    "district_id": "74.03.31",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Pasikuta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2004",
+    "district_id": "74.03.31",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Tapitapi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.31.2005",
+    "district_id": "74.03.31",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Poaroha",
+    "type": "DESA"
+  }
+]

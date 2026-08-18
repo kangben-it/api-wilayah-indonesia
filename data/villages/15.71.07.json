@@ -1,0 +1,58 @@
+[
+  {
+    "id": "15.71.07.1001",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Suka Karya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1002",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Simpang III Sipin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1004",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Paal Lima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1005",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Kenali Asam Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1006",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Kenali Asam Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1011",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Talang Gulo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.07.1012",
+    "district_id": "15.71.07",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Kenali Asam",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "17.05.01.1001",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Babatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.01.1025",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sukaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.01.2002",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Niur",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2003",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Lubuk Sahung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2011",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Bukit Peninjauan I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2026",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Padang Pelawi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2027",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Kayu Arang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2028",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Jenggalu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2029",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Cahaya Negeri",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2030",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Bukit Peninjauan II",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2032",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Riak Siabun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2033",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Padang Kuas",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2034",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Kuti Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2035",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Riak Siabun I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2036",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sido Luhur",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2037",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sumber Arung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2038",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sido Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2039",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sari Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2043",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Air Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2044",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sumber Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.01.2045",
+    "district_id": "17.05.01",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Air Petai",
+    "type": "DESA"
+  }
+]

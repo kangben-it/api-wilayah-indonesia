@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.10.20.2001",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sempu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2002",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Jambewangi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2003",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Karangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2004",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Temuguruh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2005",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gendoh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2006",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Temuasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.20.2007",
+    "district_id": "35.10.20",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Tegalarum",
+    "type": "DESA"
+  }
+]

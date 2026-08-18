@@ -1,0 +1,106 @@
+[
+  {
+    "id": "16.10.12.1007",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sungai Pinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.12.2001",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Serijabo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2002",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sungai Pinang II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2003",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Dukun",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2004",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Serian",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2005",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Penyandingan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2006",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sungai Pinang III",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2008",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Pinang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2009",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sungai Pinang I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2010",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Pinang Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2011",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "S. Pinang Lagati",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2012",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "S. Pinang Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.12.2013",
+    "district_id": "16.10.12",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Seri Jabo Baru",
+    "type": "DESA"
+  }
+]

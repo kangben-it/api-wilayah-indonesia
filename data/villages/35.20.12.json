@@ -1,0 +1,114 @@
+[
+  {
+    "id": "35.20.12.1005",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Mangge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.20.12.1006",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Tebon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.20.12.2001",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Bogorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2002",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Banjarejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2003",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Karangsono",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2004",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2007",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Manjung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2008",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Ngumpul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2009",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Panggung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2010",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Blaran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2011",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Jonggrang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2012",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Rejomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2013",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Bangunasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.12.2014",
+    "district_id": "35.20.12",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Klagen",
+    "type": "DESA"
+  }
+]

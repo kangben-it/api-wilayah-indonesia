@@ -1,0 +1,106 @@
+[
+  {
+    "id": "64.01.07.1001",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Komam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.01.07.2002",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Batu Botuk",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2003",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Uko",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2004",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Langon",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2005",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Binangon",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2006",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Kuaro",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2007",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Prayon",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2008",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Long Sayo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2009",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Payang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2010",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Lusan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2011",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Swan Slutung",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2012",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Sekuan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.07.2013",
+    "district_id": "64.01.07",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Selerong",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92.07.10.2001",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Yende",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2002",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Syabes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2003",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Menarbu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2004",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Niab",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2005",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Inday",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2006",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sariay",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.10.2007",
+    "district_id": "92.07.10",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Mena",
+    "type": "DESA"
+  }
+]

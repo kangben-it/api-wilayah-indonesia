@@ -1,0 +1,186 @@
+[
+  {
+    "id": "17.08.04.1003",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pensiunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1004",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pasar Kepahiangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1005",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pasar Ujung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1011",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Dusun Kepahiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1025",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Kampung Pensiunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1026",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pasar Sejantung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.1027",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Padang Lekat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.04.2001",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Kelilik",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2002",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Tebat Monok",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2006",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Permu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2007",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Imigrasi Permu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2008",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Karang Endah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2009",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Westkust",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2010",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Kampung Bogor",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2012",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Kuto Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2013",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2014",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Taba Tebelet",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2015",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pelangkian",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2016",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Kelobak",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2017",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pagar Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2023",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Sukamerindu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2028",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Bogor Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.04.2029",
+    "district_id": "17.08.04",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Permu bawah",
+    "type": "DESA"
+  }
+]

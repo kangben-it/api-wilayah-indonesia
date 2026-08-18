@@ -1,0 +1,250 @@
+[
+  {
+    "id": "14.03.01.1001",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Bengkalis Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.01.1002",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Damon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.01.1003",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Rimba Sekampung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.01.2004",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kelapapati",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2005",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pedekik",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2006",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pangkalan Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2007",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Sebauk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2008",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Teluk Latak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2009",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Meskom",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2010",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Senggoro",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2011",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Air Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2012",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Sungai Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2013",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Penampi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2014",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Temeran",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2015",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Penebal",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2016",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pematang Duku",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2017",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Ketam Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2018",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kelemantan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2019",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Sekodi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2020",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2021",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kuala Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2022",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kelebuk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2023",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Palkun",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2024",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Sungai Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2025",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Prapat Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2026",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Simpang Ayam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2027",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Senderak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2028",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kelemantan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2029",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2030",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pangkalan Batang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.01.2031",
+    "district_id": "14.03.01",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pematang Duku Timur",
+    "type": "DESA"
+  }
+]

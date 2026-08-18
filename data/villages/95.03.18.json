@@ -1,0 +1,82 @@
+[
+  {
+    "id": "95.03.18.2001",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Tangma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2002",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Wamarek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2003",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Hipela",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2004",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Huewi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2005",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Punno",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2006",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Simeka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2007",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Yeleas",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2008",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Aleleng",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2009",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Yalimo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.18.2010",
+    "district_id": "95.03.18",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Helo",
+    "type": "DESA"
+  }
+]

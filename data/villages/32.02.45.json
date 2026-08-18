@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.02.45.2001",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tegalbuleud",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2002",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bangbayang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2003",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sumberjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2004",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Calingcing",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2005",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nangela",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2006",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Rambay",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2007",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Buniasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.45.2008",
+    "district_id": "32.02.45",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sirnamekar",
+    "type": "DESA"
+  }
+]

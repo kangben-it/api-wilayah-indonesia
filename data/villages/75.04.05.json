@@ -1,0 +1,90 @@
+[
+  {
+    "id": "75.04.05.1001",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Libuo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.04.05.1002",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Pentadu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.04.05.1003",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Siduan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.04.05.2004",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Bunuyo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2005",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Sipayo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2006",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Soginti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2010",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Bumbulan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2012",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Maleo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2013",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Molamahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2014",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Buhu Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.05.2015",
+    "district_id": "75.04.05",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Kemiri",
+    "type": "DESA"
+  }
+]

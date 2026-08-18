@@ -1,0 +1,130 @@
+[
+  {
+    "id": "33.08.09.1003",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Mendut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.08.09.1004",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sawitan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.08.09.2001",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Progowati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2002",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Ngrajek",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2005",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Rambeanak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2006",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Paremono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2007",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Pabelan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2008",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2009",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Pagersari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2010",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Mungkid",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2011",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Ambartawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2012",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Bumirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2013",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Blondo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2014",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Senden",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2015",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Gondang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.09.2016",
+    "district_id": "33.08.09",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Treko",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.04.13.2001",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Kamasan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2002",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Banjaran Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2003",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Banjaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2005",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Ciapus",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2006",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sindangpanon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2007",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Kiangroke",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2008",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Tarajusari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2012",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2013",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Margahurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2016",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Neglasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.13.2018",
+    "district_id": "32.04.13",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Pasirmulya",
+    "type": "DESA"
+  }
+]

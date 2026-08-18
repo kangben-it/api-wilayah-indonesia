@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.22.14.2001",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Lara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2002",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2003",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2004",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Mukti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2005",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Mekarsari Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2006",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Mukti Tama",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2007",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Lembang-lembang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2008",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Lawewe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2009",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Polewali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.14.2010",
+    "district_id": "73.22.14",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Sumpira",
+    "type": "DESA"
+  }
+]

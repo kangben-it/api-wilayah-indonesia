@@ -1,0 +1,50 @@
+[
+  {
+    "id": "33.03.17.2001",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Purbasari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.17.2002",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Sirandu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.17.2003",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Karangjambu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.17.2004",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Sanguwatang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.17.2005",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Jingkang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.17.2006",
+    "district_id": "33.03.17",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Danasari",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "16.10.01.1011",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Muara Kuang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.01.2005",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Munggu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2006",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Seri Menanti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2007",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Rantau Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2008",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kuang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2009",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kasah",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2012",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanabang Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2013",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Seri Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2014",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Nagasari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2015",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Suka Cinta",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2016",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kelampadu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2029",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2030",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ramakasih",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.01.2031",
+    "district_id": "16.10.01",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanabang Ilir",
+    "type": "DESA"
+  }
+]

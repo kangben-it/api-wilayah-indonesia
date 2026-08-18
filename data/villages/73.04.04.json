@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.04.04.1001",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Togo Togo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.04.1002",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bonto Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.04.2003",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Maccinibaji",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.04.2008",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Camba Camba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.04.2009",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Kaluku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.04.2014",
+    "district_id": "73.04.04",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bungeng",
+    "type": "DESA"
+  }
+]

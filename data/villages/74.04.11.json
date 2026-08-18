@@ -1,0 +1,178 @@
+[
+  {
+    "id": "74.04.11.1005",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wakoko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1006",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wasaga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1020",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Holimombo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1021",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kombeli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1022",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Takimpo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1023",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Awainulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1026",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kambulabulana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1027",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Pasarwajo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.1028",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Saragi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.04.11.2002",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Waangu-angu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2003",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Warinta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2004",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Lapodi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2007",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kancinaa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2008",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Winning",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2017",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Holimombo Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2018",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kondowa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2019",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Dongkala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2024",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Laburunci",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2025",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Banabungi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2029",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kabawakole",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2030",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Mantowu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.11.2031",
+    "district_id": "74.04.11",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Kaongkeongkea",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.02.15.1001",
+    "district_id": "64.02.15",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.15.1002",
+    "district_id": "64.02.15",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Pendingin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.15.1003",
+    "district_id": "64.02.15",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sanga-Sanga Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.15.1004",
+    "district_id": "64.02.15",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sari Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.15.1005",
+    "district_id": "64.02.15",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sanga-Sanga Muara",
+    "type": "KELURAHAN"
+  }
+]

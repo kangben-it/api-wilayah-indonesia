@@ -1,0 +1,74 @@
+[
+  {
+    "id": "36.03.12.1005",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sindangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.12.1010",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kutabumi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.12.1012",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kuta Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.12.1014",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kuta Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.12.2001",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasar Kemis",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.12.2008",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukamantri",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.12.2011",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pangadegan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.12.2013",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Gelam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.12.2015",
+    "district_id": "36.03.12",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Suka Asih",
+    "type": "DESA"
+  }
+]

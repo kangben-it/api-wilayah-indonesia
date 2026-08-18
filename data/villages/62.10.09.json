@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62.10.09.1003",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Napoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.10.09.2001",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Siruk",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2002",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Mangkuhung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2004",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Masukih",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2005",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Rangan Hiran",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2006",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Harowu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2007",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Manyoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2008",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Lapan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2009",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Buntoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2010",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Koroi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.09.2011",
+    "district_id": "62.10.09",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Hatung",
+    "type": "DESA"
+  }
+]

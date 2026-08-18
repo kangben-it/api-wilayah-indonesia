@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81.05.02.2001",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Geser",
+    "type": "DESA"
+  },
+  {
+    "id": "81.05.02.2002",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Kiltay",
+    "type": "DESA"
+  },
+  {
+    "id": "81.05.02.2003",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Kilwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.05.02.2004",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Kellu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.05.02.2005",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Keffing",
+    "type": "DESA"
+  },
+  {
+    "id": "81.05.02.2028",
+    "district_id": "81.05.02",
+    "regency_id": "81.05",
+    "province_id": "81",
+    "name": "Kilfura",
+    "type": "DESA"
+  }
+]

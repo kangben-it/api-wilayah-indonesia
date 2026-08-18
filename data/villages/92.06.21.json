@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.06.21.2001",
+    "district_id": "92.06.21",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Weriagar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.21.2002",
+    "district_id": "92.06.21",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Mogotira",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.21.2003",
+    "district_id": "92.06.21",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Weriagar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.21.2004",
+    "district_id": "92.06.21",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Weriagar Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.21.2005",
+    "district_id": "92.06.21",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tuanaikin",
+    "type": "DESA"
+  }
+]

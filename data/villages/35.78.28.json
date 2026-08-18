@@ -1,0 +1,26 @@
+[
+  {
+    "id": "35.78.28.1001",
+    "district_id": "35.78.28",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Asem Rowo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.28.1002",
+    "district_id": "35.78.28",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Genting Kalianak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.28.1005",
+    "district_id": "35.78.28",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Tambak Sarioso",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17.07.01.1004",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.01.1006",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Pasar Muara Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.01.2002",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Gandung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2005",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tunggang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2007",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2014",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Nangai Amen",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2016",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Lebong Tambang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2022",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Ladang Palembang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2023",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kampung Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2024",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kampung Muara Aman",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2028",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Lokasari",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.01.2033",
+    "district_id": "17.07.01",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Gandung Baru",
+    "type": "DESA"
+  }
+]

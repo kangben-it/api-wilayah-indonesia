@@ -1,0 +1,98 @@
+[
+  {
+    "id": "76.03.02.1001",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Aralle",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.02.2003",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Ralle Anak",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2004",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Panetean",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2005",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Uhailanu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2007",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Aralle Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2009",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Uhaidaho",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2010",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Baruru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2015",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Ralleanak Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2016",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pamoseang Pangga",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2017",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Kalabe",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2018",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Aralle Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.02.2019",
+    "district_id": "76.03.02",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Hahangan",
+    "type": "DESA"
+  }
+]

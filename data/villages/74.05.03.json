@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.05.03.1002",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Alangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.05.03.1018",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Potoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.05.03.2001",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Andoolo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2004",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Alengge Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2010",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Bumi Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2014",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Lalobao",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2015",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Lalonggombu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2026",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Wunduwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2031",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Punggapu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.03.2033",
+    "district_id": "74.05.03",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Ataku",
+    "type": "DESA"
+  }
+]

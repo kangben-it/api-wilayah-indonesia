@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.72.04.1001",
+    "district_id": "64.72.04",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Selili",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1002",
+    "district_id": "64.72.04",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sungai Dama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1003",
+    "district_id": "64.72.04",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sidomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1013",
+    "district_id": "64.72.04",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sidodamai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.04.1014",
+    "district_id": "64.72.04",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Pelita",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.03.37.2001",
+    "district_id": "74.03.37",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Wangkolabu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2002",
+    "district_id": "74.03.37",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Lakarama",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2003",
+    "district_id": "74.03.37",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Moasi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2004",
+    "district_id": "74.03.37",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Renda",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.37.2005",
+    "district_id": "74.03.37",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Bhontu-Bhontu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.17.06.1006",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bulo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.06.2001",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tombang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2005",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lalong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2008",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2011",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Barammamase",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2012",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Walenrang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2015",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Saragi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2021",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Batusitanduk",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.06.2022",
+    "district_id": "73.17.06",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Kalibamamase",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "19.03.01.1001",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Toboali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.1002",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Teladan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.1003",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Tanjung Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.03.01.2004",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2005",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Jeriji",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2006",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Bikang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2007",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2008",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Rias",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2010",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Kepoh",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2012",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Keposang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.01.2013",
+    "district_id": "19.03.01",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Rindik",
+    "type": "DESA"
+  }
+]

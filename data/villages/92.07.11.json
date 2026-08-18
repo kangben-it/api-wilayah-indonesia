@@ -1,0 +1,26 @@
+[
+  {
+    "id": "92.07.11.2001",
+    "district_id": "92.07.11",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Waprak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.11.2002",
+    "district_id": "92.07.11",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Yomber",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.11.2003",
+    "district_id": "92.07.11",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Syeiwar",
+    "type": "DESA"
+  }
+]

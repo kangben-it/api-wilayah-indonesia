@@ -1,0 +1,66 @@
+[
+  {
+    "id": "81.72.01.2001",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Fiditan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2002",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Ngadi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2003",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Dullah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2004",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Labetawi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2005",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Tamedan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2006",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Ohoitahit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2007",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Ohoitel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.01.2008",
+    "district_id": "81.72.01",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Dullah Laut",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "14.06.10.2001",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Pasir Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2002",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Pasir Intan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2003",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Rambah Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2004",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Bangun Purba",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2005",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Bangun Purba Timur Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2006",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Bangun Purba Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.10.2007",
+    "district_id": "14.06.10",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Tangun",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "18.05.11.2001",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gunung Tapa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2002",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gedung Meneng",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2006",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Bakung Udik",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2007",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Bakung Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2008",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gedung Bandar Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2014",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gunung Tapa Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2015",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gunung Tapa Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2016",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gunung Tapa Udik",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2017",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gedung Bandar Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2018",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Bakung Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.11.2019",
+    "district_id": "18.05.11",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Gedung Meneng Baru",
+    "type": "DESA"
+  }
+]

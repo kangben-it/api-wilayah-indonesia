@@ -1,0 +1,162 @@
+[
+  {
+    "id": "12.07.26.1019",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kenangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.26.1020",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kenangan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.26.2001",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pematang Lalang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2002",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sambirejo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2003",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kolam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2004",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Percut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2005",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Laut Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2006",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tembung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2007",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Cinta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2008",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Amplas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2009",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Saentis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2010",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sampali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2011",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bandar Khalipah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2012",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bandar Klippa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2013",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2014",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2015",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Medan Estate",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2016",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Cinta Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2017",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bandar Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.26.2018",
+    "district_id": "12.07.26",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sei Rotan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.06.05.1007",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Merlung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.05.2005",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Penyabungan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2006",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Lubuk Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2008",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tanjung Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2012",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tanjung Benanak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2013",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Bukit Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2014",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Adi Purwa",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2018",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pinang Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2020",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Merlung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.05.2021",
+    "district_id": "15.06.05",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tanjung Makmur",
+    "type": "DESA"
+  }
+]

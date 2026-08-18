@@ -1,0 +1,90 @@
+[
+  {
+    "id": "18.08.05.2001",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Tulang Bawang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2002",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Mesir Udik",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2005",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Mesir Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2006",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Sapto Renggo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2007",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Giri Harjo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2009",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Bumi Agung Wates",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2017",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Serdang Kuring",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2024",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2025",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2026",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Kota Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.05.2027",
+    "district_id": "18.08.05",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Dewa Agung",
+    "type": "DESA"
+  }
+]

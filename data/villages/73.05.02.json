@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.05.02.1002",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Mangadu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.02.2001",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Lengkese",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.02.2003",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Topejawa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.02.2004",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Lakatong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.02.2007",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Banggae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.02.2008",
+    "district_id": "73.05.02",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontomanai",
+    "type": "DESA"
+  }
+]

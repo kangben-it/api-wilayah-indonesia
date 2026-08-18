@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.03.15.2001",
+    "district_id": "96.03.15",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Lilinta",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.15.2002",
+    "district_id": "96.03.15",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Gamta",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.15.2003",
+    "district_id": "96.03.15",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Biga",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.15.2004",
+    "district_id": "96.03.15",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Kapatcol",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.15.2005",
+    "district_id": "96.03.15",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Magey",
+    "type": "DESA"
+  }
+]

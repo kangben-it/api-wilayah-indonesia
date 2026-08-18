@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.73.03.1001",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Lubuk Kupang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1003",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Rahmah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1008",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Jukung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1009",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Air Kati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1010",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Air Teman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1011",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Perumnas Rahmah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.03.1012",
+    "district_id": "16.73.03",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Lubuk Binjai",
+    "type": "KELURAHAN"
+  }
+]

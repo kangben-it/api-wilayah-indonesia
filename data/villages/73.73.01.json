@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.73.01.1001",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Tompotikka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.01.1002",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Boting",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.01.1003",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Ammasangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.01.1005",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Lagaligo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.01.1011",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Dangerakko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.01.1012",
+    "district_id": "73.73.01",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Pajalesang",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.04.01.2011",
+    "district_id": "61.04.01",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Sungai Putri",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.01.2012",
+    "district_id": "61.04.01",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Tanjung Baik Budi",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.01.2013",
+    "district_id": "61.04.01",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kuala Tolak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.01.2014",
+    "district_id": "61.04.01",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kuala Satong",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.01.2015",
+    "district_id": "61.04.01",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Laman Satong",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "36.03.31.2001",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Solear",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2002",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cikuya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2003",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cikasungka",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2004",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cireundeu",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2005",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cikareo",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2006",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasanggrahan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.31.2007",
+    "district_id": "36.03.31",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Munjul",
+    "type": "DESA"
+  }
+]

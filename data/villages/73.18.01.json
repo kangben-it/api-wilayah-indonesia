@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.18.01.1009",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Pattan Ulusalu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.01.2010",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Salutandung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2011",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Rea Tulak Langi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2012",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Ratte Talonge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2013",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Sa'tandung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2014",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Ra'bung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2015",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Salutapokko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2016",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Salu Boronan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.01.2017",
+    "district_id": "73.18.01",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Batu Tiakka",
+    "type": "DESA"
+  }
+]

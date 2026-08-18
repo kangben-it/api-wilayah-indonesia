@@ -1,0 +1,50 @@
+[
+  {
+    "id": "93.04.25.2001",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Beco",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.25.2002",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Yuni",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.25.2003",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Buetkawar",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.25.2004",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Manep",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.25.2005",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Simini",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.25.2006",
+    "district_id": "93.04.25",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Fakan/Ani",
+    "type": "DESA"
+  }
+]

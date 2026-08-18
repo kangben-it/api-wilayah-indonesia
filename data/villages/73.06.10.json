@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.06.10.1001",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tamaona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.10.2002",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Ta'binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2003",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Erelembang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2004",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Kanreapia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2005",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Pao",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2006",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Balassuka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2007",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Mamampang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2008",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tonasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.10.2009",
+    "district_id": "73.06.10",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bolaromang",
+    "type": "DESA"
+  }
+]

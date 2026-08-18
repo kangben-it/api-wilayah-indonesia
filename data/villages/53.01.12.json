@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.01.12.1003",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Lelogama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.01.12.2001",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Fatusuki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.12.2002",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oelbanu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.12.2004",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Fatumetan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.12.2005",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oh'aem",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.12.2008",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Leloboko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.12.2011",
+    "district_id": "53.01.12",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oh'aem II",
+    "type": "DESA"
+  }
+]

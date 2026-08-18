@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.05.01.1001",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Banggae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.1003",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.1007",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Pangali Ali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.1009",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Totoli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.1010",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Rangas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.1013",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Galung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.01.2011",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Palipi Soreang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.01.2012",
+    "district_id": "76.05.01",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Pamboborang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "52.06.17.2001",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kaboro",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.17.2002",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.17.2003",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Sambori",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.17.2004",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Teta",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.17.2005",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kaowa",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.17.2006",
+    "district_id": "52.06.17",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Londu",
+    "type": "DESA"
+  }
+]

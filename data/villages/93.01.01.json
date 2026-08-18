@@ -1,0 +1,130 @@
+[
+  {
+    "id": "93.01.01.1002",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Samkai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1003",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Karang Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1004",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Mandala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1005",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Maro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1006",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kelapa Lima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1007",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Rimba Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1009",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Bambu Pemali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1010",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Seringgu Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1011",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kamundu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1012",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kamahedoga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.1013",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Muli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.01.01.2001",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Nasem",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.01.2008",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Wasur",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.01.2014",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Bokem",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.01.2015",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Buti",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.01.2016",
+    "district_id": "93.01.01",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Nggolar",
+    "type": "DESA"
+  }
+]

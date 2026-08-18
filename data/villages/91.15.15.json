@@ -1,0 +1,82 @@
+[
+  {
+    "id": "91.15.15.2001",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Mambai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2002",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Soyoi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2003",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Daimboa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2004",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Napani",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2005",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Segha",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2006",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Wainarisi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2007",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Fafarui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2008",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Dawoa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2009",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Sinabo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.15.2010",
+    "district_id": "91.15.15",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Woinui",
+    "type": "DESA"
+  }
+]

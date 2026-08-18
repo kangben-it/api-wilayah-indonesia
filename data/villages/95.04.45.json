@@ -1,0 +1,90 @@
+[
+  {
+    "id": "95.04.45.2001",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Biuk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2002",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Guburini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2003",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Yiluk/Kondenggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2004",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Yugu Mabur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2005",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Tomagipura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2006",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Yiyogobak/Kibur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2007",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Galubup",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2008",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Mbinime/Jinulira",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2009",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Wonabu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2010",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Tomagi/Gubagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.45.2011",
+    "district_id": "95.04.45",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Purugi",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.05.13.2001",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Serang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2002",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kalitengah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2003",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2004",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Panggungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2005",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sumbersih",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2006",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kaligambir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2007",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Bumiayu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2008",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Panggungasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2009",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sumberagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.13.2010",
+    "district_id": "35.05.13",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Balerejo",
+    "type": "DESA"
+  }
+]

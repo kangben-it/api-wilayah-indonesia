@@ -1,0 +1,58 @@
+[
+  {
+    "id": "13.06.06.2001",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Padang Lua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2002",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Taluak Ampek Suku",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2003",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Pakan Sinayan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2004",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Kubang Putiah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2005",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Ladang Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2006",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Cingkariang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.06.2007",
+    "district_id": "13.06.06",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Sungai Tanang",
+    "type": "DESA"
+  }
+]

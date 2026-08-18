@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.02.30.2001",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oelbubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.30.2002",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nekemunifeto",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.30.2003",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Binaus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.30.2004",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oel'Ekam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.30.2005",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kualeu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.30.2006",
+    "district_id": "53.02.30",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Pika",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.14.04.1002",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Onatali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.14.04.2001",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Maubesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2003",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Nggodimeda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2004",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Limakoli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2005",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Lidamanu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2010",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Suebela",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2011",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Lidabesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.04.2013",
+    "district_id": "53.14.04",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Siomeda",
+    "type": "DESA"
+  }
+]

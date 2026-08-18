@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.14.03.2001",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kemiri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2002",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Janjangwulung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2003",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Palangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2004",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Puspo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2005",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Jimbaran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2006",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Pusungmalang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.03.2007",
+    "district_id": "35.14.03",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Keduwung",
+    "type": "DESA"
+  }
+]

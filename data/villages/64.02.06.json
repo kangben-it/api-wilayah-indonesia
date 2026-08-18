@@ -1,0 +1,114 @@
+[
+  {
+    "id": "64.02.06.1001",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Jahab",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1002",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Ipuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1003",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Bukit Biru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1004",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Timbau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1005",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Melayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1006",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Panji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1007",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sukarame",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1008",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1009",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Tebu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1010",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Mangkurawang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1011",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Maluhu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.1013",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Ipuh Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.06.2012",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Rapak Lambur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.06.2014",
+    "district_id": "64.02.06",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Bendang Raya",
+    "type": "DESA"
+  }
+]

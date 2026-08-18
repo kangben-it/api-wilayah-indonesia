@@ -1,0 +1,66 @@
+[
+  {
+    "id": "15.09.10.2001",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Pinang Belai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2002",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sekutur Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2003",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Bukit Pemuatan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2004",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Napal Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2005",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sako Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2006",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Pagar Puding Lamo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2007",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tanjung Aur Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.10.2008",
+    "district_id": "15.09.10",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Melintang",
+    "type": "DESA"
+  }
+]

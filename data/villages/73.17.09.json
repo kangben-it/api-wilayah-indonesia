@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.17.09.1001",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lamasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.09.2007",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Salujambu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2008",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Wiwitan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2010",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Setiarejo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2011",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pongsamelung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2014",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Padang Kalua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2020",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "To'pongo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2022",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Se'pon",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2024",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Awo' Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.09.2026",
+    "district_id": "73.17.09",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Wiwitan Timur",
+    "type": "DESA"
+  }
+]

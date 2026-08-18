@@ -1,0 +1,42 @@
+[
+  {
+    "id": "82.08.02.2001",
+    "district_id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Nggele",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2002",
+    "district_id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Salati",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2003",
+    "district_id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2004",
+    "district_id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Kasango",
+    "type": "DESA"
+  },
+  {
+    "id": "82.08.02.2005",
+    "district_id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Onemay",
+    "type": "DESA"
+  }
+]

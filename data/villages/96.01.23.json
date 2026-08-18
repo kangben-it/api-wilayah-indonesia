@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.01.23.2001",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Saengkeduk",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.23.2002",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Selekobo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.23.2003",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Suye",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.23.2004",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klamede",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.23.2005",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sambatie",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.23.2006",
+    "district_id": "96.01.23",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klagele",
+    "type": "DESA"
+  }
+]

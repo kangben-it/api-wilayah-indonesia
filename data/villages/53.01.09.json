@@ -1,0 +1,74 @@
+[
+  {
+    "id": "53.01.09.1002",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Nonbes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.01.09.2001",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oesena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2003",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Ponain",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2004",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Kotabes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2005",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tesbatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2006",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oenoni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2007",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Apren",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2008",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oenoni II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.09.2009",
+    "district_id": "53.01.09",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tesbatan II",
+    "type": "DESA"
+  }
+]

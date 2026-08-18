@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.14.19.2001",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Sambulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2002",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Orahili Ulunoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2003",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hiliwaebu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2004",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Amorosa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2005",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Marao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2006",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Borowosi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2007",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilimaera",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2008",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2009",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Loloana'a",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2010",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilifakhe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2011",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Bawo Lolomatua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2012",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Ambukha I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.19.2013",
+    "district_id": "12.14.19",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Puncak Lolomatua",
+    "type": "DESA"
+  }
+]

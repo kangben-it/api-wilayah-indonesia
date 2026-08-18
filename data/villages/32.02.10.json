@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.02.10.2001",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikembar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2002",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Parakanlima",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2003",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2004",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2005",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongkembar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2006",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2007",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibatu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2008",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Kertaraharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2009",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.10.2010",
+    "district_id": "32.02.10",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongraharja",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "16.05.09.1003",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Pasar Muara Beliti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.09.2001",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Pedang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2002",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Muara Beliti Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2004",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Mana Resmi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2005",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2014",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Suro",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2015",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Tanah Periuk",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2016",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Ketuan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2017",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Air Satan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2018",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Durian Remuk",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2019",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Satan Indah Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.09.2020",
+    "district_id": "16.05.09",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Air Lesing",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "36.01.25.1001",
+    "district_id": "36.01.25",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Kadumerak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.01.25.1002",
+    "district_id": "36.01.25",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cigadung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.01.25.1003",
+    "district_id": "36.01.25",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Pagadungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.01.25.1014",
+    "district_id": "36.01.25",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Juhut",
+    "type": "KELURAHAN"
+  }
+]

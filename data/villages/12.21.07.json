@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12.21.07.1001",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pasar Sibuhuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.21.07.2002",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sibuhuan Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2003",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Bangun Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2004",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Purba Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2005",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Handis Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2006",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sialambue",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2007",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sibuhuan Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2008",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Janjilobi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2021",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Tanjung Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2022",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Tanjung Botung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2023",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Tanobato",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2024",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Hutarimbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2025",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sayur Matua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2037",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Bulusonik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2038",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Arsesimatorkis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2039",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pancaukan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.07.2040",
+    "district_id": "12.21.07",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pagaran Baringin",
+    "type": "DESA"
+  }
+]

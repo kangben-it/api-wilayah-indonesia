@@ -1,0 +1,50 @@
+[
+  {
+    "id": "33.75.04.1002",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Banyurip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.04.1003",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Buaran Kradenan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.04.1004",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Jenggot",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.04.1006",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Kuripan Kertoharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.04.1008",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Kuripan Yosorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.04.1010",
+    "district_id": "33.75.04",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Sokoduwet",
+    "type": "KELURAHAN"
+  }
+]

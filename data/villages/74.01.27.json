@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.01.27.2001",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Tamborasi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2002",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Ladahai",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2003",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lasiroku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2004",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Iwoimendaa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2005",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lambopini",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2006",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Ulu Kalo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2007",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Wonualaku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2008",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lawolia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2009",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Watumelewe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.27.2010",
+    "district_id": "74.01.27",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Landoula",
+    "type": "DESA"
+  }
+]

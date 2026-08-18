@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.02.06.2001",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Batu Banyak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.06.2002",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Batu Bajanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.06.2003",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Koto Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.06.2004",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Limau Lunggo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.06.2005",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Koto Gadang Koto Anau",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.06.2006",
+    "district_id": "13.02.06",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Selayo Tanang B. Sileh",
+    "type": "DESA"
+  }
+]

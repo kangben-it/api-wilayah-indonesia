@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.72.07.1001",
+    "district_id": "32.72.07",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cibeureum Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.07.1002",
+    "district_id": "32.72.07",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Babakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.07.1003",
+    "district_id": "32.72.07",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Sindangpalay",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.07.1004",
+    "district_id": "32.72.07",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Limusnunggal",
+    "type": "KELURAHAN"
+  }
+]

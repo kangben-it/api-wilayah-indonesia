@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17.07.07.2001",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Karang Dapo Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2002",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Bukit Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2003",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Karang Dapo Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2004",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Pungguk Pedaro",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2005",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Kerinci",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2006",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Pelabuhan Talang Liak",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2007",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Liak I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2008",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Liak II",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.07.2009",
+    "district_id": "17.07.07",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Bungin",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.78.08.1001",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Gubeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.08.1002",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Mojo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.08.1003",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Airlangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.08.1004",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kertajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.08.1005",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Baratajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.08.1006",
+    "district_id": "35.78.08",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pucang Sewu",
+    "type": "KELURAHAN"
+  }
+]

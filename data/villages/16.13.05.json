@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16.13.05.1004",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Karang Dapo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.13.05.2001",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Aringin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2002",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Biaro Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2003",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Biaro Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2005",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Rantau Kadam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2006",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Kerta Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2007",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Karang Dapo I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2008",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Setia Marga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.05.2009",
+    "district_id": "16.13.05",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Bina Karya",
+    "type": "DESA"
+  }
+]

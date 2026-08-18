@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.04.08.1001",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tegaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.08.1009",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Amal Bakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.08.1010",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Bandar Sri Gemilang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.08.2002",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kuala Selat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2003",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaisimbar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2004",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Penjuru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2005",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sari Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2006",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Air Tawar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2007",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjungraja",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2008",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiteritip",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.08.2011",
+    "district_id": "14.04.08",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Makmur Jaya",
+    "type": "DESA"
+  }
+]

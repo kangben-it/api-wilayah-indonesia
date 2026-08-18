@@ -1,0 +1,114 @@
+[
+  {
+    "id": "19.05.04.1001",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Kelapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.04.2002",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Mancung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2003",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Kayu Arang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2004",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Pusuk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2005",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2006",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Kacung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2007",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Sinar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2008",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Beruas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2009",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Tebing",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2010",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Terentang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2011",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Tuik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2012",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Tugang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2013",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Air Bulin",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.04.2014",
+    "district_id": "19.05.04",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Pangkal Beras",
+    "type": "DESA"
+  }
+]

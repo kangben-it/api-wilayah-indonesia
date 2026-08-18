@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34.01.07.2001",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Tawangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2002",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Karangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2003",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Kedungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2004",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Margosari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2005",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Pengasih",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2006",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Sendangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.07.2007",
+    "district_id": "34.01.07",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  }
+]

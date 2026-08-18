@@ -1,0 +1,66 @@
+[
+  {
+    "id": "75.02.03.2001",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Dulupi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2002",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Tabongo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2003",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Kotaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2004",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Polohungo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2005",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Pangi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2006",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Tangga Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2007",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Tanah Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "75.02.03.2008",
+    "district_id": "75.02.03",
+    "regency_id": "75.02",
+    "province_id": "75",
+    "name": "Tangga Barito",
+    "type": "DESA"
+  }
+]

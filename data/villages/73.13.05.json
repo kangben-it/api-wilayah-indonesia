@@ -1,0 +1,146 @@
+[
+  {
+    "id": "73.13.05.1001",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Paria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.05.1002",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Limpomajang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.05.1003",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Macanang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.05.1004",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Uraiyang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.05.2005",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tosora",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2006",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Cinnong Tabi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2007",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Rumpia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2008",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Laerung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2009",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lamiku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2010",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bottobenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2011",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bottotanre",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2012",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2013",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tajo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2014",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tengnga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2015",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Liu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2016",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tellulimpoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2017",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bottopenno",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.05.2018",
+    "district_id": "73.13.05",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Watanrumpia",
+    "type": "DESA"
+  }
+]

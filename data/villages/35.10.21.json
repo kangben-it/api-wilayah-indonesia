@@ -1,0 +1,74 @@
+[
+  {
+    "id": "35.10.21.1001",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kalipuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.21.1002",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Klatak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.21.1006",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gombengsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.21.1007",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bulusan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.21.2003",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Ketapang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.21.2004",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Pesucen",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.21.2005",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kelir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.21.2008",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Telemung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.21.2009",
+    "district_id": "35.10.21",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bulusari",
+    "type": "DESA"
+  }
+]

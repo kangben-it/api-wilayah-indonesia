@@ -1,0 +1,122 @@
+[
+  {
+    "id": "74.02.05.1001",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sampara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.05.1007",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Rawua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.05.2006",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Andepali",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2008",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Andaroa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2009",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Puuloro",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2012",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Andadowi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2027",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Totombe Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2028",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bao-Bao",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2030",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Wawolimbue",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2036",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Baini",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2038",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Polua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2041",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Pohara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2048",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bondoala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2052",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Konggamea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.05.2057",
+    "district_id": "74.02.05",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Wowa Andaroa",
+    "type": "DESA"
+  }
+]

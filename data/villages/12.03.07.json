@@ -1,0 +1,170 @@
+[
+  {
+    "id": "12.03.07.1001",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sigalangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.07.1060",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pintu Padang I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.07.1061",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pintu Padang II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.07.1068",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bangun Purba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.07.2005",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2016",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sidadi I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2018",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Janji Manaon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2020",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sitampa Simatoras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2021",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pasar Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2027",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Benteng Huraba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2029",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Padang Kahombu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2030",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sorik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2045",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sibulele Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2047",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bargot Topong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2053",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sigulang Losung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2055",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hurase",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2057",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sorimadingin PP",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2058",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huta Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2062",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tahalak Ujung Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2063",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sidadi II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.07.2067",
+    "district_id": "12.03.07",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Gunung",
+    "type": "DESA"
+  }
+]

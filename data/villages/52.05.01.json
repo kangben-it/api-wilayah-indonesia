@@ -1,0 +1,122 @@
+[
+  {
+    "id": "52.05.01.1001",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Bada",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.1002",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Bali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.1003",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Potu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.1004",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Karijawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.1005",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Dora Tangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.1006",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Kandai I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.01.2007",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "O'o",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2008",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Katua",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2009",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Karamabura",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2010",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Mbawi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2011",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Dore Bara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2012",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Kareke",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2013",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Mangge Nae",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2014",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Manggeasi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.01.2015",
+    "district_id": "52.05.01",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Sori Sakolo",
+    "type": "DESA"
+  }
+]

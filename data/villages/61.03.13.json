@@ -1,0 +1,58 @@
+[
+  {
+    "id": "61.03.13.2001",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Teraju",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2002",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Belungai Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2003",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sansat",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2004",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2005",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Bagan Asam",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2006",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Lumut",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.13.2007",
+    "district_id": "61.03.13",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Balai Belungai",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "93.01.04.2001",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kimaam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2002",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Komolom",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2003",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kumbis",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2004",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kalilam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2005",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Teri",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2006",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Mambum",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2007",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kiworo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2008",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Woner",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2009",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Deka",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2010",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Turiram",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2011",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Purawanderu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2012",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Umanderu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.04.2013",
+    "district_id": "93.01.04",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Webu",
+    "type": "DESA"
+  }
+]

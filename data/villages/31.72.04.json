@@ -1,0 +1,58 @@
+[
+  {
+    "id": "31.72.04.1001",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Cilincing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1002",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Sukapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1003",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Marunda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1004",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Kalibaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1005",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Semper Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1006",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Rorotan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.04.1007",
+    "district_id": "31.72.04",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Semper Barat",
+    "type": "KELURAHAN"
+  }
+]

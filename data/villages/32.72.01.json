@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.72.01.1001",
+    "district_id": "32.72.01",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Gunung Puyuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.01.1002",
+    "district_id": "32.72.01",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Karamat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.01.1003",
+    "district_id": "32.72.01",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Sriwidari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.01.1004",
+    "district_id": "32.72.01",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Karang Tengah",
+    "type": "KELURAHAN"
+  }
+]

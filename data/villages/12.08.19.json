@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.08.19.2001",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Jawa Maraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2002",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Moho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2003",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bahalat Bayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2004",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Mekar Bahalat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2005",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Tanjung Maraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2006",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Mariah Jambi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2007",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Joga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.19.2008",
+    "district_id": "12.08.19",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Jambi",
+    "type": "DESA"
+  }
+]

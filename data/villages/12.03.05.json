@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.03.05.1001",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pasar Sipagimbar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.05.1080",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Simotung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.05.2018",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simangambat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2069",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sidapdap Simanosor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2070",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Saut Banua Simanosor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2071",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Damparan Haunatas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2072",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Somba Debata Purba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2073",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Padang Mandailing Garugur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2074",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Ulu Mamis Situnggaling",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2075",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Parau Sorat Sitabo-tabo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2076",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pintu Padang Mandalasena",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2077",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sunge Sigiring-giring",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2078",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Silangkitang Tambiski",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.05.2079",
+    "district_id": "12.03.05",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batang Parsuluman",
+    "type": "DESA"
+  }
+]

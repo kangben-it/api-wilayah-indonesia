@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.14.01.1001",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Nagri Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1002",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Nagri Kaler",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1003",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Nagri Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1004",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Sindangkasih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1005",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cipaisan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1006",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Purwamekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1007",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Ciseureuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1008",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Tegalmunjul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.1009",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Munjuljaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.14.01.2010",
+    "district_id": "32.14.01",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Citalang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.12.05.2001",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tunggulpayung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2002",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tugu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2003",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Nunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2004",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tempel",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2005",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pangauban",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2006",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Telagasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2007",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Langgengsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2008",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tamansari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2009",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Lelea",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2010",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Cempeh",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.05.2011",
+    "district_id": "32.12.05",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tempel Kulon",
+    "type": "DESA"
+  }
+]

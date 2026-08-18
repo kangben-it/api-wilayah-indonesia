@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.20.07.2001",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Mororejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2009",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Suwawal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2010",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Sinanggul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2011",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2012",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Srobyong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2013",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Sekuro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2014",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Karanggondang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.07.2015",
+    "district_id": "33.20.07",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Jambu Timur",
+    "type": "DESA"
+  }
+]

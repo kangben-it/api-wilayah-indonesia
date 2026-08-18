@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.01.12.1001",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puundoho",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.12.2002",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Longori",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2003",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puubunga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2004",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puulemo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2005",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puubenua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2006",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Baula",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2007",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Pewutaa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2008",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Watalara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2009",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puuroda",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.12.2010",
+    "district_id": "74.01.12",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Ulu Baula",
+    "type": "DESA"
+  }
+]

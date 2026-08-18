@@ -1,0 +1,42 @@
+[
+  {
+    "id": "36.71.04.1001",
+    "district_id": "36.71.04",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Belendung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.04.1002",
+    "district_id": "36.71.04",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Jurumudi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.04.1003",
+    "district_id": "36.71.04",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Benda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.04.1004",
+    "district_id": "36.71.04",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Pajang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.04.1005",
+    "district_id": "36.71.04",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Jurumudi Baru",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.06.36.2001",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Gombong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2002",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Bugel",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2003",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Margasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2004",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pakemitan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2005",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Ciawi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2006",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukamantri",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2007",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pasirhuni",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2008",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Citamba",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2009",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Kertamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2010",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Kurniabakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.36.2011",
+    "district_id": "32.06.36",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pakemitankidul",
+    "type": "DESA"
+  }
+]

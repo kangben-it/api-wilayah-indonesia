@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.76.03.1001",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Pasir Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1002",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Bedahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1003",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Pengasinan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1009",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Cinangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1010",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Sawangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1011",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Sawangan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.03.1012",
+    "district_id": "32.76.03",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Kedaung",
+    "type": "KELURAHAN"
+  }
+]

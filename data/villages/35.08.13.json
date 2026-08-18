@@ -1,0 +1,74 @@
+[
+  {
+    "id": "35.08.13.2001",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Wonokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2002",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Pakel",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2003",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Kenongo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2004",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Gucialit",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2005",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Dadapan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2006",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Kertowono",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2007",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Tunjung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2008",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Jeruk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.13.2009",
+    "district_id": "35.08.13",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Sombo",
+    "type": "DESA"
+  }
+]

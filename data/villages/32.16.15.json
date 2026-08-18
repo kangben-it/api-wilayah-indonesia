@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.16.15.2001",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2002",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2003",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukahurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2004",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukaasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2005",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukarukun",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2006",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Banjarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.15.2007",
+    "district_id": "32.16.15",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukadarma",
+    "type": "DESA"
+  }
+]

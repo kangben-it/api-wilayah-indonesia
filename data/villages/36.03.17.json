@@ -1,0 +1,58 @@
+[
+  {
+    "id": "36.03.17.1001",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Curug Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.17.1005",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukabakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.17.1006",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Binong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.17.2002",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Curug Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.17.2003",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kadu",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.17.2004",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kadu Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.17.2010",
+    "district_id": "36.03.17",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cukanggalih",
+    "type": "DESA"
+  }
+]

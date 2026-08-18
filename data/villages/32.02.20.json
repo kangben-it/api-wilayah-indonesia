@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.20.2001",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Waluran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.20.2002",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.20.2003",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Caringinnunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.20.2004",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Mekarmukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.20.2005",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Mangunjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.20.2006",
+    "district_id": "32.02.20",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Waluran Mandiri",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "96.01.05.1001",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Aimas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1002",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malawili",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1003",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malawele",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1004",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mariat Pantai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1005",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mariat Gunung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1007",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Warmon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1008",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klabinain",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1009",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malasom",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1010",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klaigit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1012",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malagusa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.1013",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klafma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.05.2006",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Maibo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.05.2011",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Aimo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.05.2014",
+    "district_id": "96.01.05",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malasaum",
+    "type": "DESA"
+  }
+]

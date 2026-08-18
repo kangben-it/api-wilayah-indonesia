@@ -1,0 +1,42 @@
+[
+  {
+    "id": "52.06.16.2001",
+    "district_id": "52.06.16",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Paradowane",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.16.2002",
+    "district_id": "52.06.16",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Paradorato",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.16.2003",
+    "district_id": "52.06.16",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.16.2004",
+    "district_id": "52.06.16",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kanca",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.16.2005",
+    "district_id": "52.06.16",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Lere",
+    "type": "DESA"
+  }
+]

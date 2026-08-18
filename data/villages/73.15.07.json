@@ -1,0 +1,130 @@
+[
+  {
+    "id": "73.15.07.1001",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Tadokkong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.07.1002",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Betteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.07.2003",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Binanga Karaeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2004",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Rajang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2005",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Letta",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2006",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Ulu Saddang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2007",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Suppirang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2008",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Basseang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2009",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Kariango",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2010",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Benteng Paremba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2011",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Pakeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2012",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Lembang Mesakada",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2013",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Sali Sali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2014",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Sabbang Paru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2015",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Bakaru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.07.2016",
+    "district_id": "73.15.07",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Pangaparang",
+    "type": "DESA"
+  }
+]

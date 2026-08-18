@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.07.07.1001",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Pasir Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.07.07.2002",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Batu Belerang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2003",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Biji Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2004",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Barambang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2005",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Bonto Sinala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2006",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Kassi Buleng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2007",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Bonto Katute",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.07.2008",
+    "district_id": "73.07.07",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Bonto Tengnga",
+    "type": "DESA"
+  }
+]

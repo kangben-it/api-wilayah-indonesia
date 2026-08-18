@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.12.01.1001",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Kolonodale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.12.01.1002",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Bahontula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.12.01.1003",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Bahoue",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.12.01.2004",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Ganda-Ganda",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2005",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Koya",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2006",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Gililana",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2007",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Tanauge",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2008",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Korololaki",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2009",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Korololama",
+    "type": "DESA"
+  },
+  {
+    "id": "72.12.01.2010",
+    "district_id": "72.12.01",
+    "regency_id": "72.12",
+    "province_id": "72",
+    "name": "Koromatantu",
+    "type": "DESA"
+  }
+]

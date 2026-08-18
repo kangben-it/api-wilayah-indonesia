@@ -1,0 +1,90 @@
+[
+  {
+    "id": "15.02.05.1002",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Dusun Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.05.1003",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pasar Rantau Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.05.1005",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kampung Baruh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.05.1020",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Mampun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.05.1036",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pasar Baru Rantau Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.05.2007",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kandang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.05.2008",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Koto Rayo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.05.2011",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanjung Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.05.2014",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Beluran Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.05.2015",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Seling",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.05.2035",
+    "district_id": "15.02.05",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Lubuk Napal",
+    "type": "DESA"
+  }
+]

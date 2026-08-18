@@ -1,0 +1,66 @@
+[
+  {
+    "id": "92.06.01.1001",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Bintuni Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.06.01.1002",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Bintuni Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.06.01.2004",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tuasai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.01.2005",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Argosigemerai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.01.2009",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Beimes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.01.2010",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Iguriji",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.01.2022",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Masina",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.01.2026",
+    "district_id": "92.06.01",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Wesiri",
+    "type": "DESA"
+  }
+]

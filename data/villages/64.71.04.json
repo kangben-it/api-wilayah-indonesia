@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.71.04.1001",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Gunung Sari Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1002",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Gunung Sari Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1003",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Karang Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1004",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Karang Jati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1005",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Mekar Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.04.1006",
+    "district_id": "64.71.04",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Sumber Rejo",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.08.12.2001",
+    "district_id": "81.08.12",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ketty",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.12.2002",
+    "district_id": "81.08.12",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Letoda",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.12.2003",
+    "district_id": "81.08.12",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Sera",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.12.2004",
+    "district_id": "81.08.12",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Yamluli",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.12.2005",
+    "district_id": "81.08.12",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Lolotuara",
+    "type": "DESA"
+  }
+]

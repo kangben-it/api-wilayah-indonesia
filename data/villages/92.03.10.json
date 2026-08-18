@@ -1,0 +1,74 @@
+[
+  {
+    "id": "92.03.10.1001",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Wagom",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.10.1002",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Wagom Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.10.1003",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Dulanpokpok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.10.2004",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Tanama",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.10.2005",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kapaurtutin",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.10.2006",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Sekban",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.10.2007",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Torea",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.10.2008",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Sekru",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.10.2009",
+    "district_id": "92.03.10",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Sukuru Tuare",
+    "type": "DESA"
+  }
+]

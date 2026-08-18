@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.10.15.2001",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Kembahang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2002",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Lubuk Keliat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2003",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Embacang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2004",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kasih Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2005",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Tengah Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2006",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Betung II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2007",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ketiau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2008",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Payalingkung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2009",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Betung I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.15.2010",
+    "district_id": "16.10.15",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Tengah Laut",
+    "type": "DESA"
+  }
+]

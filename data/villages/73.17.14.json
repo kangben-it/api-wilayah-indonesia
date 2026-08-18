@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.17.14.1001",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Sabe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.14.1004",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pammanu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.14.2002",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lamunre",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.14.2003",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lauwa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.14.2005",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Seppong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.14.2006",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Paconne",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.14.2007",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lebani",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.14.2008",
+    "district_id": "73.17.14",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lamunre Tengah",
+    "type": "DESA"
+  }
+]

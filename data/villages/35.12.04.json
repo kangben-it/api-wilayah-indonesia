@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.12.04.2001",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Alas Bayur",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2002",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumberanyar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2003",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Campoan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2004",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Trebungan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2005",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumber Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2006",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Selomukti",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.04.2007",
+    "district_id": "35.12.04",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Mlandingan Kulon",
+    "type": "DESA"
+  }
+]

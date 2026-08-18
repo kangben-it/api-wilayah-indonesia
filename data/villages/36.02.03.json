@@ -1,0 +1,90 @@
+[
+  {
+    "id": "36.02.03.2001",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Bayah Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2002",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sawarna",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2006",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cidikit",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2007",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Suwakan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2008",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cimancak",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2011",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Darmasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2013",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Bayah Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2014",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cisuren",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2016",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Pasirgombong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2017",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sawarna Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.03.2018",
+    "district_id": "36.02.03",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Pamubulan",
+    "type": "DESA"
+  }
+]

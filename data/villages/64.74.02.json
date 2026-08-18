@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.74.02.1001",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Tanjung Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.02.1002",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Berbas Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.02.1003",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Berbas Pantai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.02.1004",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Satimpo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.02.1005",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Bontang Lestari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.02.1006",
+    "district_id": "64.74.02",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Tanjung Laut Indah",
+    "type": "KELURAHAN"
+  }
+]

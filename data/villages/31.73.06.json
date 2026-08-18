@@ -1,0 +1,42 @@
+[
+  {
+    "id": "31.73.06.1001",
+    "district_id": "31.73.06",
+    "regency_id": "31.73",
+    "province_id": "31",
+    "name": "Kalideres",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.73.06.1002",
+    "district_id": "31.73.06",
+    "regency_id": "31.73",
+    "province_id": "31",
+    "name": "Semanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.73.06.1003",
+    "district_id": "31.73.06",
+    "regency_id": "31.73",
+    "province_id": "31",
+    "name": "Tegal Alur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.73.06.1004",
+    "district_id": "31.73.06",
+    "regency_id": "31.73",
+    "province_id": "31",
+    "name": "Kamal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.73.06.1005",
+    "district_id": "31.73.06",
+    "regency_id": "31.73",
+    "province_id": "31",
+    "name": "Pegadungan",
+    "type": "KELURAHAN"
+  }
+]

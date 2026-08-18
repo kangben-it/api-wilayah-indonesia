@@ -1,0 +1,50 @@
+[
+  {
+    "id": "92.06.13.2001",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Horna",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.13.2002",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Cumnaji",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.13.2003",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Menci",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.13.2004",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Sir",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.13.2005",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Huss",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.13.2006",
+    "district_id": "92.06.13",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Ugdohop",
+    "type": "DESA"
+  }
+]

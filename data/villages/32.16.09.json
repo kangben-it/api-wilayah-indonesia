@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.16.09.2001",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Cikarangkota",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2002",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Karangbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2003",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Karangasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2004",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Waluya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2005",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Karangraharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2006",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pasirgombong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2007",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Simpangan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2008",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2009",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Harjamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2010",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Mekarmukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.09.2011",
+    "district_id": "32.16.09",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Wangunharja",
+    "type": "DESA"
+  }
+]

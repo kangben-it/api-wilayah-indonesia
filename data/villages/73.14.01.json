@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.14.01.1001",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bilokka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.01.1002",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Wette'E",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.01.1003",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lajonga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.01.2004",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Wanio",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2005",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Wanio Timoreng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2006",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Corawali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2007",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lise",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2008",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bapangi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2009",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Alesalewo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.01.2010",
+    "district_id": "73.14.01",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Cenrana",
+    "type": "DESA"
+  }
+]

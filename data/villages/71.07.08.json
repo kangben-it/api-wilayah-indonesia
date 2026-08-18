@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.07.08.2001",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2002",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2003",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2004",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2005",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2006",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2007",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2008",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2009",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.08.2010",
+    "district_id": "71.07.08",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Silian Timur",
+    "type": "DESA"
+  }
+]

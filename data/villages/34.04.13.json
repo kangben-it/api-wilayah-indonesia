@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.04.13.2001",
+    "district_id": "34.04.13",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Caturharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2002",
+    "district_id": "34.04.13",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Triharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2003",
+    "district_id": "34.04.13",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Tridadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2004",
+    "district_id": "34.04.13",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Pandowoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.13.2005",
+    "district_id": "34.04.13",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Trimulyo",
+    "type": "DESA"
+  }
+]

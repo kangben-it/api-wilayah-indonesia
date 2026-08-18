@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.01.26.2001",
+    "district_id": "53.01.26",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Nunuanah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.26.2002",
+    "district_id": "53.01.26",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Kifu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.26.2003",
+    "district_id": "53.01.26",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Netemnanu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.26.2004",
+    "district_id": "53.01.26",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Netemnanu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.26.2005",
+    "district_id": "53.01.26",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Netemnanu",
+    "type": "DESA"
+  }
+]

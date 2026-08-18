@@ -1,0 +1,26 @@
+[
+  {
+    "id": "81.08.16.2001",
+    "district_id": "81.08.16",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Hila",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.16.2002",
+    "district_id": "81.08.16",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Jerusu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.16.2003",
+    "district_id": "81.08.16",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Solath",
+    "type": "DESA"
+  }
+]

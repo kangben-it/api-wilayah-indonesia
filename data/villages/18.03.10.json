@@ -1,0 +1,114 @@
+[
+  {
+    "id": "18.03.10.1001",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kelapa Tujuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.10.1002",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Tanjung Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.10.1003",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kota Alam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.10.1011",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Tanjung Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.10.1012",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Tanjung Senang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.10.2004",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Mulang Maya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2005",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Bandar Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2006",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Karang Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2007",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Curup Guruh",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2008",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Jerangkang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2009",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Way Melan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2010",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Taman Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2013",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Alam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.10.2014",
+    "district_id": "18.03.10",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Sinar Mas Alam",
+    "type": "DESA"
+  }
+]

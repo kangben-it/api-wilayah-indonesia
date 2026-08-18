@@ -1,0 +1,50 @@
+[
+  {
+    "id": "72.71.05.1001",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Buluri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.05.1002",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Donggala Kodi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.05.1003",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Kabonena",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.05.1004",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Silae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.05.1005",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Watusampu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.05.1006",
+    "district_id": "72.71.05",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Tipo",
+    "type": "KELURAHAN"
+  }
+]

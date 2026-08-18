@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.04.25.2001",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Gonone",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2002",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Kakupang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2003",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Kurunga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2004",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Liboba Hijrah",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2005",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Pulau Gala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2006",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Tawabi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.25.2007",
+    "district_id": "82.04.25",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Yomen",
+    "type": "DESA"
+  }
+]

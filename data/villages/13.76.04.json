@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.76.04.1001",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Sungai Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.76.04.1002",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Parit Muko Aie",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.76.04.1003",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Parambahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.76.04.1004",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Padang Sikabu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.76.04.1005",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Koto Panjang Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.76.04.1006",
+    "district_id": "13.76.04",
+    "regency_id": "13.76",
+    "province_id": "13",
+    "name": "Koto Panjang Dalam",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "16.04.10.1031",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lahat Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1032",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Gunung Gajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1033",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pagar Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1037",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1038",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1040",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1041",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pasar Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1042",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pasar Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1043",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "RD. PJKA",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1046",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Bandar Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1051",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Kota Negara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1052",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Kota Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1054",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "RD. PJKA Bandar Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1058",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Sari Bunga Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1059",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Bandar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1060",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Jawa Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.1061",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Jawa Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.10.2012",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Padang Lengkuas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2027",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Selawi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2030",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Sukanegara",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2034",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Kota Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2035",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Keban",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2036",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pagar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2039",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Pagar Negara",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2049",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Senabing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2050",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Manggul",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2053",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Ulak Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2055",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Giri Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2056",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Makarti Tama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.10.2057",
+    "district_id": "16.04.10",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Ulak Mas",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "91.03.17.2001",
+    "district_id": "91.03.17",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yongsu Sapari",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.17.2002",
+    "district_id": "91.03.17",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yongsu Dosoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.17.2003",
+    "district_id": "91.03.17",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Newa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.17.3004",
+    "district_id": "91.03.17",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Nechive",
+    "type": "DESA ADAT"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.07.04.2001",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2002",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Sadananya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2003",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Werasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2004",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Mangkubumi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2005",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2006",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Bendasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2007",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.04.2008",
+    "district_id": "32.07.04",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Mekarjadi",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.06.06.1009",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Dongkala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.06.1010",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lambale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.06.2005",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Wumbuburo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.06.2006",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Balo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.06.2007",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Toli-Toli",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.06.2008",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Tapuhaka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.06.2011",
+    "district_id": "74.06.06",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Bungi-Bungi",
+    "type": "DESA"
+  }
+]

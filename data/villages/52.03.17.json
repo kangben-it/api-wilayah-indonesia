@@ -1,0 +1,98 @@
+[
+  {
+    "id": "52.03.17.1004",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.03.17.1005",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Suryawangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.03.17.1007",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Ijobalit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.03.17.1012",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Geres",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.03.17.2001",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Labuhan Haji",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2002",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Peneda Gandor",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2003",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Teros",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2006",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Korleko",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2008",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Kertasari",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2009",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Tirtanadi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2010",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Banjarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.17.2011",
+    "district_id": "52.03.17",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Korleko Selatan",
+    "type": "DESA"
+  }
+]

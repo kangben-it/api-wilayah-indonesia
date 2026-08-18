@@ -1,0 +1,114 @@
+[
+  {
+    "id": "94.04.01.1001",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Koperapoka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1002",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kwamki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1003",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Timika Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1007",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Sempan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1008",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Pasar Sentral",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1009",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wanagon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1010",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kebun Sirih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1011",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Otomona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1012",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Perintis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1013",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Dingo Narama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.1014",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Timika Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.01.2004",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Nayaro",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.01.2005",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Minabua",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.01.2006",
+    "district_id": "94.04.01",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Hangaitji",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "74.08.03.1001",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Batu Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.08.03.2002",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Latowu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2003",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Mosiku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2004",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Lelewawo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2011",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Batu Api",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2012",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Bukit Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2015",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Bukit Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2016",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Parung Lampe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2017",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Puncak Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2020",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Tetebawo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.03.2021",
+    "district_id": "74.08.03",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Makkuaseng",
+    "type": "DESA"
+  }
+]

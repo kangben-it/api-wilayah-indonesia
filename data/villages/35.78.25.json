@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.25.1001",
+    "district_id": "35.78.25",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Gunung Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.25.1002",
+    "district_id": "35.78.25",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Rungkut Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.25.1003",
+    "district_id": "35.78.25",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Rungkut Menanggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.25.1004",
+    "district_id": "35.78.25",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Gunung Anyar Tambak",
+    "type": "KELURAHAN"
+  }
+]

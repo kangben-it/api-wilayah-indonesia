@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.01.10.1001",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Camplong I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.01.10.2007",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Camplong II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2008",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Naunnu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2009",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oebola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2010",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Sillu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2011",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Ekateta",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2012",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Kuimasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2013",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tolnaku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2014",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oebola Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.10.2015",
+    "district_id": "53.01.10",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Kiuoni",
+    "type": "DESA"
+  }
+]

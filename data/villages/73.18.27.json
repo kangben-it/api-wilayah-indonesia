@@ -1,0 +1,42 @@
+[
+  {
+    "id": "73.18.27.1001",
+    "district_id": "73.18.27",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tambunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1002",
+    "district_id": "73.18.27",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Sarira",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1003",
+    "district_id": "73.18.27",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bungin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1004",
+    "district_id": "73.18.27",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Lion Tondok Iring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.27.1005",
+    "district_id": "73.18.27",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Lemo",
+    "type": "KELURAHAN"
+  }
+]

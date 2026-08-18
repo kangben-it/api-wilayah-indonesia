@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.08.19.2001",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Lansek Kadok",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.19.2002",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Lubuak Layang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.19.2003",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Tanjung Betung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.19.2004",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Lansek Kadok Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.19.2005",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Tanjung Betung Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.19.2006",
+    "district_id": "13.08.19",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Tanjung Betung Timur",
+    "type": "DESA"
+  }
+]

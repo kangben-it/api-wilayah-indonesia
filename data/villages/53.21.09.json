@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.21.09.2001",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Raiulun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.09.2002",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Wemeda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.09.2003",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Kusa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.09.2004",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Numponi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.09.2005",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Dirma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.09.2006",
+    "district_id": "53.21.09",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Sanleo",
+    "type": "DESA"
+  }
+]

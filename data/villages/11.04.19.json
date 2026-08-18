@@ -1,0 +1,82 @@
+[
+  {
+    "id": "11.04.19.2001",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Merah Said",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2002",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Berawang Dewal",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2003",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Gegarang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2004",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Telege Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2005",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Jeget Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2006",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Paya Tungel",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2007",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Jagong Jeget",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2008",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Bukit Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2009",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Bukit Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "11.04.19.2010",
+    "district_id": "11.04.19",
+    "regency_id": "11.04",
+    "province_id": "11",
+    "name": "Paya Dedep",
+    "type": "DESA"
+  }
+]

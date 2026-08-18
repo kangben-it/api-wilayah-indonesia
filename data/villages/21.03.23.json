@@ -1,0 +1,18 @@
+[
+  {
+    "id": "21.03.23.2001",
+    "district_id": "21.03.23",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Pulau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.23.2002",
+    "district_id": "21.03.23",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Pulau Kerdau",
+    "type": "DESA"
+  }
+]

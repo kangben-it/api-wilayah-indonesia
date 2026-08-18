@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.06.01.2006",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Subaim",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2008",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Cemara Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2009",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Bumi Restu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2014",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Batu Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2015",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2016",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Gulapapo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.01.2027",
+    "district_id": "82.06.01",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Waisuba",
+    "type": "DESA"
+  }
+]

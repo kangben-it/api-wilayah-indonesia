@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.71.13.1001",
+    "district_id": "14.71.13",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sidomulyo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.13.1002",
+    "district_id": "14.71.13",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sialangmunggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.13.1003",
+    "district_id": "14.71.13",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tuahkarya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.13.1004",
+    "district_id": "14.71.13",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tuahmadani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.13.1005",
+    "district_id": "14.71.13",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Airputih",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.06.17.2001",
+    "district_id": "74.06.17",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Masaloka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.17.2002",
+    "district_id": "74.06.17",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Batu Lamburi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.17.2003",
+    "district_id": "74.06.17",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Masaloka Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.17.2004",
+    "district_id": "74.06.17",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Masaloka Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.17.2005",
+    "district_id": "74.06.17",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Masaloka Barat",
+    "type": "DESA"
+  }
+]

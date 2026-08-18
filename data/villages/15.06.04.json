@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.06.04.1007",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Mekar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.04.2001",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pematang Lumut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2008",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Makmur Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2009",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Serdang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2010",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Terjun Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2011",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Lubuk Terentang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2012",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pematang Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2013",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Muntialo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2014",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Teluk Kulbi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2015",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Bunga Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2016",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.04.2017",
+    "district_id": "15.06.04",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Mandala Jaya",
+    "type": "DESA"
+  }
+]

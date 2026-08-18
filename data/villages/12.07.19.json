@@ -1,0 +1,234 @@
+[
+  {
+    "id": "12.07.19.1038",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Galang Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.19.2001",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Gusti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2002",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Baru Titi Besi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2003",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bandar Kuala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2004",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Batu Lokong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2005",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Galang Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2006",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Galang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2007",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Jaharun A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2008",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Jaharun B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2009",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Juhar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2012",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kramat Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2013",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kotasan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2015",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kotangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2016",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kelapa Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2019",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Nogorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2022",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2023",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Petumbukan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2024",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Petangguhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2025",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pisang Pala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2026",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Paya Itik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2027",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pulo Tagor Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2028",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Paya Kuda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2029",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Paya Sampir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2030",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sei Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2031",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sei Karang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2034",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanah Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2035",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Timbang Deli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2036",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.19.2037",
+    "district_id": "12.07.19",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Siporkis",
+    "type": "DESA"
+  }
+]

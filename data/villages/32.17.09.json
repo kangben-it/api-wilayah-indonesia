@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.17.09.2001",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Batujajar Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2002",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Batujajar Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2004",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Galanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2005",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cangkorah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2007",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Selacau",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2008",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Pangauban",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.09.2010",
+    "district_id": "32.17.09",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Giriasih",
+    "type": "DESA"
+  }
+]

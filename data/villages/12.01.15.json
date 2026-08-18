@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.01.15.1001",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Hutabalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.15.1002",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Lopian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.15.2003",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Jago Jago",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2004",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Aek Horsik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2005",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Gunung Kelambu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2006",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Kebun Pisang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2007",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Lubuk Ampolu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2008",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pagaran Honas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.15.2009",
+    "district_id": "12.01.15",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sitardas",
+    "type": "DESA"
+  }
+]

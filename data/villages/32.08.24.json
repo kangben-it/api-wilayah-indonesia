@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.08.24.2003",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cileuya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2004",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Margamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2005",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2006",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cimahi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2007",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kananga",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2008",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cikeusal",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2009",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2010",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2011",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Mulyajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.24.2012",
+    "district_id": "32.08.24",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cimulya",
+    "type": "DESA"
+  }
+]

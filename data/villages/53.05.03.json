@@ -1,0 +1,106 @@
+[
+  {
+    "id": "53.05.03.1001",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Moru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.03.2002",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Probur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2007",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Morba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2008",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Pintumas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2009",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wolwal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2010",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Halerman",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2013",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kafelulang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2014",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Moramam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2015",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Pailelang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2016",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wolwal Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2017",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wolwal Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2018",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wolwal Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.03.2019",
+    "district_id": "53.05.03",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Probur Utara",
+    "type": "DESA"
+  }
+]

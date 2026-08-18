@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.06.25.2001",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukasukur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.25.2002",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Salebu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.25.2003",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Mangunreja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.25.2004",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Margajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.25.2005",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pasirsalam",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.25.2006",
+    "district_id": "32.06.25",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukaluyu",
+    "type": "DESA"
+  }
+]

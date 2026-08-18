@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.03.14.2005",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Aur",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2006",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2007",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Kota Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2008",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Pagar Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2009",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Gunung Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2010",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tanjung Kemala",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2011",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Suka Merindu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2014",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Jiwa Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2020",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Air Asam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.14.2021",
+    "district_id": "16.03.14",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Menanti",
+    "type": "DESA"
+  }
+]

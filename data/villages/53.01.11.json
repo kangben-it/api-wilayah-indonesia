@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.01.11.1007",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Takari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.01.11.2001",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Noelmina",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2002",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Benu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2003",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Hueknutu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2004",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oelnaineno",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2005",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tanini",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2006",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Kauniki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2008",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tuapanaf",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2009",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Fatukona",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.11.2010",
+    "district_id": "53.01.11",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oesusu",
+    "type": "DESA"
+  }
+]

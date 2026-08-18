@@ -1,0 +1,34 @@
+[
+  {
+    "id": "19.06.03.2001",
+    "district_id": "19.06.03",
+    "regency_id": "19.06",
+    "province_id": "19",
+    "name": "Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.06.03.2002",
+    "district_id": "19.06.03",
+    "regency_id": "19.06",
+    "province_id": "19",
+    "name": "Jangkang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.06.03.2005",
+    "district_id": "19.06.03",
+    "regency_id": "19.06",
+    "province_id": "19",
+    "name": "Nyuruk",
+    "type": "DESA"
+  },
+  {
+    "id": "19.06.03.2008",
+    "district_id": "19.06.03",
+    "regency_id": "19.06",
+    "province_id": "19",
+    "name": "Balok",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.01.03.1001",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Batangmata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.01.03.1002",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Batangmata Sapo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.01.03.2003",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Pamatata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2004",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Tanete",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2005",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bungaiya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2006",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Kayu Bauk",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2007",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Barat Lambongan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2008",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bontona Saluk",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2009",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Onto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2010",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Maharayya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2011",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Menara Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.03.2015",
+    "district_id": "73.01.03",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Tamalanrea",
+    "type": "DESA"
+  }
+]

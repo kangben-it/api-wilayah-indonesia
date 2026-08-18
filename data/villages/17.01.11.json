@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17.01.11.1003",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Tanjung Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1004",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Pasar Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1005",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Belakang Gedung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1006",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Gunung Mesir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1007",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Sialang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1008",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Ketapang Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.1009",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Pasar Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.11.2001",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Batu Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.11.2002",
+    "district_id": "17.01.11",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Batu Lambang",
+    "type": "DESA"
+  }
+]

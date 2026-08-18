@@ -1,0 +1,306 @@
+[
+  {
+    "id": "11.03.07.2001",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2002",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Tualang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2003",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Keude Peureulak",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2004",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Leuge",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2005",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Uteun Dama",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2006",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Punti",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2007",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Alue Dua Paya Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2008",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Blang Bitra",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2009",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Kuala Bugak",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2010",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Paya Lipah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2011",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Seumatang Muda Itam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2012",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Lhok Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2013",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Beusa Meuranoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2014",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Bangka Rimung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2015",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Tanoh Rata",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2016",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Bandrong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2017",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Blang Balok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2018",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Cot Muda Itam",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2019",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Keumuneng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2020",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Kuala Leuge",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2021",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Balee Buya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2022",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Alue Nibong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2023",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Seuneubok Peusangan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2024",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Seuneubok Aceh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2025",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Seuneubok Pidie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2026",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Dama Tutong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2027",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Matang Gleum",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2028",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Lubok Pempeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2029",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Buket Pala",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2030",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Paya Kalui",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2031",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Cek Mbon",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2032",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Paya Meuligou",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2033",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Blang Simpo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2034",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Blang Batee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2035",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Matang Peulawi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2036",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Cot Geulumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2037",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Alue Rambong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.07.2038",
+    "district_id": "11.03.07",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Cot Keh",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "74.05.05.1001",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Landono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.05.05.2008",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Lalonggapu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2009",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Watabenua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2014",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Tridana Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2015",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Landono Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2016",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Amotowo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2022",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Abenggi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2023",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Arongo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2024",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Endanga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2032",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Wonua Sangia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2035",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Lakomea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.05.05.2042",
+    "district_id": "74.05.05",
+    "regency_id": "74.05",
+    "province_id": "74",
+    "name": "Morini Mulya",
+    "type": "DESA"
+  }
+]

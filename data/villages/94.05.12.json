@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.05.12.2001",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Erong Berong",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2002",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Hikinat",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2003",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Daung",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2004",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kombet",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2005",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Onop",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2006",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kulamagom",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.12.2007",
+    "district_id": "94.05.12",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Ogamanin",
+    "type": "DESA"
+  }
+]

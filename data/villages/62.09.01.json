@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62.09.01.1012",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Tapin Bini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.09.01.2001",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Sungai Tuat",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2002",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2003",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Cuhai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2004",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Kawa",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2005",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Karang Taba",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2006",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Penopa",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2007",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Suja",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2008",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Sekoban",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2009",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Bakonsu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.01.2022",
+    "district_id": "62.09.01",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Samu Jaya",
+    "type": "DESA"
+  }
+]

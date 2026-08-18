@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.02.15.1001",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tongauna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.15.1002",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Mata Iwoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.15.1003",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Puosu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.15.1004",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sendang Mulya Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.15.1005",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Mekar Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.15.2006",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalonggowuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.15.2007",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Asao",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.15.2012",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Andeposandu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.15.2013",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Momea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.15.2018",
+    "district_id": "74.02.15",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Ambepulu",
+    "type": "DESA"
+  }
+]

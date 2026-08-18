@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.22.03.2001",
+    "district_id": "35.22.03",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Nglampin",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.03.2002",
+    "district_id": "35.22.03",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Karangmangu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.03.2003",
+    "district_id": "35.22.03",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Ngambon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.03.2004",
+    "district_id": "35.22.03",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Sengon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.03.2005",
+    "district_id": "35.22.03",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Bondol",
+    "type": "DESA"
+  }
+]

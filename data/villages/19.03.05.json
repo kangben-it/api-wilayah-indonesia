@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19.03.05.2001",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2002",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Malik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2003",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Sengir",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2004",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Pangkal Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2005",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Irat",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2006",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Bedengung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2008",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Nadung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2009",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Ranggung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.05.2012",
+    "district_id": "19.03.05",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Paku",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "96.01.11.2001",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Indiwi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2002",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klabot",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2003",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mlat",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2004",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mlawes",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2005",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mlasfa",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2006",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kanolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2007",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Somir",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.11.2008",
+    "district_id": "96.01.11",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Warkti",
+    "type": "DESA"
+  }
+]

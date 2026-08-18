@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.05.03.1001",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Pa'bundukang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.1002",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Pattene",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.1003",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontokadatto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.1004",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Canrego",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.1005",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bulukunyi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.1010",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Rajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.03.2006",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Moncongkomba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.03.2007",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Cakura",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.03.2008",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Lantang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.03.2009",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Su'rulangi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.03.2011",
+    "district_id": "73.05.03",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Kale Lantang",
+    "type": "DESA"
+  }
+]

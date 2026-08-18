@@ -1,0 +1,50 @@
+[
+  {
+    "id": "71.09.06.2001",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bulangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.06.2002",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Minanga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.06.2003",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Wo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.06.2004",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bawoleu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.06.2005",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Lumbo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.06.2006",
+    "district_id": "71.09.06",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bawo",
+    "type": "DESA"
+  }
+]

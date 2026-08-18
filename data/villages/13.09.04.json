@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.09.04.2003",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Bojakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.04.2004",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Sotboyak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.04.2005",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Mongan Poula",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.04.2006",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Muara Sikabaluan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.04.2007",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Sirilogui",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.04.2008",
+    "district_id": "13.09.04",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Malancan",
+    "type": "DESA"
+  }
+]

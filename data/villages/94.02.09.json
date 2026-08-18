@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.02.09.2001",
+    "district_id": "94.02.09",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Pagaleme",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.09.2002",
+    "district_id": "94.02.09",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Muliambut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.09.2003",
+    "district_id": "94.02.09",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Lunggineri",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.09.2004",
+    "district_id": "94.02.09",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Igimbut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.09.2005",
+    "district_id": "94.02.09",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Kulok enggame",
+    "type": "DESA"
+  }
+]

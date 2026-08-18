@@ -1,0 +1,50 @@
+[
+  {
+    "id": "72.02.23.2001",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Tuare",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.23.2002",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Kageroa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.23.2003",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Tomehipi",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.23.2004",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Lengkeka",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.23.2005",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Kolori",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.23.2006",
+    "district_id": "72.02.23",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Lelio",
+    "type": "DESA"
+  }
+]

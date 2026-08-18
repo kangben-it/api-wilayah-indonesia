@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17.71.01.1001",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Pagar Dewa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.71.01.1002",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Sukarami",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.71.01.1003",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Pekan Sabtu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.71.01.1004",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Bumu Ayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.71.01.1005",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Betungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.71.01.1006",
+    "district_id": "17.71.01",
+    "regency_id": "17.71",
+    "province_id": "17",
+    "name": "Sumur Dewa",
+    "type": "KELURAHAN"
+  }
+]

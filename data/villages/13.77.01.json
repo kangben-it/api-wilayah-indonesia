@@ -1,0 +1,178 @@
+[
+  {
+    "id": "13.77.01.1001",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Karan Aur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1002",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Kampung Perak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1003",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Lohong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1004",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1005",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Kampung Pondok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1006",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Pondok II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1007",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Kampung Jawa I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1008",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Kampung Jawa II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1009",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Alai Gelombang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1010",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jawi Jawi I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1011",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jawi Jawi II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1012",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jalan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1013",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Taratak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1014",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jalan Kereta Api",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1015",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Ujung Batung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.1016",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jati Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.77.01.2017",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Pauh Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.77.01.2018",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Pauh Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.77.01.2019",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Rawang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.77.01.2020",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.77.01.2021",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Cimparuh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.77.01.2025",
+    "district_id": "13.77.01",
+    "regency_id": "13.77",
+    "province_id": "13",
+    "name": "Jati Mudik",
+    "type": "DESA"
+  }
+]

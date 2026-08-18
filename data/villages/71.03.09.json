@@ -1,0 +1,42 @@
+[
+  {
+    "id": "71.03.09.2001",
+    "district_id": "71.03.09",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Nanedakele",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.09.2002",
+    "district_id": "71.03.09",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Nusa",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.09.2003",
+    "district_id": "71.03.09",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Bukide",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.09.2004",
+    "district_id": "71.03.09",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Bukide Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.09.2005",
+    "district_id": "71.03.09",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Nanusa",
+    "type": "DESA"
+  }
+]

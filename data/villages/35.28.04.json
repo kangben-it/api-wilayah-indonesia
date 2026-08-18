@@ -1,0 +1,146 @@
+[
+  {
+    "id": "35.28.04.1001",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Kangenan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1003",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Patemon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1011",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Bugih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1012",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Jungcangcang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1013",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Parteker",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1014",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Barurambat Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1015",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Gladak Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1016",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Kolpajung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.1017",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Kowel",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.28.04.2002",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Panempan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2004",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Laden",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2005",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Jalmak",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2006",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Teja Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2007",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Teja Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2008",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Bettet",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2009",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Nyalabu Laok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2010",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Nyalabu Daya",
+    "type": "DESA"
+  },
+  {
+    "id": "35.28.04.2018",
+    "district_id": "35.28.04",
+    "regency_id": "35.28",
+    "province_id": "35",
+    "name": "Toronan",
+    "type": "DESA"
+  }
+]

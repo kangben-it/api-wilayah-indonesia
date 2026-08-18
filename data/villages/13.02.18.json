@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.02.18.2001",
+    "district_id": "13.02.18",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Rangkiang Luluih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.18.2002",
+    "district_id": "13.02.18",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Batu Bajanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.18.2003",
+    "district_id": "13.02.18",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Garabak Data",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.18.2004",
+    "district_id": "13.02.18",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Tanjung Balik Sumiso",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.18.2005",
+    "district_id": "13.02.18",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Simanau",
+    "type": "DESA"
+  }
+]

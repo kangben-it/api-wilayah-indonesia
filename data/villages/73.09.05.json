@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.09.05.1001",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Bontoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.05.2002",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Pajjukukang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2003",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Tunikamaseang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2004",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Tupabbiring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2005",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Botolempangang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2006",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Salenrang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2007",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Minasa Upa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2008",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Ampekale",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.05.2009",
+    "district_id": "73.09.05",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Bonto Bahari",
+    "type": "DESA"
+  }
+]

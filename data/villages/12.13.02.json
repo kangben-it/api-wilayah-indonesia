@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.13.02.1012",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Mompang Jae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.02.2002",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2007",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2008",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Jambur Padang Matinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2009",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2010",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Mompang Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2014",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rumbio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2015",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Suka Ramai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2017",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sopo Sorik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2018",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simanondong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2019",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Torbanua Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.02.2020",
+    "district_id": "12.13.02",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tanjung Mompang",
+    "type": "DESA"
+  }
+]

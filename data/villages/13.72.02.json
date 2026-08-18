@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.72.02.1001",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Koto Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.02.1002",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Pasar Pandan Air Mati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.02.1003",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Tanjung Paku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.02.1004",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Nan Balimo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.02.1005",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.02.1006",
+    "district_id": "13.72.02",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Laing",
+    "type": "KELURAHAN"
+  }
+]

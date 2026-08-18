@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.08.01",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Barat"
+  },
+  {
+    "id": "82.08.02",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Barat Laut"
+  },
+  {
+    "id": "82.08.03",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Lede"
+  },
+  {
+    "id": "82.08.04",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Utara"
+  },
+  {
+    "id": "82.08.05",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Timur"
+  },
+  {
+    "id": "82.08.06",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Timur Selatan"
+  },
+  {
+    "id": "82.08.07",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Taliabu Selatan"
+  },
+  {
+    "id": "82.08.08",
+    "regency_id": "82.08",
+    "province_id": "82",
+    "name": "Tabona"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.09.01.2007",
+    "district_id": "13.09.01",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Betumonga",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.01.2008",
+    "district_id": "13.09.01",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Silabu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.01.2009",
+    "district_id": "13.09.01",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Saumanganya",
+    "type": "DESA"
+  }
+]

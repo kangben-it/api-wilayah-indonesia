@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.12.04.1008",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Selopuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.04.2001",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sendangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2002",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tegiri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2003",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Batuwarno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2004",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2005",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ronggojati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2006",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sumberagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.04.2007",
+    "district_id": "33.12.04",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kudi",
+    "type": "DESA"
+  }
+]

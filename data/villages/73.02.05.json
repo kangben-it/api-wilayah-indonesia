@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.02.05.1001",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tanuntung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.05.1002",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bonto Kamase",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.05.2003",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Karassing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.05.2004",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Singa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.05.2005",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Gunturu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.05.2006",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Borong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.05.2007",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tugondeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.05.2008",
+    "district_id": "73.02.05",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Pataro",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "33.10.16.2001",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Dukuh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2002",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Jetis",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2003",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Butuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2004",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Banaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2005",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Bowan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2006",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Sribit",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2007",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Mendak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2008",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Krecek",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2009",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Karang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2010",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Sabrang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2011",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Tlobong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2012",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Gatak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2013",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Delanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2014",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Kepanjen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2015",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Segaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.16.2016",
+    "district_id": "33.10.16",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  }
+]

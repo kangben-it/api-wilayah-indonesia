@@ -1,0 +1,98 @@
+[
+  {
+    "id": "18.04.04.1001",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Pasar Liwa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.04.04.1003",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Way Mengaku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.04.04.2002",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Kubu Perahu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2004",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Padang Cahya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2005",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sebarus",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2006",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Way Empulau Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2007",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Gunung Sugih",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2008",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Wates",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2009",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Padang Dalom",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2010",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sukarame",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2011",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Bahway",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.04.2012",
+    "district_id": "18.04.04",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sedampah Indah",
+    "type": "DESA"
+  }
+]

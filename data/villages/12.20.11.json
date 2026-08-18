@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.20.11.2001",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Siancimun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2002",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Bolatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2003",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pasir Bara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2004",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Intan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2005",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Mompang I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2006",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Manaon III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2007",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sihopuk Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2008",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sihopuk Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2009",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Rondaman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2010",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Hutabaru Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2011",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Situmbaga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2012",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batang Pane I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2013",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batang Pane II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.11.2014",
+    "district_id": "12.20.11",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batang Pane III",
+    "type": "DESA"
+  }
+]

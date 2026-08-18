@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34.04.02.2001",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2002",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidoluhur",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2003",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2004",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2005",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidokarto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2006",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidoarum",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.02.2007",
+    "district_id": "34.04.02",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sidomoyo",
+    "type": "DESA"
+  }
+]

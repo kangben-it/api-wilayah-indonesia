@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81.08.15.2001",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Moning",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.15.2002",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Arwala",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.15.2003",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ilway",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.15.2004",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Kahilin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.15.2005",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ilpokil",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.15.2006",
+    "district_id": "81.08.15",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Tomliapat",
+    "type": "DESA"
+  }
+]

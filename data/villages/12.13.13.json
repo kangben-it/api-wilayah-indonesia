@@ -1,0 +1,250 @@
+[
+  {
+    "id": "12.13.13.1017",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Soma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.13.2001",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Guo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2002",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Holbung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2003",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Manggis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2004",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Nabara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2005",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Nangali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2006",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Ampung Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2007",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Ampung Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2008",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Ampung Siala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2009",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bangkelang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2010",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Banjar Malayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2011",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Batu Madinding",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2012",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bulu Soma",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2013",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Guo Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2014",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hadangkahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2015",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hatupangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2016",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Parlampungan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2018",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rantobi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2019",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rao Rao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2020",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simanguntong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2021",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sipogu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2022",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sopo Tinjak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2023",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tarlola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2024",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tombang Kaluang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2025",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Lobu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2026",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lubuk Samboa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2027",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Jambur Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2028",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Baru Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2029",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Baru Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2030",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lubuk Bondar Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.13.2031",
+    "district_id": "12.13.13",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tor Naincat",
+    "type": "DESA"
+  }
+]

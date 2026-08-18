@@ -1,0 +1,50 @@
+[
+  {
+    "id": "74.08.15.2001",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Lawaki Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.15.2002",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Patikala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.15.2003",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Tolala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.15.2004",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Bahari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.15.2005",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Leleulu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.15.2006",
+    "district_id": "74.08.15",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Loka",
+    "type": "DESA"
+  }
+]

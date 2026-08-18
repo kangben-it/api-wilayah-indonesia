@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.13.23.2001",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cijengkol",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.23.2002",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Talagasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.23.2003",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cintamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.23.2004",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Ponggang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.23.2005",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cikujang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.23.2006",
+    "district_id": "32.13.23",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cipancar",
+    "type": "DESA"
+  }
+]

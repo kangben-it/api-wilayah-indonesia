@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.07.05.2001",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Cidolog",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.05.2002",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Janggala",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.05.2003",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Hegarmanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.05.2004",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Jelegong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.05.2005",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Ciparay",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.05.2006",
+    "district_id": "32.07.05",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "DESA"
+  }
+]

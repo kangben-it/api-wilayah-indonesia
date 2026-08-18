@@ -1,0 +1,106 @@
+[
+  {
+    "id": "32.02.16.1001",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cicurug",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.02.16.2002",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nyangkowek",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2003",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tenjolaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2004",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Benda",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2005",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Pasawahan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2006",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cisaat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2007",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Purwasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2008",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Caringin",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2009",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tenjoayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2010",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Kutajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2011",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2012",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bangbayang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.16.2013",
+    "district_id": "32.02.16",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nanggerang",
+    "type": "DESA"
+  }
+]

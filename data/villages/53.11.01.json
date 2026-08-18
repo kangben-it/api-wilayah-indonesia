@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.11.01.1001",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambajawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.01.1002",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Hambala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.01.1003",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Matawai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.01.1004",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kamalaputi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.01.2012",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lukukamaru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.01.2013",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mbatakapidu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.01.2014",
+    "district_id": "53.11.01",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Pambotandjara",
+    "type": "DESA"
+  }
+]

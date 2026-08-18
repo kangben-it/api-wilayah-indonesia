@@ -1,0 +1,58 @@
+[
+  {
+    "id": "64.02.18.2001",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Muara Wis",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2002",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sebemban",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2003",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2004",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Enggelam",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2005",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Lebak Mantan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2006",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Lebak Cilong",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.18.2007",
+    "district_id": "64.02.18",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Muara Enggelam",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.03.20.2001",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Uwebutu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.20.2002",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Epouto",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.20.2003",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Tugumo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.20.2004",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Tugu Kagomoma",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.20.2005",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Deiyamo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.20.2006",
+    "district_id": "94.03.20",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Miyamo",
+    "type": "DESA"
+  }
+]

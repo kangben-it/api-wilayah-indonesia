@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.18.12.2010",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Tanjung Harap",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2011",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kuala Bali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2014",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Karang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2015",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kelapa Bajohom",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2018",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Manggis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2020",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pulau Gambar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2021",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pulau Tagor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2032",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Serba Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2033",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Tambak Cekur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.12.2038",
+    "district_id": "12.18.12",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Bah Sidua-dua",
+    "type": "DESA"
+  }
+]

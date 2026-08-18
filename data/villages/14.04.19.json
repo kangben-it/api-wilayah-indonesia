@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14.04.19.1002",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kempas Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.19.1007",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Harapan Tani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.19.2001",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pekan Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2003",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Rumbai Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2004",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Bayas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2005",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiara",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2006",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaigantang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2008",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Karya Tani",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2009",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kerta Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2010",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kulim Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2011",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Danaupulai Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.19.2012",
+    "district_id": "14.04.19",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungairabit",
+    "type": "DESA"
+  }
+]

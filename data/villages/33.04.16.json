@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.04.16.2001",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Batur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2002",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2003",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Pasurenan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2004",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Pekasiran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2005",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Kepakisan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2006",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Bakal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2007",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Karangtengah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.16.2008",
+    "district_id": "33.04.16",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Dieng Kulon",
+    "type": "DESA"
+  }
+]

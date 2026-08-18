@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.06.05.2001",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2002",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cilumba",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2003",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pakemitan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2004",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cogreg",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2005",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cayur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2006",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Lengkongbarang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2007",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sindangasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2008",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Tanjungbarang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.05.2009",
+    "district_id": "32.06.05",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Linggalaksana",
+    "type": "DESA"
+  }
+]

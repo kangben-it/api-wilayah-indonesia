@@ -1,0 +1,74 @@
+[
+  {
+    "id": "92.03.15.2001",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kaburbur",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2002",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Ubadari",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2004",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Homorkokma",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2005",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Pattukar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2006",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kayuni",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2007",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kuagas",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2008",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Rangkendak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2009",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Mananmur",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.15.2010",
+    "district_id": "92.03.15",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Warpa",
+    "type": "DESA"
+  }
+]

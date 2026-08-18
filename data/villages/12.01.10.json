@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.01.10.1001",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sorkam Kanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.10.1019",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Binasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.10.2002",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sipea Pea",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2003",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pahieme I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2004",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pasar Sorkam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2005",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Aek Raso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2006",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pasaribu Tobing Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2014",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Maduma",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2016",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sidikalang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2017",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pahieme II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2018",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sorkam Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.10.2020",
+    "district_id": "12.01.10",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Madani",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.02.01.2001",
+    "district_id": "93.02.01",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.01.2002",
+    "district_id": "93.02.01",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Sokanggo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.01.2003",
+    "district_id": "93.02.01",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Persatuan",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.01.2004",
+    "district_id": "93.02.01",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Mariam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.01.2005",
+    "district_id": "93.02.01",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Mawan",
+    "type": "DESA"
+  }
+]

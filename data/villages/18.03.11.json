@@ -1,0 +1,90 @@
+[
+  {
+    "id": "18.03.11.2001",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Gunung Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2002",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kinciran",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2003",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Negla Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2004",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kedaton",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2005",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Sri Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2006",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Subik",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2007",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Gunung Sadar",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2008",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Gunung Gijul",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2016",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Pekurun Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2017",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Pekurun Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.11.2018",
+    "district_id": "18.03.11",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Pekurun Utara",
+    "type": "DESA"
+  }
+]

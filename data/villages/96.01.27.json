@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.01.27.2001",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Hobard",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2002",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Brianlo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2003",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Floyi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2004",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klazelt",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2005",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sfadon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2006",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Selol",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.27.2007",
+    "district_id": "96.01.27",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Dais",
+    "type": "DESA"
+  }
+]

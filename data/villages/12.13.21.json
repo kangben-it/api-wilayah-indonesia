@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.13.21.2001",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pakantan Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2002",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pakantan Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2003",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Gambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2004",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Lancat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2005",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2006",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Toras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2007",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.21.2008",
+    "district_id": "12.13.21",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Silogun",
+    "type": "DESA"
+  }
+]

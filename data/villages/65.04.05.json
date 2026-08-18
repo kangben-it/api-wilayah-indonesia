@@ -1,0 +1,50 @@
+[
+  {
+    "id": "65.04.05.2001",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Seputuk",
+    "type": "DESA"
+  },
+  {
+    "id": "65.04.05.2002",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Rian",
+    "type": "DESA"
+  },
+  {
+    "id": "65.04.05.2003",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Balayan Ari",
+    "type": "DESA"
+  },
+  {
+    "id": "65.04.05.2004",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Rian Rayo",
+    "type": "DESA"
+  },
+  {
+    "id": "65.04.05.2005",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Kapuak",
+    "type": "DESA"
+  },
+  {
+    "id": "65.04.05.2006",
+    "district_id": "65.04.05",
+    "regency_id": "65.04",
+    "province_id": "65",
+    "name": "Sapari",
+    "type": "DESA"
+  }
+]

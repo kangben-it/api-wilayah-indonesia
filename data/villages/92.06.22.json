@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.06.22.2001",
+    "district_id": "92.06.22",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Meyerga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.22.2002",
+    "district_id": "92.06.22",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Macok",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.22.2003",
+    "district_id": "92.06.22",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Istiwkem",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.22.2004",
+    "district_id": "92.06.22",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Majnic",
+    "type": "DESA"
+  }
+]

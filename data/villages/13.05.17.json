@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.05.17.2001",
+    "district_id": "13.05.17",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Pakandangan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.17.2002",
+    "district_id": "13.05.17",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Koto Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.17.2003",
+    "district_id": "13.05.17",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Toboh Ketek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.17.2004",
+    "district_id": "13.05.17",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Parit Malintang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.17.2005",
+    "district_id": "13.05.17",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Gadur",
+    "type": "DESA"
+  }
+]

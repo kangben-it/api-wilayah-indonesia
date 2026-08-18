@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.04.13.2001",
+    "district_id": "13.04.13",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Batu Bulek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.13.2002",
+    "district_id": "13.04.13",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Balai Tangah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.13.2003",
+    "district_id": "13.04.13",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Tanjuang Bonai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.13.2004",
+    "district_id": "13.04.13",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Lubuak Jantan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.13.2005",
+    "district_id": "13.04.13",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Tapi Selo",
+    "type": "DESA"
+  }
+]

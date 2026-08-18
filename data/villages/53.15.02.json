@@ -1,0 +1,98 @@
+[
+  {
+    "id": "53.15.02.1022",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Golo Ru'u",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.02.1023",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Nantal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.02.2002",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Coal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2004",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Pangga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2010",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Lewur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2011",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Lawi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2017",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Compang Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2018",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Benteng Suru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2021",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Sama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2030",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Bangka Lewat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2031",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Suka Kiong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.02.2032",
+    "district_id": "53.15.02",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Golo Pua",
+    "type": "DESA"
+  }
+]

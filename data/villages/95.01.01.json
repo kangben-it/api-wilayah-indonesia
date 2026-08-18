@@ -1,0 +1,90 @@
+[
+  {
+    "id": "95.01.01.1001",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Wamena Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.01.01.1006",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Sinapuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.01.01.1007",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Sinakma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.01.01.2002",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Honelama",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2003",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Hulekama",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2004",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Batu Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2005",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Autakma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2008",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Honelama Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2009",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Honaima",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2010",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Lanitipo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.01.2011",
+    "district_id": "95.01.01",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Wamaroma",
+    "type": "DESA"
+  }
+]

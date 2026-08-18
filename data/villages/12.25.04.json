@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.25.04.2001",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hiliwaloo II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2002",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Gunungbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2003",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hilisoromi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2004",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Siduahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2005",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Sitolubanua Fadoro",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2006",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Halifadolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2007",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Lasara Bahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2008",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hiliwaele",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2009",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Sitoluewali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.04.2010",
+    "district_id": "12.25.04",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Onozalukhu You",
+    "type": "DESA"
+  }
+]

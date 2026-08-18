@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.06.01.1001",
+    "district_id": "14.06.01",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Ujung Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.06.01.2002",
+    "district_id": "14.06.01",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.01.2003",
+    "district_id": "14.06.01",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Ngaso",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.01.2004",
+    "district_id": "14.06.01",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Ujung Batu Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.01.2005",
+    "district_id": "14.06.01",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Pematang Tebih",
+    "type": "DESA"
+  }
+]

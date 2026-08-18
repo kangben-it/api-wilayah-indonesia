@@ -1,0 +1,242 @@
+[
+  {
+    "id": "11.17.07.2001",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bandar Lampahan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2002",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Blang Rongka",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2003",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Cekal Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2004",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gegur Sepakat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2005",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Karang Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2006",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Lampahan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2010",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Setie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2011",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Simpang Layang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2012",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2014",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Tunyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2016",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Datu Beru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2017",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Kenine",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2018",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Rembune",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2019",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Damaran Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2020",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Fajar Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2021",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Mude Benara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2022",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Kampung Baru 76",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2023",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pantan Pediangan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2024",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bumi Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2025",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Kulem Para Kanis",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2026",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Mekar Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2027",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Lampahan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2028",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Lampahan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2029",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Timang Rasa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2030",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gunung Tunyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2031",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bukit Tunyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2032",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Linung Bale",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2033",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pantan Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2034",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Sumber Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.07.2035",
+    "district_id": "11.17.07",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bukit Mulie",
+    "type": "DESA"
+  }
+]

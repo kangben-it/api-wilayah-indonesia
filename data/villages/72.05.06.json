@@ -1,0 +1,58 @@
+[
+  {
+    "id": "72.05.06.1001",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Buol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1002",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Kali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1003",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Leok II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1004",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Leok I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1005",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Kumaligon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1006",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Kulango",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.05.06.1007",
+    "district_id": "72.05.06",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  }
+]

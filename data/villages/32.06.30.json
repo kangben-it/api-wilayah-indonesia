@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.06.30.2001",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sariwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2002",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukaharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2003",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Jayaratu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2004",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Linggasirna",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2005",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sirnasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2006",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukamulih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2007",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Selawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.30.2008",
+    "district_id": "32.06.30",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Jayaputra",
+    "type": "DESA"
+  }
+]

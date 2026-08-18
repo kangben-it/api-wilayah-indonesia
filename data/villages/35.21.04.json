@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.21.04.2001",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Karanggupito",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2002",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Karangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2003",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Simo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2004",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Ploso",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2005",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Majasem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2006",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Kendal",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2007",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2008",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Gayam",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2009",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Dadapan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.04.2010",
+    "district_id": "35.21.04",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Patalan",
+    "type": "DESA"
+  }
+]

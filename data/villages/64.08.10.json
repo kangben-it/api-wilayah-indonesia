@@ -1,0 +1,58 @@
+[
+  {
+    "id": "64.08.10.2001",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Kaliorang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2006",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Bukit Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2007",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Bukit Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2008",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Citra Manunggal Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2009",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Bangun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2010",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Bumi Sejahtera",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.10.2013",
+    "district_id": "64.08.10",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Selangkau",
+    "type": "DESA"
+  }
+]

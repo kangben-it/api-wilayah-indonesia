@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.10.08.1001",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bonto-Bonto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.08.1002",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Talaka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.08.1003",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Ma'rang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.08.1004",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Attang Salo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.08.2005",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Padang Lampe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.08.2006",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Tamangapa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.08.2007",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Pitusunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.08.2008",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Pitue",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.08.2009",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Punranga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.08.2010",
+    "district_id": "73.10.08",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Alesipitto",
+    "type": "DESA"
+  }
+]

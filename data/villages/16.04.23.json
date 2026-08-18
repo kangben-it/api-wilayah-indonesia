@@ -1,0 +1,114 @@
+[
+  {
+    "id": "16.04.23.1014",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lebuay Bandung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.04.23.2001",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Sirah Pulau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2002",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Gunung Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2003",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Prabu Menang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2004",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Banjar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2005",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Arahan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2006",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Nanjungan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2007",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Sengkuang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2008",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Tanjung Lontar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2009",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Gedung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2010",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Muara Lawai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2011",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Tanjung Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2012",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Cempaka Wangi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.23.2013",
+    "district_id": "16.04.23",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lematang Jaya",
+    "type": "DESA"
+  }
+]

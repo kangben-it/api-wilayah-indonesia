@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.12.02.2001",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Widoropayung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2002",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2003",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Jetis",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2004",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Blimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2005",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Langkap",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2006",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Bloro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2007",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Pesisir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2008",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kalimas",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2009",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Besuki",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.02.2010",
+    "district_id": "35.12.02",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Demung",
+    "type": "DESA"
+  }
+]

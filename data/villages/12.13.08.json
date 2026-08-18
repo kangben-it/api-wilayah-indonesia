@@ -1,0 +1,290 @@
+[
+  {
+    "id": "12.13.08.1032",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tamiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.08.1036",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar Kotanopan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.08.2001",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Batahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2002",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Botung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2003",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Gading Bain",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2004",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Gunung Tua MS",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2005",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Gunung Tua SM",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2006",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hutapuli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2007",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Padang MS",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2008",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hutarimbaru SM",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2009",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Baringin TB",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2010",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Pungkut Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2011",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Pungkut Tonga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2012",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Pungkut Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2013",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Dangka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2014",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Potan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2015",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Siambak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2016",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Manambin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2017",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Pungkut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2018",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Botung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2019",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pagar Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2020",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Padang Bulan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2021",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Patialo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2022",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Saba Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2023",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Singengu Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2024",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Singengu Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2025",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sayur Maincat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2026",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Tolang Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2027",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Tolang Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2028",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sibio Bio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2029",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sopo Sorik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2030",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simandolam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2031",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tombang Bustak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2033",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tobang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2034",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Ujung Marisi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.08.2035",
+    "district_id": "12.13.08",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Usor Tolang",
+    "type": "DESA"
+  }
+]

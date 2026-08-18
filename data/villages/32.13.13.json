@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.13.13.2001",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Tanjungtiga",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2002",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2003",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Blanakan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2004",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Rawameneng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2005",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cilamayagirang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2006",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Jayamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2007",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cilamayahilir",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2008",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Rawamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.13.2009",
+    "district_id": "32.13.13",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Langensari",
+    "type": "DESA"
+  }
+]

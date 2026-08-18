@@ -1,0 +1,82 @@
+[
+  {
+    "id": "11.13.09.2001",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Penosan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2002",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Sekuelen",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2003",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Akul",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2004",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Gegarang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2005",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Peparik Gaib",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2006",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Penosan Sepakat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2007",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Tingkem",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2008",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Ketukah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2009",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Peparik Dekat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.09.2010",
+    "district_id": "11.13.09",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Blangjerango",
+    "type": "DESA"
+  }
+]

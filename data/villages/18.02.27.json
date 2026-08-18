@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18.02.27.2001",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Gedung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.27.2002",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Srimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.27.2003",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Gedung Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.27.2004",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Bandar Putih Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.27.2005",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Karang Jawa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.02.27.2006",
+    "district_id": "18.02.27",
+    "regency_id": "18.02",
+    "province_id": "18",
+    "name": "Sukajaya",
+    "type": "DESA"
+  }
+]

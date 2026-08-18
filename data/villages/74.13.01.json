@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.13.01.2001",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Wakoila",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2002",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Waukuni",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2003",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Kampobalano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2004",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Maperaha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2005",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Nihi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2006",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Marobea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2007",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Ondoke",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2008",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Lakalamba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2009",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Lawada Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.13.01.2010",
+    "district_id": "74.13.01",
+    "regency_id": "74.13",
+    "province_id": "74",
+    "name": "Lombu Jaya",
+    "type": "DESA"
+  }
+]

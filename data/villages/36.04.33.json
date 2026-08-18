@@ -1,0 +1,58 @@
+[
+  {
+    "id": "36.04.33.2001",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2002",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Ciherang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2003",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Tamiang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2004",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Sukalaba",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2005",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Kadu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2006",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Luwuk",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.33.2007",
+    "district_id": "36.04.33",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Curug Sulanjana",
+    "type": "DESA"
+  }
+]

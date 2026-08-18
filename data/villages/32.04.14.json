@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.04.14.2001",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.14.2002",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojongmanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.14.2003",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancatungku",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.14.2004",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojongkunci",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.14.2005",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.14.2006",
+    "district_id": "32.04.14",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Langonsari",
+    "type": "DESA"
+  }
+]

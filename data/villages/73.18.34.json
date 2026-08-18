@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.18.34.1001",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Leatung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.34.1006",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bebo'",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.34.2002",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Rantela'bi Kambisa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2003",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Leatung Matallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2004",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Saluallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.34.2005",
+    "district_id": "73.18.34",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tumbang Datu",
+    "type": "DESA"
+  }
+]

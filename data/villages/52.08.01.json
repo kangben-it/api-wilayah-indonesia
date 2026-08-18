@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52.08.01.2001",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2002",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Sokong",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2003",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Jenggala",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2004",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Tegal Maja",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2005",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Sigar Penjalin",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2006",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Medana",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2007",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Teniga",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.01.2008",
+    "district_id": "52.08.01",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Sama Guna",
+    "type": "DESA"
+  }
+]

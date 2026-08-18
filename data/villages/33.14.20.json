@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.14.20.2001",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Japoh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2002",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Ngepringan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2003",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Mlale",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2004",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Dawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2005",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Kandangsapi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2006",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Jenar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.20.2007",
+    "district_id": "33.14.20",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Banyurip",
+    "type": "DESA"
+  }
+]

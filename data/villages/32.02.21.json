@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.02.21.1001",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Jampangkulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.02.21.2002",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojonggenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2003",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikarang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2005",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2007",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nagraksari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2008",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2009",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2011",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Ciparay",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2013",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Padajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2014",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Karanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.21.2016",
+    "district_id": "32.02.21",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikaranggeusan",
+    "type": "DESA"
+  }
+]

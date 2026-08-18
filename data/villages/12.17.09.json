@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.17.09.2001",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Holbung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2002",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Janji Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2003",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sabulan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2004",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Buntu Mauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2005",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Tamba Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2006",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Cinta Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2007",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Parsaoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.09.2008",
+    "district_id": "12.17.09",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Janji Maria",
+    "type": "DESA"
+  }
+]

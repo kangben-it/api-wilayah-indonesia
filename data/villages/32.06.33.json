@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.06.33.2001",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Banyurasa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2002",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Calingcing",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2003",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukahening",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2004",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Kiarajangkung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2005",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Kudadepa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2006",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Banyuresmi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.33.2007",
+    "district_id": "32.06.33",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sundakerta",
+    "type": "DESA"
+  }
+]

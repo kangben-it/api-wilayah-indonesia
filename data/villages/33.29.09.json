@@ -1,0 +1,186 @@
+[
+  {
+    "id": "33.29.09.1002",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Brebes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.29.09.1003",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Gandasuli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.29.09.1011",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Limbangan Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.29.09.1012",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Limbangan Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.29.09.1015",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Pasarbatang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.29.09.2001",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Banjaranyar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2004",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Kaligangsa Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2005",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Kaligangsa Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2006",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Kalimati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2007",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Kaliwlingi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2008",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Kedunguter",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2009",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Krasak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2010",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Lembarawa",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2013",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Padasugih",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2014",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Pagejugan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2016",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Pemaron",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2017",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Pulosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2018",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Randusanga Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2019",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Randusanga Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2020",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Sigambir",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2021",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Tengki",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2022",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Terlangu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.29.09.2023",
+    "district_id": "33.29.09",
+    "regency_id": "33.29",
+    "province_id": "33",
+    "name": "Wangandalem",
+    "type": "DESA"
+  }
+]

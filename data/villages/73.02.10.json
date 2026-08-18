@@ -1,0 +1,122 @@
+[
+  {
+    "id": "73.02.10.1002",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Palampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.10.2001",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontomanai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2003",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontobangun",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2004",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Karama",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2005",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontolohe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2006",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bajiminasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2007",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bonto Matene",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2008",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tanah Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2009",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Batukaropa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2010",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontoharu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2011",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Swatani",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2012",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bulolohe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2013",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Anrang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2014",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Pangalloang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.10.2015",
+    "district_id": "73.02.10",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Topanda",
+    "type": "DESA"
+  }
+]

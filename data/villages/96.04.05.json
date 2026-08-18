@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.04.05.2001",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Sausapor",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2002",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Emaos",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2003",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Jokte",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2004",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Uigwem",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2005",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Sungguwan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2006",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Sau Uram",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2007",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Nanggou",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2008",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bondek",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2009",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bondonggwan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.05.2010",
+    "district_id": "96.04.05",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Syurauw",
+    "type": "DESA"
+  }
+]

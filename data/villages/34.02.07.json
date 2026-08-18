@@ -1,0 +1,26 @@
+[
+  {
+    "id": "34.02.07.2001",
+    "district_id": "34.02.07",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Triwidadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.07.2002",
+    "district_id": "34.02.07",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Sendangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.07.2003",
+    "district_id": "34.02.07",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Guwosari",
+    "type": "DESA"
+  }
+]

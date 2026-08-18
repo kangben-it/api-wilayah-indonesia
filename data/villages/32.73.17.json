@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.73.17.1001",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Situsaeur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.17.1002",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Lega",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.17.1003",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cibaduyut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.17.1004",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Mekar Wangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.17.1005",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cibaduyut Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.17.1006",
+    "district_id": "32.73.17",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cibaduyut Wetan",
+    "type": "KELURAHAN"
+  }
+]

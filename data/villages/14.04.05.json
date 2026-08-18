@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.04.05.1004",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaisalak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.05.1005",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tempuling",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.05.1016",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjungpidada",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.05.1017",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pangkalan Tujuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.05.2002",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukkiambang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.05.2003",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Mumpa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.05.2007",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukjira",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.05.2009",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Karya Tunas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.05.2011",
+    "district_id": "14.04.05",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  }
+]

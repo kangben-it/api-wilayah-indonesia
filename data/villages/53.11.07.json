@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.11.07.1001",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kawangu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.07.1002",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Watumbaka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.07.2003",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambatatana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.07.2007",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Palaka Hembi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.07.2008",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kadumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.07.2009",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Maubokul",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.07.2012",
+    "district_id": "53.11.07",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Laindeha",
+    "type": "DESA"
+  }
+]

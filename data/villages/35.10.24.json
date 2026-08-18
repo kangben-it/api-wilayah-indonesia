@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.10.24.2001",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gumuk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2002",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Jelun",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2003",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Licin",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2004",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Banjar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2005",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Segobang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2006",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Pakel",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2007",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kluncing",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.24.2008",
+    "district_id": "35.10.24",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Tamansari",
+    "type": "DESA"
+  }
+]

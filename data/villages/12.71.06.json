@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.06.1001",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Titipapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1002",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tanjung Mulia Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1003",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tanjung Mulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1004",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Kota Bangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1005",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Mabar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.06.1006",
+    "district_id": "12.71.06",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Mabar Hilir",
+    "type": "KELURAHAN"
+  }
+]

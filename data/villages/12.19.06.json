@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.19.06.1001",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjung Tiram",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.06.1022",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Bagan Arya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.06.2002",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Guntung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2004",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Bagan Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2005",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Bogak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2006",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2016",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Suka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2017",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pahlawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2018",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Bandar Rahmat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.06.2019",
+    "district_id": "12.19.06",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Kampung Lalang",
+    "type": "DESA"
+  }
+]

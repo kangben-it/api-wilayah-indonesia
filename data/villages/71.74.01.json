@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.74.01.1005",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Biga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.01.1006",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Upai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.01.1007",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Genggulang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.01.2001",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Bilalang Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.01.2002",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Bilalang Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.01.2003",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Pontodon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.01.2004",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Sia",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.01.2008",
+    "district_id": "71.74.01",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Pontodon Timur",
+    "type": "DESA"
+  }
+]

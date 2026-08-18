@@ -1,0 +1,122 @@
+[
+  {
+    "id": "74.02.11.1001",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Toronipa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.11.2002",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Atowatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2004",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Waworaha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2006",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sorue Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2010",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Soropia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2011",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tapulaga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2012",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sawapudo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2014",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bokori",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2015",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Saponda",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2016",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2017",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bajo Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2022",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Telaga Biru",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2023",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Leppe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2024",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bajoe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.11.2025",
+    "district_id": "74.02.11",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Saponda Laut",
+    "type": "DESA"
+  }
+]

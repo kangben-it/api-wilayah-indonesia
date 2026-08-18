@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.17.19.1002",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lindajang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.19.2001",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Barana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2003",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Poringan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2004",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Salubua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2005",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Kaili",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2006",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Muhajirin",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2007",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tallang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.19.2008",
+    "district_id": "73.17.19",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Kaladi Darussalam",
+    "type": "DESA"
+  }
+]

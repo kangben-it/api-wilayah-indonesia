@@ -1,0 +1,218 @@
+[
+  {
+    "id": "73.13.10.1001",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bulete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.10.1002",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Siwa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.10.1003",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tobarakka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.10.1004",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.10.2005",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2006",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lauwa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2007",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tanrongi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2008",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lompoloang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2009",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tellesang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2010",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tangkoro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2011",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2012",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Abbanderangnge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2013",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Simpellu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2014",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Alesilurengnge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2015",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Jauh Pandang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2016",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lacinde",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2017",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Buriko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2018",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bau-Bau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2019",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ale Lebbae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2020",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bulu Siwa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2021",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Botto Tengnga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2022",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Kaluku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2023",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Mattiro Walie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2024",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Maccolli Loloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2025",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lompo Bulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2026",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Padang Loang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.10.2027",
+    "district_id": "73.13.10",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Kompong",
+    "type": "DESA"
+  }
+]

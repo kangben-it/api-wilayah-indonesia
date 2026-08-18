@@ -1,0 +1,42 @@
+[
+  {
+    "id": "62.04.01.1003",
+    "district_id": "62.04.01",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Rantau Kujang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.04.01.2001",
+    "district_id": "62.04.01",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Tampulang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.01.2002",
+    "district_id": "62.04.01",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Rantau Bahuang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.01.2004",
+    "district_id": "62.04.01",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Rangga Ilung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.01.2005",
+    "district_id": "62.04.01",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Tabatan",
+    "type": "DESA"
+  }
+]

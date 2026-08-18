@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.72.01.1001",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Pasir Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1002",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Paudean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1003",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Batulubang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1004",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Papusungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1006",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Pancuran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1011",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Dorbolaang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.01.1016",
+    "district_id": "71.72.01",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Kelapa Dua",
+    "type": "KELURAHAN"
+  }
+]

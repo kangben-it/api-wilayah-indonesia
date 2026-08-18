@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.11.17.2001",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lukuwingir",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.17.2002",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Waimbidi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.17.2003",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Laimeta",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.17.2004",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mahubokul",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.17.2005",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Marada Mundi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.17.2006",
+    "district_id": "53.11.17",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Maidang",
+    "type": "DESA"
+  }
+]

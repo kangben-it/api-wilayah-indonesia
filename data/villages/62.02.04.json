@@ -1,0 +1,122 @@
+[
+  {
+    "id": "62.02.04.1004",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Parenggean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.04.2001",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Tehang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2002",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Kabuau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2007",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Barunang Miri",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2009",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sumber Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2010",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2011",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Karang Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2012",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bandar Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2013",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Beringin Tunggal Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2015",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sari Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2016",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Karang Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2019",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bajarau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2023",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bukit Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2024",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Manjalin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.04.2025",
+    "district_id": "62.02.04",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Karya Bersama",
+    "type": "DESA"
+  }
+]

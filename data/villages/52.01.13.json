@@ -1,0 +1,82 @@
+[
+  {
+    "id": "52.01.13.2001",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Lembar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2002",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Jembatan Kembar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2003",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Mareje",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2004",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Sekotong Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2005",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Labuan Tereng",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2006",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Jembatan Gantung",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2007",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Lembar Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2008",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Mareje Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2009",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Jembatan Kembar Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.13.2010",
+    "district_id": "52.01.13",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Eyat Mayang",
+    "type": "DESA"
+  }
+]

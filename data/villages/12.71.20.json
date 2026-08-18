@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.71.20.1001",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Gang Buntu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1002",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1003",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1004",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Glugur Darat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1005",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Glugur Darat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1006",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "P Berayan Darat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1007",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "P Berayan Darat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1008",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "P Berayan Bengkel",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1009",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "PB Bengkel Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1010",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Perintis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.20.1011",
+    "district_id": "12.71.20",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Gaharu",
+    "type": "KELURAHAN"
+  }
+]

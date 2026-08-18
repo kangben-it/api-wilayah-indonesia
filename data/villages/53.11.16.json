@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.11.16.1001",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Wangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1002",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Prailiu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1003",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambaniru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1004",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mauliru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1005",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mau Hau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1006",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Malumbi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.1007",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lambanapu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.16.2008",
+    "district_id": "53.11.16",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kiritana",
+    "type": "DESA"
+  }
+]

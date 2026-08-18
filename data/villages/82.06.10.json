@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.06.10.2001",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Wailukum",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.10.2002",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Soalaipoh",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.10.2003",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Soasangaji",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.10.2004",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Soagimalaha",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.10.2005",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Maba Sangaji",
+    "type": "DESA"
+  },
+  {
+    "id": "82.06.10.2006",
+    "district_id": "82.06.10",
+    "regency_id": "82.06",
+    "province_id": "82",
+    "name": "Tewil",
+    "type": "DESA"
+  }
+]

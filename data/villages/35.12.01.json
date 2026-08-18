@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.12.01.2001",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Pategalan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2002",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Semambung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2003",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumberanyar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2004",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Jatibanteng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2005",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Curahsuri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2006",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Wringinanom",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2007",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kembangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.01.2008",
+    "district_id": "35.12.01",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Patemon",
+    "type": "DESA"
+  }
+]

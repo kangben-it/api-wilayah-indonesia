@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.78.03.2001",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Afia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2002",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Lolo'ana'a Lolomoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2003",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Lasara Sowu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2004",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Telukbelukar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2005",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Tetehosi Afia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2006",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hambawa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2007",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Gawu-Gawu Bo'uso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2008",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2009",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hilimbowo Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.03.2010",
+    "district_id": "12.78.03",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hiligodu Ulu",
+    "type": "DESA"
+  }
+]

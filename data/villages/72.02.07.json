@@ -1,0 +1,58 @@
+[
+  {
+    "id": "72.02.07.2001",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Dodolo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2006",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Kaduwaa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2007",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Watumaeta",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2008",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Sedoa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2009",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Alitupu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2014",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Wuasa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.07.2016",
+    "district_id": "72.02.07",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Bumi Banyusari",
+    "type": "DESA"
+  }
+]

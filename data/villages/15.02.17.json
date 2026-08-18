@@ -1,0 +1,66 @@
+[
+  {
+    "id": "15.02.17.2001",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Baru Pangkalan Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2002",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Bukit Perentak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2003",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Birun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2004",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tiga Alur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2005",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Bungo Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2006",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Jering",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2007",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kampung Limo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.17.2008",
+    "district_id": "15.02.17",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanjung Mudo",
+    "type": "DESA"
+  }
+]

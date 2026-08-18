@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.26.15.1003",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Ba'tan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.15.1004",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Pantanakan Lolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.15.2001",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tallu Lolo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.15.2002",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Rinding Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.15.2005",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Angin-angin",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.15.2006",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sangbua'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.15.2007",
+    "district_id": "73.26.15",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tadongkon",
+    "type": "DESA"
+  }
+]

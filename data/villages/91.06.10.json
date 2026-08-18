@@ -1,0 +1,90 @@
+[
+  {
+    "id": "91.06.10.2001",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Pai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2002",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Auki",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2003",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Wundi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2004",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Nusi Babaruk",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2005",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Nusi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2014",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Inbeyomi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2015",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sorina",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2016",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sandidori",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2020",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Paidori",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2021",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Kanai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.10.2022",
+    "district_id": "91.06.10",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sokani",
+    "type": "DESA"
+  }
+]

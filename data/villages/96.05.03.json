@@ -1,0 +1,74 @@
+[
+  {
+    "id": "96.05.03.2001",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Aisa",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2002",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Aikrer",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2003",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Aitrem",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2004",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sawin",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2005",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sahbuku",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2006",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sasior Frabuku",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2007",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Wakom",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2008",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sanem",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.03.2009",
+    "district_id": "96.05.03",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Buoh Sa",
+    "type": "DESA"
+  }
+]

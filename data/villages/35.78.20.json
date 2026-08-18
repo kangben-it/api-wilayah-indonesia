@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.20.1001",
+    "district_id": "35.78.20",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Wiyung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.20.1002",
+    "district_id": "35.78.20",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Jajar Tunggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.20.1003",
+    "district_id": "35.78.20",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Babatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.20.1004",
+    "district_id": "35.78.20",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Balas Klumprik",
+    "type": "KELURAHAN"
+  }
+]

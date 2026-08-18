@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.06.06.2001",
+    "district_id": "92.06.06",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Moyeba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.06.2004",
+    "district_id": "92.06.06",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Merestim",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.06.2005",
+    "district_id": "92.06.06",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Inofina",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.06.2006",
+    "district_id": "92.06.06",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Mosum",
+    "type": "DESA"
+  }
+]

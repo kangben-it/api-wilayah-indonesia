@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81.08.10.2001",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Watuwei",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.10.2002",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Ilmarang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.10.2003",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Letmasa",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.10.2004",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Welora",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.10.2005",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Wiratan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.10.2006",
+    "district_id": "81.08.10",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Nurnyaman",
+    "type": "DESA"
+  }
+]

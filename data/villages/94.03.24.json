@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.03.24.2001",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Yabomaida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2002",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Akoubaida",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2003",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Dauwagu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2004",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Ganeyetaka",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2005",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Yabomaida II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2006",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Bodatadi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.24.2007",
+    "district_id": "94.03.24",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Ibouwagu",
+    "type": "DESA"
+  }
+]

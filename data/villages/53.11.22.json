@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.11.22.2001",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lahiru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.22.2002",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Patamawai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.22.2003",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Wairara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.22.2004",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Praikalala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.22.2005",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lulundilu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.22.2006",
+    "district_id": "53.11.22",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Haray",
+    "type": "DESA"
+  }
+]

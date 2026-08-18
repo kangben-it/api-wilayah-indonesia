@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.01.25.1001",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Polinggona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.25.2002",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Puudongi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.25.2003",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Plasma Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.25.2004",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Tanggeau",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.25.2005",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Wulonggere",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.25.2006",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Pondowae",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.25.2007",
+    "district_id": "74.01.25",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lamondape",
+    "type": "DESA"
+  }
+]

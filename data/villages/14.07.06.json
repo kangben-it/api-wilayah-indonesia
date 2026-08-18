@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.07.06.1007",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Panipahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.06.2001",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Panipahan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2002",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Telukpulai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2003",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pasir Limau Kapas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2004",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sungai Daun",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2005",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Panipahan Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2006",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Panipahan Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.06.2008",
+    "district_id": "14.07.06",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pulaujemur",
+    "type": "DESA"
+  }
+]

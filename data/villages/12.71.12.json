@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.71.12.1001",
+    "district_id": "12.71.12",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Labuhan Deli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1002",
+    "district_id": "12.71.12",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Rengas Pulau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1003",
+    "district_id": "12.71.12",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Terjun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1004",
+    "district_id": "12.71.12",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tanah Enam Ratus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.12.1005",
+    "district_id": "12.71.12",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Paya Pasir",
+    "type": "KELURAHAN"
+  }
+]

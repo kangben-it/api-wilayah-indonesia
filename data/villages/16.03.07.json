@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.03.07.1001",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tanjung Enim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.03.07.1002",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Pasar Tanjung Enim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.03.07.1003",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tanjung Enim Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.03.07.2004",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tegal Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.07.2005",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Lingga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.07.2006",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Keban Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.07.2007",
+    "district_id": "16.03.07",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Darmo",
+    "type": "DESA"
+  }
+]

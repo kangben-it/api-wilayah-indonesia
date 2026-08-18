@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.72.06.1001",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sumber Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1003",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Tambun Nabolon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1007",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Naga Pita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1008",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Pondok Sayur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1009",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Tanjung Tongah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1010",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Naga Pitu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.06.1011",
+    "district_id": "12.72.06",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Tanjung Pinggir",
+    "type": "KELURAHAN"
+  }
+]

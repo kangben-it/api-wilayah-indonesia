@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.02.35.2001",
+    "district_id": "32.02.35",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cireunghas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.35.2002",
+    "district_id": "32.02.35",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cipurut",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.35.2003",
+    "district_id": "32.02.35",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bencoy",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.35.2004",
+    "district_id": "32.02.35",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikurutug",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.35.2005",
+    "district_id": "32.02.35",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tegalpanjang",
+    "type": "DESA"
+  }
+]

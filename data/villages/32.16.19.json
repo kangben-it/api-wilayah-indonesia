@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.16.19.2001",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Cibatu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2002",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukasejati",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2003",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Ciantra",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2004",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukadami",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2005",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sukaresmi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2006",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Serang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.19.2007",
+    "district_id": "32.16.19",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pasirsari",
+    "type": "DESA"
+  }
+]

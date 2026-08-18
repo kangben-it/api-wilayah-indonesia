@@ -1,0 +1,66 @@
+[
+  {
+    "id": "81.71.04.1008",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Tihu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.04.2001",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Hunuth/Durian Patah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2002",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Poka",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2003",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Rumah Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2004",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Wayame",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2005",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Tawiri",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2006",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Hative Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.04.2007",
+    "district_id": "81.71.04",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Laha",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.01.20.1002",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Simpong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1003",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Hanga Hanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1004",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Jole",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1005",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Hanga-Hanga Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1006",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kompo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1007",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bukit Mambual",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1008",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tombang Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1009",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Maahas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.1010",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tanjung Tuwis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.20.2001",
+    "district_id": "72.01.20",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bubung",
+    "type": "DESA"
+  }
+]

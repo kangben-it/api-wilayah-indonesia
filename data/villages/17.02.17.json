@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17.02.17.1001",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Sukaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.17.1002",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kesambe Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.17.1003",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Karang Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.17.1004",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Talang Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.17.2005",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Duku Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.17.2006",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Duku Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.17.2007",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Meles Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.17.2008",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kampung Delima",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.17.2009",
+    "district_id": "17.02.17",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kesambe Lama",
+    "type": "DESA"
+  }
+]

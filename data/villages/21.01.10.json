@@ -1,0 +1,58 @@
+[
+  {
+    "id": "21.01.10.1007",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.10.2001",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Berakit",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.10.2002",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Ekang Anculai",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.10.2003",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Pengudang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.10.2004",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Sebong Lagoi",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.10.2005",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Sebong Pereh",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.10.2006",
+    "district_id": "21.01.10",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Sri Bintan",
+    "type": "DESA"
+  }
+]

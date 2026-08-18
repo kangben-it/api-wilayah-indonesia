@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.11.20.1001",
+    "district_id": "53.11.20",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Temu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.20.2002",
+    "district_id": "53.11.20",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.20.2003",
+    "district_id": "53.11.20",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Hambapraing",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.20.2004",
+    "district_id": "53.11.20",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mondu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.20.2005",
+    "district_id": "53.11.20",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Ndapayami",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31.72.05.1001",
+    "district_id": "31.72.05",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Pademangan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.05.1002",
+    "district_id": "31.72.05",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Pademangan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.05.1003",
+    "district_id": "31.72.05",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Ancol",
+    "type": "KELURAHAN"
+  }
+]

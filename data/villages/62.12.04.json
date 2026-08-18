@@ -1,0 +1,98 @@
+[
+  {
+    "id": "62.12.04.1004",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Bakanon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.04.1006",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Lahung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.04.2001",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Sungai Gula",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2002",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Sungai Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2003",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Salio",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2005",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Purnama",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2007",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Sungai Lobang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2008",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Pantai Laga",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2009",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Baratu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2010",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Juking Sopan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2011",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Babuat",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.04.2018",
+    "district_id": "62.12.04",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Sungai Bakanon",
+    "type": "DESA"
+  }
+]

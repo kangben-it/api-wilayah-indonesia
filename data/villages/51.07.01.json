@@ -1,0 +1,50 @@
+[
+  {
+    "id": "51.07.01.2001",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Nongan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.01.2002",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Rendang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.01.2003",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Menanga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.01.2004",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Besakih",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.01.2005",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Pempatan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.01.2006",
+    "district_id": "51.07.01",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Pesaban",
+    "type": "DESA"
+  }
+]

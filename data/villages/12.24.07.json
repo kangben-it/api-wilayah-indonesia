@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.24.07.2001",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Bitaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2002",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Lahemboho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2003",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Anaoma",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2004",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Dahana Tugala Oyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2005",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Fulolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2006",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hiligawoni",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2007",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Ononamolo Tumula",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2008",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Banua Sibohou I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2009",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Ombolata",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2010",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Banua Sibohou II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2011",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Dahana Alasa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2012",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Ononamolo Alasa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2013",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Loloana'a",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.07.2014",
+    "district_id": "12.24.07",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilisebua Siwalubanua",
+    "type": "DESA"
+  }
+]

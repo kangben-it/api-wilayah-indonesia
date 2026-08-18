@@ -1,0 +1,42 @@
+[
+  {
+    "id": "19.71.02.1001",
+    "district_id": "19.71.02",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Opas Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.02.1002",
+    "district_id": "19.71.02",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Gedung Nasional",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.02.1003",
+    "district_id": "19.71.02",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Batin Tikal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.02.1004",
+    "district_id": "19.71.02",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Rawa Bangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.02.1005",
+    "district_id": "19.71.02",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Kejaksaan",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "96.01.04.2001",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Seget",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2002",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malabam",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2003",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Pulau Kasim",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2004",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kasimle",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2005",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wewenagu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2006",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wasingsan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2007",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klayas",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2008",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Wayenkede",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.04.2009",
+    "district_id": "96.01.04",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mobi",
+    "type": "DESA"
+  }
+]

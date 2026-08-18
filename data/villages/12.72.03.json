@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.72.03.1001",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Melayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1002",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Martoba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1003",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1004",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sukadame",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1005",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Kahean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1006",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sigulanggulang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.03.1007",
+    "district_id": "12.72.03",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Bane",
+    "type": "KELURAHAN"
+  }
+]

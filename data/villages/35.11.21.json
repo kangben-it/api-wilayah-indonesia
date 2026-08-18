@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.11.21.2001",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Taman",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2002",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Gentong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2003",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kemuningan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2004",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Trebungan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2005",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sumberkokap",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2006",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Paguan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.21.2007",
+    "district_id": "35.11.21",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kretek",
+    "type": "DESA"
+  }
+]

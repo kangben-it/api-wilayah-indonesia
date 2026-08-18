@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.11.03.1001",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Ladongi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.03.1002",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Atula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.03.1003",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Raa-Raa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.03.1004",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Welala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.03.2005",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Putemata",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.03.2009",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lalowosula",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.03.2010",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Wunggoloko",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.03.2011",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Anggaloosi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.03.2013",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Pombeyoha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.03.2018",
+    "district_id": "74.11.03",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tongandiu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.02.03.1001",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Balai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.03.1002",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Teluk Air",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.03.1003",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Sungai Lakam Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.03.1006",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Lubuk Semut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.03.1007",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Balai Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.03.1008",
+    "district_id": "21.02.03",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Sungai Lakam Barat",
+    "type": "KELURAHAN"
+  }
+]

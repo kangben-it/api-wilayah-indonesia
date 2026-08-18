@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.12.02.2001",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tanjungkerta",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2002",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kroya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2003",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sumbon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2004",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sukamelang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2005",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Temiyang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2006",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tamiyangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2007",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Jayamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2008",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sukaslamet",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.02.2009",
+    "district_id": "32.12.02",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sumberjaya",
+    "type": "DESA"
+  }
+]

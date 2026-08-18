@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.04.20.2001",
+    "district_id": "96.04.20",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Tinggouw",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.20.2002",
+    "district_id": "96.04.20",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Hohair",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.20.2003",
+    "district_id": "96.04.20",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Ruriai",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.20.2004",
+    "district_id": "96.04.20",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Soon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.20.2005",
+    "district_id": "96.04.20",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Ifatkan",
+    "type": "DESA"
+  }
+]

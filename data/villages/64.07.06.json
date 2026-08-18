@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.07.06.1006",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Melak Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.07.06.1011",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Melak Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.07.06.2001",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Empas",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.06.2002",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Empakuq",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.06.2003",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Muara Bunyut",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.06.2012",
+    "district_id": "64.07.06",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Muara Benangaq",
+    "type": "DESA"
+  }
+]

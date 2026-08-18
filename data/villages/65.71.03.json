@@ -1,0 +1,58 @@
+[
+  {
+    "id": "65.71.03.1001",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Lingkas Ujung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1002",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Gunung Lingkas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1003",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Kampung Empat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1004",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Kampung Enam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1005",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Mamburungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1006",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Pantai Amal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.03.1007",
+    "district_id": "65.71.03",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Mamburungan Timur",
+    "type": "KELURAHAN"
+  }
+]

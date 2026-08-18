@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.05.20.1001",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sawit Seberang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.20.2002",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Alur Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.20.2003",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Simpang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.20.2004",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Litur Tasik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.20.2005",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sawit Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.20.2006",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Mekar Sawit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.20.2007",
+    "district_id": "12.05.20",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Alur Melati",
+    "type": "DESA"
+  }
+]

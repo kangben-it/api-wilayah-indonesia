@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.10.11.1005",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tehang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.10.11.2002",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Samui",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.11.2003",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Oroi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.11.2004",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Luwuk Tukau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.11.2006",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Putat Durei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.11.2007",
+    "district_id": "62.10.11",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Mantuhe",
+    "type": "DESA"
+  }
+]

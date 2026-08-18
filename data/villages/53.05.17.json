@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.05.17.2001",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kayang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2002",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Marisa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2003",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Lamma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2004",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Allumang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2005",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Beangonong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2006",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalondama Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.17.2007",
+    "district_id": "53.05.17",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalondama Tengah",
+    "type": "DESA"
+  }
+]

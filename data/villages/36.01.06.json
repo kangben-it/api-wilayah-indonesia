@@ -1,0 +1,50 @@
+[
+  {
+    "id": "36.01.06.2001",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Panimbangjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.06.2002",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.06.2004",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Gombong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.06.2009",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.06.2011",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Citeureup",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.06.2012",
+    "district_id": "36.01.06",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Tanjungjaya",
+    "type": "DESA"
+  }
+]

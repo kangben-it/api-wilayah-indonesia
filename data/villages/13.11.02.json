@@ -1,0 +1,90 @@
+[
+  {
+    "id": "13.11.02.2001",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pasir Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2002",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2004",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Sako Pasia Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2005",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pasar Muara Labuh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2006",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pulakek Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2007",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Bomas",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2008",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Sako Utara Pasia Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2009",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Sako Selatan Pasia Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2010",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pasir Talang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2011",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pasir Talang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.02.2012",
+    "district_id": "13.11.02",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Pasir Talang Selatan",
+    "type": "DESA"
+  }
+]

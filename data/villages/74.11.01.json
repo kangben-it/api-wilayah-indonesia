@@ -1,0 +1,130 @@
+[
+  {
+    "id": "74.11.01.1002",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Rate-rate",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.01.1016",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tababu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.01.2001",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Simbune",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2003",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Poni-Poniki",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2004",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tawainalu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2005",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Woiha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2006",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tasahea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2007",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2008",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tumbudadio",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2009",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Orawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2010",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lalingato",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2011",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tirawuta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2012",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Roko-roko",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2013",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Loka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2014",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Matabondu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.01.2015",
+    "district_id": "74.11.01",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Karemotingge",
+    "type": "DESA"
+  }
+]

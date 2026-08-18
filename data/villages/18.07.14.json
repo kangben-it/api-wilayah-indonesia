@@ -1,0 +1,58 @@
+[
+  {
+    "id": "18.07.14.2001",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Donomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2002",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Nyampir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2003",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Bumi Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2004",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Lehan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2005",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Marga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2006",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Catur Swako",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.14.2007",
+    "district_id": "18.07.14",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Mulyo Asri",
+    "type": "DESA"
+  }
+]

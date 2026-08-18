@@ -1,0 +1,146 @@
+[
+  {
+    "id": "33.16.02.1005",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Randublatung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.16.02.1011",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Wulung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.16.02.2001",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Tlogotuwung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2002",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Bodeh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2003",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Gembyungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2004",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Sambongwangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2006",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Pilang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2007",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Temulus",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2008",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2009",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Kutukan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2010",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Kediren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2012",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Kadengan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2013",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Bekutuk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2014",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Plosorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2015",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Jeruk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2016",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Tanggel",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2017",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Kalisari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.02.2018",
+    "district_id": "33.16.02",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Ngliron",
+    "type": "DESA"
+  }
+]

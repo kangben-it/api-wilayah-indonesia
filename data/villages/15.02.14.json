@@ -1,0 +1,58 @@
+[
+  {
+    "id": "15.02.14.2001",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Rantau Limau Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2002",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Ulak Makam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2003",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Air Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2004",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Rejo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2005",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kota Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2006",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tunggul Bulin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.14.2007",
+    "district_id": "15.02.14",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Mekar Limau Manis",
+    "type": "DESA"
+  }
+]

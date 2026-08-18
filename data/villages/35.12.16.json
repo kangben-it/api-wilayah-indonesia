@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.12.16.2001",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Lubawang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2002",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kalisari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2003",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Tepos",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2004",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Selobanteng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2005",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Banyuglugur",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2006",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Telempong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.16.2007",
+    "district_id": "35.12.16",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kalianget",
+    "type": "DESA"
+  }
+]

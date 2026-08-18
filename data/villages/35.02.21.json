@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.02.21.2001",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Bareng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.02.21.2002",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Tambang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.02.21.2003",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Krisik",
+    "type": "DESA"
+  },
+  {
+    "id": "35.02.21.2004",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Pudak Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.02.21.2005",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Banjarejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.02.21.2006",
+    "district_id": "35.02.21",
+    "regency_id": "35.02",
+    "province_id": "35",
+    "name": "Pudak Kulon",
+    "type": "DESA"
+  }
+]

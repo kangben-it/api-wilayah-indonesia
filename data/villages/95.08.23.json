@@ -1,0 +1,74 @@
+[
+  {
+    "id": "95.08.23.2001",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Paris",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2002",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Simie",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2003",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Urugi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2004",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Pirim-Pirim",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2005",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Tombisik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2006",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Yepma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2007",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Sokore",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2008",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Tobonggom",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.23.2009",
+    "district_id": "95.08.23",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Rapa",
+    "type": "DESA"
+  }
+]

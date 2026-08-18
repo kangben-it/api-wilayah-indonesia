@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.23.13.1001",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kranggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.13.2002",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Badran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2003",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Bengkal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2004",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Pare",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2005",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Nguwet",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2006",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Ngropoh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2007",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Pendowo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2008",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Sanggrahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2009",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Klepu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2010",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kemloko",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2011",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Gentan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2012",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kramat",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.13.2013",
+    "district_id": "33.23.13",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Purwosari",
+    "type": "DESA"
+  }
+]

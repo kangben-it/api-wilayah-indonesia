@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.10.09.2001",
+    "district_id": "35.10.09",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kembiritan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.09.2002",
+    "district_id": "35.10.09",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Genteng Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.09.2003",
+    "district_id": "35.10.09",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Genteng Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.09.2004",
+    "district_id": "35.10.09",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Setail",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.09.2005",
+    "district_id": "35.10.09",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kaligondo",
+    "type": "DESA"
+  }
+]

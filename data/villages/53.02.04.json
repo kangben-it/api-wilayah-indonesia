@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.02.04.2001",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Billa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2002",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oelet",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2004",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Pisan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2005",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mauleum",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2007",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nifukiu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2008",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mnelaanen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2009",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Teluk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2012",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oe'Ekam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2016",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Sini",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.04.2017",
+    "district_id": "53.02.04",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Tliu",
+    "type": "DESA"
+  }
+]

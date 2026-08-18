@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.10.15.1002",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bakungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.15.1003",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Banjarsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.15.2001",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2004",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kemiren",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2005",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Olehsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2006",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Glagah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2007",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Paspan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2010",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Tamansuruh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2011",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kenjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.15.2012",
+    "district_id": "35.10.15",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kampunganyar",
+    "type": "DESA"
+  }
+]

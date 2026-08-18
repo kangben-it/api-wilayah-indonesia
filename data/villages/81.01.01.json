@@ -1,0 +1,122 @@
+[
+  {
+    "id": "81.01.01.1009",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Hollo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.01.01.2001",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Tamilouw",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2002",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Sepa",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2003",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Rutah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2004",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Soahuku",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2005",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Amahai",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2006",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Haruru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2007",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Sehati",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2008",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Makariki",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2010",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Yafila",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2011",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Banda Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2020",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Yainuelo",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2021",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Nua Nea",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2022",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Hatuhenu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.01.2023",
+    "district_id": "81.01.01",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Nuweletetu",
+    "type": "DESA"
+  }
+]

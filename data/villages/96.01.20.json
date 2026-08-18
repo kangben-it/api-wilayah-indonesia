@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.01.20.2001",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Saluk",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.20.2002",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klawaren",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.20.2003",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Woloin",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.20.2004",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klalin Mos",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.20.2005",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kwari",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.20.2006",
+    "district_id": "96.01.20",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kamlin",
+    "type": "DESA"
+  }
+]

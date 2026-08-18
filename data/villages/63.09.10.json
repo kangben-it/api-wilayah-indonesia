@@ -1,0 +1,50 @@
+[
+  {
+    "id": "63.09.10.2001",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Bilas",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.10.2002",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kaong",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.10.2003",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Pangelak",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.10.2004",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kinarum",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.10.2005",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Masingai II",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.10.2006",
+    "district_id": "63.09.10",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Masingai I",
+    "type": "DESA"
+  }
+]

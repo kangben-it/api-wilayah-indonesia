@@ -1,0 +1,58 @@
+[
+  {
+    "id": "15.71.01.1001",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Simpang IV Sipin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1002",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Buluran Kenali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1003",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Teluk Kenali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1004",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Telanaipura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1010",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Penyengat Rendah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1011",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Pematang Sulur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.01.1012",
+    "district_id": "15.71.01",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Aur Kenali",
+    "type": "KELURAHAN"
+  }
+]

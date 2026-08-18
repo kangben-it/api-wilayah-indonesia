@@ -1,0 +1,66 @@
+[
+  {
+    "id": "18.10.03.2001",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Ambarawa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2002",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Ambarawa Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2003",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Kresno Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2004",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Sumber Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2005",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Tanjung Anom",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2006",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Jati Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2007",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Margodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.03.2008",
+    "district_id": "18.10.03",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Ambarawa Timur",
+    "type": "DESA"
+  }
+]

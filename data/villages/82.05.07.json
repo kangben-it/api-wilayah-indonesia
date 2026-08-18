@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.05.07.2001",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Waiboga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2002",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Soamole",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2003",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Waiman",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2004",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Fat Iba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2005",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Bega",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.07.2006",
+    "district_id": "82.05.07",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Manaf",
+    "type": "DESA"
+  }
+]

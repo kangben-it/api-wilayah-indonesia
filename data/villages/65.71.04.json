@@ -1,0 +1,26 @@
+[
+  {
+    "id": "65.71.04.1001",
+    "district_id": "65.71.04",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Juata Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.04.1002",
+    "district_id": "65.71.04",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Juata Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.04.1003",
+    "district_id": "65.71.04",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Juata Kerikil",
+    "type": "KELURAHAN"
+  }
+]

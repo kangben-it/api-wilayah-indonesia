@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12.08.29.1001",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Merek Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.29.1002",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dalig Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.29.1005",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sondi Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.29.1011",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Pamatang Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.29.1018",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Baringin Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.29.2004",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Raya Bayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2007",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bahapal Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2010",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Siporkas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2012",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sihubu Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2013",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Raya Bosi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2014",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Silou Huluan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2015",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Silou Buttu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2016",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bongguron Kariahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2017",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Simbou Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2020",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dame Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2021",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Limag Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.29.2022",
+    "district_id": "12.08.29",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Lokkung Raya",
+    "type": "DESA"
+  }
+]

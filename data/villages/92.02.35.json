@@ -1,0 +1,82 @@
+[
+  {
+    "id": "92.02.35.2001",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Mubraidiba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2002",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Mandopi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2003",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Mubri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2004",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Teluk Mubri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2005",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Meyes",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2006",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Inya",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2007",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Warbefor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2008",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Yonggam",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2009",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Singgimeba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.35.2010",
+    "district_id": "92.02.35",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Inyei",
+    "type": "DESA"
+  }
+]

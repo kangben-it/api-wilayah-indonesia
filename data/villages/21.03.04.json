@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21.03.04.1003",
+    "district_id": "21.03.04",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Sabang Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.04.2001",
+    "district_id": "21.03.04",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Sebelat",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.04.2005",
+    "district_id": "21.03.04",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Air Putih",
+    "type": "DESA"
+  }
+]

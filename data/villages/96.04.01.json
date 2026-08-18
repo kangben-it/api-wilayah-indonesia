@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.04.01.2001",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Fef",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2002",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wayo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2003",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Syubun",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2004",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Sikor",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2005",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Ibe",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2006",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Syunam",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2007",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Banfot",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2008",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Iwin",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2009",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Esyum",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.01.2010",
+    "district_id": "96.04.01",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Imor",
+    "type": "DESA"
+  }
+]

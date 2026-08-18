@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.74.01.1001",
+    "district_id": "32.74.01",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Kejaksan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.01.1002",
+    "district_id": "32.74.01",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Sukapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.01.1003",
+    "district_id": "32.74.01",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Kesenden",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.01.1004",
+    "district_id": "32.74.01",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Kebonbaru",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.03.21.2001",
+    "district_id": "94.03.21",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Dogomo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.21.2002",
+    "district_id": "94.03.21",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Bomong Bugopa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.21.2003",
+    "district_id": "94.03.21",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Dangipa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.21.2004",
+    "district_id": "94.03.21",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Ondegapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.21.2005",
+    "district_id": "94.03.21",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Sogomo",
+    "type": "DESA"
+  }
+]

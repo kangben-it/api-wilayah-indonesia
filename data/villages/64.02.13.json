@@ -1,0 +1,106 @@
+[
+  {
+    "id": "64.02.13.1007",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sungai Seluang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1008",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Wonotirto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1009",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Tanjung Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1010",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Samboja Kuala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1011",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sanipah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1012",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Handil Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1013",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Muara Sembilang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1021",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Teluk Pemedas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1022",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Kampung Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.1023",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Handil Baru Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.13.2014",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Karya Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.13.2016",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Bukit Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.13.2019",
+    "district_id": "64.02.13",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Beringin Agung",
+    "type": "DESA"
+  }
+]

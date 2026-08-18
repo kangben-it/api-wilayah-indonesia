@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.08.10.2001",
+    "district_id": "61.08.10",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Sebangki",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.10.2002",
+    "district_id": "61.08.10",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Kumpang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.10.2003",
+    "district_id": "61.08.10",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Agak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.10.2004",
+    "district_id": "61.08.10",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.10.2005",
+    "district_id": "61.08.10",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Sungai Segak",
+    "type": "DESA"
+  }
+]

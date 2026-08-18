@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.10.10.2001",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Tegalharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2002",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sepanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2003",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Karangharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2004",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Tulungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2005",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sumbergondo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2006",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bumiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.10.2007",
+    "district_id": "35.10.10",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Margomulyo",
+    "type": "DESA"
+  }
+]

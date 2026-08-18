@@ -1,0 +1,58 @@
+[
+  {
+    "id": "63.08.09.2001",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Paminggir",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2002",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Paminggir Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2003",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Ambahai",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2004",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Sapala",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2005",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Bararawa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2006",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Pal Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.08.09.2007",
+    "district_id": "63.08.09",
+    "regency_id": "63.08",
+    "province_id": "63",
+    "name": "Tampakang",
+    "type": "DESA"
+  }
+]

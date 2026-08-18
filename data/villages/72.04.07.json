@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.04.07.1001",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Tambun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.1003",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Tuweley",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.1004",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Nalu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.1005",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.1006",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Panasakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.1007",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Sidoarjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.04.07.2002",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Dadakitan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.04.07.2008",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Buntuna",
+    "type": "DESA"
+  },
+  {
+    "id": "72.04.07.2009",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Lelean Nono",
+    "type": "DESA"
+  },
+  {
+    "id": "72.04.07.2010",
+    "district_id": "72.04.07",
+    "regency_id": "72.04",
+    "province_id": "72",
+    "name": "Pangi",
+    "type": "DESA"
+  }
+]

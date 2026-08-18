@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.08.04.2001",
+    "district_id": "13.08.04",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Limo Koto",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.04.2002",
+    "district_id": "13.08.04",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Koto Kaciak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.04.2003",
+    "district_id": "13.08.04",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Ganggo Mudiak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.04.2004",
+    "district_id": "13.08.04",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Ganggo Hilia",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.04.2007",
+    "district_id": "13.08.04",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Koto Kaciak Barat",
+    "type": "DESA"
+  }
+]

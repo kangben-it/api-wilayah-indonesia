@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.04.34.2001",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2002",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Mander",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2003",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Panamping",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2004",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Pangawinan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2005",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Malabar",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2006",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Blokang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2007",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Babakan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.34.2008",
+    "district_id": "36.04.34",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Pringwulung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34.03.02.2001",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Natah",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2002",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Pilangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2003",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Kedungpoh",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2004",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Pengkol",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2005",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Kedungkeris",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2006",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Nglipar",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.02.2007",
+    "district_id": "34.03.02",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Katongan",
+    "type": "DESA"
+  }
+]

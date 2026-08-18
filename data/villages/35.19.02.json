@@ -1,0 +1,98 @@
+[
+  {
+    "id": "35.19.02.1002",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Mlilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.19.02.1012",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Bangunsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.19.02.2001",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Lembah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2003",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Kradinan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2004",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Suluk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2005",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Blimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2006",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Bader",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2007",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Candimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2008",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Glonggong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2009",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Dolopo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2010",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Doho",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.02.2011",
+    "district_id": "35.19.02",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Ketawang",
+    "type": "DESA"
+  }
+]

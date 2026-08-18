@@ -1,0 +1,250 @@
+[
+  {
+    "id": "12.02.01.1001",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Partoli Toruan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1002",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan V",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1003",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan VI",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1004",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan VII",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1005",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan IX",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1006",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan X",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.1007",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan XI",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.01.2008",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbubu I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2009",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbubu II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2010",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutapea Banuarea",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2011",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Siandor-andor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2012",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutauruk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2013",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hapoltahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2014",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbubu Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2015",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Aek Siansimun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2016",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Htgalung Siwaluompo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2017",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbubu Pea",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2018",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2019",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sosunggulon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2020",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan VIII",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2021",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Simamora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2022",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbaju Toruan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2023",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbaju Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2024",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parbaju Tonga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2025",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sitampurung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2026",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Siraja Oloan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2027",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Jambur Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2028",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sihujur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2029",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Partali Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2030",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.01.2031",
+    "district_id": "12.02.01",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutatoruan III",
+    "type": "DESA"
+  }
+]

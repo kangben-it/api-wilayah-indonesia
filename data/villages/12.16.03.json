@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.16.03.2001",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Marbun Toruan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2002",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Simamora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2003",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Tipang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2004",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Sinambela",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2005",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Simangulampe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2006",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Siunong Unong Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.03.2007",
+    "district_id": "12.16.03",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Marbun Tonga Marbun Dolok",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "15.04.03.1001",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Muara Bulian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.03.1002",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Teratai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.03.1003",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sridadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.03.1004",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.03.1005",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Rengas Condong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.03.2006",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pasar Terusan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2007",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Terusan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2008",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Malapari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2009",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Napal Sisik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2010",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Rambahan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2011",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Olak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2012",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Muaro Singoan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2013",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Aro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2014",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Rantau Puri",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2015",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sungai Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2016",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bajubang Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2017",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Singkawang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2018",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Tenam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2019",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sungai Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2020",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kilangan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.03.2021",
+    "district_id": "15.04.03",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pelayangan",
+    "type": "DESA"
+  }
+]

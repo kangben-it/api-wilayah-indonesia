@@ -1,0 +1,82 @@
+[
+  {
+    "id": "51.02.01.2001",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Bajera",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2002",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Wanagiri",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2003",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Pupuan Sawah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2004",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Berembeng",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2005",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Selemadeg",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2006",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Serampingan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2007",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Antap",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2008",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Wanagiri Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2009",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Manikyang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.02.01.2010",
+    "district_id": "51.02.01",
+    "regency_id": "51.02",
+    "province_id": "51",
+    "name": "Bajera Utara",
+    "type": "DESA"
+  }
+]

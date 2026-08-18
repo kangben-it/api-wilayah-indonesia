@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.06.14.2001",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Manuju",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2002",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Pattallikang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2003",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tamalatea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2004",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Moncongloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2005",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bilalang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2006",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tassese",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.14.2007",
+    "district_id": "73.06.14",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tana Karaeng",
+    "type": "DESA"
+  }
+]

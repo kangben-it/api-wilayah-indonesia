@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.08.13.2001",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Teluk Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.13.2002",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Suka Rahmat",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.13.2003",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.13.2004",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Kandolo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.13.2005",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Danau Redan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.13.2006",
+    "district_id": "64.08.13",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Martadinata",
+    "type": "DESA"
+  }
+]

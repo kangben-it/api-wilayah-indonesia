@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.06.09.2001",
+    "district_id": "13.06.09",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Koto Tangah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.09.2003",
+    "district_id": "13.06.09",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Gadut",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.09.2004",
+    "district_id": "13.06.09",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Kapau",
+    "type": "DESA"
+  }
+]

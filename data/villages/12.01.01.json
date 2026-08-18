@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.01.01.1001",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pasar Batu Gerigis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.01.1002",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Padang Masiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.01.2003",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Kampung Solok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2004",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pasar Terandam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2005",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sigambo Gambo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2006",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Ujung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2007",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Kinali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2008",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Kampung Mudik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2009",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Aek Dakka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2010",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Patupangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2011",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Gabungan Hasang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2017",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Bungo Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.01.2018",
+    "district_id": "12.01.01",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Kedai Gedang",
+    "type": "DESA"
+  }
+]

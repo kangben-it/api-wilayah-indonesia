@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.76.02.1004",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Rantau Laban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1007",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Karya Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1009",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Lalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1010",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Tanjung Marulak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1011",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Sri Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1012",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Tanjung Marulak Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.02.1013",
+    "district_id": "12.76.02",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Mekar Sentosa",
+    "type": "KELURAHAN"
+  }
+]

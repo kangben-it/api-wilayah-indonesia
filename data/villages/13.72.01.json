@@ -1,0 +1,58 @@
+[
+  {
+    "id": "13.72.01.1001",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Tanah Garam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1002",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "VI Suku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1003",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Sinapa Piliang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1004",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "IX Korong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1005",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Kampai Tabu Karambia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1006",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Aro IV Korong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.72.01.1007",
+    "district_id": "13.72.01",
+    "regency_id": "13.72",
+    "province_id": "13",
+    "name": "Simpang Rumbio",
+    "type": "KELURAHAN"
+  }
+]

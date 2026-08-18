@@ -1,0 +1,74 @@
+[
+  {
+    "id": "61.02.07.1011",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Pinyuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.07.2001",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Rasau",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2002",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Bakau Besar Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2003",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Purun Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2004",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Bakau Besar Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2005",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2006",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Peniraman",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2007",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Nusapati",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.07.2008",
+    "district_id": "61.02.07",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Galang",
+    "type": "DESA"
+  }
+]

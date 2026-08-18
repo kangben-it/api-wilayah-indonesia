@@ -1,0 +1,58 @@
+[
+  {
+    "id": "21.03.07.1011",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Ranai Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.07.1016",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Ranai Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.07.1017",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Bandarsyah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.07.1019",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Batu Hitam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.07.2002",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Sungai Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.07.2004",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Sepempang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.07.2014",
+    "district_id": "21.03.07",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Batu Gajah",
+    "type": "DESA"
+  }
+]

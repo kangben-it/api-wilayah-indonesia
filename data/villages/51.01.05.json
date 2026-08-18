@@ -1,0 +1,82 @@
+[
+  {
+    "id": "51.01.05.1001",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Pendem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1003",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Loloan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1005",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Dauhwaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.1009",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Sangkaragung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.05.2002",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Perancak",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2004",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Batu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2006",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Budeng",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2007",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Air Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2008",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Yehkuning",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.05.2010",
+    "district_id": "51.01.05",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Dangintukadaya",
+    "type": "DESA"
+  }
+]

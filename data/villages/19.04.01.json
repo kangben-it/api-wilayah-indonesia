@@ -1,0 +1,90 @@
+[
+  {
+    "id": "19.04.01.1001",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Koba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1002",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Arung Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1017",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Berok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1018",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Padang Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.1019",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Simpang Perlang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.01.2003",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2005",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Kurau (Timur)",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2006",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Guntung",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2007",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Penyak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2008",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Terentang III",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.01.2010",
+    "district_id": "19.04.01",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Kurau Barat",
+    "type": "DESA"
+  }
+]

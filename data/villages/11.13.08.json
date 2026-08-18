@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11.13.08.2001",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pangur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2002",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Badak",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2003",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Kendawi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2004",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Sangir",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2005",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Panglima Linting",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2006",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Blangtemung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2007",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Rerebe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2008",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Uning Gelung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.08.2009",
+    "district_id": "11.13.08",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Uning Sepakat",
+    "type": "DESA"
+  }
+]

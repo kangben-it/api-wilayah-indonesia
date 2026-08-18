@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.02.24.1001",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Karangklesem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1002",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Teluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1003",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Berkoh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1004",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Purwokerto Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1005",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Purwokerto Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1006",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Karangpucung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.24.1007",
+    "district_id": "33.02.24",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  }
+]

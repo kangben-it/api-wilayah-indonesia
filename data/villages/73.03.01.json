@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.03.01.1001",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Manai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1002",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Lebang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1003",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Sunggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1004",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Atu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1005",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Rita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1006",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Langkasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.1007",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.01.2008",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Jai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.03.01.2009",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Cinde",
+    "type": "DESA"
+  },
+  {
+    "id": "73.03.01.2010",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Loe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.03.01.2012",
+    "district_id": "73.03.01",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Bonto Salluang",
+    "type": "DESA"
+  }
+]

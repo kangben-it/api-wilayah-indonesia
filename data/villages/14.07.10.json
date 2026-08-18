@@ -1,0 +1,130 @@
+[
+  {
+    "id": "14.07.10.1001",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Kanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.10.1006",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.10.2002",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2003",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Sempurna",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2004",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2005",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Pusako",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2007",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sei Manasib",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2008",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Teluk Bano I",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2009",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2010",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pematang Damar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2011",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pematang Ibul",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2012",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Permata",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2013",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2014",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Lestari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2015",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Balam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.10.2016",
+    "district_id": "14.07.10",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bangko Mas Raya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "71.07.01.1004",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Tosuraya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1005",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Wawali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1008",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Lowu Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1009",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Lowu Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1016",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Lowu Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1017",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Nataan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1018",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Tosuraya Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1019",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Tosuraya Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.1020",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Wawali Pasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.07.01.2003",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Rasi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.01.2021",
+    "district_id": "71.07.01",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Rasi Satu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.08.1001",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Belawan I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1002",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Belawan II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1003",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Belawan Bahagia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1004",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Belawan Bahari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1005",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Belawan Sicanang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.08.1006",
+    "district_id": "12.71.08",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Bagan Deli",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "15.02.06.1008",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pamenang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.02.06.2004",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Jelatang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2005",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanjung Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2006",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Empang Benao",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2007",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Rejo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2009",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Keroya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2010",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Muara Belengo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2011",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Karang Berahi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2012",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pauh Menang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2013",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pematang Kancil",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2014",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanah Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2015",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2026",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Udang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.06.2027",
+    "district_id": "15.02.06",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pelakar Jaya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.74.02.1001",
+    "district_id": "12.74.02",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Tanjungbalai Kota III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1002",
+    "district_id": "12.74.02",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Tanjungbalai Kota IV",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1003",
+    "district_id": "12.74.02",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Sejahtera",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1004",
+    "district_id": "12.74.02",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Kuala Silo Bestari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.02.1005",
+    "district_id": "12.74.02",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Matahalasan",
+    "type": "KELURAHAN"
+  }
+]

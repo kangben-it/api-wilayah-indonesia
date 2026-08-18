@@ -1,0 +1,162 @@
+[
+  {
+    "id": "32.05.02.1001",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Suci Kaler",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.02.1002",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Lebakjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.02.1003",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Karangmulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.02.1014",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Lengkongjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.05.02.2004",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Karangpawitan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2005",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Situgede",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2006",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cimurah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2007",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Suci",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2008",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Jatisari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2009",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Godog",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2010",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Situsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2011",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Karangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2012",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sindangpalay",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2013",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Lebakagung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2015",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sindanggalih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2016",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2017",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sindanglaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2018",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2019",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Situsaeur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.02.2020",
+    "district_id": "32.05.02",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Situjaya",
+    "type": "DESA"
+  }
+]

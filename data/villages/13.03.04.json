@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13.03.04.2001",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Muaro",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2002",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Kandang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2003",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Silokek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2004",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Pematang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2005",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Solok Ambah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2006",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Paru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2007",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Durian Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2008",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Aie Angek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.04.2009",
+    "district_id": "13.03.04",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Sijunjung",
+    "type": "DESA"
+  }
+]

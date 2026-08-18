@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.71.01.1001",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Pahandut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.71.01.1002",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Panarung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.71.01.1003",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Langkai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.71.01.1004",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Tumbang Rungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.71.01.1005",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Pahandut Seberang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.71.01.1006",
+    "district_id": "62.71.01",
+    "regency_id": "62.71",
+    "province_id": "62",
+    "name": "Tanjung Pinang",
+    "type": "KELURAHAN"
+  }
+]

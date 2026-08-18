@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.05.21.2001",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Serapit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2002",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Gunung Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2003",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2004",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Pulung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2005",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Aman Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2006",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Kariahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2007",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sebertung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2008",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pulau Semikat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2009",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sumber Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.21.2010",
+    "district_id": "12.05.21",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Perkebunan Amal Tani",
+    "type": "DESA"
+  }
+]

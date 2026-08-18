@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.71.02.1001",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.71.02.1002",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Baranangsiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.71.02.1003",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Katulampa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.71.02.1004",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Sindangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.71.02.1005",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Sindangrasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.71.02.1006",
+    "district_id": "32.71.02",
+    "regency_id": "32.71",
+    "province_id": "32",
+    "name": "Tajur",
+    "type": "KELURAHAN"
+  }
+]

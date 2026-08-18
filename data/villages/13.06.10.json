@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.06.10.2001",
+    "district_id": "13.06.10",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Koto Rantang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.10.2002",
+    "district_id": "13.06.10",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Pasia Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.10.2003",
+    "district_id": "13.06.10",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Pagadih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.10.2004",
+    "district_id": "13.06.10",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Nan Tujuah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.10.2005",
+    "district_id": "13.06.10",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Nan Limo",
+    "type": "DESA"
+  }
+]

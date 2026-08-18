@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.02.10.2001",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Mugim",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.10.2002",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Nusa",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.10.2003",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Saga",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.10.2004",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Puragi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.10.2005",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Tawanggire",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.10.2006",
+    "district_id": "96.02.10",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Bedare",
+    "type": "DESA"
+  }
+]

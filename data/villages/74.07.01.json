@@ -1,0 +1,162 @@
+[
+  {
+    "id": "74.07.01.1002",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Pongo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.1003",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wanci",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.1004",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wandoka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.1007",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Waetuno",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.1025",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wandoka Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.1026",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wandoka Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.01.2005",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Sombu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2006",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Waha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2008",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Tindoi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2009",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Maleko",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2013",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Longa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2022",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Pada Raya Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2023",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Waelumu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2024",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Patuno",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2027",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Waginopo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2028",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Tindoi Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2029",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Posalu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2030",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Koroe Onawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2031",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wapia-pia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.01.2032",
+    "district_id": "74.07.01",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Pookambua",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.12.24.2001",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Bogor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2002",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sukra",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2003",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Ujunggebang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2004",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tegaltaman",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2005",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sukra Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2006",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sumuradem",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2007",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sumuradem Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.24.2017",
+    "district_id": "32.12.24",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Karanglayung",
+    "type": "DESA"
+  }
+]

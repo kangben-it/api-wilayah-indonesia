@@ -1,0 +1,74 @@
+[
+  {
+    "id": "81.02.15.2001",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Rumadian",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2002",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Debut",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2003",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Namar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2004",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Ngilngof",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2005",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Selayar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2006",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Lairngangas",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2007",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Ohoiluk",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2008",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Ohoililir",
+    "type": "DESA"
+  },
+  {
+    "id": "81.02.15.2009",
+    "district_id": "81.02.15",
+    "regency_id": "81.02",
+    "province_id": "81",
+    "name": "Ngayub",
+    "type": "DESA"
+  }
+]

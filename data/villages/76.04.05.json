@@ -1,0 +1,106 @@
+[
+  {
+    "id": "76.04.05.1001",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Taramanu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.05.2002",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Ambopadang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2003",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tubbi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2004",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Ratte",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2005",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Besoangin",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2006",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Piriang Tapiko",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2007",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Peburru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2008",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Taloba",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2009",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Pollewani",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2010",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Arabua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2011",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Besoangin Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2012",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Poda-Poda",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.05.2013",
+    "district_id": "76.04.05",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Taramanu Tua",
+    "type": "DESA"
+  }
+]

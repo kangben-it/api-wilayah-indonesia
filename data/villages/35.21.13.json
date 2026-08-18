@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.21.13.2001",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2002",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Mantingan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2003",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Kedungharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2004",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Pakah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2005",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Tambakboyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2006",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Pengkol",
+    "type": "DESA"
+  },
+  {
+    "id": "35.21.13.2007",
+    "district_id": "35.21.13",
+    "regency_id": "35.21",
+    "province_id": "35",
+    "name": "Jatimulyo",
+    "type": "DESA"
+  }
+]

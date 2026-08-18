@@ -1,0 +1,66 @@
+[
+  {
+    "id": "31.75.10.1001",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Cipayung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1002",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Cilangkap",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1003",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Pondok Ranggon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1004",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Munjul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1005",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Setu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1006",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Bambu Apus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1007",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Lubang Buaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.10.1008",
+    "district_id": "31.75.10",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Ceger",
+    "type": "KELURAHAN"
+  }
+]

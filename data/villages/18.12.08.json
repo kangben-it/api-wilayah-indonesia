@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18.12.08.2001",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Pagar Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2002",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Pagar Dewa Suka Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2003",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Cahyou Randu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2004",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Bujung Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2005",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Bujung Sari Marga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.08.2006",
+    "district_id": "18.12.08",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Marga Jaya Indah",
+    "type": "DESA"
+  }
+]

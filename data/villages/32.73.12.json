@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.73.12.1001",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Gumuruh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1002",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Maleer",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1003",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cibangkong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1004",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kacapiring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1005",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Waru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1006",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Gedang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1007",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Samoja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.12.1008",
+    "district_id": "32.73.12",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Binong",
+    "type": "KELURAHAN"
+  }
+]

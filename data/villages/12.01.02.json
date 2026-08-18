@@ -1,0 +1,170 @@
+[
+  {
+    "id": "12.01.02.1001",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sorkam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.02.1002",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pargarutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.02.1004",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Tarutung Bolak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.02.1009",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Naipospos Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.02.2003",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Teluk Roban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2005",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Fajar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2006",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pardamean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2007",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pelita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2008",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Rianiate",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2010",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Gonting Mahe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2011",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Dolok Pantis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2014",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pea Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2015",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Bottot",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2016",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sorkam Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2017",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sorkam Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2018",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pananggahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2019",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pagaran Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2020",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Hite Urat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2021",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sihapas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2022",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.02.2023",
+    "district_id": "12.01.02",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Muara Nauli",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "62.12.09.2001",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Tohan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2002",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Naan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2003",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Joloi I",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2004",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Joloi II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2005",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Parahau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2006",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Jojang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.09.2007",
+    "district_id": "62.12.09",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Takajung",
+    "type": "DESA"
+  }
+]

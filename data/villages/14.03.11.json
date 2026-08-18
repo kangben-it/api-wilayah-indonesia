@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.03.11.2001",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Tanjung Medang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2002",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Teluk Rhu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2003",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Tanjung Punak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2004",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Kadur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2005",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Titi Akar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2006",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Hutan Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2007",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.11.2008",
+    "district_id": "14.03.11",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Puteri Sembilan",
+    "type": "DESA"
+  }
+]

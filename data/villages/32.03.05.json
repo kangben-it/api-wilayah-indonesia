@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.03.05.2001",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Ciranjang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2002",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sindangjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2004",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Cibiuk",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2005",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2006",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Karangwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2007",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Nanggalamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2008",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Kertajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2009",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sindangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.05.2012",
+    "district_id": "32.03.05",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Mekargalih",
+    "type": "DESA"
+  }
+]

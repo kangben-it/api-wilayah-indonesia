@@ -1,0 +1,122 @@
+[
+  {
+    "id": "74.14.01.1007",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Lakudo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.14.01.1008",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Gu Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.14.01.1010",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Boneoge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.14.01.2001",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Metere",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2002",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Lolibu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2003",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Wajogu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2004",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Moko",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2005",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Mone",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2006",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Matawine",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2009",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Nepa Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2011",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Madongka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2012",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Waraa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2013",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Wongko Lakudo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2014",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "One Waara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.01.2015",
+    "district_id": "74.14.01",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Teluk Lasongko",
+    "type": "DESA"
+  }
+]

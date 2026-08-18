@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.02.14.2001",
+    "district_id": "32.02.14",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojonggenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.14.2002",
+    "district_id": "32.02.14",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibodas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.14.2003",
+    "district_id": "32.02.14",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Berekah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.14.2004",
+    "district_id": "32.02.14",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cipanengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.14.2005",
+    "district_id": "32.02.14",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojonggaling",
+    "type": "DESA"
+  }
+]

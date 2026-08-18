@@ -1,0 +1,58 @@
+[
+  {
+    "id": "75.04.12.2001",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Milangodaa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2002",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Londoun",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2003",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Marisa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2004",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Tahele",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2005",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Bunto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2006",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Maleo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.12.2007",
+    "district_id": "75.04.12",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Kelapa Lima",
+    "type": "DESA"
+  }
+]

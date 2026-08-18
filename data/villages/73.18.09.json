@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.18.09.1008",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Sima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.09.2003",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Simbuang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2004",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Pongbembe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2006",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Simbuang Batutallu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2009",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Makkodo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.09.2010",
+    "district_id": "73.18.09",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Puangbembe Mesakada",
+    "type": "DESA"
+  }
+]

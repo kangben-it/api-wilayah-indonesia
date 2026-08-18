@@ -1,0 +1,66 @@
+[
+  {
+    "id": "81.08.01.1001",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Tiakur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.08.01.2001",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Klis",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2002",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Patti",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2003",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Wakarleli",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2004",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Kaiwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2005",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Werwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2006",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Tounwawan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.01.2007",
+    "district_id": "81.08.01",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Moain",
+    "type": "DESA"
+  }
+]

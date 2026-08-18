@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.12.03.1001",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Ujung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.03.1002",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Cabenge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.03.1003",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Pajalesang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.03.1004",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Macanre",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.03.2005",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Abbanuange",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2006",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Tetewatu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2007",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Baringeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2009",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Masing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2010",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Kebo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2011",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Parenring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2012",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Paroto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.03.2013",
+    "district_id": "73.12.03",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Palangiseng",
+    "type": "DESA"
+  }
+]

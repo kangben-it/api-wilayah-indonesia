@@ -1,0 +1,74 @@
+[
+  {
+    "id": "64.01.01.2009",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Samurangau",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2010",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Busui",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2011",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Batu Kajang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2012",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Legai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2013",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Sungai Terik",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2014",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kasungai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2015",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Rantau Buta",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2016",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Rantau Layung",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.01.2017",
+    "district_id": "64.01.01",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Songka",
+    "type": "DESA"
+  }
+]

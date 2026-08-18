@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.01.20.2001",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Kelumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2002",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Gunung Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2003",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Mendingin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2004",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Ulak Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2005",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Pedataran",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2006",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.20.2007",
+    "district_id": "16.01.20",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Belandang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.04.33.2001",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Majalaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2002",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Wangisagara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2003",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Biru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2004",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Padamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2005",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2006",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Majasetra",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2007",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Majakerta",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2008",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2009",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Padaulun",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2010",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Neglasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.33.2011",
+    "district_id": "32.04.33",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamukti",
+    "type": "DESA"
+  }
+]

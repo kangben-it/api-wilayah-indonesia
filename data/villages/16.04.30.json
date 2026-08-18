@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.04.30.2001",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Jadian Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2002",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Jadian Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2003",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Berangin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2004",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Padang Bindu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2005",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Keban Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2006",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Danau Belidang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2007",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2008",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lubuk Dendan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2009",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Penandingan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.30.2010",
+    "district_id": "16.04.30",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Durian Dangkal",
+    "type": "DESA"
+  }
+]

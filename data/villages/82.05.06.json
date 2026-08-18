@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.05.06.2001",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Dofa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2002",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Lekokadai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2003",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Lekosula",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2009",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Pas Ipa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2014",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Pelita",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2017",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Johor",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.06.2018",
+    "district_id": "82.05.06",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Lelyaba",
+    "type": "DESA"
+  }
+]

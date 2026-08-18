@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.09.10.2001",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Batu Menyan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2002",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Cilimus",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2003",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Gebang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2004",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Hanura",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2005",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Hurun",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2006",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Munca",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2007",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2008",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Sukajaya Lempasing",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2009",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Talang Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.09.10.2010",
+    "district_id": "18.09.10",
+    "regency_id": "18.09",
+    "province_id": "18",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  }
+]

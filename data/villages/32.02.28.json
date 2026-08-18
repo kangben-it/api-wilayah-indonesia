@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.02.28.2001",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cicantayan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2002",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Lembursawah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2003",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cijalingan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2004",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cisande",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2005",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimahi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2006",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Hegarmanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2007",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukadamai",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.28.2008",
+    "district_id": "32.02.28",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimanggis",
+    "type": "DESA"
+  }
+]

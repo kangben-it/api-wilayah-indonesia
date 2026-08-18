@@ -1,0 +1,42 @@
+[
+  {
+    "id": "31.71.02.1001",
+    "district_id": "31.71.02",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1002",
+    "district_id": "31.71.02",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Karang Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1003",
+    "district_id": "31.71.02",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Kartini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1004",
+    "district_id": "31.71.02",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Gunung Sahari Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.02.1005",
+    "district_id": "31.71.02",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Mangga Dua Selatan",
+    "type": "KELURAHAN"
+  }
+]

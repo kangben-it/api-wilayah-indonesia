@@ -1,0 +1,130 @@
+[
+  {
+    "id": "63.11.06.1019",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Paringin Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.11.06.1023",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Paringin Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.11.06.2005",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Balang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2006",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Kalahiang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2007",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lasung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2008",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Paran",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2009",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Layap",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2012",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Murung Ilung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2013",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Mangkayahu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2014",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lok Batung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2015",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lamida Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2017",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Dahai",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2022",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Hujan Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2024",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Babayau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2034",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Balida",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.06.2038",
+    "district_id": "63.11.06",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Sungai Ketapi",
+    "type": "DESA"
+  }
+]

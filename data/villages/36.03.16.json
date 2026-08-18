@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.03.16.1001",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sepatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.16.2002",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Karet",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2003",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kayu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2004",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kayu Bongkok",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2008",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pondok Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2011",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pisangan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2012",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.16.2015",
+    "district_id": "36.03.16",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sarakan",
+    "type": "DESA"
+  }
+]

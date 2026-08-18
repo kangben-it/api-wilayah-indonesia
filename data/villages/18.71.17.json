@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18.71.17.1001",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Enggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1002",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Pelita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1003",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Tanjungkarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1004",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Gunungsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1005",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rawalaut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.17.1006",
+    "district_id": "18.71.17",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Pahoman",
+    "type": "KELURAHAN"
+  }
+]

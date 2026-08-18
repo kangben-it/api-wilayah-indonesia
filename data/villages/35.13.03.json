@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.13.03.2001",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Wonoasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2002",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Jatisari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2003",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kedawung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2004",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Karangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2005",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Resongo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2006",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Menyono",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.03.2007",
+    "district_id": "35.13.03",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Wringinanom",
+    "type": "DESA"
+  }
+]

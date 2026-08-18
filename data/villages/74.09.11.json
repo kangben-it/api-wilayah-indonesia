@@ -1,0 +1,66 @@
+[
+  {
+    "id": "74.09.11.2001",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tanjung Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2002",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Kampoh Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2003",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Lemo Bajo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2004",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Barasanga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2005",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Wawolesea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2006",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Toreo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2007",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Otipulu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.11.2009",
+    "district_id": "74.09.11",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Kampoh Cina",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.01.11.1001",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Bajamas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.11.2002",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sampang Maruhur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2003",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Siordang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2004",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2005",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Simpang III Lae Bingke",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2006",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sigodung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2007",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Masnauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.11.2008",
+    "district_id": "12.01.11",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Muara Ode",
+    "type": "DESA"
+  }
+]

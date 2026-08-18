@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.77.06.2001",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Joring Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2002",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Batu Layan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2003",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Simasom",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2004",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Pintu Langit Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2005",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Mompang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2006",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Rimba Soping",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2007",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Simatohir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.06.2008",
+    "district_id": "12.77.06",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Joring Natobang",
+    "type": "DESA"
+  }
+]

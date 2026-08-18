@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.02.32.2001",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Lill ana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.32.2002",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nunbena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.32.2003",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noebesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.32.2004",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Taneotob",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.32.2005",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Feto Mone",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.32.2006",
+    "district_id": "53.02.32",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Tunbes",
+    "type": "DESA"
+  }
+]

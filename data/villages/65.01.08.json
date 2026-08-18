@@ -1,0 +1,50 @@
+[
+  {
+    "id": "65.01.08.2001",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Tungu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.08.2002",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Bang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.08.2003",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Telenjau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.08.2004",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Naha Aya",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.08.2005",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Lembu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.08.2006",
+    "district_id": "65.01.08",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Bang Hulu",
+    "type": "DESA"
+  }
+]

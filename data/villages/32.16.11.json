@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.16.11.1007",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Sertajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.16.11.2001",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Tanjungbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2002",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Cipayung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2003",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Hegarmanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2004",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Jatireja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2005",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Jatibaru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2006",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Labansari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.11.2008",
+    "district_id": "32.16.11",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Karangsari",
+    "type": "DESA"
+  }
+]

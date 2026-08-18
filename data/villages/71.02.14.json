@@ -1,0 +1,90 @@
+[
+  {
+    "id": "71.02.14.2001",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kembes II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2002",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kembes I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2003",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Toumbuluan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2004",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Koka",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2005",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Suluan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2006",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kamangta",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2007",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sawangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2008",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Rumengkor",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2009",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tikela",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2010",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Rumengkor Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.14.2011",
+    "district_id": "71.02.14",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Rumengkor Dua",
+    "type": "DESA"
+  }
+]

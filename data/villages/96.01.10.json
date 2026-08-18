@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.01.10.2001",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sailolof",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.10.2002",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kotlol",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.10.2003",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Dulbatan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.10.2004",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Manoket",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.10.2005",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Payapop",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.10.2006",
+    "district_id": "96.01.10",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Masmapop",
+    "type": "DESA"
+  }
+]

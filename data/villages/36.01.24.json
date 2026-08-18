@@ -1,0 +1,82 @@
+[
+  {
+    "id": "36.01.24.2006",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Turus",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2008",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Patia",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2009",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Pasirgadung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2010",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cimoyan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2011",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Idaman",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2014",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Babakankeusik",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2015",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Surianeun",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2017",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2018",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Ciawi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.24.2020",
+    "district_id": "36.01.24",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Simpangtiga",
+    "type": "DESA"
+  }
+]

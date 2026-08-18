@@ -1,0 +1,58 @@
+[
+  {
+    "id": "51.03.04.2001",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Carangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2002",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Petang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2003",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Belok/Sidan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2004",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Pelaga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2005",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Getasan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2006",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Pangsan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.04.2007",
+    "district_id": "51.03.04",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Sulangai",
+    "type": "DESA"
+  }
+]

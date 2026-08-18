@@ -1,0 +1,74 @@
+[
+  {
+    "id": "63.05.10.1007",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Bitahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.05.10.2001",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Binderang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2002",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Parandakan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2003",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Lokpaikat",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2004",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Bataratat",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2005",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Bitahan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2006",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Puncak Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2008",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Budi Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.10.2009",
+    "district_id": "63.05.10",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Ayunan Papan",
+    "type": "DESA"
+  }
+]

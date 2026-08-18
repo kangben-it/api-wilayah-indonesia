@@ -1,0 +1,130 @@
+[
+  {
+    "id": "52.07.02.1004",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Menala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1005",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Kuang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1006",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1007",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1008",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Sampir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1012",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Telaga Bertong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.1019",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Arab Kenangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.07.02.2001",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Labuhan Lalar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2009",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Lalar Liang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2010",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Labuhan Kertasari",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2011",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Seloto",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2013",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tamekan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2014",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Banjar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2015",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Batu Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2020",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Sermong",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.02.2021",
+    "district_id": "52.07.02",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Lamunga",
+    "type": "DESA"
+  }
+]

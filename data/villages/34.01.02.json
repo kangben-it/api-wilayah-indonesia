@@ -1,0 +1,66 @@
+[
+  {
+    "id": "34.01.02.1008",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Wates",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "34.01.02.2001",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Karangwuni",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2002",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Sogan",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2003",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Kulwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2004",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Ngestiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2005",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Bendungan",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2006",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Triharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.02.2007",
+    "district_id": "34.01.02",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Giripeni",
+    "type": "DESA"
+  }
+]

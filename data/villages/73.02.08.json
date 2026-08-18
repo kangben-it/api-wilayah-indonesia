@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.02.08.1001",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Borong Rappoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.08.2002",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Mattirowalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2003",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Kindang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2004",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Arinhua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2005",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tamaona",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2006",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Benteng Palioi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2007",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Balibo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2008",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Garuntungan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2009",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Orogading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2010",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Sipaenre",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2011",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Kahayya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2012",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Somba Palioli",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.08.2013",
+    "district_id": "73.02.08",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Sopa",
+    "type": "DESA"
+  }
+]

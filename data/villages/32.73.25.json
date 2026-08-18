@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.73.25.1001",
+    "district_id": "32.73.25",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Palasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.25.1002",
+    "district_id": "32.73.25",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipadung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.25.1003",
+    "district_id": "32.73.25",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasir Biru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.25.1004",
+    "district_id": "32.73.25",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cisurupan",
+    "type": "KELURAHAN"
+  }
+]

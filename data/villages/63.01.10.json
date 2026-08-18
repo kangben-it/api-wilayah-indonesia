@@ -1,0 +1,74 @@
+[
+  {
+    "id": "63.01.10.2001",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Bajuin",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2002",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Sungai Bakar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2003",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Ketapang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2004",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Tirta Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2005",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Galam",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2006",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Pemalongan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2007",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Kunyit",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2008",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Tebing Siring",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.10.2009",
+    "district_id": "63.01.10",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Tanjung",
+    "type": "DESA"
+  }
+]

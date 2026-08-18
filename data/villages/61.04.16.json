@@ -1,0 +1,74 @@
+[
+  {
+    "id": "61.04.16.1001",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kantor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.04.16.1002",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.04.16.1003",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Mulia Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.04.16.1004",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Sampit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.04.16.1005",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Suka Harja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.04.16.2006",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Suka Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.16.2007",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Kali Nilam",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.16.2008",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Paya Kumang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.04.16.2009",
+    "district_id": "61.04.16",
+    "regency_id": "61.04",
+    "province_id": "61",
+    "name": "Suka Bangun Dalam",
+    "type": "DESA"
+  }
+]

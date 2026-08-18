@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.08.10.1001",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Simpang Belutu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.10.1002",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Telaga Sam-sam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.10.1003",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kandis Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.10.2004",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Belutu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2005",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kandis",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2006",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sam-Sam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2007",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Bekalar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2008",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Jambai Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2009",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Gondang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2010",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Pencing Bekulo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.10.2011",
+    "district_id": "14.08.10",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Libo Jaya",
+    "type": "DESA"
+  }
+]

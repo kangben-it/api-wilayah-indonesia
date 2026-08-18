@@ -1,0 +1,90 @@
+[
+  {
+    "id": "76.04.11.1001",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Limboro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.11.2002",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Lembang Lembang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2003",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tandassura",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2004",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Samasundu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2005",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Napo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2006",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Todang Todang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2007",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Pendulangan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2008",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Renggeang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2009",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Salarri",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2010",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tangan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.11.2011",
+    "district_id": "76.04.11",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Palece",
+    "type": "DESA"
+  }
+]

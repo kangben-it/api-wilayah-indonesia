@@ -1,0 +1,90 @@
+[
+  {
+    "id": "36.03.22.1004",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Medang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.22.2002",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cicalengka",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2003",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pagedangan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2005",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cijantra",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2006",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Lengkong Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2007",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Situ Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2008",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Jatake",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2009",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cihuni",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2010",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kadu Sirung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2011",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Malang Nengah",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.22.2012",
+    "district_id": "36.03.22",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Karang Tengah",
+    "type": "DESA"
+  }
+]

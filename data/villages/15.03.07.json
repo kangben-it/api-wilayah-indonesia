@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15.03.07.2001",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Lubuk Jering",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2002",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Jernih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2003",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Desa Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2004",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Semurung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2005",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Lubuk Kepayang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2006",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Pematang Kabau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2007",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bukit Suban",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2008",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Mentawak Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.07.2009",
+    "district_id": "15.03.07",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Mentawak Ulu",
+    "type": "DESA"
+  }
+]

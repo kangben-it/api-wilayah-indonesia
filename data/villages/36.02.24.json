@@ -1,0 +1,58 @@
+[
+  {
+    "id": "36.02.24.2001",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Kalanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2002",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Pasirkupa",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2003",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cilangkap",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2004",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Aweh",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2005",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sangiangtanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2006",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sukamekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.24.2007",
+    "district_id": "36.02.24",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cikatapis",
+    "type": "DESA"
+  }
+]

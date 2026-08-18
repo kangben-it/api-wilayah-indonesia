@@ -1,0 +1,90 @@
+[
+  {
+    "id": "71.07.09.2001",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2002",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2003",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2004",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2005",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar Dua Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2006",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Molompar Dua Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2007",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Mundung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2008",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Mundung Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2009",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Esandom",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2010",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Esandom Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.09.2011",
+    "district_id": "71.07.09",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Esandom Dua",
+    "type": "DESA"
+  }
+]

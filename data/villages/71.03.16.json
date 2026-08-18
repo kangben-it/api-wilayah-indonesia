@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.03.16.2001",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kendahe I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2002",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kendahe II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2003",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Talawid",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2004",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Tariang Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2005",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Pempalaraeng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2006",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Mohong Sawang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2007",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Lipang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.16.2008",
+    "district_id": "71.03.16",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kawaluso",
+    "type": "DESA"
+  }
+]

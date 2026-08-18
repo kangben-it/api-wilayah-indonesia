@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32.11.17.1001",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Pasanggrahan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.17.1002",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Kota Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.17.1003",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Regol Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.17.1004",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cipameungpeuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.11.17.2005",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sukagalih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2006",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Baginda",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2007",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cipancar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2008",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Citengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2009",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Gunasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2010",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2011",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Margamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2012",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Ciherang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2013",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Margalaksana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.17.2014",
+    "district_id": "32.11.17",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Mekar Rahayu",
+    "type": "DESA"
+  }
+]

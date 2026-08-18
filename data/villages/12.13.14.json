@@ -1,0 +1,154 @@
+[
+  {
+    "id": "12.13.14.1024",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Gambir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.14.1028",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tapus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.14.2001",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Garingging",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2002",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Manyuruk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2003",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bandar Limabung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2006",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lancat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2010",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2011",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lobung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2014",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2015",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Perk. Simpang Gambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2019",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sikumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2021",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Bajole",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2022",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Duku",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2023",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2025",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Koje",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2029",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Dalan Lidang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2031",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bonca Bayuon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2034",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Perbatasan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.14.2035",
+    "district_id": "12.13.14",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tangsi Atas",
+    "type": "DESA"
+  }
+]

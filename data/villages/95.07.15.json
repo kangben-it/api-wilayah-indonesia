@@ -1,0 +1,74 @@
+[
+  {
+    "id": "95.07.15.2001",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Konikme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2002",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Giwan",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2003",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Lugom",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2004",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Mabume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2005",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wandoak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2006",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Bogun Kunik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2007",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Urgelo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2008",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Omapaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.15.2009",
+    "district_id": "95.07.15",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gimili Alome",
+    "type": "DESA"
+  }
+]

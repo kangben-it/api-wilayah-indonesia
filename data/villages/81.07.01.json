@@ -1,0 +1,122 @@
+[
+  {
+    "id": "81.07.01.1012",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Galai Dubu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.07.01.1013",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Siwa Lima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.07.01.2001",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Ujir",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2002",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Nafar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2003",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Kobraur",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2004",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Lau-Lau",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2005",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Gorar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2006",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Tungu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2007",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Tunguwatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2008",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Jabulenga",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2009",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Wokam",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2010",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Karangguli",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2011",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Durjela",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2014",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Wangel",
+    "type": "DESA"
+  },
+  {
+    "id": "81.07.01.2015",
+    "district_id": "81.07.01",
+    "regency_id": "81.07",
+    "province_id": "81",
+    "name": "Samang",
+    "type": "DESA"
+  }
+]

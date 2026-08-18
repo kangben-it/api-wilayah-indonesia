@@ -1,0 +1,82 @@
+[
+  {
+    "id": "61.12.04.2002",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Teluk Empening",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2003",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Terentang Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2004",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Terentang Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2005",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Permata",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2006",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Betuah",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2007",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Sungai Radak Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2008",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Sungai Radak Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2009",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Sungai Dungun",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2010",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Teluk Bayur",
+    "type": "DESA"
+  },
+  {
+    "id": "61.12.04.2011",
+    "district_id": "61.12.04",
+    "regency_id": "61.12",
+    "province_id": "61",
+    "name": "Radak Baru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "14.08.02.1001",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Apit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.02.2002",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Teluk Lanus",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2003",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Tanjung Kuras",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2004",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Parit I/II",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2005",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Teluk Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2008",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Kayu Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2009",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Lalang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2010",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Mengkapan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2011",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Rawa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2012",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Penyengat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2014",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Teluk Batil",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2016",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Bunsur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2017",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2019",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kayu Ara Permai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.02.2020",
+    "district_id": "14.08.02",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Rawa Mekar Jaya",
+    "type": "DESA"
+  }
+]

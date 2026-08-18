@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.74.06.1001",
+    "district_id": "12.74.06",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Pulau Simardan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1002",
+    "district_id": "12.74.06",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Semula Jadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1003",
+    "district_id": "12.74.06",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Selat Lancang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1004",
+    "district_id": "12.74.06",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Bunga Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.06.1005",
+    "district_id": "12.74.06",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Selat Tanjung Medan",
+    "type": "KELURAHAN"
+  }
+]

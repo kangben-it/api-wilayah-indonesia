@@ -1,0 +1,122 @@
+[
+  {
+    "id": "14.07.02.1011",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Punak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.02.1012",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.02.1015",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.02.1016",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.02.1017",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.02.2009",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Labuhan Tangga Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2010",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Labuhan Tangga Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2013",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Jawa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2014",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Parit Aman",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2019",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Labuhan Tangga Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2021",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Jawa Pesisir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2022",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Serusa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2023",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Labuhan Tangga Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2024",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Punak Meranti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.02.2025",
+    "district_id": "14.07.02",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Punak Pesisir",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.08.01.1001",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Kahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.08.01.2002",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Watang Cani",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2003",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Pattuku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2004",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Bontojai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2005",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Bana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2006",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Pammusureng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2007",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Langi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2008",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Ere Cinnong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2009",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Bulu Sirua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2010",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Lamoncong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.01.2011",
+    "district_id": "73.08.01",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Mattirowalie",
+    "type": "DESA"
+  }
+]

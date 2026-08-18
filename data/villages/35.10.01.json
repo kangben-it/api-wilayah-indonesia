@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.10.01.2001",
+    "district_id": "35.10.01",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sarongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.01.2002",
+    "district_id": "35.10.01",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Pesanggaran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.01.2004",
+    "district_id": "35.10.01",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sumberagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.01.2009",
+    "district_id": "35.10.01",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kandangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.01.2010",
+    "district_id": "35.10.01",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sumbermulyo",
+    "type": "DESA"
+  }
+]

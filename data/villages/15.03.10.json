@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.03.10.2001",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Kampung Tujuh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2002",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Lubuk Resam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2003",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Teluk Rendah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2004",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Teluk Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2005",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Lubuk Resam Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2006",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Pemuncak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2007",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Tambang Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2008",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Tendah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2009",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Keramat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.10.2010",
+    "district_id": "15.03.10",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sekamis",
+    "type": "DESA"
+  }
+]

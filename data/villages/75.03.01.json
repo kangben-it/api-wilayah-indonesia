@@ -1,0 +1,58 @@
+[
+  {
+    "id": "75.03.01.2004",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Talumopatu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2005",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Talulobutu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2006",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Dunggala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2007",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Langge",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2027",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Talulobutu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2028",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Keramat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.01.2029",
+    "district_id": "75.03.01",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Meranti",
+    "type": "DESA"
+  }
+]

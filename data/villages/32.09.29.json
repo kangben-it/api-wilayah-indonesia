@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.09.29.2001",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kalideres",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2002",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Prajawinangun Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2003",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Prajawinangun Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2004",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Ujungsemi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2005",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Wargabinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2006",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kaliwedi Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2007",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kaliwedi Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2008",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Guwa Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.29.2009",
+    "district_id": "32.09.29",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Guwa Lor",
+    "type": "DESA"
+  }
+]

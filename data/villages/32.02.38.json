@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.02.38.2001",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Purabaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2002",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Neglasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2003",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Pagelaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2004",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimerang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2005",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Citamiang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2006",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Margaluyu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.38.2007",
+    "district_id": "32.02.38",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cicukang",
+    "type": "DESA"
+  }
+]

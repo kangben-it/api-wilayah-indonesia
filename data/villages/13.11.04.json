@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.11.04.2001",
+    "district_id": "13.11.04",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Lubuk Malako",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.04.2002",
+    "district_id": "13.11.04",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Bidar Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.04.2004",
+    "district_id": "13.11.04",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Padang Air Dingin",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.04.2005",
+    "district_id": "13.11.04",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Padang Limau Sundai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.11.04.2006",
+    "district_id": "13.11.04",
+    "regency_id": "13.11",
+    "province_id": "13",
+    "name": "Padang Gantiang",
+    "type": "DESA"
+  }
+]

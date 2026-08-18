@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15.05.05.1009",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tempino",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.05.05.2001",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tanjung Pauh Km. 32",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2002",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Pelempang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2003",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Sungai Landai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2004",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Ibru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2005",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Nagasari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2006",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Sebapo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2010",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2011",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tanjung Pauh Km. 39",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2012",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Nyogan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2015",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2016",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Pondok Meja",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2017",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2018",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tanjung Pauh Talang Pelita",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.05.2019",
+    "district_id": "15.05.05",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Muaro Sebapo",
+    "type": "DESA"
+  }
+]

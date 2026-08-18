@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.75.02.1001",
+    "district_id": "32.75.02",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Bintara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.02.1002",
+    "district_id": "32.75.02",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Kranji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.02.1003",
+    "district_id": "32.75.02",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Kotabaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.02.1004",
+    "district_id": "32.75.02",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Bintarajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.02.1005",
+    "district_id": "32.75.02",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jakasampurna",
+    "type": "KELURAHAN"
+  }
+]

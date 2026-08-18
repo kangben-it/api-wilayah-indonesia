@@ -1,0 +1,122 @@
+[
+  {
+    "id": "52.02.01.1001",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Praya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1002",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Leneng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1003",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Gerunung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1004",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Semayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1005",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Perapen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1006",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Tiwugalih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1007",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Gonjak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1008",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Panji Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.1009",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Renteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.02.01.2010",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Mertak Tombok",
+    "type": "DESA"
+  },
+  {
+    "id": "52.02.01.2011",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Aik Mual",
+    "type": "DESA"
+  },
+  {
+    "id": "52.02.01.2012",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Montong Terep",
+    "type": "DESA"
+  },
+  {
+    "id": "52.02.01.2013",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Jago",
+    "type": "DESA"
+  },
+  {
+    "id": "52.02.01.2014",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Bunut Baok",
+    "type": "DESA"
+  },
+  {
+    "id": "52.02.01.2015",
+    "district_id": "52.02.01",
+    "regency_id": "52.02",
+    "province_id": "52",
+    "name": "Mekar Damai",
+    "type": "DESA"
+  }
+]

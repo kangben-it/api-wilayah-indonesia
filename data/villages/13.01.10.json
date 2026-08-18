@@ -1,0 +1,82 @@
+[
+  {
+    "id": "13.01.10.2001",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2003",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2004",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2005",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2015",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sindang Lunang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2016",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Pondok Parian Lunang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2017",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2018",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2019",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.10.2020",
+    "district_id": "13.01.10",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lunang Tiga",
+    "type": "DESA"
+  }
+]

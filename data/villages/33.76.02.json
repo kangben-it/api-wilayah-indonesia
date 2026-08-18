@@ -1,0 +1,42 @@
+[
+  {
+    "id": "33.76.02.1001",
+    "district_id": "33.76.02",
+    "regency_id": "33.76",
+    "province_id": "33",
+    "name": "Kejambon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.76.02.1002",
+    "district_id": "33.76.02",
+    "regency_id": "33.76",
+    "province_id": "33",
+    "name": "Slerok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.76.02.1003",
+    "district_id": "33.76.02",
+    "regency_id": "33.76",
+    "province_id": "33",
+    "name": "Panggung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.76.02.1004",
+    "district_id": "33.76.02",
+    "regency_id": "33.76",
+    "province_id": "33",
+    "name": "Mangkukusuman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.76.02.1005",
+    "district_id": "33.76.02",
+    "regency_id": "33.76",
+    "province_id": "33",
+    "name": "Mintaragen",
+    "type": "KELURAHAN"
+  }
+]

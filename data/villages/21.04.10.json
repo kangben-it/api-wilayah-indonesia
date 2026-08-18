@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21.04.10.2001",
+    "district_id": "21.04.10",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Busung Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.10.2002",
+    "district_id": "21.04.10",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Posek",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.10.2003",
+    "district_id": "21.04.10",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Suak Buaya",
+    "type": "DESA"
+  }
+]

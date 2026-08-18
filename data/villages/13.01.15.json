@@ -1,0 +1,82 @@
+[
+  {
+    "id": "13.01.15.2001",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Silaut",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2002",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sungai Sirah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2003",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sungai Sarik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2004",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sungai Pulai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2005",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Pasir Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2006",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Talang Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2007",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Durian Seribu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2008",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lubuk Bunta",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2009",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Air Hitam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.15.2010",
+    "district_id": "13.01.15",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sambungo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.01.39.2001",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Leuwisadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2002",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Babakan Sadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2003",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sadengkolot",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2004",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Wangunjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2005",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Kalong I",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2006",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Kalong II",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2007",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.39.2008",
+    "district_id": "32.01.39",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sibanteng",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "61.07.12.2002",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungkung I",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2004",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Siding",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2005",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Hli Buei",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2006",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Tangguh",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2007",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungkung II",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2008",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungkung III",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2009",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Tamong",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.12.2010",
+    "district_id": "61.07.12",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Tawang",
+    "type": "DESA"
+  }
+]

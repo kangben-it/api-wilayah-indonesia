@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.10.01.1001",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Sapuka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.01.2002",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Sabaru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2003",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Balo Baloang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2004",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Sabalana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2005",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Tampaang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2006",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Sailus",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2007",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Satanger",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2008",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Kapoposang Bali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.01.2009",
+    "district_id": "73.10.01",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Poleonro",
+    "type": "DESA"
+  }
+]

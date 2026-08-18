@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.03.08.2001",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Kelarik Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.08.2002",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Kelarik",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.08.2004",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Kelarik Air Mali",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.08.2005",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Teluk Buton",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.08.2006",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Belakang Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.08.2008",
+    "district_id": "21.03.08",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Gunung Durian",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "75.03.13.2001",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Lompotoo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.13.2002",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Lombongo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.13.2003",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Duano",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.13.2004",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Tolomato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.13.2005",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Alale",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.13.2006",
+    "district_id": "75.03.13",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Tapadaa",
+    "type": "DESA"
+  }
+]

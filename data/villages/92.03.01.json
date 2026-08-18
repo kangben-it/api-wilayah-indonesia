@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.03.01.1001",
+    "district_id": "92.03.01",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Fak Fak Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.01.1002",
+    "district_id": "92.03.01",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Fak Fak Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.01.2007",
+    "district_id": "92.03.01",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Gewerpe",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.01.2011",
+    "district_id": "92.03.01",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Lusi Peri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.01.2012",
+    "district_id": "92.03.01",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Wrikapal",
+    "type": "DESA"
+  }
+]

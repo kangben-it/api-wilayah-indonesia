@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.05.10.1004",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Buyungon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.1005",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Ranoyapo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.1006",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Uwuran I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.1007",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Uwuran II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.1008",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Lewet",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.1010",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Bitung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.05.10.2009",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Ranoketang Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.10.2018",
+    "district_id": "71.05.10",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kilometer 3",
+    "type": "DESA"
+  }
+]

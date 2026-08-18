@@ -1,0 +1,90 @@
+[
+  {
+    "id": "63.02.22.1009",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Baharu Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.02.22.1010",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Kotabaru Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.02.22.1011",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Kotabaru Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.02.22.2001",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sebatung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2002",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Hilir Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2003",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Batuah",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2004",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Baharu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2005",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Tirawan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2006",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Gedambaan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2007",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sarang Tiung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.22.2008",
+    "district_id": "63.02.22",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sigam",
+    "type": "DESA"
+  }
+]

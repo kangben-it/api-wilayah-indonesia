@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.07.13.2001",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Loa Deras",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.13.2002",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Minta",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.13.2003",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Tanjung Haur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.13.2004",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Penyinggahan Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.13.2005",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Penyinggahan Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.13.2006",
+    "district_id": "64.07.13",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Bakung",
+    "type": "DESA"
+  }
+]

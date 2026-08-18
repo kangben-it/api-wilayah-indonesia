@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.11.09.2001",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Rindi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2002",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tanaraing",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2003",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Haikatapu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2004",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kabaru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2005",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Hanggaroru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2006",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lailanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2007",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tamburi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.09.2008",
+    "district_id": "53.11.09",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kayuri",
+    "type": "DESA"
+  }
+]

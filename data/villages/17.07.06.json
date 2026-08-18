@@ -1,0 +1,66 @@
+[
+  {
+    "id": "17.07.06.1001",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Topos",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.06.2002",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tik Sirong",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2003",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Suka Negeri",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2004",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Ajai Siang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2005",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Donok",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2006",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Donok I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2007",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Baru I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.06.2008",
+    "district_id": "17.07.06",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Talang Baru II",
+    "type": "DESA"
+  }
+]

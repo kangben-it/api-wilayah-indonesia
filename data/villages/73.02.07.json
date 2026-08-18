@@ -1,0 +1,138 @@
+[
+  {
+    "id": "73.02.07.1001",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tanete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.07.1002",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Jawijawi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.07.1003",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Balla Saraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.07.2004",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontobulaeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2005",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bulo Bulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2006",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontominasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2007",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Balangtaroang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2008",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Barugae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2009",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Salassae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2010",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Kambuno",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2011",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Jojjolo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2012",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Sapobonto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2013",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Tibona",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2014",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Balangpesoang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2015",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Batulohe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2016",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontomangiring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.07.2017",
+    "district_id": "73.02.07",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Baruga Riattang",
+    "type": "DESA"
+  }
+]

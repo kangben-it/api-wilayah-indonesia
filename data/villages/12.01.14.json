@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.01.14.1001",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Tukka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.14.1002",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Bona Lumban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.14.1003",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Huta Nabolon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.14.1007",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sipange",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.14.1009",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Aek Tolang Induk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.14.2004",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sigiring Giring",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.14.2005",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Tapian Nauli/ Saurmanggita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.14.2006",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sait Kalangan II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.14.2008",
+    "district_id": "12.01.14",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Aek Bottar",
+    "type": "DESA"
+  }
+]

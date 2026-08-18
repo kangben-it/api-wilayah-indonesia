@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19.05.01.1001",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.01.1002",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Sungai Daeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.01.1003",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Sungai Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.01.1008",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Keranggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.01.1009",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Menjelang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.05.01.2004",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Air Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.01.2005",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Air Belo",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.01.2006",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Belo Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.01.2007",
+    "district_id": "19.05.01",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Air Limau",
+    "type": "DESA"
+  }
+]

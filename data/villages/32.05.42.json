@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.05.42.2001",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sadang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2002",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukaratu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2003",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Tenjonagara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2004",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Tegalpanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2005",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cigadog",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2006",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Linggamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.42.2007",
+    "district_id": "32.05.42",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukalaksana",
+    "type": "DESA"
+  }
+]

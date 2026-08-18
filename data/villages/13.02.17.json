@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.02.17.2001",
+    "district_id": "13.02.17",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Talang Babungo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.17.2002",
+    "district_id": "13.02.17",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Sariak Alahan Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.02.17.2003",
+    "district_id": "13.02.17",
+    "regency_id": "13.02",
+    "province_id": "13",
+    "name": "Sungai Abu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "95.07.10.2001",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Megalunik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2002",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Lugobak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2003",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Kanikbukme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2004",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Poga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2005",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Bigipaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2006",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Luneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2007",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Binipaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2008",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Mugime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2009",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Brigme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2010",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Unikme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2011",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Binompaga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2012",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Lugwa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.10.2013",
+    "district_id": "95.07.10",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Guaneri",
+    "type": "DESA"
+  }
+]

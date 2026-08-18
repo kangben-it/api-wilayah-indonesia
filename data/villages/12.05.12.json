@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.05.12.1006",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Selamat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.12.2001",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Serapuh ABC",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2002",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Padang Tualang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2003",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kwala Besilam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2004",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Buluh Telang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2005",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Besilam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2007",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tebing Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2008",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Putus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2009",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Ramai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2010",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Jati Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2011",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Banjaran Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.12.2012",
+    "district_id": "12.05.12",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bukit Sari",
+    "type": "DESA"
+  }
+]

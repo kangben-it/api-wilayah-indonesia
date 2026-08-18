@@ -1,0 +1,42 @@
+[
+  {
+    "id": "82.05.09.2001",
+    "district_id": "82.05.09",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Waigai",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2002",
+    "district_id": "82.05.09",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Fuata",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2003",
+    "district_id": "82.05.09",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Wainib",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2004",
+    "district_id": "82.05.09",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Skom",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.09.2005",
+    "district_id": "82.05.09",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Wai Tamua",
+    "type": "DESA"
+  }
+]

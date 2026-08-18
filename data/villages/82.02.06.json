@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.02.06.2001",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Gemia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2002",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Tepeleo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2006",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Bilifitu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2007",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Tepeleo Batudua",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2008",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Pantura Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.06.2011",
+    "district_id": "82.02.06",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Maliforo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.01.13.1003",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.13.2001",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Bonandolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.13.2002",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Rampa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.13.2004",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Mardame",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.13.2005",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Naga Timbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.13.2006",
+    "district_id": "12.01.13",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Simaninggir",
+    "type": "DESA"
+  }
+]

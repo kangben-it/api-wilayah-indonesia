@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.71.10.1001",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Surau Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1002",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Kampung Olo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1003",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Kurao Pagang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1004",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Gurun Laweh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1005",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Tabiang Banda Gadang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.71.10.1006",
+    "district_id": "13.71.10",
+    "regency_id": "13.71",
+    "province_id": "13",
+    "name": "Kampung Lapai",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.05.11.1001",
+    "district_id": "14.05.11",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sei Kijang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.05.11.2002",
+    "district_id": "14.05.11",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Lubuk Ogung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.11.2003",
+    "district_id": "14.05.11",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Simpang Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.11.2004",
+    "district_id": "14.05.11",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Muda Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.11.2005",
+    "district_id": "14.05.11",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Kiab Jaya",
+    "type": "DESA"
+  }
+]

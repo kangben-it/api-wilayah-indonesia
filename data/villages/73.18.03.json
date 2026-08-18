@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.18.03.1007",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Ratte Buttu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.03.2001",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2002",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Buakayu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2004",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Mappa'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2006",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Poton",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.03.2008",
+    "district_id": "73.18.03",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bau Selatan",
+    "type": "DESA"
+  }
+]

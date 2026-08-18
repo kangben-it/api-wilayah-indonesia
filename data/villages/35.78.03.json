@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.78.03.1001",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kalirungkut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.03.1002",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Rungkut Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.03.1003",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kedung Baruk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.03.1004",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Penjaringansari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.03.1005",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Wonorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.03.1006",
+    "district_id": "35.78.03",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Medokan Ayu",
+    "type": "KELURAHAN"
+  }
+]

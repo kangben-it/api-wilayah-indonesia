@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.04.39.2001",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Lebakmuncang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2002",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Ciwidey",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2003",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Nengkelan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2004",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Panundaan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2005",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Panyocokan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2006",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rawabogo",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.39.2007",
+    "district_id": "32.04.39",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukawening",
+    "type": "DESA"
+  }
+]

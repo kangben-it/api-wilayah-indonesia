@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.03.04.2001",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Cakul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2002",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Siki",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2003",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Watuagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2004",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Pandean",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2005",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Petung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2006",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Salamwates",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2007",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Dongko",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2008",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sumberbening",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2009",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Ngerdani",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.04.2010",
+    "district_id": "35.03.04",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Pringapus",
+    "type": "DESA"
+  }
+]

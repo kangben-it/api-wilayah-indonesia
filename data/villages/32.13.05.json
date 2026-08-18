@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.13.05.2001",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cihambulu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2002",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Siluman",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2003",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pringkasap",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2004",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pabuaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2005",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Karanghegar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2006",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Salamjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2007",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kadawung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.05.2008",
+    "district_id": "32.13.05",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Balebandung Jaya",
+    "type": "DESA"
+  }
+]

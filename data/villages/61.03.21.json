@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.03.21.2001",
+    "district_id": "61.03.21",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Nekan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.21.2002",
+    "district_id": "61.03.21",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Semanget",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.21.2003",
+    "district_id": "61.03.21",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Entikong",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.21.2004",
+    "district_id": "61.03.21",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Pala Pasang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.21.2005",
+    "district_id": "61.03.21",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Suruh Tembawang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14.04.13.1001",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tembilahan Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.13.1005",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tembilahan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.13.2002",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pekan Kamis",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.13.2003",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pulaupalas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.13.2004",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sialang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.13.2006",
+    "district_id": "14.04.13",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiintan",
+    "type": "DESA"
+  }
+]

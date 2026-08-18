@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.72.02.1001",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sungai Keledang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1002",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Baqa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1003",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Mesjid",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1009",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Mangkupalas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1010",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Tenun Samarinda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.02.1011",
+    "district_id": "64.72.02",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Gunung Panjang",
+    "type": "KELURAHAN"
+  }
+]

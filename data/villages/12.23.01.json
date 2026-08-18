@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.23.01.1001",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Aek Kanopan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.23.01.1002",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Aek Kanopan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.23.01.2003",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Kuala Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2004",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Parpaudangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2005",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Pulo Dogom",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2006",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Londut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2007",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Kanopan Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2008",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Membang Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2009",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Labuhan Haji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2010",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Hanna",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2011",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sonomartani",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2012",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sukarame",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.01.2013",
+    "district_id": "12.23.01",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sukarame Baru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "14.04.01.1001",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pulaukijang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.01.1017",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Metro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.01.1018",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Madani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.01.2002",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sanglar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2003",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pulaukecil",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2004",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiterap",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2009",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiundan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2010",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Seberang Sanglar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2011",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2012",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Seberang Pulau Kijang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2013",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiasam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2014",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pulauruku",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2019",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjunglabuh",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.01.2020",
+    "district_id": "14.04.01",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaimahang",
+    "type": "DESA"
+  }
+]

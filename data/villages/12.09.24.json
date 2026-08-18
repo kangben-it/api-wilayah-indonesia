@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.09.24.2001",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.24.2002",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Jawi-Jawi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.24.2003",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Serindan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.24.2004",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Tualang Pandau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.24.2005",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Lendir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.24.2006",
+    "district_id": "12.09.24",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Kepayang Kiri",
+    "type": "DESA"
+  }
+]

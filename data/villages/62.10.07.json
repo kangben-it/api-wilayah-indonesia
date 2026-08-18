@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.10.07.1005",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Kampuri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.10.07.2001",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tuyun",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.07.2002",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Empas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.07.2003",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Rangan Tate",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.07.2004",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Dahian Tambuk",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.07.2006",
+    "district_id": "62.10.07",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Danau",
+    "type": "DESA"
+  }
+]

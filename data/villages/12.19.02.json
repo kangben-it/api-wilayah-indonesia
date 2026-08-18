@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.19.02.1001",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Sipare pare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.02.2007",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sei Suka Deras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2008",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Simodong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2009",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pematang Jering",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2010",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pematang Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2011",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Kuala Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2012",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Kuala Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2018",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjung Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2019",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Simpang Kopi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.02.2020",
+    "district_id": "12.19.02",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Brohol",
+    "type": "DESA"
+  }
+]

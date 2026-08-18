@@ -1,0 +1,90 @@
+[
+  {
+    "id": "15.08.01.2001",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Pedukun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2002",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Lubuk Niur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2003",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Teluk Kecimbung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2004",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Tanah Tumbuh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2005",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Rambah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2006",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Tebing Tinggi Uleh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2007",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Bukit Kemang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2008",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2009",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Perenti Luweh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2015",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Renah Jelmu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.01.2016",
+    "district_id": "15.08.01",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Koto Jayo",
+    "type": "DESA"
+  }
+]

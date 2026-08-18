@@ -1,0 +1,66 @@
+[
+  {
+    "id": "17.06.11.2001",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Lubuk Sanai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2002",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Rawa Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2003",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Rawa Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2004",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Tanjung Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2005",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Pauh Terenja",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2006",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Dusun Baru Pelokan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2007",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Lubuk Sanai II",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.11.2009",
+    "district_id": "17.06.11",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Lubuk Sanai III",
+    "type": "DESA"
+  }
+]

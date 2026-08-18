@@ -1,0 +1,90 @@
+[
+  {
+    "id": "33.12.06.1004",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kedungrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.06.1008",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Beji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.06.2001",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wonoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2002",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2003",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2005",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Semin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2006",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bumiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2007",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gebang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2009",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pondoksari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2010",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngadiroyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.06.2011",
+    "district_id": "33.12.06",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngadipiro",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "96.71.05.1001",
+    "district_id": "96.71.05",
+    "regency_id": "96.71",
+    "province_id": "96",
+    "name": "Malanu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.71.05.1002",
+    "district_id": "96.71.05",
+    "regency_id": "96.71",
+    "province_id": "96",
+    "name": "Malasilen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.71.05.1003",
+    "district_id": "96.71.05",
+    "regency_id": "96.71",
+    "province_id": "96",
+    "name": "Matalamagi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.71.05.1004",
+    "district_id": "96.71.05",
+    "regency_id": "96.71",
+    "province_id": "96",
+    "name": "Sawagumu",
+    "type": "KELURAHAN"
+  }
+]

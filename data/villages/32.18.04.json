@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.18.04.2001",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Cigugur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2002",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Cimindi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2003",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Pagerbumi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2004",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Kertajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2005",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Bunisari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2006",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Campaka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.18.04.2007",
+    "district_id": "32.18.04",
+    "regency_id": "32.18",
+    "province_id": "32",
+    "name": "Harumandala",
+    "type": "DESA"
+  }
+]

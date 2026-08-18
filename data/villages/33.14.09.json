@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.14.09.1009",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Plumbungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.09.1010",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Kroyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.09.2001",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Kedungwaduk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2002",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Jurangjero",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2003",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Saradan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2004",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Plosokerep",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2005",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Guworejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2006",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Puro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2007",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Mojorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.09.2008",
+    "district_id": "33.14.09",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Pelemgadung",
+    "type": "DESA"
+  }
+]

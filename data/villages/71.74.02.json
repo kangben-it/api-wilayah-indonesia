@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.74.02.1003",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Kotobangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.1004",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Tumubui",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.1005",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Sinindian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.1006",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Matali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.1007",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Motoboi Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.1008",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Kobo Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.74.02.2001",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Moyag",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.02.2002",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Kobo Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.02.2009",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Moyag Tampoan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.74.02.2010",
+    "district_id": "71.74.02",
+    "regency_id": "71.74",
+    "province_id": "71",
+    "name": "Moyag Todulan",
+    "type": "DESA"
+  }
+]

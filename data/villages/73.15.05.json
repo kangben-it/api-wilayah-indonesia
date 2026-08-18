@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.15.05.1001",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.05.1002",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Teppo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.05.1003",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Tonyamang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.05.1004",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Maccirinna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.05.2005",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Leppangang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2006",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Malimpung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2007",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Mattiro Ade",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2008",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Sipatuo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2009",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Padang Loang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2010",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Pincara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.05.2011",
+    "district_id": "73.15.05",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Masolo",
+    "type": "DESA"
+  }
+]

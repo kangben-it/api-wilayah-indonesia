@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.03.05.2001",
+    "district_id": "13.03.05",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Palangki",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.05.2002",
+    "district_id": "13.03.05",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.05.2003",
+    "district_id": "13.03.05",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Muaro Bodi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.05.2004",
+    "district_id": "13.03.05",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Mundam Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "13.03.05.2005",
+    "district_id": "13.03.05",
+    "regency_id": "13.03",
+    "province_id": "13",
+    "name": "Koto Tuo",
+    "type": "DESA"
+  }
+]

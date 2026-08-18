@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.75.05.1001",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Tanah Merah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1002",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Binjai Estate",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1003",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Bhakti Karya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1004",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Rambung Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1005",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Pujidadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1006",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Tanah Seribu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1007",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Rambung Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.75.05.1008",
+    "district_id": "12.75.05",
+    "regency_id": "12.75",
+    "province_id": "12",
+    "name": "Rambung Timur",
+    "type": "KELURAHAN"
+  }
+]

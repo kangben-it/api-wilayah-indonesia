@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32.01.03.1006",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Puspanegara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.03.1007",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karang Asem Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.03.2001",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Puspasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2002",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Citeureup",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2003",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Leuwinutug",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2004",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Tajur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2005",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sanja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2008",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karang Asem Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2009",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Tarikolot",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2010",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2011",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Tangkil",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2012",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukahati",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2013",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Hambalang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.03.2014",
+    "district_id": "32.01.03",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pasir Mukti",
+    "type": "DESA"
+  }
+]

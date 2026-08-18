@@ -1,0 +1,218 @@
+[
+  {
+    "id": "63.11.05.2001",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Tanah Habang Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2002",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Panaitan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2003",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Tanah Habang Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2004",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Batu Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2005",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lampihong Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2006",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lampihong Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2007",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lampihong Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2008",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lajar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2009",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Kusambi Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2010",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Kusambi Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2011",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Simpang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2012",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Matang Lurus",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2013",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lok Hamawang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2014",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Kupang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2015",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Tampang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2016",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Matang Hanau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2017",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Lok Panginangan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2018",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Jungkal",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2019",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Sungai Tabuk",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2020",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Jimamun",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2021",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Pimping",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2022",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Hilir Pasar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2023",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Teluk Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2024",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Pupuyuan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2025",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Sungai Awang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2026",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Kandang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.11.05.2027",
+    "district_id": "63.11.05",
+    "regency_id": "63.11",
+    "province_id": "63",
+    "name": "Mundar",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "11.17.01.2001",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Blang Rakal",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2002",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Negeri Antara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2003",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Alur Cincin",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2004",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pantan Sinaku",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2005",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bintang Berangun",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2006",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Taman Firdaus",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2007",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Uning Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2008",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Perdamaian",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2009",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Ulu Naron",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2010",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pantan Lah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2011",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pancar Jelobok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2012",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Alur Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2013",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Rime Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2014",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Singah Mulo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2015",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Simpang Lancang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2016",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Wih Porak",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2017",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bener Meriah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2018",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Musara 58",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2019",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Musara Pakat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2020",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Rata Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2021",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gemasih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2022",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pulo Intan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.01.2023",
+    "district_id": "11.17.01",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Blang Ara",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "53.05.06.1001",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kabir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.06.2005",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Pandai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2009",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Bandar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2010",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Baolang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2011",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Munaseli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2012",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Helangdohi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2013",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wailawar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2014",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Bana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2016",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Bouweli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2017",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Bukit Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.06.2019",
+    "district_id": "53.05.06",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Madar",
+    "type": "DESA"
+  }
+]

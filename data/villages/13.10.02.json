@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.10.02.2001",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sungai Dareh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2002",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Tebing Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2006",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Empat Koto Pulau Punjung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2007",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sungai Kambut",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2008",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Gunung Selasih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.02.2009",
+    "district_id": "13.10.02",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sikabau",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.77.01.1001",
+    "district_id": "32.77.01",
+    "regency_id": "32.77",
+    "province_id": "32",
+    "name": "Melong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.77.01.1002",
+    "district_id": "32.77.01",
+    "regency_id": "32.77",
+    "province_id": "32",
+    "name": "Cibeureum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.77.01.1003",
+    "district_id": "32.77.01",
+    "regency_id": "32.77",
+    "province_id": "32",
+    "name": "Utama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.77.01.1004",
+    "district_id": "32.77.01",
+    "regency_id": "32.77",
+    "province_id": "32",
+    "name": "Leuwigajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.77.01.1005",
+    "district_id": "32.77.01",
+    "regency_id": "32.77",
+    "province_id": "32",
+    "name": "Cibeber",
+    "type": "KELURAHAN"
+  }
+]

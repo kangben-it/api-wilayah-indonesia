@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.03.09.2001",
+    "district_id": "81.03.09",
+    "regency_id": "81.03",
+    "province_id": "81",
+    "name": "Arma",
+    "type": "DESA"
+  },
+  {
+    "id": "81.03.09.2002",
+    "district_id": "81.03.09",
+    "regency_id": "81.03",
+    "province_id": "81",
+    "name": "Watmuri",
+    "type": "DESA"
+  },
+  {
+    "id": "81.03.09.2003",
+    "district_id": "81.03.09",
+    "regency_id": "81.03",
+    "province_id": "81",
+    "name": "Manglusi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.03.09.2004",
+    "district_id": "81.03.09",
+    "regency_id": "81.03",
+    "province_id": "81",
+    "name": "Tutukembong",
+    "type": "DESA"
+  },
+  {
+    "id": "81.03.09.2005",
+    "district_id": "81.03.09",
+    "regency_id": "81.03",
+    "province_id": "81",
+    "name": "Waturu",
+    "type": "DESA"
+  }
+]

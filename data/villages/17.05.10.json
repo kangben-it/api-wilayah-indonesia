@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17.05.10.1003",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Puguk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.10.2001",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Talang Rami",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2002",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Talang Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2004",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2005",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Selinsingan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2006",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Simpang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2007",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sekalak",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2008",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Lubuk Resam",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2009",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sinar Pagi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.10.2010",
+    "district_id": "17.05.10",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Talang Empat",
+    "type": "DESA"
+  }
+]

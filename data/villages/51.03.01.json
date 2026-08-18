@@ -1,0 +1,42 @@
+[
+  {
+    "id": "51.03.01.1001",
+    "district_id": "51.03.01",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Tuban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1002",
+    "district_id": "51.03.01",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Kuta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1003",
+    "district_id": "51.03.01",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Kedonganan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1004",
+    "district_id": "51.03.01",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Legian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.01.1005",
+    "district_id": "51.03.01",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Seminyak",
+    "type": "KELURAHAN"
+  }
+]

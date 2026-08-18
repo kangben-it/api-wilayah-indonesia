@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.08.06.1008",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Tiga Balata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.06.2001",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Kasindir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2002",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sibunga Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2003",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Jorlang Hataran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2004",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Sampuran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2005",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Birong Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2006",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Pinang Ratus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2007",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Marlawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2009",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Panombean Hutaurung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2010",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dipar Hataran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2011",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Pagar Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2012",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Parriasan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.06.2013",
+    "district_id": "12.08.06",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Parmonangan",
+    "type": "DESA"
+  }
+]

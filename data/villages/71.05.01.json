@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.05.01.2001",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Sinisir",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2002",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kakenturan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2003",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Palelon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2004",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Pinasungkulan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2005",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Wulurmaatus",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2006",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Makaaruyen",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2007",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Linelean",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2008",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Mokobang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2009",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kakenturan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.01.2010",
+    "district_id": "71.05.01",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Pinasungkulan Utara",
+    "type": "DESA"
+  }
+]

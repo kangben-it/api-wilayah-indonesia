@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.14.34.2001",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Fanedanu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2002",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Fanedanu Sibohou",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2003",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Lawa-lawa Luo Idanotae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2004",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Dao-dao Zanuwo Idano Tae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2005",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Sisiwa Ewali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2006",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Sisarahili Ewo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2007",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilialo'oa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2008",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2009",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Lolozukhu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2010",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Silima Banua Umbunasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.34.2011",
+    "district_id": "12.14.34",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Sindrolo",
+    "type": "DESA"
+  }
+]

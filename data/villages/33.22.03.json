@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.22.03.2001",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Badran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2002",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Timpik",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2003",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Tawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2004",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Bakalrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2005",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Ketapang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2006",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Susukan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2007",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Sidoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2008",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gentan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2009",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Muncar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2010",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Ngasinan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2011",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Koripan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2012",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.03.2013",
+    "district_id": "33.22.03",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kemetul",
+    "type": "DESA"
+  }
+]

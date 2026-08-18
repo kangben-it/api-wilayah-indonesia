@@ -1,0 +1,74 @@
+[
+  {
+    "id": "94.05.01.2001",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kago",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2002",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kimak",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2003",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Wuloni",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2004",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Nipuralome",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2005",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Tagaloa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2006",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Jenggerpaga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2007",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "kibogolome",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2008",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Ilambet",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.01.2009",
+    "district_id": "94.05.01",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kalebut",
+    "type": "DESA"
+  }
+]

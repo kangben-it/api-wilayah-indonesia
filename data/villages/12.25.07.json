@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.25.07.2001",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Sisobawino II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2002",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Duria",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2003",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Ambukha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2004",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hilimbowo Mau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2005",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hilimbuasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2006",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Lolofitu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2007",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hiliuso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.07.2008",
+    "district_id": "12.25.07",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Wango",
+    "type": "DESA"
+  }
+]

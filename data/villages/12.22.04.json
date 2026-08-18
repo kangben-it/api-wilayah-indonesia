@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.22.04.1001",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Langga Payung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.22.04.2002",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Batang Nadenggan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2003",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Sabungan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2004",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Hajoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2005",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Ujung Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2006",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Huta Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2007",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Parimburan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2008",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Sampean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.04.2009",
+    "district_id": "12.22.04",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Marsonja",
+    "type": "DESA"
+  }
+]

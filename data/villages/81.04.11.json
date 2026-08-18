@@ -1,0 +1,82 @@
+[
+  {
+    "id": "81.04.11.2001",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Kubalahin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2002",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Waegeren",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2003",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Grandeng",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2004",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Lele",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2005",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Wanakarta",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2006",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Wabloy",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2007",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Ohilahin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2008",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Tifu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2009",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Wapsalit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.11.2010",
+    "district_id": "81.04.11",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Nafrua",
+    "type": "DESA"
+  }
+]

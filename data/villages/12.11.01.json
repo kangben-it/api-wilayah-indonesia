@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.11.01.1005",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Kuta Gambir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.11.01.1007",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Sidiangkat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.11.01.1009",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Batang Beruh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.11.01.1010",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Sidikalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.11.01.1015",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Bintang Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.11.01.2008",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Belang Malum",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.01.2011",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Huta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.01.2012",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Kalang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.01.2013",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Bintang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.01.2014",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Kalang Simbara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.01.2017",
+    "district_id": "12.11.01",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Bintang Mersada",
+    "type": "DESA"
+  }
+]

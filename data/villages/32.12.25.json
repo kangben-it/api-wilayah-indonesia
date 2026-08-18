@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.12.25.2001",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Bantarwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2002",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sanca",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2003",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2004",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Gantar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2005",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Situraja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2006",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Balareja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.25.2007",
+    "district_id": "32.12.25",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Mekarwaru",
+    "type": "DESA"
+  }
+]

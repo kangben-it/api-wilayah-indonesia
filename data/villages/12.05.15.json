@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.05.15.1009",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Beras Basah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.15.1010",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bukit Jengkol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.15.2001",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Alur Cempedak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2002",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Siur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2003",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Pasir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2004",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Paya Tampak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2005",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pintu Air",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2006",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Meran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2007",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pulau Sembilan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2008",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pulau Kampai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.15.2011",
+    "district_id": "12.05.15",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pangkalan Siata",
+    "type": "DESA"
+  }
+]

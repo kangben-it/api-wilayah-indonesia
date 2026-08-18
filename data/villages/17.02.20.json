@@ -1,0 +1,42 @@
+[
+  {
+    "id": "17.02.20.2001",
+    "district_id": "17.02.20",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kepala Curup",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.20.2002",
+    "district_id": "17.02.20",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kampung Jeruk",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.20.2003",
+    "district_id": "17.02.20",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Simpang Beliti",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.20.2004",
+    "district_id": "17.02.20",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Taba Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.20.2005",
+    "district_id": "17.02.20",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Apo",
+    "type": "DESA"
+  }
+]

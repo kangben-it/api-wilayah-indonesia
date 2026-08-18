@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17.05.11.1008",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Rimbo Kedui",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.11.1010",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Padang Rambun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.11.1011",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sido Mulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.05.11.2001",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sukarami",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2002",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Tanjung Seru",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2003",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Tanjungan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2004",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Pasar Seluma",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2005",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Padang Genting",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2006",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Sengkuang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2007",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Tangga Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2009",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Tanjung Seluai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.05.11.2012",
+    "district_id": "17.05.11",
+    "regency_id": "17.05",
+    "province_id": "17",
+    "name": "Padang Merbau",
+    "type": "DESA"
+  }
+]

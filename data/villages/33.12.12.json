@@ -1,0 +1,122 @@
+[
+  {
+    "id": "33.12.12.1002",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wuryorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.1003",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Giritirto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.1006",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Giripurwo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.1007",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Giriwono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.1008",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wonoboyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.1015",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wonokarto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.12.2001",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sendang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2004",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pokohkidul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2005",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Purworejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2009",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bulusulur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2010",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Purwosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2011",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wonoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2012",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Manjung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2013",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wonokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.12.2014",
+    "district_id": "33.12.12",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sonoharjo",
+    "type": "DESA"
+  }
+]

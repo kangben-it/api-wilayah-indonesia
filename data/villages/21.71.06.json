@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.71.06.1001",
+    "district_id": "21.71.06",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Kampung Pelita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.06.1003",
+    "district_id": "21.71.06",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Lubuk Baja Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.06.1004",
+    "district_id": "21.71.06",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Batu Selicin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.06.1005",
+    "district_id": "21.71.06",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tanjung Uma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.06.1006",
+    "district_id": "21.71.06",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Baloi Indah",
+    "type": "KELURAHAN"
+  }
+]

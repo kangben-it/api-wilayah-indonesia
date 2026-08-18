@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.04.32.1001",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Baleendah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.32.1002",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Andir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.32.1003",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Manggahang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.32.1004",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Jelekong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.32.1008",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Wargamekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.32.2005",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Bojongmalaka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.32.2006",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rancamanyar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.32.2007",
+    "district_id": "32.04.32",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Malakasari",
+    "type": "DESA"
+  }
+]

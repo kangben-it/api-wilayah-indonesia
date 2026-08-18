@@ -1,0 +1,26 @@
+[
+  {
+    "id": "34.04.07.2001",
+    "district_id": "34.04.07",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Caturtunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.07.2002",
+    "district_id": "34.04.07",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Maguwoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.07.2003",
+    "district_id": "34.04.07",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Condongcatur",
+    "type": "DESA"
+  }
+]

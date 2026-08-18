@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.03.09.1002",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Teluk Bayur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.09.1003",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Rinding",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.09.2001",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tumbit Melayu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.09.2004",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Labanan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.09.2005",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Labanan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.09.2006",
+    "district_id": "64.03.09",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Labanan Makarti",
+    "type": "DESA"
+  }
+]

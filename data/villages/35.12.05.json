@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.12.05.2001",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Bugeman",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2002",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kendit",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2003",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Balung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2004",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Tambak Ukir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2005",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Rajekwesi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2006",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kukusan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.05.2007",
+    "district_id": "35.12.05",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Klatakan",
+    "type": "DESA"
+  }
+]

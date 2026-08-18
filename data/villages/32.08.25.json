@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.08.25.2001",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Legokherang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2002",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Bungurberes",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2003",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cilebak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2004",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Jalatrang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2005",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Patala",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2006",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Mandapajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.25.2007",
+    "district_id": "32.08.25",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cilimusari",
+    "type": "DESA"
+  }
+]

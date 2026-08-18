@@ -1,0 +1,354 @@
+[
+  {
+    "id": "11.07.04.2001",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2002",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2003",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Daboh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2004",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Cut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2005",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Reubee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2006",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2007",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Geudong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2008",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Reuntoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2009",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Reuba",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2010",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Krueng Reubee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2011",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Neulop",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2012",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Glee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2013",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2014",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Buloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2015",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Bungo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2016",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Reubee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2017",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Jambee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2018",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2019",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Puuk Aree",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2020",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Lhee Meunasah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2021",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ulee Tutue Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2022",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Aree",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2023",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Keutapang Aree",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2024",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pantee Aree",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2025",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pulo Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2026",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pulo Baroh Aree",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2027",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Keurumbok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2028",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ceurih Blang Mee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2029",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ceurih Kupula",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2030",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ceurih Alue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2031",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ceurih Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2032",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Seupeung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2033",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Sukon Lhong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2034",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Beuah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2035",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Krueng Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2036",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Beuah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2037",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Lueng Dama",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2038",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Bambong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2039",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Ruseb",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2040",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Sagoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2041",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Seukeum",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2042",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pangoe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2043",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Keutapang Bambong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.04.2044",
+    "district_id": "11.07.04",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Metareum",
+    "type": "DESA"
+  }
+]

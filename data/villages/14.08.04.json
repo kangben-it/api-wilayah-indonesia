@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.08.04.1001",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Perawang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.04.2002",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Tualang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2003",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Pinang Sebatang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2004",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Meredan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2005",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Pinang Sebatang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2006",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Pinang Sebatang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2007",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Meredan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2008",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Perawang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.04.2009",
+    "district_id": "14.08.04",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Tualang Timur",
+    "type": "DESA"
+  }
+]

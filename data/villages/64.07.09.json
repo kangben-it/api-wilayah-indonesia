@@ -1,0 +1,66 @@
+[
+  {
+    "id": "64.07.09.2001",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Muara Begai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2002",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Lotaq",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2003",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Payang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2004",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Dingin",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2005",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Muara Lawa",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2006",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Lambing",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2007",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Benggeris",
+    "type": "DESA"
+  },
+  {
+    "id": "64.07.09.2008",
+    "district_id": "64.07.09",
+    "regency_id": "64.07",
+    "province_id": "64",
+    "name": "Cempedas",
+    "type": "DESA"
+  }
+]

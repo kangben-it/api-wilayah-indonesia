@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.07.15.2001",
+    "district_id": "61.07.15",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Rukma Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.15.2002",
+    "district_id": "61.07.15",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Keran",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.15.2003",
+    "district_id": "61.07.15",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.15.2004",
+    "district_id": "61.07.15",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Karimunting",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.15.2005",
+    "district_id": "61.07.15",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Pulau Lemukutan",
+    "type": "DESA"
+  }
+]

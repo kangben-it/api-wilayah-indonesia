@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.22.13.1001",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Ngempon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.13.1002",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Karangjati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.13.1005",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Wujil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.13.1009",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Bergas Lor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.13.2003",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Wringinputih",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2004",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gondoriyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2006",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gebugan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2007",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Pagersari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2008",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Munding",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2010",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Bergas Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2011",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Randugunting",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2012",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Jatijajar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.13.2013",
+    "district_id": "33.22.13",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Diwak",
+    "type": "DESA"
+  }
+]

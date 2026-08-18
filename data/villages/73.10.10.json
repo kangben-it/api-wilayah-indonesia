@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.10.10.1001",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Minasa Te'ne",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.1002",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Kalabbirang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.1003",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Biraeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.1004",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bonto Kio",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.1005",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bontoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.1006",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bonto Langkasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.10.2007",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Kabba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.10.2008",
+    "district_id": "73.10.10",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Panaikang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.07.17.2001",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Bu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2002",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Bu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2003",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Bu Watuweti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2004",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Loke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2005",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Renggarasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2006",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Detubinga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2007",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Tuwa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2008",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Poma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2009",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Bu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.17.2010",
+    "district_id": "53.07.17",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Bu Nuapu’u",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "35.05.12.1002",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kedungbunder",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1003",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kembangarum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1004",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kalipang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1005",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sutojayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1006",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Jingglong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1007",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sukorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.1008",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Jegu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.12.2001",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Pandanarum",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.12.2009",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Bacem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.12.2010",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sumberjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.12.2011",
+    "district_id": "35.05.12",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kaulon",
+    "type": "DESA"
+  }
+]

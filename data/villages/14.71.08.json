@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.71.08.1001",
+    "district_id": "14.71.08",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Simpangbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.08.1008",
+    "district_id": "14.71.08",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Delima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.08.1009",
+    "district_id": "14.71.08",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tobekgodang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.08.1010",
+    "district_id": "14.71.08",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Binawidya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.08.1014",
+    "district_id": "14.71.08",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sungaisibam",
+    "type": "KELURAHAN"
+  }
+]

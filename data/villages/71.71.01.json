@@ -1,0 +1,42 @@
+[
+  {
+    "id": "71.71.01.1001",
+    "district_id": "71.71.01",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Molas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1006",
+    "district_id": "71.71.01",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Tongkaina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1007",
+    "district_id": "71.71.01",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Meras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1008",
+    "district_id": "71.71.01",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Bailang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.01.1009",
+    "district_id": "71.71.01",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Pandu",
+    "type": "KELURAHAN"
+  }
+]

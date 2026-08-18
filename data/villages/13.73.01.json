@@ -1,0 +1,90 @@
+[
+  {
+    "id": "13.73.01.1001",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Aur Mulio",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.1002",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Kubang Sirakuk Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.1003",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Kubang S. Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.1004",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Pasar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.1005",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Tanah Lapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.1006",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Aia Dingin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.73.01.2007",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Lunto Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.01.2008",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Lunto Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.01.2009",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Kubang Tangah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.01.2010",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Kubang Utara Sikabu",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.01.2011",
+    "district_id": "13.73.01",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Pasa Kubang",
+    "type": "DESA"
+  }
+]

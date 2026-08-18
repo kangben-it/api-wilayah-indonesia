@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.02.24.2001",
+    "district_id": "53.02.24",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noebana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.24.2002",
+    "district_id": "53.02.24",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Fatumnasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.24.2003",
+    "district_id": "53.02.24",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Suni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.24.2004",
+    "district_id": "53.02.24",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mella",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.24.2005",
+    "district_id": "53.02.24",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mnelapetu",
+    "type": "DESA"
+  }
+]

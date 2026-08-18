@@ -1,0 +1,90 @@
+[
+  {
+    "id": "51.07.04.1002",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Subagan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.07.04.1003",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Padangkerta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.07.04.1004",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Karangasem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.07.04.2001",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Bugbug",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2005",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Tumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2006",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Seraya",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2007",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Seraya Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2008",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Seraya Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2009",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Pertima",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2010",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Tegalinggah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.07.04.2011",
+    "district_id": "51.07.04",
+    "regency_id": "51.07",
+    "province_id": "51",
+    "name": "Bukit",
+    "type": "DESA"
+  }
+]

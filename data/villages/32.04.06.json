@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.04.06.1001",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Padasuka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.06.1002",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cibeunying",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.06.2003",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cimenyan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2004",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Mandalamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2005",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cikadut",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2006",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Ciburial",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2007",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sindanglaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2008",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Mekarsaluyu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.06.2009",
+    "district_id": "32.04.06",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Mekarmanik",
+    "type": "DESA"
+  }
+]

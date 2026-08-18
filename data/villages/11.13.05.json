@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11.13.05.2001",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pining",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2002",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pertik",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2003",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Ekan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2004",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Uring",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2005",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2006",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pintu Rime",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2007",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pepelah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2008",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.13.05.2009",
+    "district_id": "11.13.05",
+    "regency_id": "11.13",
+    "province_id": "11",
+    "name": "Lesten",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.06.15.2001",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Mandalasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2002",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2003",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Puspasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2004",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Puspahiang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2005",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Luyubakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2006",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Pusparahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2007",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cimanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.15.2008",
+    "district_id": "32.06.15",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Puspajaya",
+    "type": "DESA"
+  }
+]

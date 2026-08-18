@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.12.02.1001",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Daya Murni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.12.02.2002",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Daya Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2003",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Margo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2004",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Makarti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2005",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Gunung Menanti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2006",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Daya Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2007",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Murni Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2008",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2009",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Margo Dadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.02.2010",
+    "district_id": "18.12.02",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Gunung Timbul",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "92.02.12.1001",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Manokwari Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.1002",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Sanggeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.1003",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Wosi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.1004",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Amban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.1005",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Padarni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.1006",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Manokwari Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.02.12.2007",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Udopi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.12.2008",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Ingramui",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.12.2009",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Soribo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.12.2010",
+    "district_id": "92.02.12",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Tanah Merah Indah",
+    "type": "DESA"
+  }
+]

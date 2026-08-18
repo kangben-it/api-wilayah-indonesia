@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.09.32.2001",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Bange",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2002",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Korsik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2003",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Ledong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2004",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Ledong Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2005",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Nabuntu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2006",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Ledong Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.32.2007",
+    "district_id": "12.09.32",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Padang Sipirok",
+    "type": "DESA"
+  }
+]

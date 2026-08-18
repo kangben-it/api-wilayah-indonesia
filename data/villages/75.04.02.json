@@ -1,0 +1,66 @@
+[
+  {
+    "id": "75.04.02.2001",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Lemito",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2002",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Wonggarasi Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2004",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Lomuli",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2008",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Lemito Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2009",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Kenari",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2010",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Wonggarasi Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2011",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.02.2012",
+    "district_id": "75.04.02",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Babalonge",
+    "type": "DESA"
+  }
+]

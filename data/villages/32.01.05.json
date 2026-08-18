@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.01.05.2001",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cijayanti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2002",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sumur Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2003",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sentul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2004",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2005",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cipambuan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2006",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Kadumanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2007",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Citaringgul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2008",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Babakan Madang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.05.2009",
+    "district_id": "32.01.05",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Bojong Koneng",
+    "type": "DESA"
+  }
+]

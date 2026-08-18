@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.16.05.2001",
+    "district_id": "53.16.05",
+    "regency_id": "53.16",
+    "province_id": "53",
+    "name": "Tendatoto",
+    "type": "DESA"
+  },
+  {
+    "id": "53.16.05.2002",
+    "district_id": "53.16.05",
+    "regency_id": "53.16",
+    "province_id": "53",
+    "name": "Totomala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.16.05.2003",
+    "district_id": "53.16.05",
+    "regency_id": "53.16",
+    "province_id": "53",
+    "name": "Tendakinde",
+    "type": "DESA"
+  },
+  {
+    "id": "53.16.05.2004",
+    "district_id": "53.16.05",
+    "regency_id": "53.16",
+    "province_id": "53",
+    "name": "Anakoli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.16.05.2005",
+    "district_id": "53.16.05",
+    "regency_id": "53.16",
+    "province_id": "53",
+    "name": "Natatoto",
+    "type": "DESA"
+  }
+]

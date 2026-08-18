@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.09.01.2001",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Padomasan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.01.2002",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Keting",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.01.2003",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Jombang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.01.2004",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Ngampelrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.01.2005",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Wringinagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.01.2006",
+    "district_id": "35.09.01",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Sarimulyo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.03.07.2001",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Ngadimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2002",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Bogoran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2003",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Timahan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2004",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Bendoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2005",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Karangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2006",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sugihan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.07.2007",
+    "district_id": "35.03.07",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Senden",
+    "type": "DESA"
+  }
+]

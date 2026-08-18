@@ -1,0 +1,50 @@
+[
+  {
+    "id": "36.03.23.1001",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cisauk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.23.2003",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Mekar Wangi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.23.2005",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Suradita",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.23.2006",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sampora",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.23.2009",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Dangdang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.23.2011",
+    "district_id": "36.03.23",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cibogo",
+    "type": "DESA"
+  }
+]

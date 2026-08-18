@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.16.06.2002",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bungin",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.06.2003",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Talang Rilau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.06.2004",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Baruka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.06.2008",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Sawitto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.06.2009",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.06.2010",
+    "district_id": "73.16.06",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Banua",
+    "type": "DESA"
+  }
+]

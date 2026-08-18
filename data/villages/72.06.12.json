@@ -1,0 +1,74 @@
+[
+  {
+    "id": "72.06.12.2001",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Sampeantaba",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2002",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Emea",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2006",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Moahino",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2007",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Solonsa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2008",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Lantula Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2009",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Puntari Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2010",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Bumi Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2011",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Solonsa Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "72.06.12.2012",
+    "district_id": "72.06.12",
+    "regency_id": "72.06",
+    "province_id": "72",
+    "name": "Ungkaya",
+    "type": "DESA"
+  }
+]

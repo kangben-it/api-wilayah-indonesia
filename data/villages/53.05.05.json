@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.05.05.1001",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kolana Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.05.2004",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Tanglapui",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2005",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kolana Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2007",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Padang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2008",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Maritaing",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2010",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Elok",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2011",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Tanglapui Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2012",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Mausamang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2013",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Belemana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.05.2014",
+    "district_id": "53.05.05",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Maukuru",
+    "type": "DESA"
+  }
+]

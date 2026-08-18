@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.04.16.2001",
+    "district_id": "34.04.16",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Purwobinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2002",
+    "district_id": "34.04.16",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Candibinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2003",
+    "district_id": "34.04.16",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Harjobinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2004",
+    "district_id": "34.04.16",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Pakembinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.16.2005",
+    "district_id": "34.04.16",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Hargobinangun",
+    "type": "DESA"
+  }
+]

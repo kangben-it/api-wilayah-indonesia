@@ -1,0 +1,226 @@
+[
+  {
+    "id": "12.18.09.1029",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pekan Dolok Masihul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.18.09.2001",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Dame",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2002",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Blok 10",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2003",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kota Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2004",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Silau Merawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2005",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pekan Kamis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2006",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Batu 12",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2007",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Batu 13",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2008",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Baja Ronggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2009",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Dolok Sagala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2010",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Dolok Manampang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2011",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2012",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Tegal Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2013",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pertambatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2015",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Huta Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2016",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Bantan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2017",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Bukit Cermin Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2018",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Malasori",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2019",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sarang Giting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2020",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Durian Puloan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2021",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sarang Torop",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2022",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Havea",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2023",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Aras Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2024",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Martebing",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2025",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kerapuh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2026",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Tanjung Maria",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2027",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Bah Kerapuh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.09.2028",
+    "district_id": "12.18.09",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Ujung Silau",
+    "type": "DESA"
+  }
+]

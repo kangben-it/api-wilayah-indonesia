@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.01.10.2001",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2002",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cijakan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2003",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Geredug",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2004",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2005",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Banyumas",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2006",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Citumenggung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2007",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Manggungjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.10.2008",
+    "district_id": "36.01.10",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cahayamekar",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.11.19.2001",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sempol",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.19.2002",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kalianyar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.19.2003",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Jampit",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.19.2004",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kalisat",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.19.2005",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kali Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.19.2006",
+    "district_id": "35.11.19",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "71.05.13.2001",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Pinamorongan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2002",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kaneyan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2003",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Koreng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2004",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumaluntung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2005",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Rumoong Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2006",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Lansot",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2007",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Wiau Lapi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2008",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Wuwuk",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2014",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Rumoong Atas Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2017",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Lansot Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2018",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Wuwuk Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2019",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumaluntung Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.13.2020",
+    "district_id": "71.05.13",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Wiau Lapi Barat",
+    "type": "DESA"
+  }
+]

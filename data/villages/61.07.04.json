@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61.07.04.1001",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Bumi Emas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.07.04.1010",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sebalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.07.04.2003",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Tirta Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.04.2004",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Bhakti Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.04.2006",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Bani Amas",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.04.2009",
+    "district_id": "61.07.04",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Setia Budi",
+    "type": "DESA"
+  }
+]

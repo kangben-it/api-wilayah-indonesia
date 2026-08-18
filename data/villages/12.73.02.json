@@ -1,0 +1,34 @@
+[
+  {
+    "id": "12.73.02.1001",
+    "district_id": "12.73.02",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Kota Baringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.02.1002",
+    "district_id": "12.73.02",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.02.1003",
+    "district_id": "12.73.02",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Pasar Belakang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.02.1004",
+    "district_id": "12.73.02",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Pancuran Gerobak",
+    "type": "KELURAHAN"
+  }
+]

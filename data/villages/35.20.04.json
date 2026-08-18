@@ -1,0 +1,98 @@
+[
+  {
+    "id": "35.20.04.1013",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Takeran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.20.04.2009",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Kiringan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2010",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Duyung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2011",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Tawangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2012",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Sawojajar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2014",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Kuwonharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2015",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Kepuhrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2016",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Kerik",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2017",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Waduk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2018",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Jomblang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2019",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Kerang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.20.04.2020",
+    "district_id": "35.20.04",
+    "regency_id": "35.20",
+    "province_id": "35",
+    "name": "Madigondo",
+    "type": "DESA"
+  }
+]

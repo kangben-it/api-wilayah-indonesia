@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.03.01.2001",
+    "district_id": "96.03.01",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Waigama",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.01.2002",
+    "district_id": "96.03.01",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Salafen",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.01.2003",
+    "district_id": "96.03.01",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Aduwei",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.01.2004",
+    "district_id": "96.03.01",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Atkari",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.01.2005",
+    "district_id": "96.03.01",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Solal",
+    "type": "DESA"
+  }
+]

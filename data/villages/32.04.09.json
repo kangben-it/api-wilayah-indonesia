@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.04.09.1004",
+    "district_id": "32.04.09",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sulaiman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.09.2001",
+    "district_id": "32.04.09",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Margahayu Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.09.2002",
+    "district_id": "32.04.09",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Margahayu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.09.2003",
+    "district_id": "32.04.09",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamenak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.09.2005",
+    "district_id": "32.04.09",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sayati",
+    "type": "DESA"
+  }
+]

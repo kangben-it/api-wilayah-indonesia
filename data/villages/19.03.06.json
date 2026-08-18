@@ -1,0 +1,42 @@
+[
+  {
+    "id": "19.03.06.2001",
+    "district_id": "19.03.06",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Sadai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2002",
+    "district_id": "19.03.06",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Tukak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2003",
+    "district_id": "19.03.06",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2004",
+    "district_id": "19.03.06",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Tiram",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.06.2005",
+    "district_id": "19.03.06",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Bukit Terap",
+    "type": "DESA"
+  }
+]

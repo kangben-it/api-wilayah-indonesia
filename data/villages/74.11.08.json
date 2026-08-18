@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.11.08.1006",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Sanggona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.08.2003",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Pehanggo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2004",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tondowatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2005",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Tawanga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2007",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Uete",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2008",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Undolo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2010",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lalombai",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2014",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Amokuni",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2018",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Amololu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.08.2019",
+    "district_id": "74.11.08",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Aukora",
+    "type": "DESA"
+  }
+]

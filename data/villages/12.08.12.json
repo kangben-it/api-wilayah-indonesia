@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.08.12.2001",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Buntu Bayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2002",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bosar Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2003",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Tangga Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2004",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Buntu Turunan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2005",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Saribu Asih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2006",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Jawa Tongah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2007",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Tonduhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2008",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Parhundalian Jawa Dipar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.12.2009",
+    "district_id": "12.08.12",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Jawa Tongah II",
+    "type": "DESA"
+  }
+]

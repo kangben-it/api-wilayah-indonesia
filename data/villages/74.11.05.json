@@ -1,0 +1,122 @@
+[
+  {
+    "id": "74.11.05.1002",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Penanggo Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.11.05.2001",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Wonuambuteo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2003",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Mokupa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2005",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Penanggoosi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2007",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lowa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2008",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Atolanu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2009",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lere Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2010",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Bou",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2012",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lambandia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2013",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Inotu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2018",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Lalolera",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2019",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Pomburea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2021",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Penanggootu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2022",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Mondoke",
+    "type": "DESA"
+  },
+  {
+    "id": "74.11.05.2026",
+    "district_id": "74.11.05",
+    "regency_id": "74.11",
+    "province_id": "74",
+    "name": "Onemanu",
+    "type": "DESA"
+  }
+]

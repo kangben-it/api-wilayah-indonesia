@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.75.08.1001",
+    "district_id": "32.75.08",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jatiwaringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.08.1002",
+    "district_id": "32.75.08",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jatibening",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.08.1003",
+    "district_id": "32.75.08",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jatimakmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.08.1006",
+    "district_id": "32.75.08",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jatibening Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.75.08.1007",
+    "district_id": "32.75.08",
+    "regency_id": "32.75",
+    "province_id": "32",
+    "name": "Jaticempaka",
+    "type": "KELURAHAN"
+  }
+]

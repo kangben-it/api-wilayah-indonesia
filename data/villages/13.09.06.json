@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.09.06.2001",
+    "district_id": "13.09.06",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Katurei",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.06.2002",
+    "district_id": "13.09.06",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Sagulubbeg",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.06.2003",
+    "district_id": "13.09.06",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Pasakiat Taileleu",
+    "type": "DESA"
+  }
+]

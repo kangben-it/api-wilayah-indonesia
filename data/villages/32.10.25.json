@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.10.25.2001",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Pasirayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2002",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Sindang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2003",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Garawastu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2004",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Indrakila",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2005",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Gunungkuning",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2007",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Sangkanhurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.25.2008",
+    "district_id": "32.10.25",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Bayureja",
+    "type": "DESA"
+  }
+]

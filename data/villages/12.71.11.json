@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.11.1001",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Suka Maju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1002",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Titi Kuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1003",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Kedai Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1004",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Pangkalan Mansur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1005",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Gedung Johor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.11.1006",
+    "district_id": "12.71.11",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Kwala Bekala",
+    "type": "KELURAHAN"
+  }
+]

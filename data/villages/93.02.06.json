@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.02.06.2001",
+    "district_id": "93.02.06",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Bomakia I",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.06.2002",
+    "district_id": "93.02.06",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Bomakia II",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.06.2003",
+    "district_id": "93.02.06",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Somi",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.06.2004",
+    "district_id": "93.02.06",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Aifa",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.06.2005",
+    "district_id": "93.02.06",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Uni",
+    "type": "DESA"
+  }
+]

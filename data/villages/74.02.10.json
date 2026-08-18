@@ -1,0 +1,98 @@
+[
+  {
+    "id": "74.02.10.1001",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Abuki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.10.2007",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sambeani",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2008",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Asolu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2009",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Punggaluku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2012",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Walay",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2015",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Epeea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2024",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Kumapo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2035",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Unaasi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2038",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Kasuwura Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2039",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Arubia Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2040",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Padangguni Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.10.2042",
+    "district_id": "74.02.10",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Anggoro",
+    "type": "DESA"
+  }
+]

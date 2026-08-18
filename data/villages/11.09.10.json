@@ -1,0 +1,66 @@
+[
+  {
+    "id": "11.09.10.2001",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Bubuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2002",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Amarabu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2003",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Kuta Inang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2004",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Kuta Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2005",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Sibuluh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2006",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Latak Ayah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2007",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Borengan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.09.10.2008",
+    "district_id": "11.09.10",
+    "regency_id": "11.09",
+    "province_id": "11",
+    "name": "Ujung Padang",
+    "type": "DESA"
+  }
+]

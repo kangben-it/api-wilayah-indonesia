@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.22.08.1006",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gondoriyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.08.2001",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gemawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2002",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Bedono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2003",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kelurahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2004",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Brongkol",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2005",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2007",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kuwarasan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2008",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kebondalem",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2009",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.08.2010",
+    "district_id": "33.22.08",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Genting",
+    "type": "DESA"
+  }
+]

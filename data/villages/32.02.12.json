@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.02.12.2001",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Kalaparea",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2002",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Pawenang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2003",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nagrak Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2004",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cisarua",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2009",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Balekambang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2010",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Babakan Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2011",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Darmareja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2012",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cihanyawar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2013",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Nagrak Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.12.2014",
+    "district_id": "32.02.12",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Girijaya",
+    "type": "DESA"
+  }
+]

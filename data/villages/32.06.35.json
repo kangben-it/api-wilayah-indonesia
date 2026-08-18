@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.06.35.2001",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Condong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2002",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Bojonggaok",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2003",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Sindangraja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2004",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Karangmulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2005",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Geresik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2006",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Karangsembung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2007",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Tanjungmekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.35.2008",
+    "district_id": "32.06.35",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Karangresik",
+    "type": "DESA"
+  }
+]

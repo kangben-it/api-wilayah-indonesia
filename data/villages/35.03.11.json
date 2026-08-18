@@ -1,0 +1,106 @@
+[
+  {
+    "id": "35.03.11.1002",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Tamanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.03.11.1003",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Ngantru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.03.11.1005",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Kelutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.03.11.1006",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Surodakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.03.11.1007",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sumbergedong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.03.11.2001",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Ngares",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2004",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Karangsoko",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2008",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2009",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sumberdadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2010",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Rejowinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2011",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Sukosari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2012",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Parakan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.03.11.2013",
+    "district_id": "35.03.11",
+    "regency_id": "35.03",
+    "province_id": "35",
+    "name": "Dawuhan",
+    "type": "DESA"
+  }
+]

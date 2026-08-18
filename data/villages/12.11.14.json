@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.11.14.2001",
+    "district_id": "12.11.14",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Silalahi II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.14.2002",
+    "district_id": "12.11.14",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Silalahi I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.14.2003",
+    "district_id": "12.11.14",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Paropo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.14.2004",
+    "district_id": "12.11.14",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Silalahi III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.14.2005",
+    "district_id": "12.11.14",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Paropo I",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "34.03.12.2001",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Kalitekuk",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2002",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Kemejing",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2003",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Bulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2004",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2005",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Bendung",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2006",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Candirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2007",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2008",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Karangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2009",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Pundungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.12.2010",
+    "district_id": "34.03.12",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Semin",
+    "type": "DESA"
+  }
+]

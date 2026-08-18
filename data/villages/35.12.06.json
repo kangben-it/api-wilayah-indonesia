@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.12.06.2001",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Paowan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2002",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumberkolak",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2003",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Wringinanom",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2004",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kilensari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2005",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Peleyan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2006",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Alasmalang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2007",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Duwet",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.06.2008",
+    "district_id": "35.12.06",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Gelung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.09.13.2001",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Alim Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2003",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Pinanggiripan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2006",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perkebunan Pulahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2007",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Hessa Perlompongan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2008",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perkebunan Air Batu I/II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2009",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perkebunan Air Batu III/IX",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2010",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Danau Sijabut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2012",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Air Teluk Hessa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2013",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Air Genting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2014",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Hessa Air Genting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2018",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sijabut Teratai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.13.2019",
+    "district_id": "12.09.13",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Pulau Pule",
+    "type": "DESA"
+  }
+]

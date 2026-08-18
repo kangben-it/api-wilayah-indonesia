@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.15.07.2001",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Kuta Babo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.07.2002",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Tinada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.07.2003",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Silima Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.07.2004",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Mahala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.07.2005",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Prongil",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.07.2006",
+    "district_id": "12.15.07",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Buluh Tellang",
+    "type": "DESA"
+  }
+]

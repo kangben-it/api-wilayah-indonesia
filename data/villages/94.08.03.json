@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.08.03.2001",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Kopai I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.03.2002",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Kopai II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.03.2003",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Woge",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.03.2004",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Yewadide",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.03.2005",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Mudetadi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.03.2006",
+    "district_id": "94.08.03",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Diita",
+    "type": "DESA"
+  }
+]

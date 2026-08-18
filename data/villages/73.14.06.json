@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.14.06.2001",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Rijang Panua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.06.2002",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Kulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.06.2003",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Maddenra",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.06.2004",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Mario",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.06.2005",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bina Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.06.2006",
+    "district_id": "73.14.06",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Abbokongang",
+    "type": "DESA"
+  }
+]

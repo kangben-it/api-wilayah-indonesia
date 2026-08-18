@@ -1,0 +1,58 @@
+[
+  {
+    "id": "21.03.06.1003",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Serasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.06.2002",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Kampung Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.06.2005",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Batu Berlian",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.06.2006",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Tanjung Setelung",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.06.2007",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Tanjung Balau",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.06.2010",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.06.2011",
+    "district_id": "21.03.06",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Jermalik",
+    "type": "DESA"
+  }
+]

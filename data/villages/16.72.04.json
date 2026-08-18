@@ -1,0 +1,42 @@
+[
+  {
+    "id": "16.72.04.1002",
+    "district_id": "16.72.04",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Lubuk Buntak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.04.1018",
+    "district_id": "16.72.04",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Prahu Dipo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.04.1020",
+    "district_id": "16.72.04",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Kance Diwe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.04.1021",
+    "district_id": "16.72.04",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Atung Bungsu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.04.1022",
+    "district_id": "16.72.04",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Penjalang",
+    "type": "KELURAHAN"
+  }
+]

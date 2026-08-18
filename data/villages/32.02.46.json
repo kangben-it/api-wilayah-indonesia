@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.46.2001",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.46.2002",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.46.2003",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.46.2004",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Karangmekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.46.2005",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Boregahindah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.46.2006",
+    "district_id": "32.02.46",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamanah",
+    "type": "DESA"
+  }
+]

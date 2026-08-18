@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.10.14.2001",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sidorukun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2002",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Tebing Tinggi Pangkatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2003",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Perkebunan Pangkatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2004",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Kampung Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2005",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Pangkatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2006",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sennah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.14.2007",
+    "district_id": "12.10.14",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Tanjung Harapan",
+    "type": "DESA"
+  }
+]

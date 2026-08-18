@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.78.06.1001",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Petemon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.06.1002",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Sawahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.06.1003",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Banyu Urip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.06.1004",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Putat Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.06.1005",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kupang Krajan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.06.1006",
+    "district_id": "35.78.06",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pakis",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "93.04.13.2001",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Warse/Jetsy",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2002",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Powetsy/Amborep",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2003",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Pau",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2004",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sesakam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2005",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Akamar",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2006",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Birak",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2007",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Katew",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.13.2008",
+    "district_id": "93.04.13",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Dawer",
+    "type": "DESA"
+  }
+]

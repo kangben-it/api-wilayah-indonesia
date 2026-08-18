@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.09.02.1001",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Bengkal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.09.02.2002",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Aro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2003",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Rendah Pasar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2004",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Rendah Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2005",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Rendah Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2008",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tuo Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2011",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Betung Bedarah Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2012",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Betung Bedarah Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2014",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Kunangan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2015",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Muara ketalo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2017",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Bengkal Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.02.2018",
+    "district_id": "15.09.02",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Kemantan",
+    "type": "DESA"
+  }
+]

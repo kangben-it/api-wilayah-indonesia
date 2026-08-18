@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.03.14.1039",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Arse",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.14.1040",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Lancat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.14.2028",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sipogu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2032",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pinagar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2033",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2034",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Haminjon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2035",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Nanggar Jati Huta Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2036",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Nanggar Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2037",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Natambang Roncitan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.14.2038",
+    "district_id": "12.03.14",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Dalihan Natolu",
+    "type": "DESA"
+  }
+]

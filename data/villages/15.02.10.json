@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.02.10.2001",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pulau Rengas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.10.2002",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Biuku Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.10.2003",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Bedeng Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.10.2004",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sungai Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.10.2005",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Bukit Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.10.2006",
+    "district_id": "15.02.10",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pulau Rengas Ulu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12.05.09.1004",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Hinai Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.09.2001",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kepala Sungai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2002",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Teluk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2003",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Cinta Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2005",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kebun Kelapa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2006",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sungai Ular",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2007",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Ibus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2008",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Secanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2009",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Selotong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2010",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Karang Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2011",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Jaring Halus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2012",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Telaga Jernih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2013",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Perkotaan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2014",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kwala Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2015",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2016",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pantai Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.09.2017",
+    "district_id": "12.05.09",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Mulia",
+    "type": "DESA"
+  }
+]

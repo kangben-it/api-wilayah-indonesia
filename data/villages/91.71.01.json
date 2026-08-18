@@ -1,0 +1,66 @@
+[
+  {
+    "id": "91.71.01.1001",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Gurabesi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1002",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Bayangkara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1003",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Trikora",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1004",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Imbi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1005",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Tanjung Ria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1006",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Mandala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.1007",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Angkasapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.71.01.2008",
+    "district_id": "91.71.01",
+    "regency_id": "91.71",
+    "province_id": "91",
+    "name": "Kayo Batu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "63.05.02.1004",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Tambarangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.05.02.2001",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Tatakan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2002",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Suato Tatakan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2005",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Sawang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2006",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Lawahan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2007",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Timbaan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2009",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Rumintin",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2011",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Cempaka",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2012",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Harapan Masa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2016",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Tandui",
+    "type": "DESA"
+  },
+  {
+    "id": "63.05.02.2017",
+    "district_id": "63.05.02",
+    "regency_id": "63.05",
+    "province_id": "63",
+    "name": "Hatiwin",
+    "type": "DESA"
+  }
+]

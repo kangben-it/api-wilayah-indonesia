@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.05.14.2001",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Golu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2002",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Bina",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2003",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Lumakluk",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2004",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Wogot",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2005",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kabogoluk",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2006",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Ogomegat",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.14.2007",
+    "district_id": "94.05.14",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Mamaput",
+    "type": "DESA"
+  }
+]

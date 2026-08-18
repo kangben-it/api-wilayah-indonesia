@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.17.05.1001",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Noling",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.05.2002",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2003",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2004",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tampumia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2005",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Padang Tuju",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2006",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Padang Kamburi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2007",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Malenggang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2008",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Balutan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2009",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Padang Ma'bud",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.05.2010",
+    "district_id": "73.17.05",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Saluinduk",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.71.01.1001",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Jambula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.71.01.1002",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Foramadiahi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.71.01.1003",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Kastela",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.71.01.1004",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Rua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.71.01.1005",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Afe Taduma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.71.01.1019",
+    "district_id": "82.71.01",
+    "regency_id": "82.71",
+    "province_id": "82",
+    "name": "Dorpedu",
+    "type": "KELURAHAN"
+  }
+]

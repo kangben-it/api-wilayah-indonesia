@@ -1,0 +1,194 @@
+[
+  {
+    "id": "35.15.13.1005",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Taman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1015",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Geluran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1017",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kalijaten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1018",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Ketegan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1019",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sepanjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1020",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Bebekan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1021",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Wonocolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.1022",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Ngelom",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.13.2001",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Bohar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2002",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Wage",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2003",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kedungturi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2004",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Jemundo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2006",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sadang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2007",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sambibulu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2008",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Bringinbendo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2009",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2010",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kramatjegu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2011",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Trosobo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2012",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pertapanmaduretno",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2013",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Tawangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2014",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Gilang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2016",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kletek",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2023",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Tanjungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.13.2024",
+    "district_id": "35.15.13",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Krembangan",
+    "type": "DESA"
+  }
+]

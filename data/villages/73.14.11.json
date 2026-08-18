@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.14.11.1001",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.11.2002",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Compong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2003",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Belawae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2004",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Botto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2005",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bila Riase",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2006",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bola Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2007",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Tana Toro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2008",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lombo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2009",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lagading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2010",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Dengeng-Dengeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2011",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Buntu Buangin",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.11.2012",
+    "district_id": "73.14.11",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Leppangeng",
+    "type": "DESA"
+  }
+]

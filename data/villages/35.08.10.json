@@ -1,0 +1,98 @@
+[
+  {
+    "id": "35.08.10.1003",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Citrodiwangsan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1004",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Ditotrunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1005",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Jogotrunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1009",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Jogoyudan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1010",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Rogotrunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1011",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Tompokersan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.1012",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Kepuharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.08.10.2001",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Banjarwaru",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.10.2002",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Labruk Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.10.2006",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Denok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.10.2007",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Blukon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.10.2008",
+    "district_id": "35.08.10",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Boreng",
+    "type": "DESA"
+  }
+]

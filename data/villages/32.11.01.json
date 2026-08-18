@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.11.01.2001",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cimungkal",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2002",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Ganjarresik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2003",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cilengkrang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2004",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cikareo Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2005",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cikareo Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2006",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Wado",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2007",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Mulyajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2009",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2010",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cisurat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.01.2011",
+    "district_id": "32.11.01",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sukapura",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14.07.07.1005",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sinaboi Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.07.2001",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sinaboi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.07.2002",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sei Bakau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.07.2003",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Raja Bejamu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.07.2004",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sungai Nyamuk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.07.2006",
+    "district_id": "14.07.07",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Darussalam",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.06.02.2001",
+    "district_id": "13.06.02",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Lubuk Basung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.02.2002",
+    "district_id": "13.06.02",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Garagahan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.02.2003",
+    "district_id": "13.06.02",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Kampung Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.02.2004",
+    "district_id": "13.06.02",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Kampung Tangah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.02.2005",
+    "district_id": "13.06.02",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Manggopoh",
+    "type": "DESA"
+  }
+]

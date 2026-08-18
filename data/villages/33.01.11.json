@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.01.11.2001",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Tinggarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2002",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sidareja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2003",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sidamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2004",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Kunci",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2005",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Karanggedang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2006",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Penyarang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2007",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Tegalsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2008",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Margasari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2009",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Gunungreja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.11.2010",
+    "district_id": "33.01.11",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sudagaran",
+    "type": "DESA"
+  }
+]

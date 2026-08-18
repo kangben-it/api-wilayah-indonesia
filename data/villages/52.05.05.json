@@ -1,0 +1,114 @@
+[
+  {
+    "id": "52.05.05.1001",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Monta Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.05.1002",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Kandai II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.05.1003",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Simpasai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.05.05.2004",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Saneo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2005",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Wawonduru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2006",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Matua",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2007",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Nowa",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2008",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Bara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2009",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Mada Prama",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2010",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Riwo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2011",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Mumbu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2012",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Sera Kapi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2013",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Raba Baka",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.05.2014",
+    "district_id": "52.05.05",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Baka Jaya",
+    "type": "DESA"
+  }
+]

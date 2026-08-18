@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.06.09.1001",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Sapaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.09.1010",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Je'nebatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.09.2002",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontomanai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.09.2003",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Buakkang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.09.2004",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bissoloro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.09.2011",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Rannaloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.09.2012",
+    "district_id": "73.06.09",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Mangempang",
+    "type": "DESA"
+  }
+]

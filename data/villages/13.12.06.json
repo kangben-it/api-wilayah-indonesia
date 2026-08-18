@@ -1,0 +1,58 @@
+[
+  {
+    "id": "13.12.06.2001",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Muaro Kiawai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2002",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Rabi Jonggor",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2003",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Seberang Kenaikan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2004",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Bahoras",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2005",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Ranah Sungai Magelang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2006",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Muaro Kiawai Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.12.06.2007",
+    "district_id": "13.12.06",
+    "regency_id": "13.12",
+    "province_id": "13",
+    "name": "Muaro Kiawai Hilir",
+    "type": "DESA"
+  }
+]

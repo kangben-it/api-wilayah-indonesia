@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.02.34.2001",
+    "district_id": "32.02.34",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Kebonpedes",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.34.2002",
+    "district_id": "32.02.34",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikaret",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.34.2003",
+    "district_id": "32.02.34",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongsawah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.34.2004",
+    "district_id": "32.02.34",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sasagaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.34.2005",
+    "district_id": "32.02.34",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Jambenenggang",
+    "type": "DESA"
+  }
+]

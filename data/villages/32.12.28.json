@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.12.28.2001",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Cangkingan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2002",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Jayawinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2003",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kedokan Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2004",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kedokanbunder",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2005",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kedokanbunder Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2006",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kaplongan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.28.2007",
+    "district_id": "32.12.28",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Jayalaksana",
+    "type": "DESA"
+  }
+]

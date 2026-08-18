@@ -1,0 +1,74 @@
+[
+  {
+    "id": "63.04.10.1001",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Lepasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.04.10.2002",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Banua Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2003",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Murung Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2004",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Palingkau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2005",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Balukung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2006",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Banitan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2007",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Batik",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2008",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Bahalayung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.10.2009",
+    "district_id": "63.04.10",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Sungai Selirik",
+    "type": "DESA"
+  }
+]

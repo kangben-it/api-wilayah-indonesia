@@ -1,0 +1,106 @@
+[
+  {
+    "id": "36.03.11.1010",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukatani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.11.2001",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Rajeg",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2002",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Rajeg Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2003",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pangarengan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2005",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Jambu Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2006",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Lembangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2007",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2008",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Tanjakan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2009",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Tanjakan Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2011",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2012",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Ranca Bango",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2013",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Daon",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.11.2014",
+    "district_id": "36.03.11",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Mekarsari",
+    "type": "DESA"
+  }
+]

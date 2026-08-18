@@ -1,0 +1,146 @@
+[
+  {
+    "id": "15.04.01.1001",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kembang Paseban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.01.2002",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sengkati Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2003",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sengkati Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2004",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sengkati Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2005",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kembang Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2006",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Mersam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2007",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Benteng Rendah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2008",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sungai Puar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2009",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Rantau Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2010",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pematang Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2011",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Teluk Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2012",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bukit Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2013",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Belanti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2014",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Tapah Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2015",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bukit Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2016",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Rantau Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2017",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Tanjung Putra",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.01.2018",
+    "district_id": "15.04.01",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sengkati Mudo",
+    "type": "DESA"
+  }
+]

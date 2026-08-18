@@ -1,0 +1,58 @@
+[
+  {
+    "id": "81.06.04.2001",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Waesala",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2002",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Allang Asaude",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2003",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Sole",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2004",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Tonu Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2005",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Tahalupu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2006",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Buano Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.04.2007",
+    "district_id": "81.06.04",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Buano Selatan",
+    "type": "DESA"
+  }
+]

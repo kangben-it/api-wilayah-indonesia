@@ -1,0 +1,50 @@
+[
+  {
+    "id": "92.03.03.2001",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Tunas Gain",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.03.2003",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Urat",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.03.2004",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Sanggram",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.03.2010",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Weri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.03.2012",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kiria Bisa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.03.2013",
+    "district_id": "92.03.03",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Saharei",
+    "type": "DESA"
+  }
+]

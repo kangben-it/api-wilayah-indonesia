@@ -1,0 +1,106 @@
+[
+  {
+    "id": "35.26.01.1001",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Mlajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1002",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Kemayoran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1003",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Pangeranan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1004",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Demangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1005",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Kraton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1006",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Pejagan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.1007",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Bancaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.01.2008",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Sembilangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.01.2009",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Ujung Piring",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.01.2010",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Kramat",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.01.2011",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Martajasah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.01.2012",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Sabiyan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.01.2013",
+    "district_id": "35.26.01",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Gebang",
+    "type": "DESA"
+  }
+]

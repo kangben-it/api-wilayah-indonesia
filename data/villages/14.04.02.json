@@ -1,0 +1,114 @@
+[
+  {
+    "id": "14.04.02.1001",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Enok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.02.1002",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pusaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.02.1003",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukmedan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.02.1013",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pantaiseberang Makmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.02.2004",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pengalihan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2005",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiambat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2006",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Simpang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2007",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2008",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungairukam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2009",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Bagan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2010",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Suhada",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2011",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Jaya Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2012",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungailokan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.02.2014",
+    "district_id": "14.04.02",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Simpang Tiga Daratan",
+    "type": "DESA"
+  }
+]

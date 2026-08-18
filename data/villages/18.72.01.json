@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18.72.01.1001",
+    "district_id": "18.72.01",
+    "regency_id": "18.72",
+    "province_id": "18",
+    "name": "Metro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.72.01.1002",
+    "district_id": "18.72.01",
+    "regency_id": "18.72",
+    "province_id": "18",
+    "name": "Hadimulyo Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.72.01.1003",
+    "district_id": "18.72.01",
+    "regency_id": "18.72",
+    "province_id": "18",
+    "name": "Imopuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.72.01.1004",
+    "district_id": "18.72.01",
+    "regency_id": "18.72",
+    "province_id": "18",
+    "name": "Hadimulyo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.72.01.1005",
+    "district_id": "18.72.01",
+    "regency_id": "18.72",
+    "province_id": "18",
+    "name": "Yosomulyo",
+    "type": "KELURAHAN"
+  }
+]

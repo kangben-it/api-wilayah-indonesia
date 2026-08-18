@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.76.06.1001",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Beji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.06.1002",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Kukusan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.06.1003",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Tanah Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.06.1004",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Kemiri Muka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.06.1005",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Pondok Cina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.06.1006",
+    "district_id": "32.76.06",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Beji Timur",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.09.17.2001",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Sukamakmur",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2002",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Mangaran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2003",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Pancakarya",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2004",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Ajung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2005",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Klompangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2006",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Wirowongso",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.17.2007",
+    "district_id": "35.09.17",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Rowoindah",
+    "type": "DESA"
+  }
+]

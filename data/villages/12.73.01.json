@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.73.01.1001",
+    "district_id": "12.73.01",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Huta Barangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.01.1002",
+    "district_id": "12.73.01",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Angin Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.01.1003",
+    "district_id": "12.73.01",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Huta Tonga-tonga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.01.1004",
+    "district_id": "12.73.01",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Sibolga Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.73.01.1005",
+    "district_id": "12.73.01",
+    "regency_id": "12.73",
+    "province_id": "12",
+    "name": "Simare-Mare",
+    "type": "KELURAHAN"
+  }
+]

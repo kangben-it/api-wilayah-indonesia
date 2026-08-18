@@ -1,0 +1,130 @@
+[
+  {
+    "id": "12.05.03.1001",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pekan Kuala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.03.1019",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bela Rakyat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.03.2002",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Dalan Naman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2003",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Balai Kasih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2004",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bekiung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2005",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Blankahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2006",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Besadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2007",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Beruam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2009",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Raja Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2011",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Namo Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2012",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Parit Bindu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2013",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Penjara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2015",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Perkebunan Bekiun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2016",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Garunggang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2017",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.03.2018",
+    "district_id": "12.05.03",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sido Makmur",
+    "type": "DESA"
+  }
+]

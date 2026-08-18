@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61.02.15.2001",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Peniti Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.15.2002",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Purun Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.15.2003",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Parit Bugis",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.15.2004",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Peniti Dalam I",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.15.2005",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Peniti Dalam II",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.15.2006",
+    "district_id": "61.02.15",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Burung",
+    "type": "DESA"
+  }
+]

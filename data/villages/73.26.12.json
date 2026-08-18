@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.26.12.1004",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Pasang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.12.2001",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Ma'dong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2002",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Dende'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2003",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Piongan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2005",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2006",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Kapolang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2007",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Buntu Tagari",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.12.2008",
+    "district_id": "73.26.12",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Parinding",
+    "type": "DESA"
+  }
+]

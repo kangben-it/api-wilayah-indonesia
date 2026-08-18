@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.11.21.2001",
+    "district_id": "53.11.21",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Praiwitu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.21.2002",
+    "district_id": "53.11.21",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kakaha",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.21.2003",
+    "district_id": "53.11.21",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Hambawutang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.21.2004",
+    "district_id": "53.11.21",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kabanda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.21.2005",
+    "district_id": "53.11.21",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Prauraming",
+    "type": "DESA"
+  }
+]

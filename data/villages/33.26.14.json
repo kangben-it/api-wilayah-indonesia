@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.26.14.1002",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Sapugarut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.26.14.1004",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Bligo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.26.14.1008",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Simbangkulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.26.14.2001",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Coprayan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2003",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Wonoyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2005",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Pakumbulan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2006",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Watusalam",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2007",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Simbangwetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2009",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Kertijayan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.26.14.2010",
+    "district_id": "33.26.14",
+    "regency_id": "33.26",
+    "province_id": "33",
+    "name": "Paweden",
+    "type": "DESA"
+  }
+]

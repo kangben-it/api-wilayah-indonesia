@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.01.09.2001",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Wargajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2002",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabuaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2003",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukadamai",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2004",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2005",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibadak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2006",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukaresmi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2007",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2008",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukaharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2009",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sirnajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.09.2010",
+    "district_id": "32.01.09",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukamakmur",
+    "type": "DESA"
+  }
+]

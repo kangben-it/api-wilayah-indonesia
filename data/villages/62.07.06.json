@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.07.06.2001",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Mekar Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.06.2002",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Halimaung Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.06.2003",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Bangun Harja",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.06.2004",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Kartika Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.06.2005",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Pematang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.06.2006",
+    "district_id": "62.07.06",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Sungai Bakau",
+    "type": "DESA"
+  }
+]

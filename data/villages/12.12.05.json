@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.12.05.2001",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Meranti Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2002",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Meranti Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2003",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Meranti Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2007",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Pintu Pohan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2008",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Ambar Halim",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2009",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Pintu Pohan Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.05.2010",
+    "district_id": "12.12.05",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Halado",
+    "type": "DESA"
+  }
+]

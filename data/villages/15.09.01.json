@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.09.01.1001",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Muara Tebo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.09.01.1002",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tebing Tinggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.09.01.2003",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Bedaro Rampak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2004",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Mangun Jayo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2005",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Pandak",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2006",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tengah Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2007",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Semabu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2008",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Kandang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2009",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Pelayang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2010",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Keruh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2011",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Aburan Batang Tebo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.01.2012",
+    "district_id": "15.09.01",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Alai",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.03.14.2001",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Manyaifun",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.14.2002",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Miosmanggara",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.14.2003",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Pam",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.14.2004",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Saukabu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.14.2005",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Gag",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.14.2006",
+    "district_id": "96.03.14",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Saupapir",
+    "type": "DESA"
+  }
+]

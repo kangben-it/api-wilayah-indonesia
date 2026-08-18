@@ -1,0 +1,66 @@
+[
+  {
+    "id": "13.74.01.1001",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Ganting",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1002",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Sigando",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1003",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Ekor Lubuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1004",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Ngalau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1005",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Guguk Malintang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1006",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Koto Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1007",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Koto Katik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.01.1008",
+    "district_id": "13.74.01",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Tanah Pak Lambik",
+    "type": "KELURAHAN"
+  }
+]

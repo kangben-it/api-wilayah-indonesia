@@ -1,0 +1,74 @@
+[
+  {
+    "id": "33.02.04.2001",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Losari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2002",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Menganti",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2003",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Banjarparakan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2004",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Rawalo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2005",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Tambaknegara",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2006",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Sidamulih",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2007",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Pesawahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2008",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Tipar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.04.2009",
+    "district_id": "33.02.04",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Sanggreman",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.07.03.1001",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Samataring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.07.03.2002",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Sanjai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2003",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Pattalassang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2004",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Panaikang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2005",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Saukang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2006",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Kampala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2007",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Lasiai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2008",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Biroro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2009",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Kaloling",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2010",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Pasimarannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2011",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Tongke-Tongke",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2012",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Salohe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.03.2013",
+    "district_id": "73.07.03",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Bongki Lengkese",
+    "type": "DESA"
+  }
+]

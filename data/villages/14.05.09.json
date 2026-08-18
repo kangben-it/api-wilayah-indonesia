@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.05.09.1001",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Teluk Meranti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.05.09.2002",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Kuala Panduk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2003",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Petodaan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2004",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Teluk Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2005",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Pulau Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2006",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Gambut Mutiara",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2007",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Labuhan Bilik",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2008",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Pangkalan Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.09.2009",
+    "district_id": "14.05.09",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Segamai",
+    "type": "DESA"
+  }
+]

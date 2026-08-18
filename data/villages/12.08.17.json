@@ -1,0 +1,130 @@
+[
+  {
+    "id": "12.08.17.1015",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Serbelawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.17.1016",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Aman Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.17.2001",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Silenduk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2002",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Tobu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2003",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2004",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Ilir I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2005",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Ilir II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2006",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bahung Kahean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2007",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Mainu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2008",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Merangir I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2009",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Merangir II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2010",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Kahean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2011",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Tenera",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2012",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Kataran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2013",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Padang Mainu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.17.2014",
+    "district_id": "12.08.17",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bahung Huluan",
+    "type": "DESA"
+  }
+]

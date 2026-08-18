@@ -1,0 +1,114 @@
+[
+  {
+    "id": "73.05.06.1004",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontolebang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.06.2001",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Pakkabba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2002",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontolanra",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2003",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Aeng Batu Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2005",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Tamalate",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2006",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Tamasaju",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2007",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontosunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2010",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Aeng Towa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2011",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontokaddopepe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2012",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Sampulungan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2013",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Maccini Sombala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2014",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Sawakung Beba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2015",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Biring Kassi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.06.2016",
+    "district_id": "73.05.06",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Kaballokang Pakkabba",
+    "type": "DESA"
+  }
+]

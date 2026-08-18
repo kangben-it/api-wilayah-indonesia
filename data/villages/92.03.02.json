@@ -1,0 +1,74 @@
+[
+  {
+    "id": "92.03.02.2001",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Werba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2002",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kiat",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2003",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Purwasak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2008",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Wurkendik",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2010",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kwuhkendak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2011",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Purwahab Tonggo",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2012",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Pahger Nkindik",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2013",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Werba Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.02.2014",
+    "district_id": "92.03.02",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Porum",
+    "type": "DESA"
+  }
+]

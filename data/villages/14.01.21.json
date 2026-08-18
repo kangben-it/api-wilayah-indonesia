@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14.01.21.2001",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Siberuang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.21.2002",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Bandur Picak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.21.2003",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Gunung Malelo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.21.2004",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Tabing",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.21.2005",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pongkai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.21.2006",
+    "district_id": "14.01.21",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Tanjung",
+    "type": "DESA"
+  }
+]

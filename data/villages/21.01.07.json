@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.01.07.1001",
+    "district_id": "21.01.07",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Tanjung Uban Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.07.1002",
+    "district_id": "21.01.07",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Tanjung Uban Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.07.1003",
+    "district_id": "21.01.07",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Tanjung Uban Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.07.1011",
+    "district_id": "21.01.07",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Tanjung Uban Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.07.2005",
+    "district_id": "21.01.07",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Lancang Kuning",
+    "type": "DESA"
+  }
+]

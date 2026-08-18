@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.02.08.1008",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Samuda Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.08.1009",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Basirih Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.08.2005",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sebamban",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2006",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Samuda Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2007",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Samuda Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2010",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Jaya Kelapa",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2011",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Basirih Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2012",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Jaya Karet",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2013",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Handil Sohor",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.08.2014",
+    "district_id": "62.02.08",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sei Ijum Raya",
+    "type": "DESA"
+  }
+]

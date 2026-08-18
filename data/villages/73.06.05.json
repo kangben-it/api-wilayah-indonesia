@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.06.05.1001",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Lanna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.05.1002",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontoparang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.05.2006",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Lonjoboko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.05.2008",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Borisallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.05.2009",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Belapunranga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.05.2010",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontokassi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.05.2011",
+    "district_id": "73.06.05",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Belabori",
+    "type": "DESA"
+  }
+]

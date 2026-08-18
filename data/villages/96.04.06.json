@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.04.06.2001",
+    "district_id": "96.04.06",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wau",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.06.2002",
+    "district_id": "96.04.06",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Syukwo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.06.2003",
+    "district_id": "96.04.06",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Waibem",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.06.2004",
+    "district_id": "96.04.06",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Weyaf",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.06.2005",
+    "district_id": "96.04.06",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Weprari",
+    "type": "DESA"
+  }
+]

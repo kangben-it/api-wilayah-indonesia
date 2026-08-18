@@ -1,0 +1,82 @@
+[
+  {
+    "id": "61.10.11.2001",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Ulak Muid",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2002",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2003",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Durian Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2004",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Togan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2005",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Pelita Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2006",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Bukit Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2007",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Lintah Taum",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2008",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Laja",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2009",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Keluas Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.10.11.2010",
+    "district_id": "61.10.11",
+    "regency_id": "61.10",
+    "province_id": "61",
+    "name": "Ganjang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.02.15.2001",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Karangkemojing",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2002",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Paningkaban",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2003",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Cihonje",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2004",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Gancang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2005",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Kedungurang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2006",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Gumelar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2007",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Cilangkap",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2008",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Tlaga",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2009",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Samudra",
+    "type": "DESA"
+  },
+  {
+    "id": "33.02.15.2010",
+    "district_id": "33.02.15",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Samudra Kulon",
+    "type": "DESA"
+  }
+]

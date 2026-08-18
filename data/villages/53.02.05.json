@@ -1,0 +1,90 @@
+[
+  {
+    "id": "53.02.05.1010",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Niki-Niki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.05.2001",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Taebesa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2002",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nakfunu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2003",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oe'ekam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2004",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Baki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2005",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Tumu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2006",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noebesa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2007",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nobi-Nobi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2008",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Sopo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2009",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Bone",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.05.2011",
+    "district_id": "53.02.05",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Maunum Niki-Niki",
+    "type": "DESA"
+  }
+]

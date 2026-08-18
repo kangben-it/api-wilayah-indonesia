@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.09.22.2001",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Ngablak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2002",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Kedungpilang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2003",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Kalinanas",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2004",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Gilirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2005",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Jatilawang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2006",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Garangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2007",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Bercak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2008",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Bengle",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2009",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.22.2010",
+    "district_id": "33.09.22",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Repaking",
+    "type": "DESA"
+  }
+]

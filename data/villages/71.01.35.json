@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.01.35.2001",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Ibolian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2002",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Ibolian Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2003",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Kinomaligan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2004",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Kosio",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2005",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Kosio Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2006",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Kasio Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2007",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Werdhi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2008",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Werdhi Agung Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2009",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Werdhi Agung Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.35.2010",
+    "district_id": "71.01.35",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Werdhi Agung Timur",
+    "type": "DESA"
+  }
+]

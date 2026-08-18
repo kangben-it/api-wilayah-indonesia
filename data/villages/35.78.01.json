@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.01.1001",
+    "district_id": "35.78.01",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Karang Pilang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.01.1002",
+    "district_id": "35.78.01",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kebraon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.01.1003",
+    "district_id": "35.78.01",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kedurus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.01.1004",
+    "district_id": "35.78.01",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Waru Gunung",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "15.04.04.1003",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Durian Luncuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.04.1012",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Muara Jangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.04.2001",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Jelutih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2002",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Olak Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2004",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Aur Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2005",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Paku Aji",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2006",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Hajran",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2007",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Mata Gual",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2008",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Jangga",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2009",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Koto Boyo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2010",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Karmeo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2011",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Karmeo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2013",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Jangga Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2014",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Terentang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2015",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bulian Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2016",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Jelutih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.04.2017",
+    "district_id": "15.04.04",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Aur Gading",
+    "type": "DESA"
+  }
+]

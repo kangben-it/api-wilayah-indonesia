@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.10.20.2001",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Tanjung Sarang Elang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2002",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Perkebunan Ajamu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2003",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Teluk Sentosa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2004",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Cinta Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2005",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Sentosa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2006",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Meranti Paham",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.20.2007",
+    "district_id": "12.10.20",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Jawi-Jawi",
+    "type": "DESA"
+  }
+]

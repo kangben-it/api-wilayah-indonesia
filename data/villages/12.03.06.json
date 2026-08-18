@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12.03.06.1001",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simarpinggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.06.1007",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Napa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.06.1014",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tapian Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.06.1019",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.06.2004",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Situmbaga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2005",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sinyior",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2006",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pintu Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2008",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sibong-bong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2009",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Siamporik Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2010",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Siamporik Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2011",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sihopur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2012",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tandihat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2013",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Perkebunan Marpinggan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2015",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Natas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2016",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Dolok Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2017",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sihuik-huik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.06.2018",
+    "district_id": "12.03.06",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Gunung Baringin",
+    "type": "DESA"
+  }
+]

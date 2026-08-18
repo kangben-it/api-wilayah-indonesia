@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.02.14.2001",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sebabi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.14.2002",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Tanah Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.14.2003",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sumber Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.14.2004",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Kenyala",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.14.2005",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Penyang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.14.2006",
+    "district_id": "62.02.14",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Biru Maju",
+    "type": "DESA"
+  }
+]

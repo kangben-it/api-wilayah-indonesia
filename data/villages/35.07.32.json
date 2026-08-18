@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.07.32.2001",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Kluwut",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2002",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Plandi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2003",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Plaosan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2004",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Kebobang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2005",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Sumbertempur",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2006",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Sumberdem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2007",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.07.32.2008",
+    "district_id": "35.07.32",
+    "regency_id": "35.07",
+    "province_id": "35",
+    "name": "Bangelan",
+    "type": "DESA"
+  }
+]

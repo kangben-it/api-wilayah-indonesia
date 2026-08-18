@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.11.17.2001",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Andungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2002",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Ardisaeng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2003",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kupang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2004",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Gadingsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2005",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Pakem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2006",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sumberdumpyong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2007",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Patemon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.17.2008",
+    "district_id": "35.11.17",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Petung",
+    "type": "DESA"
+  }
+]

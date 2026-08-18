@@ -1,0 +1,34 @@
+[
+  {
+    "id": "74.06.05.1009",
+    "district_id": "74.06.05",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Teomokole",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.05.1016",
+    "district_id": "74.06.05",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Rahampuu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.05.2010",
+    "district_id": "74.06.05",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Rahadopi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.05.2011",
+    "district_id": "74.06.05",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Tirongkotua",
+    "type": "DESA"
+  }
+]

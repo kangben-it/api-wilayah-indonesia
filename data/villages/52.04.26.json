@@ -1,0 +1,58 @@
+[
+  {
+    "id": "52.04.26.2001",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Pungkit",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2002",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Berora",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2003",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lopok",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2004",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Langam",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2005",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Mama",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2006",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lopok Beru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.26.2007",
+    "district_id": "52.04.26",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Tatede",
+    "type": "DESA"
+  }
+]

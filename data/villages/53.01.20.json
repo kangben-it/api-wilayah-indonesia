@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.01.20.2001",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Seki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2002",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oemofa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2003",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Nunmafo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2004",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Muke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2005",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Pathau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2006",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oeniko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2007",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oenuntono",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2008",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oemolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2009",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Enolanan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.20.2010",
+    "district_id": "53.01.20",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oenaunu",
+    "type": "DESA"
+  }
+]

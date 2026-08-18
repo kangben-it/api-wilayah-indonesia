@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.04.15.1009",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Petoosang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.15.2002",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Mombi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2003",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Kalumammang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2004",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Pao-pao",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2005",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Puppuuring",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2006",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Saragian",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2007",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sayoang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.15.2008",
+    "district_id": "76.04.15",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Allu",
+    "type": "DESA"
+  }
+]

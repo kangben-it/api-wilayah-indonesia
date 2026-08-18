@@ -1,0 +1,90 @@
+[
+  {
+    "id": "63.01.02.2001",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Sabuhur",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2002",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Jorong",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2003",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Asam-Asam",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2004",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Batalang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2005",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Swarangan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2006",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Muara Asam-Asam",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2007",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Alur",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2008",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Asri Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2009",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Karang Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2010",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Asam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.02.2011",
+    "district_id": "63.01.02",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Simpang Empat Sungai Baru",
+    "type": "DESA"
+  }
+]

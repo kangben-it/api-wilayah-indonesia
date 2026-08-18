@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.17.04.1005",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bajo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.04.2004",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Rumaju",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2006",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Sampa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2007",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pangi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2008",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tallang Bulawang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2010",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2013",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Saga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2014",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Sumabu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2015",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Balla",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2017",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Langkiddi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2018",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Samulang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.04.2019",
+    "district_id": "73.17.04",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Babang",
+    "type": "DESA"
+  }
+]

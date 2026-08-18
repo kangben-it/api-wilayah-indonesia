@@ -1,0 +1,90 @@
+[
+  {
+    "id": "15.02.01.2001",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Renah Kemumu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2002",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanjung Kasri",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2003",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Lubuk Mentilin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2004",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Rantau Kermas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2005",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Renah Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2008",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pulau Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2009",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Lubuk Pungguk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2010",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Koto Renah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2011",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Muara Madras",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2023",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Renah Pelaan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.01.2024",
+    "district_id": "15.02.01",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Koto Rawang",
+    "type": "DESA"
+  }
+]

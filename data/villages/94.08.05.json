@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.08.05.2001",
+    "district_id": "94.08.05",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Komauto/Kapiraya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.05.2002",
+    "district_id": "94.08.05",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Mogodagi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.05.2003",
+    "district_id": "94.08.05",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Yamouwitina",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.05.2004",
+    "district_id": "94.08.05",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Idego",
+    "type": "DESA"
+  },
+  {
+    "id": "94.08.05.2005",
+    "district_id": "94.08.05",
+    "regency_id": "94.08",
+    "province_id": "94",
+    "name": "Uwe Onagei",
+    "type": "DESA"
+  }
+]

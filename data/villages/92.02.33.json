@@ -1,0 +1,82 @@
+[
+  {
+    "id": "92.02.33.2001",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Sibuni",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2002",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Kali Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2003",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Prafi Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2004",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Macuan",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2005",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Meiforga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2006",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Muara Prafi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2007",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Makwan",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2008",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Urey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2009",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Mantedi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.02.33.2010",
+    "district_id": "92.02.33",
+    "regency_id": "92.02",
+    "province_id": "92",
+    "name": "Aska",
+    "type": "DESA"
+  }
+]

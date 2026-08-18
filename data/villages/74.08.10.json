@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.08.10.2001",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Lanipa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2002",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Majapahit",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2003",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Labipi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2004",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Latali",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2005",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Pasampang",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2006",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Tarengga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2007",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "To'lemo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2008",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Salulotong",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2009",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Powalaa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.08.10.2010",
+    "district_id": "74.08.10",
+    "regency_id": "74.08",
+    "province_id": "74",
+    "name": "Kalahunde",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "33.12.15.1009",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sanggrong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.15.1014",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Jatiroto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.15.2001",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Brenggolo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2002",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Boto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2003",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Guno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2004",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Dawungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2005",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngelo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2006",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pingkuk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2007",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Mojopuro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2008",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pesido",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2010",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Cangkring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2011",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pengkol",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2012",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sugihan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2013",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Duren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.15.2015",
+    "district_id": "33.12.15",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Jatirejo",
+    "type": "DESA"
+  }
+]

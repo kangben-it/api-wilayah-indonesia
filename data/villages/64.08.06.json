@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.08.06.2001",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Bentuq",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.06.2002",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Pejeng",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.06.2003",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Lees",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.06.2004",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Mekar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.06.2005",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Rantau Sentosa",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.06.2006",
+    "district_id": "64.08.06",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Nyelong",
+    "type": "DESA"
+  }
+]

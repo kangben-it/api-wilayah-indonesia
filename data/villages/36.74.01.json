@@ -1,0 +1,74 @@
+[
+  {
+    "id": "36.74.01.1001",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Ciater",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1002",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Rawabuntu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1003",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Rawa Mekar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1004",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Lengkong Gudang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1005",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Lengkong Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1006",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Buaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1007",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Lengkong Gudang Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1008",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Cilenggang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.74.01.1009",
+    "district_id": "36.74.01",
+    "regency_id": "36.74",
+    "province_id": "36",
+    "name": "Serpong",
+    "type": "KELURAHAN"
+  }
+]

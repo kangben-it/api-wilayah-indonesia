@@ -1,0 +1,26 @@
+[
+  {
+    "id": "65.01.10.2001",
+    "district_id": "65.01.10",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Bunyu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.10.2002",
+    "district_id": "65.01.10",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Bunyu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.10.2003",
+    "district_id": "65.01.10",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Bunyu Timur",
+    "type": "DESA"
+  }
+]

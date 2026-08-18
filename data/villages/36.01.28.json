@@ -1,0 +1,82 @@
+[
+  {
+    "id": "36.01.28.2001",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Banjarmasin",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2002",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Carita",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2003",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sukarame",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2004",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sukanegara",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2005",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cinoyong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2006",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Pejamben",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2007",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2008",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Kawoyang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2009",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Tembong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.28.2010",
+    "district_id": "36.01.28",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sindanglaut",
+    "type": "DESA"
+  }
+]

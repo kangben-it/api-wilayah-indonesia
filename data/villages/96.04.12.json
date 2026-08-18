@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.04.12.2001",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Arfu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2002",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bawey",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2003",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wasnembri",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2004",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Waru",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2005",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Atori",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2006",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Meriambeker",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2007",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Warokon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2008",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Arekon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2009",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bonpaya",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.12.2010",
+    "district_id": "96.04.12",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Marbuan",
+    "type": "DESA"
+  }
+]

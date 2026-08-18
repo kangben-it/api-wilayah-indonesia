@@ -1,0 +1,42 @@
+[
+  {
+    "id": "52.04.11.2002",
+    "district_id": "52.04.11",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lebin",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.11.2003",
+    "district_id": "52.04.11",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lebangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.11.2008",
+    "district_id": "52.04.11",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Ropang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.11.2009",
+    "district_id": "52.04.11",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lawin",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.11.2010",
+    "district_id": "52.04.11",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Ranan",
+    "type": "DESA"
+  }
+]

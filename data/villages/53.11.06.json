@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.11.06.2001",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Ramuk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.06.2002",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Wangga Mbewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.06.2003",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lailunggi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.06.2004",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tawui",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.06.2005",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Wahang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.06.2006",
+    "district_id": "53.11.06",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mahaniwa",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.71.10.1001",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Baloi Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.10.1002",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Taman Baloi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.10.1003",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Teluk Tering",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.10.1004",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Belian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.10.1005",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Sukajadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.10.1006",
+    "district_id": "21.71.10",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Sungai Panas",
+    "type": "KELURAHAN"
+  }
+]

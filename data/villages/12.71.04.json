@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.04.1001",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tegal S Mandala I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1002",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tegal S Mandala II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1003",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tegal S Mandala III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1004",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Denai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1005",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Binjai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.04.1006",
+    "district_id": "12.71.04",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Medan Tenggara",
+    "type": "KELURAHAN"
+  }
+]

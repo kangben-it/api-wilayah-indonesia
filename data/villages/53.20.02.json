@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.20.02.2001",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Bebae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2002",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Tada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2003",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Matei",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2004",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Loboaju",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2005",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Eimadake",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2006",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Jiwuwu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2007",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Eilode",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.02.2008",
+    "district_id": "53.20.02",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Eimau",
+    "type": "DESA"
+  }
+]

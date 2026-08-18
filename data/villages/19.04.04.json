@@ -1,0 +1,82 @@
+[
+  {
+    "id": "19.04.04.2001",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Simpang Katis",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2002",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Celuak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2003",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Sungkap",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2004",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Beruas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2005",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Puput",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2006",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Teru",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2007",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Terak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2008",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Pasir Garam",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2009",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Katis",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.04.2010",
+    "district_id": "19.04.04",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Pinang Sebatang",
+    "type": "DESA"
+  }
+]

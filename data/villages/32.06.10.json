@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.06.10.2001",
+    "district_id": "32.06.10",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cikuya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.10.2002",
+    "district_id": "32.06.10",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cintabodas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.10.2003",
+    "district_id": "32.06.10",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cipicung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.10.2004",
+    "district_id": "32.06.10",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Bojongsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.10.2005",
+    "district_id": "32.06.10",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Mekarlaksana",
+    "type": "DESA"
+  }
+]

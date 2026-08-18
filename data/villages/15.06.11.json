@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.06.11.1001",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Bram Itam Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.11.2002",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Bram Itam Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2003",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tanjung Senjulang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2004",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pembengis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2005",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Bram Itam Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2006",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pantai Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2007",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Jati Emas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2008",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2009",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Mekar Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.11.2010",
+    "district_id": "15.06.11",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Semau",
+    "type": "DESA"
+  }
+]

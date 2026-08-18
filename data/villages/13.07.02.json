@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.07.02.2001",
+    "district_id": "13.07.02",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Guguak VIII Koto",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2002",
+    "district_id": "13.07.02",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "VII Koto Talago",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2003",
+    "district_id": "13.07.02",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Sungai Talang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2004",
+    "district_id": "13.07.02",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Kubang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.02.2005",
+    "district_id": "13.07.02",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Simpang Sugiran",
+    "type": "DESA"
+  }
+]

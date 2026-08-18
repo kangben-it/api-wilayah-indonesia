@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.13.11.1001",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Solo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.11.2002",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bola",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2003",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ujungtanah",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2004",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lempong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2005",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Sanreseng Ade",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2006",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pattangngae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2007",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Balielo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2008",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Manurung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2009",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lattimu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2010",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.11.2011",
+    "district_id": "73.13.11",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Rajamawellang",
+    "type": "DESA"
+  }
+]

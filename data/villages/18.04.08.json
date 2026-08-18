@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18.04.08.1005",
+    "district_id": "18.04.08",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sekincau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.04.08.2001",
+    "district_id": "18.04.08",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Pampangan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.08.2006",
+    "district_id": "18.04.08",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Waspada",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.08.2007",
+    "district_id": "18.04.08",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Tigajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.08.2008",
+    "district_id": "18.04.08",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Giham Sukamaju",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "61.06.02.2001",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Teluk Sindur",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2002",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Bika",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2003",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Jelemuk",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2008",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Bika Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2009",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Nanga Manday",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2010",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Melapi Manday",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2011",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Penyeluang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.06.02.2012",
+    "district_id": "61.06.02",
+    "regency_id": "61.06",
+    "province_id": "61",
+    "name": "Jongkong Manday",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "33.23.08.1001",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Parakan Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.08.1006",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Parakan Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.08.2002",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Campursalam",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2003",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Wanutengah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2004",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Nglondong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2005",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Bagusan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2007",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Dangkel",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2008",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Mandisari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2009",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Tegalroso",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2010",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Traji",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2011",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Watukumpul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2012",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Ringinanom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2013",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Depokharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2014",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Caturanom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2015",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Glapansari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.08.2016",
+    "district_id": "33.23.08",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Sunggingsari",
+    "type": "DESA"
+  }
+]

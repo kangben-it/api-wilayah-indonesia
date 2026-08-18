@@ -1,0 +1,74 @@
+[
+  {
+    "id": "71.04.05.2001",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Kakorotan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2002",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Marampit",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2003",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Laluhe",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2004",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Dampulis",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2005",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Karatung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2007",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Karatung Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2008",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Karatung Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2009",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Dampulis Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.05.2010",
+    "district_id": "71.04.05",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Marampit Timur",
+    "type": "DESA"
+  }
+]

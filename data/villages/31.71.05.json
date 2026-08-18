@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31.71.05.1001",
+    "district_id": "31.71.05",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Cempaka Putih Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.05.1002",
+    "district_id": "31.71.05",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Cempaka Putih Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.05.1003",
+    "district_id": "31.71.05",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Rawasari",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.19.04.1009",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Pota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.04.1011",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Nanga Baras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.04.1018",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Ulung Baras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.04.1020",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Golo Wangkung Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.04.2001",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Nanga Mbaur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.04.2002",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Nanga Mbaling",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.04.2007",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Lada Mese",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.04.2012",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Nampar Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.04.2013",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Kembang Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.04.2014",
+    "district_id": "53.19.04",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Wela Lada",
+    "type": "DESA"
+  }
+]

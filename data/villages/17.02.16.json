@@ -1,0 +1,114 @@
+[
+  {
+    "id": "17.02.16.1001",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Dusun Curup",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.16.1002",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Tunas Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.16.2003",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Batu Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2004",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Perbo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2005",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Batu Panco",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2006",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Dusun Sawah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2007",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Lubuk Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2008",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Suka Datang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2009",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Tabarenah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2010",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Pahlawan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2011",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Tasik Malaya",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2012",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2013",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kota Pagu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.16.2014",
+    "district_id": "17.02.16",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Seguring",
+    "type": "DESA"
+  }
+]

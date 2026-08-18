@@ -1,0 +1,74 @@
+[
+  {
+    "id": "35.05.11.1002",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sumberdiren",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.11.1003",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Tawangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.11.1004",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Garum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.11.1006",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Bence",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.11.2001",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Pojok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.11.2005",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Tingal",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.11.2007",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Slorok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.11.2008",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.11.2009",
+    "district_id": "35.05.11",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Karangrejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.13.13.1002",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Gilireng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.13.2001",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Mamminasae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2003",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Poleonro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2004",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Arajang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2005",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lamata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2006",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Paselloreng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2007",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Alausalo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2008",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Polewalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.13.2009",
+    "district_id": "73.13.13",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Abbatireng",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52.04.17.2001",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Mapin Rea",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2002",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Mapin Kebak",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2003",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Labuhan Mapin",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2004",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lekong",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2005",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Gontar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2006",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Usar Mapin",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2007",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Gontar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.17.2008",
+    "district_id": "52.04.17",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Mapin Beru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.04.17.2001",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Lasiolat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2002",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Maneikun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2003",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Lakan Mau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2004",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Dualasi Raiulun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2005",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Dualasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2006",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Fatulotu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.17.2007",
+    "district_id": "53.04.17",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Baudaok",
+    "type": "DESA"
+  }
+]

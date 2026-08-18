@@ -1,0 +1,42 @@
+[
+  {
+    "id": "62.08.02.1001",
+    "district_id": "62.08.02",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Kuala Jelai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.08.02.2002",
+    "district_id": "62.08.02",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Pulau Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.02.2003",
+    "district_id": "62.08.02",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Sungai Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.02.2004",
+    "district_id": "62.08.02",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Sungai Bundung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.02.2005",
+    "district_id": "62.08.02",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Sungai Raja",
+    "type": "DESA"
+  }
+]

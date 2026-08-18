@@ -1,0 +1,50 @@
+[
+  {
+    "id": "31.71.01.1001",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Gambir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1002",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Cideng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1003",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Petojo Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1004",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Petojo Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1005",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Kebon Kelapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.01.1006",
+    "district_id": "31.71.01",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Duri Pulo",
+    "type": "KELURAHAN"
+  }
+]

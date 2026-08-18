@@ -1,0 +1,98 @@
+[
+  {
+    "id": "51.01.01.1006",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Baler Bale Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1008",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Banjar Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1013",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Lelateng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.1014",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Loloan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.01.01.2001",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Cupel",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2002",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Baluk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2003",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Banyubiru",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2004",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Kaliakah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2005",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Berangbang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2009",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Tegal Badeng Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2010",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Tegal Badeng Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.01.01.2011",
+    "district_id": "51.01.01",
+    "regency_id": "51.01",
+    "province_id": "51",
+    "name": "Pengambengan",
+    "type": "DESA"
+  }
+]

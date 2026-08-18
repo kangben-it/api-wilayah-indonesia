@@ -1,0 +1,98 @@
+[
+  {
+    "id": "35.11.08.1011",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Tenggarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.08.2001",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kesemek",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2002",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Lojajar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2003",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Pekalangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2004",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kajar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2005",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sumber Salam",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2006",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Koncer Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2007",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Bataan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2008",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Gebang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2009",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Dawuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2010",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Tangsil Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.08.2012",
+    "district_id": "35.11.08",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Koncer Darul Aman",
+    "type": "DESA"
+  }
+]

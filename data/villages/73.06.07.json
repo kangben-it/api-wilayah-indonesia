@@ -1,0 +1,130 @@
+[
+  {
+    "id": "73.06.07.1001",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tetebatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.07.1002",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Pangkabinanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.07.1003",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Parangbanoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.07.1015",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Mangalli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.07.2004",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontoala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2005",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Pallangga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2006",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Julubori",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2007",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Kampili",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2008",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Panakkukang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2009",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontoramba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2010",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Jene'tallasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2011",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Julukanaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2012",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Julupa'mai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2013",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bungaejaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2014",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Toddotoa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.07.2016",
+    "district_id": "73.06.07",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Taeng",
+    "type": "DESA"
+  }
+]

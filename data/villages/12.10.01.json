@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.10.01.1001",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Padang Matinggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1002",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Siringo-Ringo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1003",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sirandorung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1004",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Rantauprapat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1005",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Kartini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1006",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Cendana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1007",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Binaraga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1008",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Pulo Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1009",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Padang Bulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.01.1010",
+    "district_id": "12.10.01",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Aek Paing",
+    "type": "KELURAHAN"
+  }
+]

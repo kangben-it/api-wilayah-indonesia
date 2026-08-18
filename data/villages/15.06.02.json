@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.06.02.1004",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tungkal Empat Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1005",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tungkal III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1006",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tungkal Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1007",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tungkal II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1015",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Kampung Nelayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1016",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Patunas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1017",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sriwijaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.1018",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungainibung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.02.2003",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tungkal I",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.02.2014",
+    "district_id": "15.06.02",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Teluk Sialang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "35.15.08.1004",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sidokare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1005",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Celep",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1006",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sekardangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1007",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Gebang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1009",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Bulusidokare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1010",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pucanganom",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1011",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pekauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1012",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Lemahputro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1013",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sidokumpul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1014",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sidoklumpuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1017",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pucang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1018",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Magersari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1020",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Cemengkalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.1022",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Urangagung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.08.2001",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Lebo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2002",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Suko",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2003",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Banjarbendo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2008",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Rangkahkidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2015",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Blurukidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2016",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kemiri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2019",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2021",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Cemengbakalan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2023",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sarirogo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.08.2024",
+    "district_id": "35.15.08",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Sumput",
+    "type": "DESA"
+  }
+]

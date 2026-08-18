@@ -1,0 +1,90 @@
+[
+  {
+    "id": "64.11.01.2001",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Hurai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2002",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Melaham",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2003",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Memahak Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2004",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Memahak Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2005",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Batu Majang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2006",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Ujoh Bilang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2007",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Bagun Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2008",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Bagun Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2009",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Batoq Kelo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2010",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Long Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.11.01.2011",
+    "district_id": "64.11.01",
+    "regency_id": "64.11",
+    "province_id": "64",
+    "name": "Rukun Damai",
+    "type": "DESA"
+  }
+]

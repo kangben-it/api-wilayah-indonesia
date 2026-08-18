@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.72.07.1001",
+    "district_id": "12.72.07",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Gurilla",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.07.1002",
+    "district_id": "12.72.07",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Bah Kapul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.07.1003",
+    "district_id": "12.72.07",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Setia Negara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.07.1004",
+    "district_id": "12.72.07",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Bukit Sofa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.07.1005",
+    "district_id": "12.72.07",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Bah Sorma",
+    "type": "KELURAHAN"
+  }
+]

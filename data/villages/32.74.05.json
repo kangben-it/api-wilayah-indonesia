@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.74.05.1001",
+    "district_id": "32.74.05",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Pekiringan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.05.1002",
+    "district_id": "32.74.05",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Sunyaragi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.05.1003",
+    "district_id": "32.74.05",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Kesambi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.05.1004",
+    "district_id": "32.74.05",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Drajat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.74.05.1005",
+    "district_id": "32.74.05",
+    "regency_id": "32.74",
+    "province_id": "32",
+    "name": "Karyamulya",
+    "type": "KELURAHAN"
+  }
+]

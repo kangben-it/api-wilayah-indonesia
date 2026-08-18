@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.24.04.2001",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Tetehosi Maziaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.04.2002",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Umbubalodano",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.04.2003",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilimbosi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.04.2004",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilisalo'o",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.04.2005",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Fulolo Salo'o",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.04.2006",
+    "district_id": "12.24.04",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Botombawo",
+    "type": "DESA"
+  }
+]

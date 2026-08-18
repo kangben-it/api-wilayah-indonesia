@@ -1,0 +1,138 @@
+[
+  {
+    "id": "16.13.02.1005",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Pasar Surulangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.13.02.2001",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2002",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Kerta Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2003",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Teladas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2004",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Pulau Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2006",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sungai Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2007",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sungai Jauh",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2008",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sungai Kijang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2009",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Surulangun",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2010",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Lesung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2011",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Lubuk Kemang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2012",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Remban",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2013",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Lesung Batu Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2014",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Simpang Nibung Rawas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2015",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Lubuk Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2016",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sungai Lanang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.02.2017",
+    "district_id": "16.13.02",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Sukomoro",
+    "type": "DESA"
+  }
+]

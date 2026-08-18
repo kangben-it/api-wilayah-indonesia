@@ -1,0 +1,74 @@
+[
+  {
+    "id": "93.01.03.2001",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Okaba",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2002",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Wambi",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2003",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Makaling",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2004",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Alatep",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2005",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Iwol",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2006",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Duf Miraf",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2007",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Alaku",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2008",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Sanggase",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.03.2009",
+    "district_id": "93.01.03",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Es Wambi",
+    "type": "DESA"
+  }
+]

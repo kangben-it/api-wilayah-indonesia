@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.23.06.1001",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Aek Kota Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.23.06.2002",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Pematang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2003",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Batu Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2004",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sungai Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2005",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Berangir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2006",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Silumajang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2007",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Pulo Jantan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2008",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Kampung Pajak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2009",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Meranti Omas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2010",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Hatapang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2011",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Pasang Lela",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2012",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Simpang Marbau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.06.2013",
+    "district_id": "12.23.06",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Bangun Rejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "63.03.05.1001",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Keraton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1002",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1003",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Pasayangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1004",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Murung Keraton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1005",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Sungai Paring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1055",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tanjung Rema Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.1059",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Sekumpul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.03.05.2009",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Sungai Sipai",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2010",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Pasayangan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2011",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tanjung Rema",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2012",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Bincau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2013",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Murung Kenanga",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2015",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tunggul Irang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2016",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tambak Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2034",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Cindai Alus",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2036",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tungkaran",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2037",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tambak Baru Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2040",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Bincau Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2042",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tunggul Irang Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2043",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tunggul Irang Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2051",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Labuan Tabu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2052",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Indrasari",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2054",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Jawa Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2056",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Pasayangan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2057",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Pasayangan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "63.03.05.2058",
+    "district_id": "63.03.05",
+    "regency_id": "63.03",
+    "province_id": "63",
+    "name": "Tambak Baru Ilir",
+    "type": "DESA"
+  }
+]

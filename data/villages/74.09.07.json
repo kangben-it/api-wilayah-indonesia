@@ -1,0 +1,114 @@
+[
+  {
+    "id": "74.09.07.1002",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Sawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.09.07.2003",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Lalembo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2004",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Laimeo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2005",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Pudonggala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2007",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Matanggonawe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2008",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Kokapi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2012",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tongauna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2013",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Puupi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2016",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Pudonggala Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2017",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Ulu Sawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2021",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tudungano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2022",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tanjung Laimeo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2023",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Panggulawu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.07.2024",
+    "district_id": "74.09.07",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Pekaroa",
+    "type": "DESA"
+  }
+]

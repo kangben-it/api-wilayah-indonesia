@@ -1,0 +1,138 @@
+[
+  {
+    "id": "35.23.16.1003",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Mondokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1005",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Perbon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1006",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Latsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1007",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Karangsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1008",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Kingking",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1009",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Ronggomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1010",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sidorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1011",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Doromukti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1012",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sidomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1013",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Kutorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1014",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Kebonsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1015",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sendangharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1016",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Baturetno",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.1017",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sukolilo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.23.16.2001",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sumurgung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.23.16.2002",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Sugiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.23.16.2004",
+    "district_id": "35.23.16",
+    "regency_id": "35.23",
+    "province_id": "35",
+    "name": "Kembangbilo",
+    "type": "DESA"
+  }
+]

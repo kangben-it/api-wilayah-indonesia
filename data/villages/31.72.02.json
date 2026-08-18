@@ -1,0 +1,58 @@
+[
+  {
+    "id": "31.72.02.1001",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Tanjung Priok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1002",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Sunter Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1003",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Papanggo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1004",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Sungai Bambu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1005",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Kebon Bawang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1006",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Sunter Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.02.1007",
+    "district_id": "31.72.02",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Warakas",
+    "type": "KELURAHAN"
+  }
+]

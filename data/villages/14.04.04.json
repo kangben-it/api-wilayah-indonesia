@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.04.04.1001",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tembilahan Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1002",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tembilahan Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1003",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Seberang Tembilahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1004",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiperak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1005",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaiberingin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1006",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pekan Arba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1007",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Seberang Tembilahan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.04.1008",
+    "district_id": "14.04.04",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Seberang Tembilahan Selatan",
+    "type": "KELURAHAN"
+  }
+]

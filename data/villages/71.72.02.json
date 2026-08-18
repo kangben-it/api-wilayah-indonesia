@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.72.02.1001",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Wangurer Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1002",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Paceda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1003",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Madidir Ure",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1004",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Kadoodan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1006",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Madidir Weru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1007",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Madidir Unet",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1009",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Wangurer timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.02.1011",
+    "district_id": "71.72.02",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Wangurer Utara",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.19.05.2001",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Kare",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2002",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Kepel",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2003",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Bodag",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2004",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Bolo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2005",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Kuwiran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2006",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Randualas",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2007",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Cermo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.05.2008",
+    "district_id": "35.19.05",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Morang",
+    "type": "DESA"
+  }
+]

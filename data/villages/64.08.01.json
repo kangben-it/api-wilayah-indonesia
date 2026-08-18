@@ -1,0 +1,74 @@
+[
+  {
+    "id": "64.08.01.2001",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Senyiur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2002",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Kelinjau Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2003",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Kelinjau Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2004",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Nah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2006",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Tesak",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2009",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Gemar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2012",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Long Poq Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2013",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Muara Dun",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.01.2014",
+    "district_id": "64.08.01",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Teluk Baru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.04.14.2001",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bamusbama",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.14.2002",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bamuswaiman",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.14.2003",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Syarwom",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.14.2004",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Babak",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.14.2005",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Bano",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.14.2006",
+    "district_id": "96.04.14",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wormon",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "73.71.15.1001",
+    "district_id": "73.71.15",
+    "regency_id": "73.71",
+    "province_id": "73",
+    "name": "Barrang Caddi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.71.15.1002",
+    "district_id": "73.71.15",
+    "regency_id": "73.71",
+    "province_id": "73",
+    "name": "Barrang Lompo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.71.15.1003",
+    "district_id": "73.71.15",
+    "regency_id": "73.71",
+    "province_id": "73",
+    "name": "Kodingareng",
+    "type": "KELURAHAN"
+  }
+]

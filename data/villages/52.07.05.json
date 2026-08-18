@@ -1,0 +1,74 @@
+[
+  {
+    "id": "52.07.05.2001",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Desa Beru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2002",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tepas",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2003",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Bangkat Monteh",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2004",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Sapugara Bree",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2005",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tepas Sepakat",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2006",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Lamuntet",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2007",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Rarak Ronges",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2008",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Moteng",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.05.2009",
+    "district_id": "52.07.05",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Seminar Salit",
+    "type": "DESA"
+  }
+]

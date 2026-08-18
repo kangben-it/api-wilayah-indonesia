@@ -1,0 +1,50 @@
+[
+  {
+    "id": "72.08.20.2001",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Pelawa Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.20.2002",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Pelawa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.20.2003",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Binangga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.20.2004",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Jononunu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.20.2005",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Matolele",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.20.2006",
+    "district_id": "72.08.20",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Petapa",
+    "type": "DESA"
+  }
+]

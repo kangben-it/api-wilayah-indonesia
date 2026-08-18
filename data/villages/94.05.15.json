@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.05.15.2001",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kilunggame",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2002",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Bakcini",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2003",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Timobut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2004",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Tagalame I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2005",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Wonelupaga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2006",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Komapaga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.15.2007",
+    "district_id": "94.05.15",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Timobut Egewak",
+    "type": "DESA"
+  }
+]

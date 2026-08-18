@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.10.22.2001",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Manjung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2002",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Gatak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2003",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Duwet",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2004",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Senden",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2005",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Ngawen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2006",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Kahuman",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2007",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Pepe",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2008",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Manjungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2009",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Kwaren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2010",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Mayungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2011",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Tempursari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2012",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Candirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.22.2013",
+    "district_id": "33.10.22",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Drono",
+    "type": "DESA"
+  }
+]

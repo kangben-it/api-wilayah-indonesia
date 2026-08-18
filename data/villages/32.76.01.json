@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.76.01.1006",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Depok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.01.1007",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Depok Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.01.1008",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Pancoran Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.01.1009",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Mampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.01.1010",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Rangkapan Jaya Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.01.1011",
+    "district_id": "32.76.01",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Rangkapan Jaya",
+    "type": "KELURAHAN"
+  }
+]

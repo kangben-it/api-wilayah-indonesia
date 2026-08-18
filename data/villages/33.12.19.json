@@ -1,0 +1,138 @@
+[
+  {
+    "id": "33.12.19.1008",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bulusari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.19.1014",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Karang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.19.2001",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Padarangin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2002",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Watusomo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2003",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2004",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2005",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Made",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2006",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tunggur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2007",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Waru",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2009",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Slogohimo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2010",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Soco",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2011",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Klunggen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2012",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sedayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2013",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gunan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2015",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Randusari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2016",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sokoboyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.19.2017",
+    "district_id": "33.12.19",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Setren",
+    "type": "DESA"
+  }
+]

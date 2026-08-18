@@ -1,0 +1,58 @@
+[
+  {
+    "id": "76.02.13.2001",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Dungkait",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2002",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Lebani",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2003",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Labuang Rano",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2004",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Pasabu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2005",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Tanete Pao",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2006",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Pangasaan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.13.2007",
+    "district_id": "76.02.13",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Ahu",
+    "type": "DESA"
+  }
+]

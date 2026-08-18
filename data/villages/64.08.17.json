@@ -1,0 +1,58 @@
+[
+  {
+    "id": "64.08.17.2001",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Batu Timbau",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2002",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Beno Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2003",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Mugi Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2004",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Mawai Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2005",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Himba Lestari",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2006",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Telaga",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.17.2007",
+    "district_id": "64.08.17",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Batu Timbau Ulu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.20.05.2001",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Lobohede",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2002",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Molie",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2003",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Daieko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2004",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Pedarro",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2005",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Tanajawa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2006",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Ledeae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2007",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Wadumaddi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2008",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Lederaga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2009",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Gurimonearu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.05.2010",
+    "district_id": "53.20.05",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Ramedue",
+    "type": "DESA"
+  }
+]

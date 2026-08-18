@@ -1,0 +1,66 @@
+[
+  {
+    "id": "62.08.01.1003",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Mendawai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.08.01.1004",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.08.01.2001",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Natai Sedawak",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.01.2002",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Pudu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.01.2005",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Kartamulia",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.01.2006",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Sukaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.01.2007",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Pangkalan Muntai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.01.2008",
+    "district_id": "62.08.01",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Petarikan",
+    "type": "DESA"
+  }
+]

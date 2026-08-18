@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.08.28.1009",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sinaksak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.28.2001",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Batu Silangit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2002",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Maraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2003",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2004",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Nagur Usang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2005",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Kahean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2006",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Naga Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2007",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Purbasari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2008",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Pematang Dolok Kahean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2010",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Negeri Bayu Muslimin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.28.2011",
+    "district_id": "12.08.28",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Dolok Simbolon",
+    "type": "DESA"
+  }
+]

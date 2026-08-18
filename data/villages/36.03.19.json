@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.03.19.1002",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Mekar Bakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.19.2001",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Ranca Iyuh",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2003",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Peusar",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2004",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Ranca Kalapa",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2005",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Serdang Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2006",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2007",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Ciakar",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.19.2008",
+    "district_id": "36.03.19",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Panongan",
+    "type": "DESA"
+  }
+]

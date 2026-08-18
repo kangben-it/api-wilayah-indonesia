@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31.01.02.1001",
+    "district_id": "31.01.02",
+    "regency_id": "31.01",
+    "province_id": "31",
+    "name": "Pulau Untung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.01.02.1002",
+    "district_id": "31.01.02",
+    "regency_id": "31.01",
+    "province_id": "31",
+    "name": "Pulau Tidung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.01.02.1003",
+    "district_id": "31.01.02",
+    "regency_id": "31.01",
+    "province_id": "31",
+    "name": "Pulau Pari",
+    "type": "KELURAHAN"
+  }
+]

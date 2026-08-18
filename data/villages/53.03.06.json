@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.03.06.1015",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Boronubaen Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.03.06.2001",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Boronubaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2002",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Hautaes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2003",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tualena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2004",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Biloe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2005",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Taunbaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2006",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Sapaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2012",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Lokomea",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2013",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Taunbaen Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.06.2014",
+    "district_id": "53.03.06",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Hauteas Barat",
+    "type": "DESA"
+  }
+]

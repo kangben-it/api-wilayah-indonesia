@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11.71.09.2001",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Lambhuk",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2002",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Lamteh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2003",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Ilie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2004",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Pango Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2005",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Pango Deah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2006",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Ceurih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2007",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Doy",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2008",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Lamglumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.09.2009",
+    "district_id": "11.71.09",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Ie Masen Ulee Kareng",
+    "type": "DESA"
+  }
+]

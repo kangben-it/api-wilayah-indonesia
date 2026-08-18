@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14.07.11.1001",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Simpang Kanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.11.2002",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Kota Parit",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.11.2003",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bagan Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.11.2004",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bukit Damar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.11.2005",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bukit Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.11.2006",
+    "district_id": "14.07.11",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Bukit Selamat",
+    "type": "DESA"
+  }
+]

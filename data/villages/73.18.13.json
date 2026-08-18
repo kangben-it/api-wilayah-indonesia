@@ -1,0 +1,42 @@
+[
+  {
+    "id": "73.18.13.1009",
+    "district_id": "73.18.13",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tongko Sarapung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.13.1010",
+    "district_id": "73.18.13",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Buntu Masakke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.13.2004",
+    "district_id": "73.18.13",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bulian Massa'bu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.13.2006",
+    "district_id": "73.18.13",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Kaero",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.13.2008",
+    "district_id": "73.18.13",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Turunan",
+    "type": "DESA"
+  }
+]

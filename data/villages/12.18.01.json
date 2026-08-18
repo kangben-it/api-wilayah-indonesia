@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.18.01.2001",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pantai Cermin Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2002",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pantai Cermin Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2003",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kota Pari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2004",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Celawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2005",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Ujung Rambung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2006",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Kuala Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2007",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Besar II Terjun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2008",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sementara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2009",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Ara Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2010",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pematang Kasih",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2011",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Lubuk Saban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.01.2012",
+    "district_id": "12.18.01",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Naga Kisar",
+    "type": "DESA"
+  }
+]

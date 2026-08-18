@@ -1,0 +1,122 @@
+[
+  {
+    "id": "63.10.06.1001",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.10.06.1002",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Tungkaran Pangeran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.10.06.2003",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Sari Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2004",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2005",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Sungaidua",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2006",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Batu Ampar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2007",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Gunungbesar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2008",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Pulau Burung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2009",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Baroqah",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2010",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Bersujud",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2011",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Sejahtera",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2012",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Gunungantasari",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2013",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Hidayah Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2014",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Plajau Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "63.10.06.2015",
+    "district_id": "63.10.06",
+    "regency_id": "63.10",
+    "province_id": "63",
+    "name": "Kupang Berkah Jaya",
+    "type": "DESA"
+  }
+]

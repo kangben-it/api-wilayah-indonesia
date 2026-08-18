@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.15.03.1001",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Manarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.03.1002",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Padaidi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.03.2003",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Pananrang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2004",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Padakkalawa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2005",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2006",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Alitta",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2007",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Padaelo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2008",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.15.03.2009",
+    "district_id": "73.15.03",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Makkawaru",
+    "type": "DESA"
+  }
+]

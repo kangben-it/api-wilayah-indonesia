@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.72.06.1001",
+    "district_id": "32.72.06",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cipanengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.06.1002",
+    "district_id": "32.72.06",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Situmekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.06.1003",
+    "district_id": "32.72.06",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Lembursitu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.06.1004",
+    "district_id": "32.72.06",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cikundul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.06.1005",
+    "district_id": "32.72.06",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Sindangsari",
+    "type": "KELURAHAN"
+  }
+]

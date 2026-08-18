@@ -1,0 +1,42 @@
+[
+  {
+    "id": "16.71.17.1001",
+    "district_id": "16.71.17",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Delapan Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1002",
+    "district_id": "16.71.17",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Sembilan Sepuluh Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1003",
+    "district_id": "16.71.17",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Lima-belas Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1004",
+    "district_id": "16.71.17",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Silaberanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.17.1005",
+    "district_id": "16.71.17",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Tuankentang",
+    "type": "KELURAHAN"
+  }
+]

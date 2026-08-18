@@ -1,0 +1,50 @@
+[
+  {
+    "id": "33.71.01.1003",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Rejowinangun Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.71.01.1007",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Magersari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.71.01.1008",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Jurangombo Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.71.01.1009",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Jurangombo Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.71.01.1010",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Tidar Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.71.01.1011",
+    "district_id": "33.71.01",
+    "regency_id": "33.71",
+    "province_id": "33",
+    "name": "Tidar Selatan",
+    "type": "KELURAHAN"
+  }
+]

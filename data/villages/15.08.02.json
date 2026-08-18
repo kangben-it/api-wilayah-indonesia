@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.08.02.2001",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Rantau Duku",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.02.2002",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Talang Sungai Bungo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.02.2003",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Rantau Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.02.2004",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Leban",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.02.2005",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Lubuk Kayu Aro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.02.2015",
+    "district_id": "15.08.02",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Lubuk Mayan",
+    "type": "DESA"
+  }
+]

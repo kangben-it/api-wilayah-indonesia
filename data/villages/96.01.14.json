@@ -1,0 +1,90 @@
+[
+  {
+    "id": "96.01.14.1001",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klamalu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1002",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mariyai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1003",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasuluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1004",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klamasen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1008",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Maklalut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1009",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.1010",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Jamaimo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.14.2005",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klaben",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.14.2006",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.14.2007",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Fafi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.14.2011",
+    "district_id": "96.01.14",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kasih",
+    "type": "DESA"
+  }
+]

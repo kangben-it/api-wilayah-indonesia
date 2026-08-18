@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.09.34.2001",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Seuseupan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2002",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Blender",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2003",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sumurkondang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2004",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kubangdeleg",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2005",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Jatipiring",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2006",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Karanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2007",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Karangwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2008",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Karangwareng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.34.2009",
+    "district_id": "32.09.34",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Karangasem",
+    "type": "DESA"
+  }
+]

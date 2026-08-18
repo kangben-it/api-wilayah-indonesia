@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.07.01.2001",
+    "district_id": "61.07.01",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Duri",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.01.2004",
+    "district_id": "61.07.01",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Jaga A",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.01.2005",
+    "district_id": "61.07.01",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Jaga B",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.01.2006",
+    "district_id": "61.07.01",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Pangkalan I",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.01.2007",
+    "district_id": "61.07.01",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sungai Pangkalan II",
+    "type": "DESA"
+  }
+]

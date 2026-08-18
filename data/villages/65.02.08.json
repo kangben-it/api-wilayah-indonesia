@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65.02.08.2001",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Bila",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2002",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Kenipe",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2003",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Punan Bengalun",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2004",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Sesua",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2005",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Sentaban",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2006",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Tanjung Lapang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2007",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Taras",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2008",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Kuala Lapang",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.08.2009",
+    "district_id": "65.02.08",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Sempayang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "21.03.19.2001",
+    "district_id": "21.03.19",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Arung Ayam",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.19.2002",
+    "district_id": "21.03.19",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Air Nusa",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.19.2004",
+    "district_id": "21.03.19",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Air Ringau",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.19.2005",
+    "district_id": "21.03.19",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Payak",
+    "type": "DESA"
+  }
+]

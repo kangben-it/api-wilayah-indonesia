@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.11.11.2001",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Sumbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2002",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Kentara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2003",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Parira",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2004",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Buluduri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2005",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Sempung Polling",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2006",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lumban Sihite",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2007",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lumban Toruan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2008",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Pandiangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.11.2009",
+    "district_id": "12.11.11",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Kaban Julu",
+    "type": "DESA"
+  }
+]

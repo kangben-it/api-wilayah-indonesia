@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.01.24.1003",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Ranomentaa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.24.2001",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Toari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2002",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lakito",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2004",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Anawua",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2005",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Wowoli",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2006",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Rano Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2007",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Rahabite",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2008",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Wonua Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2009",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Rano Sangia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.01.24.2010",
+    "district_id": "74.01.24",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Horongkuli",
+    "type": "DESA"
+  }
+]

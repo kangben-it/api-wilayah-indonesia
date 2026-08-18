@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.03.24.2001",
+    "district_id": "53.03.24",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Naku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2002",
+    "district_id": "53.03.24",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Birunatun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2003",
+    "district_id": "53.03.24",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Makun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2004",
+    "district_id": "53.03.24",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Manumean",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.24.2005",
+    "district_id": "53.03.24",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Kuluan",
+    "type": "DESA"
+  }
+]

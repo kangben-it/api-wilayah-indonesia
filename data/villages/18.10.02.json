@@ -1,0 +1,186 @@
+[
+  {
+    "id": "18.10.02.2001",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Parerejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2002",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Blitarejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2003",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Panjerejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2004",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Bulokarto",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2005",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wates",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2006",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Tambahrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2007",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wonodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2008",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Gadingrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2009",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Tegalsari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2010",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Tulung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2011",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Bulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2012",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Yogyakarta",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2013",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Kediri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2014",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Mataram",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2015",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2016",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Klaten",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2017",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wates Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2018",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wates Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2019",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Gading Rejo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2020",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Gading Rejo Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2021",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Tambah Rejo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2022",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Wonodadi Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "18.10.02.2023",
+    "district_id": "18.10.02",
+    "regency_id": "18.10",
+    "province_id": "18",
+    "name": "Yogyakarta Selatan",
+    "type": "DESA"
+  }
+]

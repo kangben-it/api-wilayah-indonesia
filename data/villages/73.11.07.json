@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.11.07.1001",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Takkalasi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.07.2002",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Balusu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.07.2003",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Lampoko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.07.2004",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Kamiri",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.07.2005",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Madello",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.07.2006",
+    "district_id": "73.11.07",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Binuang",
+    "type": "DESA"
+  }
+]

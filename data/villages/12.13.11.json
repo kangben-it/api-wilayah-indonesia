@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.13.11.1003",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Godang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.11.2001",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Alahan Kae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2002",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Habincaran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2004",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Padang UP",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2005",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hutaimbaru UP",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2006",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Saladi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2007",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Patahajang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2008",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Banyak Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2009",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Banyak Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2010",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Duhu Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2011",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Duhu Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2012",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simpang Pining",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.11.2013",
+    "district_id": "12.13.11",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tolang",
+    "type": "DESA"
+  }
+]

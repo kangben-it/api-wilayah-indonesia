@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.05.12.2001",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Panyangkalang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.12.2002",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Bontoparang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.12.2003",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Pattopakang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.12.2004",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Cikoang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.12.2005",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Punaga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.12.2006",
+    "district_id": "73.05.12",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Laikang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.24.08.2001",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Te'olo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2002",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Siwawo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2003",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Fabaliwa Oyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2004",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Ononazara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2005",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Humene Siheneasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2006",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Gunung Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2007",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Botona'ai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.08.2008",
+    "district_id": "12.24.08",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Harefa",
+    "type": "DESA"
+  }
+]

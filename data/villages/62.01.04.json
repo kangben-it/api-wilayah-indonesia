@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62.01.04.1002",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Pangkut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.01.04.2001",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Nanga Mua",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2003",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Sukarami",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2004",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Gandis",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2005",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Kerabu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2006",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Sambi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2007",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Penyombaan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2008",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Pandau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2009",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Riam",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2010",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Panahan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.01.04.2011",
+    "district_id": "62.01.04",
+    "regency_id": "62.01",
+    "province_id": "62",
+    "name": "Sungai Dau",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "62.09.03.1005",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Nanga Bulik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.09.03.2001",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Sungai Mentawa",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2002",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Guci",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2003",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Batu Kotam",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2004",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Kujan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2006",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Bunut",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2007",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Beruta",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2008",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Tamiang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2031",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2032",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Sumber Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2036",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Bukit Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2037",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Arga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2043",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Perigi Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.09.03.2044",
+    "district_id": "62.09.03",
+    "regency_id": "62.09",
+    "province_id": "62",
+    "name": "Nanga Pamalontian",
+    "type": "DESA"
+  }
+]

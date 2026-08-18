@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.79.01.1001",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Banjar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.79.01.1002",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Mekarsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.79.01.1006",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Situbatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.79.01.2003",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Balokang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.01.2004",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Cibeureum",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.01.2005",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Neglasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.01.2007",
+    "district_id": "32.79.01",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Jajawar",
+    "type": "DESA"
+  }
+]

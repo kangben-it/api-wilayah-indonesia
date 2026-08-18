@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.02.07.2004",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tember",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2005",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kamanga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2006",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sendangan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2007",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Talikuran",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2009",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tempok",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2010",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Liba",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2011",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tolok",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2012",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kamanga Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2016",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tempok Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.07.2017",
+    "district_id": "71.02.07",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tolok Satu",
+    "type": "DESA"
+  }
+]

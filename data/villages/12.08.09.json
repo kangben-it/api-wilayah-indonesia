@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12.08.09.1013",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sarimatondang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.09.2001",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Butong I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2002",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sidamanik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2003",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Ambarisan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2004",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Tiga Bolon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2005",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Butong II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2006",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bahal Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2007",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Manik Hataran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2008",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Mekar Sidamanik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2009",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Manik Maraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2010",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Biak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2011",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Birong Ulu Manriah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2012",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Kebun Sayur Bah Butong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2014",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Manik Rambung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.09.2015",
+    "district_id": "12.08.09",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bukit Rejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "95.03.26.2001",
+    "district_id": "95.03.26",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Subundalek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.26.2002",
+    "district_id": "95.03.26",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Tanggeam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.26.2003",
+    "district_id": "95.03.26",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Amfulma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.26.2004",
+    "district_id": "95.03.26",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Suksale",
+    "type": "DESA"
+  },
+  {
+    "id": "95.03.26.2005",
+    "district_id": "95.03.26",
+    "regency_id": "95.03",
+    "province_id": "95",
+    "name": "Linggisen",
+    "type": "DESA"
+  }
+]

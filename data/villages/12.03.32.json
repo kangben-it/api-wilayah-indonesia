@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12.03.32.1001",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bintuju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.32.1002",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huta Tonga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.32.2003",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Basilam Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2004",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sipangko",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2005",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huta Holbung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2006",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Tais I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2007",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Tais II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2008",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Tais III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2009",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Janji Mauli MT",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2010",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pargumbangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2011",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pangaribuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2012",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pasir Matogu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2013",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sori Manaon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2014",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Purba Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.32.2015",
+    "district_id": "12.03.32",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tatengger",
+    "type": "DESA"
+  }
+]

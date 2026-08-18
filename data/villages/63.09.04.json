@@ -1,0 +1,122 @@
+[
+  {
+    "id": "63.09.04.1001",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Jangkung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.04.1002",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.04.1003",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.04.1004",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Hikun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.09.04.2005",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Banyu Tajun",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2006",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Pamarangan Kiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2007",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Puain Kiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2008",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Juai",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2009",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Mahe Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2010",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kambitin",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2011",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Wayau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2012",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Garunggung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2013",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kitang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2014",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Sungai Pimping",
+    "type": "DESA"
+  },
+  {
+    "id": "63.09.04.2015",
+    "district_id": "63.09.04",
+    "regency_id": "63.09",
+    "province_id": "63",
+    "name": "Kambitin Raya",
+    "type": "DESA"
+  }
+]

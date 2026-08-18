@@ -1,0 +1,418 @@
+[
+  {
+    "id": "11.11.03.2001",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Lawang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2002",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Matang Reuleut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2003",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Krueng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2004",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Cot Keutapang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2005",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Rabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2006",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Tambo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2007",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2008",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Pulo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2009",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Matang Pasi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2010",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Kubu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2011",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Garot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2012",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Ara Bungong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2013",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Jabet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2014",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Sawang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2015",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Beururu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2016",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Hagu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2017",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Rangkuluh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2018",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Bungo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2019",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Paya Beunot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2020",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2021",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Alue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2022",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Cut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2023",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Gampong Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2024",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2025",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Meunasah Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2026",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Kukue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2027",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Matang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2028",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Glumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2029",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Gampong Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2030",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Gampong Paya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2031",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Seuneubok Paya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2032",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Pulo Lawang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2033",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Keude Alue Rheng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2034",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Karieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2035",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Pulo Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2036",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Cot Laot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2037",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Alue Sijuek",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2038",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Blang Bati",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2039",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Buket Paya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2040",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Dayah Mon Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2041",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Calok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2042",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Cot Kruet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2043",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Tanjong Seulamat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2044",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Jaba",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2045",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Alue Gandai",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2046",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Neubok Naleung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2047",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Paya Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2048",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Gampong Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2049",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Pinto Rimba",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2050",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Alue Keutapang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2051",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Tgk. Di Bathon",
+    "type": "DESA"
+  },
+  {
+    "id": "11.11.03.2052",
+    "district_id": "11.11.03",
+    "regency_id": "11.11",
+    "province_id": "11",
+    "name": "Paya Barat",
+    "type": "DESA"
+  }
+]

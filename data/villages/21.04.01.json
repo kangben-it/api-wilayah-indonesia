@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.04.01.1001",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Dabo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.04.01.1007",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Dabo Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.04.01.1012",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Sungailumpur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.04.01.2008",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Batu Berdaun",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.01.2009",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Tanjung Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "21.04.01.2010",
+    "district_id": "21.04.01",
+    "regency_id": "21.04",
+    "province_id": "21",
+    "name": "Batu Kacang",
+    "type": "DESA"
+  }
+]

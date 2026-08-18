@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.11.05.1005",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Pulang Pisau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.11.05.1015",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Kalawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.11.05.1016",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Bereng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.11.05.2001",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Buntoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2002",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Mintin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2003",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Mantaren I",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2004",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Anjir Pulang Pisau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2006",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Gohong",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2014",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Mantaren II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.11.05.2017",
+    "district_id": "62.11.05",
+    "regency_id": "62.11",
+    "province_id": "62",
+    "name": "Hanjak Maju",
+    "type": "DESA"
+  }
+]

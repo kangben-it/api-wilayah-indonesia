@@ -1,0 +1,82 @@
+[
+  {
+    "id": "93.04.07.2001",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Binam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2002",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Wagabus",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2003",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Burbis",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2004",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Bubis",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2005",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Karbis",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2006",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Jinak",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2007",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Wowi",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2008",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Soray",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2009",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Waganu Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.07.2014",
+    "district_id": "93.04.07",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Emnam",
+    "type": "DESA"
+  }
+]

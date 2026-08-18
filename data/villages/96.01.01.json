@@ -1,0 +1,122 @@
+[
+  {
+    "id": "96.01.01.1001",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Makbon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.01.01.2002",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Asbaken",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2003",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malaumkarta",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2004",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Batu Lubang",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2005",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Batu Lubang Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2006",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kwadas",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2007",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Bainkete",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2008",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Teluk Dore",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2009",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sawatuk",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2010",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malagasih",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2011",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasimigik",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2012",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasigi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2013",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klagulus",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2014",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Suatolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.01.2015",
+    "district_id": "96.01.01",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mibi",
+    "type": "DESA"
+  }
+]

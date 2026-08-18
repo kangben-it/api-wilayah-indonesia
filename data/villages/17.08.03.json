@@ -1,0 +1,114 @@
+[
+  {
+    "id": "17.08.03.1008",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Tebat Karai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.03.2006",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Taba Santing",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2007",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Tertik",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2009",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Talang Karet",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2010",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Peraduan Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2011",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Penanjung Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2012",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Nanti Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2013",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Taba Air Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2014",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Karang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2019",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Tapak Gedung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2020",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Tebing Penyamun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2021",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Sinar Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2022",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Taba Saling",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.03.2023",
+    "district_id": "17.08.03",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Penanjung Panjang Atas",
+    "type": "DESA"
+  }
+]

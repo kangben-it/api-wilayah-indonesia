@@ -1,0 +1,74 @@
+[
+  {
+    "id": "93.04.06.2001",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Kamur",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2002",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sanep",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2003",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Saramit",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2004",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Yahoi",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2005",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Hainam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2006",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Yagamit",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2007",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Bawor",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2008",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sanapai",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.06.2009",
+    "district_id": "93.04.06",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sarmafo",
+    "type": "DESA"
+  }
+]

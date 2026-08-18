@@ -1,0 +1,154 @@
+[
+  {
+    "id": "16.10.03.1001",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Raja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.03.1027",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Raja Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.03.1028",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Raja Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.03.1035",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Raja Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.03.2002",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Suka Pindah",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2007",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Temiang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2008",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Seri Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2018",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kerinjing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2019",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Kerbau Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2020",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Kerbau Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2021",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Agas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2022",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Siring Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2023",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Balai Baru I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2024",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Balai Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2030",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Skonjing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2031",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Raja Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2032",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Belanti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2033",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.03.2034",
+    "district_id": "16.10.03",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Balai Baru II",
+    "type": "DESA"
+  }
+]

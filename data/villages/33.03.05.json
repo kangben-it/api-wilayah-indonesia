@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.03.05.1001",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Bojong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1003",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Kedungmenjangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1005",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Bancar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1006",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Purbalingga Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1007",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Penambongan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1008",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Purbalingga Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1009",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Kandanggampang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1010",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Purbalingga Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1011",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Purbalingga Lor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1012",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Kembaran Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.1013",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Wirasana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.03.05.2002",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Toyareja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.05.2004",
+    "district_id": "33.03.05",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Jatisaba",
+    "type": "DESA"
+  }
+]

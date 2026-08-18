@@ -1,0 +1,98 @@
+[
+  {
+    "id": "35.26.03.1005",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Tunjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.26.03.2001",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Burneh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2002",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Langkap",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2003",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Banangkah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2004",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Alaskembang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2006",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Arok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2007",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Kapor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2008",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Sobih",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2009",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Pangolangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2010",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Binoh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2011",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Perreng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.26.03.2012",
+    "district_id": "35.26.03",
+    "regency_id": "35.26",
+    "province_id": "35",
+    "name": "Jambuh",
+    "type": "DESA"
+  }
+]

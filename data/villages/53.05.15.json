@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.05.15.2001",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Lembur Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.15.2002",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Luba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.15.2003",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Talwai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.15.2004",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Tulleng",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.15.2005",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Waimi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.15.2006",
+    "district_id": "53.05.15",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Tasi",
+    "type": "DESA"
+  }
+]

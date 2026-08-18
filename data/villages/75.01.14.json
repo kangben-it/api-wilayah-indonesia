@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.01.14.2001",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Paris",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2002",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Helumo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2003",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Pilomonu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2004",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Satria",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2005",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Karyamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2006",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Talumopatu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2007",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Sidomukti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2008",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Payu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2009",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.14.2010",
+    "district_id": "75.01.14",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Huyula",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13.04.01.2001",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Tambangan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2002",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Jaho",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2003",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Singgalang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2004",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Paninjauan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2005",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Panyalaian",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2006",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Koto Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2007",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Aie Angek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2008",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Pandai Sikek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.01.2009",
+    "district_id": "13.04.01",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Koto Baru",
+    "type": "DESA"
+  }
+]

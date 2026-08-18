@@ -1,0 +1,106 @@
+[
+  {
+    "id": "32.01.01.1001",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pondok Rajeg",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1002",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karadenan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1003",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Harapanjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1004",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Nanggewer",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1005",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Nanggewer Mekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1006",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibinong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1007",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pakansari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1008",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1009",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Sukahati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1010",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Ciriung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1011",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cirimekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1012",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabuaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.01.1013",
+    "district_id": "32.01.01",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabuaran Mekar",
+    "type": "KELURAHAN"
+  }
+]

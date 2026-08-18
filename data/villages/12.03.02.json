@@ -1,0 +1,186 @@
+[
+  {
+    "id": "12.03.02.1001",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Wek I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.02.1002",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Wek II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.02.1011",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Perkebunan Batang Toru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.02.1030",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Padang Lancat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.02.1032",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Pining",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.02.2003",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Garoga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2004",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huta Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2005",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batu Horing",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2008",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batu Hula",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2009",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sumuran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2015",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Napa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2016",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Wek IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2017",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hapesong Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2018",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Telo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2019",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Wek III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2020",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Perkebunan Sigala-Gala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2021",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Perkebunan Hapesong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2022",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hapesong Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2023",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sipenggeng",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2025",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sianggunan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2026",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huta Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2036",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Ngadol Sitinjak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.02.2037",
+    "district_id": "12.03.02",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sisipa",
+    "type": "DESA"
+  }
+]

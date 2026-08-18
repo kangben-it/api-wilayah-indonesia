@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12.77.03.1001",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Batunadua Jae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.03.1002",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Batunadua Julu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.03.2003",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2004",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Gunung Hasahatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2005",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Ujunggurap",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2006",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Aek Tuhul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2007",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Baruas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2008",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Siloting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2009",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Aek Bayur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2010",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Pudun Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2011",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Pudun Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2012",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Batang Bahal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2013",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Aek Najaji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2014",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Simirik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.03.2015",
+    "district_id": "12.77.03",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Bargottopong",
+    "type": "DESA"
+  }
+]

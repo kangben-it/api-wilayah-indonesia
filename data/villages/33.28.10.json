@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.28.10.1006",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Pakembaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.28.10.1007",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Kagok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.28.10.1008",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Procot",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.28.10.1009",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Kudaile",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.28.10.1010",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Slawi Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.28.10.2001",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Kalisapu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.28.10.2002",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Dukuhwringin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.28.10.2003",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Dukuhsalam",
+    "type": "DESA"
+  },
+  {
+    "id": "33.28.10.2004",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Slawi Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.28.10.2005",
+    "district_id": "33.28.10",
+    "regency_id": "33.28",
+    "province_id": "33",
+    "name": "Trayeman",
+    "type": "DESA"
+  }
+]

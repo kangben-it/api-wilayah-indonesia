@@ -1,0 +1,322 @@
+[
+  {
+    "id": "12.03.04.1001",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pasar Sipirok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.1003",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hutasuhut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.1004",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Baringin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.1005",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bunga Bondar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.1061",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Parau Sorat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.1114",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sipirok Godang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.04.2010",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bagas Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2017",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batu Satail",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2025",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hasang Marsada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2034",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Janji Mauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2048",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Paran Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2051",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pangaribuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2052",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pargarutan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2054",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Panaungan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2059",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Padang Bujur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2060",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Paran Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2064",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pangurabaan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2068",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Ramba Sihasur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2069",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tolang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2072",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sampean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2075",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simaninggir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2076",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sibadoar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2085",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sialagundi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2096",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bulu Mario",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2097",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Barnang Koling",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2101",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Dolok Sordang Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2102",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Situmba Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2103",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Situmba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2104",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Kilang Papan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2105",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sialaman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2106",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Paran Dolok Mardomu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2107",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batang Tura Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2108",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batang Tura",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2109",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Dolok Sordang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2110",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pahae Aek Sagala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2111",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Marsada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2112",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Luat Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2113",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Batang Paya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2115",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Saba Batang Miha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.04.2116",
+    "district_id": "12.03.04",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sarogodung",
+    "type": "DESA"
+  }
+]

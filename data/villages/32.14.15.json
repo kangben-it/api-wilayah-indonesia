@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.14.15.2001",
+    "district_id": "32.14.15",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Kutamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.15.2002",
+    "district_id": "32.14.15",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Kertamanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.15.2003",
+    "district_id": "32.14.15",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Ciririp",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.15.2004",
+    "district_id": "32.14.15",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.15.2005",
+    "district_id": "32.14.15",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Parungbanteng",
+    "type": "DESA"
+  }
+]

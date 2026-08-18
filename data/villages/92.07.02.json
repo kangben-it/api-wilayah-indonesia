@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.07.02.2001",
+    "district_id": "92.07.02",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Wamesa Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.02.2002",
+    "district_id": "92.07.02",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Yopmeos",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.02.2004",
+    "district_id": "92.07.02",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sombokoro",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.02.2007",
+    "district_id": "92.07.02",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Windesi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.02.2010",
+    "district_id": "92.07.02",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sandey",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.13.24.2001",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Sapih",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2002",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Negororejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2003",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Branggah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2004",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Lambangkuning",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2005",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Wonogoro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2006",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Palangbesi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2007",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Boto",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2008",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Lumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2009",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Tandonsentul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.24.2010",
+    "district_id": "35.13.24",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Purut",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.09.03.2002",
+    "district_id": "13.09.03",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Muara Siberut",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.03.2003",
+    "district_id": "13.09.03",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Maileppet",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.03.2004",
+    "district_id": "13.09.03",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Muntei",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.03.2005",
+    "district_id": "13.09.03",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Matotonan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.03.2007",
+    "district_id": "13.09.03",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Madobag",
+    "type": "DESA"
+  }
+]

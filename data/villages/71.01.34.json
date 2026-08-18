@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.01.34.2001",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bonawang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2002",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Tapadaka Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2003",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Tapadaka Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2004",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Tapadaka Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2005",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Konarom",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2006",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Konarom Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2007",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Konarom Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2008",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Osion",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2009",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Ikuna",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.34.2010",
+    "district_id": "71.01.34",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Dumara",
+    "type": "DESA"
+  }
+]

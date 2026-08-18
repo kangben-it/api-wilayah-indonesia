@@ -1,0 +1,66 @@
+[
+  {
+    "id": "95.07.04.2001",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gamelia",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2002",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Pirawun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2003",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wupi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2004",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gawiwarak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2005",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Meyagale",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2006",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wulaipas",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2007",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gunagewak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.04.2008",
+    "district_id": "95.07.04",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wunume",
+    "type": "DESA"
+  }
+]

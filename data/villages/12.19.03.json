@@ -1,0 +1,154 @@
+[
+  {
+    "id": "12.19.03.1001",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Indrapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.03.1019",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Indrasakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.03.2002",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Limau Sundai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2003",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pematang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2004",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sukaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2005",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanah Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2006",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjungmuda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2007",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2008",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Aras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2009",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pasar Lapan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2010",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sipare-pare",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2011",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjungkubah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2012",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjungharapan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2013",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Suka Ramai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2014",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanah Rendah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2015",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanjungmulya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2016",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Titi Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2017",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkotaan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.03.2018",
+    "district_id": "12.19.03",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Kampung Kelapa",
+    "type": "DESA"
+  }
+]

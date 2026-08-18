@@ -1,0 +1,74 @@
+[
+  {
+    "id": "36.03.01.1001",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Balaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.01.2003",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cangkudu",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2005",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Talagasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2009",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Tobat",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2010",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sentul",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2011",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Gembong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2013",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sukamurni",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2014",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Saga",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.01.2016",
+    "district_id": "36.03.01",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sentul Jaya",
+    "type": "DESA"
+  }
+]

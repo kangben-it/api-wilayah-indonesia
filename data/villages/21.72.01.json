@@ -1,0 +1,34 @@
+[
+  {
+    "id": "21.72.01.1001",
+    "district_id": "21.72.01",
+    "regency_id": "21.72",
+    "province_id": "21",
+    "name": "Tanjung Pinang Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.72.01.1002",
+    "district_id": "21.72.01",
+    "regency_id": "21.72",
+    "province_id": "21",
+    "name": "Kemboja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.72.01.1003",
+    "district_id": "21.72.01",
+    "regency_id": "21.72",
+    "province_id": "21",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.72.01.1004",
+    "district_id": "21.72.01",
+    "regency_id": "21.72",
+    "province_id": "21",
+    "name": "Bukit Cermin",
+    "type": "KELURAHAN"
+  }
+]

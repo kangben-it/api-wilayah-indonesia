@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.10.01.2001",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Kayumoyondi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2002",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tombolikat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2003",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tutuyan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2004",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Togid",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2005",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Dodap",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2006",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Dodap Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2007",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tutuyan II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2008",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tutuyan III",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2009",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tombolikat Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.01.2010",
+    "district_id": "71.10.01",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Dodop Mikasa",
+    "type": "DESA"
+  }
+]

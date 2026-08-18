@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.02.16.1001",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sumalangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1002",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sasaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1003",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1004",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Wulauan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.1005",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Marawas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.16.2006",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tonsea Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.16.2007",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kembuan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.16.2008",
+    "district_id": "71.02.16",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kembuan Satu",
+    "type": "DESA"
+  }
+]

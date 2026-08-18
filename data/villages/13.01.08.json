@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13.01.08.2001",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Taratak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2002",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2003",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Amping Parak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2004",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Amping Parak Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2005",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Koto Taratak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2006",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lansano Taratak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2007",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Aur Duri Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2008",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Rawang Gunung Malelo Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2009",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Koto Nan Tigo Selatan Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2010",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Koto Nan Tigo Utara Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2011",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Ganting Mudiak Selatan Surantih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.08.2012",
+    "district_id": "13.01.08",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Ganting Mudiak Utara Surantih",
+    "type": "DESA"
+  }
+]

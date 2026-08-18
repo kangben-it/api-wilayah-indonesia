@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.01.16.2001",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Siwis",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2002",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Miskum",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2003",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klamugun",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2004",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sbaga",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2005",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klalik",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2006",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Malawhili",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.16.2007",
+    "district_id": "96.01.16",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klasou",
+    "type": "DESA"
+  }
+]

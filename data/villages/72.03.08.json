@@ -1,0 +1,114 @@
+[
+  {
+    "id": "72.03.08.1020",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Ganti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1021",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Kabonga Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1022",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Kabonga Kecil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1023",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Gunung Bale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1024",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Maleni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1025",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Tanjung Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1026",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Boya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1027",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Labuan Bajo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.1028",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Boneoge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.03.08.2012",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Loli Oge",
+    "type": "DESA"
+  },
+  {
+    "id": "72.03.08.2013",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Loli Tasiburi",
+    "type": "DESA"
+  },
+  {
+    "id": "72.03.08.2029",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Loli Pesua",
+    "type": "DESA"
+  },
+  {
+    "id": "72.03.08.2030",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Loli Dondo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.03.08.2031",
+    "district_id": "72.03.08",
+    "regency_id": "72.03",
+    "province_id": "72",
+    "name": "Loli Saluran",
+    "type": "DESA"
+  }
+]

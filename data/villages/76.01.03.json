@@ -1,0 +1,50 @@
+[
+  {
+    "id": "76.01.03.1001",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Baras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.01.03.2002",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Balanti",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.03.2003",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Motu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.03.2012",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Bulu Parigi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.03.2013",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Towoni",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.03.2016",
+    "district_id": "76.01.03",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Kasano",
+    "type": "DESA"
+  }
+]

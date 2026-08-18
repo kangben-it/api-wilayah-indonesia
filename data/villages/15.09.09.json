@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.09.09.2001",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Muara Kilis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.09.2002",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Penapalan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.09.2003",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Mengupeh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.09.2004",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Rantau Api",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.09.2005",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Lubuk Mandarsah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.09.2006",
+    "district_id": "15.09.09",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Lubuk Mandarsah Ulu",
+    "type": "DESA"
+  }
+]

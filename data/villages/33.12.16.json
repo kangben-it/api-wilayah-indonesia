@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.12.16.1005",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kismantoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.16.1008",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gesing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.16.2001",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pucung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2002",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Plosorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2003",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bugelan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2004",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngroto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2006",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Miri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2007",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Lemahbang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2009",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gambiranom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.16.2010",
+    "district_id": "33.12.16",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gedawung",
+    "type": "DESA"
+  }
+]

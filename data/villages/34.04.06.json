@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.04.06.2001",
+    "district_id": "34.04.06",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sinduadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2002",
+    "district_id": "34.04.06",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sendangadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2003",
+    "district_id": "34.04.06",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Tlogoadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2004",
+    "district_id": "34.04.06",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Tirtoadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.06.2005",
+    "district_id": "34.04.06",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Sumberadi",
+    "type": "DESA"
+  }
+]

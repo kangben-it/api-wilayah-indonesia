@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.04.03.2001",
+    "district_id": "13.04.03",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Simawang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.03.2002",
+    "district_id": "13.04.03",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Balimbiang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.03.2003",
+    "district_id": "13.04.03",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "III Koto",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.03.2004",
+    "district_id": "13.04.03",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Padang Magek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.03.2005",
+    "district_id": "13.04.03",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Rambatan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "62.03.05.1004",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Mandomai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.05.2001",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sei Kayu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2002",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Saka Mangkahai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2003",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Anjir Kalampan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2005",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2006",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Saka Tamiang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2007",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Penda Katapi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2008",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Teluk Hiri",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2009",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sei Dusun",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2010",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sei Pitung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2011",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Maju Bersama",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.05.2012",
+    "district_id": "62.03.05",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Basuta Raya",
+    "type": "DESA"
+  }
+]

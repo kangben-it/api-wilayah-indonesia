@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.19.05.1001",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Labuhan Ruku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.19.05.2004",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Dahari Selebar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2006",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mesjid Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2007",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Padang Genting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2008",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Pahang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2009",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2014",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Gunung Rante",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2015",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Dahari Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2016",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Indra Yaman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.05.2017",
+    "district_id": "12.19.05",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Benteng",
+    "type": "DESA"
+  }
+]

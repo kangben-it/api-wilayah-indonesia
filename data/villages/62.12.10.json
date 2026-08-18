@@ -1,0 +1,42 @@
+[
+  {
+    "id": "62.12.10.2001",
+    "district_id": "62.12.10",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Tujang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.10.2002",
+    "district_id": "62.12.10",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Olong I",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.10.2003",
+    "district_id": "62.12.10",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Kalasin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.10.2004",
+    "district_id": "62.12.10",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Topus",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.10.2005",
+    "district_id": "62.12.10",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Olong II",
+    "type": "DESA"
+  }
+]

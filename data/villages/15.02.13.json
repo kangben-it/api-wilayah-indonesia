@@ -1,0 +1,66 @@
+[
+  {
+    "id": "15.02.13.2001",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tanjung Lamin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2002",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Limbur Merangin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2003",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2004",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pinang Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2005",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Simpang Limbur Merangin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2006",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Mampun Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2007",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Papit",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.13.2008",
+    "district_id": "15.02.13",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "PulauTujuh",
+    "type": "DESA"
+  }
+]

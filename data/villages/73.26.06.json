@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.26.06.1002",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Malimbong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.06.1004",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Matalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.06.2001",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Ulusalu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2003",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Ballo Pasange'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2005",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Pebulian",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2006",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Sangkaropi'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2007",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Tiroallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2008",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Andulan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2009",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Pesondongan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.06.2010",
+    "district_id": "73.26.06",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sa'dan Liku Lambe'",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.13.28.2001",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Mekarwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2002",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Bendungan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2003",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Munjul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2004",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Margahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2005",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pangsor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2006",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sumurgintung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2007",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Balingbing",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2008",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cidahu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.28.2009",
+    "district_id": "32.13.28",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Cidadap",
+    "type": "DESA"
+  }
+]

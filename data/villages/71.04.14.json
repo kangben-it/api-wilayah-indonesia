@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.04.14.1001",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Makatara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.14.1002",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Makatara Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.14.2003",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Awit",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.14.2004",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Awit Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.14.2005",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Rae",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.14.2006",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Rae Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.14.2007",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Lobbo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.14.2008",
+    "district_id": "71.04.14",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Lobbo I",
+    "type": "DESA"
+  }
+]

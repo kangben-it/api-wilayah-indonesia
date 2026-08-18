@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.05.22.2001",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Namotogan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2002",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kuta Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2003",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Perkebunan Marike",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2004",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kaperas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2005",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Namoteras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2006",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Rampah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2007",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sulkam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.22.2008",
+    "district_id": "12.05.22",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kutambaru",
+    "type": "DESA"
+  }
+]

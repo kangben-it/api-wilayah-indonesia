@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.15.25.2001",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Wancimekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2002",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pangulah Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2003",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pangulah Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2004",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pangulah Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2005",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pucung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2006",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Jomin Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2007",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Jomin Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2008",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Sarimulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.25.2009",
+    "district_id": "32.15.25",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Utara",
+    "type": "DESA"
+  }
+]

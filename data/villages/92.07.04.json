@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.07.04.2002",
+    "district_id": "92.07.04",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Wondiboy",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.04.2009",
+    "district_id": "92.07.04",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Kabouw",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.04.2010",
+    "district_id": "92.07.04",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Issui",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.04.2015",
+    "district_id": "92.07.04",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Kaibi",
+    "type": "DESA"
+  }
+]

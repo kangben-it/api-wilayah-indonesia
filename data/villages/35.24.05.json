@@ -1,0 +1,186 @@
+[
+  {
+    "id": "35.24.05.1001",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Banaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.24.05.1003",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Babat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.24.05.2002",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Karangkembang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2004",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Pucakwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2005",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sogo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2006",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Bedahan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2007",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Truni",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2008",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Gendongkulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2009",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Plaosan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2010",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Trepan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2011",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Kuripan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2012",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Kebalanpelang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2013",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sumurgenuk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2014",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Gembong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2015",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Bulumargi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2016",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Datinawong",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2017",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Kebalandono",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2018",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Patihan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2019",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Moropelang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2020",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Keyongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2021",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sambangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2022",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Tritunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.05.2023",
+    "district_id": "35.24.05",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Kebonagung",
+    "type": "DESA"
+  }
+]

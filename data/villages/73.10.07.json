@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.10.07.1001",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Labakkang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.07.1002",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Mangallekana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.07.1003",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Pundata Baji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.07.1004",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Borimasunggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.07.2005",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Patallassang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2006",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Manakku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2007",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Gentung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2008",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Batara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2009",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Taraweang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2010",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Kanaungan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2011",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bonto Manai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2012",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Kassiloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.07.2013",
+    "district_id": "73.10.07",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bara Batu",
+    "type": "DESA"
+  }
+]

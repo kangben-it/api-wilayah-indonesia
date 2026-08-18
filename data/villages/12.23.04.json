@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.23.04.2001",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Aek Korsik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2002",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Bandar Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2003",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perk. Padang Halaban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2004",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Perkebunan Panigoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2005",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2006",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2007",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Padang Maninjau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.04.2008",
+    "district_id": "12.23.04",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Purworejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "65.02.09.2001",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Dumu Mahak",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2002",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Lebusan",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2003",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Mahak Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2004",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Top",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2005",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Agung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.09.2006",
+    "district_id": "65.02.09",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Data Baru",
+    "type": "DESA"
+  }
+]

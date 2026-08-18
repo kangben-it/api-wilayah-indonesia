@@ -1,0 +1,42 @@
+[
+  {
+    "id": "15.71.02.1002",
+    "district_id": "15.71.02",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Pasir Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.02.1003",
+    "district_id": "15.71.02",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Tambak Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.02.1004",
+    "district_id": "15.71.02",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Thehok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.02.1005",
+    "district_id": "15.71.02",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Wijaya Pura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.02.1006",
+    "district_id": "15.71.02",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Pakuan Baru",
+    "type": "KELURAHAN"
+  }
+]

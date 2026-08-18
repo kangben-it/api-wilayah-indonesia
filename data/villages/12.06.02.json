@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.06.02.1006",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Tambak Lau Mulgab I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.06.02.1007",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Tambak Lau Mulgab II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.06.02.1008",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Gundaling I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.06.02.1009",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Gundaling II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.06.02.2001",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Daulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.02.2002",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Gurusinga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.02.2003",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.02.2004",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Rumah Berastagi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.02.2005",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Sempajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.02.2010",
+    "district_id": "12.06.02",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Lau Gumba",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16.73.05.1001",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Jawa Kanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1002",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Jawa Kanan SS",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1003",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Wira Karya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1004",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Dempo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1005",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Jawa Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1006",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Karya Bakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1007",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Mesat Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1008",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Mesat Seni",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.05.1009",
+    "district_id": "16.73.05",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Cereme Taba",
+    "type": "KELURAHAN"
+  }
+]

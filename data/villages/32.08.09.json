@@ -1,0 +1,130 @@
+[
+  {
+    "id": "32.08.09.1001",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Citangtu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1002",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kuningan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1003",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Winduhaji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1004",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Windusengkahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1005",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cijoho",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1006",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Purwawinangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1007",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cigintung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1008",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cirendang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1009",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Ciporang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.1010",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Awirarangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.08.09.2011",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cibinuang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.09.2012",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Karangtawang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.09.2013",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kedungarum",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.09.2014",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Ancaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.09.2015",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kasturi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.09.2016",
+    "district_id": "32.08.09",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Padarek",
+    "type": "DESA"
+  }
+]

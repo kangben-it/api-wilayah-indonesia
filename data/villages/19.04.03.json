@@ -1,0 +1,106 @@
+[
+  {
+    "id": "19.04.03.1001",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Sungai Selan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.04.03.2002",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Kerantai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2003",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Keretak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2004",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Lampur",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2005",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Sarang Mandi",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2006",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Munggu",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2007",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Kemingking",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2008",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Sungai Selan Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2009",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Tanjung Pura",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2010",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Romadhon",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2011",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Kerakas",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2012",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Melabun",
+    "type": "DESA"
+  },
+  {
+    "id": "19.04.03.2013",
+    "district_id": "19.04.03",
+    "regency_id": "19.04",
+    "province_id": "19",
+    "name": "Keretak Atas",
+    "type": "DESA"
+  }
+]

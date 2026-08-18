@@ -1,0 +1,58 @@
+[
+  {
+    "id": "72.08.09.2001",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Tanalanto",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2002",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Torue",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2003",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Astina",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2004",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Purwosari",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2005",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Tolai",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2006",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Tolai Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.09.2007",
+    "district_id": "72.08.09",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Tolai Timur",
+    "type": "DESA"
+  }
+]

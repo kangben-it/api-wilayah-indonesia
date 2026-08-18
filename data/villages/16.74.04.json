@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16.74.04.1001",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Tanjung Rambang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.04.2003",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Karya Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2005",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Rambang Senuling",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2006",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Jungai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2007",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Talang Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2008",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Karangan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2009",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Karang Bindu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2010",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Sinar Rambang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.74.04.2011",
+    "district_id": "16.74.04",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Kemang Tanduk",
+    "type": "DESA"
+  }
+]

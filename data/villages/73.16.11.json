@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.16.11.2001",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Masalle",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.11.2003",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Batu Ke'de",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.11.2004",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Mundan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.11.2006",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Buntu Sarong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.11.2008",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Rampunan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.11.2055",
+    "district_id": "73.16.11",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tongkonan Basse",
+    "type": "DESA"
+  }
+]

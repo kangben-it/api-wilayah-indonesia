@@ -1,0 +1,42 @@
+[
+  {
+    "id": "11.03.24.2001",
+    "district_id": "11.03.24",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Arul Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.24.2002",
+    "district_id": "11.03.24",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Peunaron Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.24.2003",
+    "district_id": "11.03.24",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Peunaron Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.24.2004",
+    "district_id": "11.03.24",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Bukit Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "11.03.24.2006",
+    "district_id": "11.03.24",
+    "regency_id": "11.03",
+    "province_id": "11",
+    "name": "Sri Mulya",
+    "type": "DESA"
+  }
+]

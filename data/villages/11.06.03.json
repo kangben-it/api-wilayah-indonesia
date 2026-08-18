@@ -1,0 +1,418 @@
+[
+  {
+    "id": "11.06.03.2001",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Reukih Dayah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2002",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Indrapuri",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2003",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lam Leubok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2004",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Empee Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2005",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Limo Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2006",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Limo Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2007",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Limo Lamleuweung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2008",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lheue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2009",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Meusale",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2010",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Cureh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2011",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Cot Kareung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2012",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lamlung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2013",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Meureu Ulee Titie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2014",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Meureu Bueng-U",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2015",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Mureu Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2016",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Meureu Lamglumpang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2017",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Pasar Indrapuri",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2018",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Manggra",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2019",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Reukih Kupula",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2020",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lam Ilie Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2021",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lam Ilie Tengoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2022",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lam Ilie Ganto",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2023",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Meunara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2024",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Aneuk Glee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2025",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Krueng Lamkareung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2026",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Sinyeu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2027",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Seureumo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2028",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Ulee Kareung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2029",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lambeutong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2030",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampupok Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2031",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampupok Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2032",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Seulangai",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2033",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Riting",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2034",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Sihom Lhok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2035",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Sihom Cot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2036",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Seuot Baroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2037",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Seuot Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2038",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampanah Ranjo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2039",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampanah Teungoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2040",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampanah Dayah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2041",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampanah Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2042",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lampanah Tunong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2043",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Groet Blang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2044",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Groet Manyang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2045",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Groet Baro",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2046",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Jruek Bak Kreh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2047",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Jruek Balee",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2049",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Mon Alue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2050",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lambeunot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2051",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Ulee Ue",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2052",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lamsiot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.06.03.2053",
+    "district_id": "11.06.03",
+    "regency_id": "11.06",
+    "province_id": "11",
+    "name": "Lingom",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.10.09.1001",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bonto Matene",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.09.1002",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Segeri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.09.1003",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bone",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.09.1004",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bawasalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.09.2005",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Baring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.09.2006",
+    "district_id": "73.10.09",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Parenreng",
+    "type": "DESA"
+  }
+]

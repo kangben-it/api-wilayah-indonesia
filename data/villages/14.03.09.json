@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.03.09.1001",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Air Jamban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1002",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Babussalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1003",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Batang Serosa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1004",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Balik Alam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1006",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Duri Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1007",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Duri Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1008",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Gajah Sakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1009",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Talang Mandi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.1010",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pematang Pudu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.09.2011",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Harapan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.09.2021",
+    "district_id": "14.03.09",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Bathin Betuah",
+    "type": "DESA"
+  }
+]

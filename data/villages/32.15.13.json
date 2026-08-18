@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.15.13.2001",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Dawuan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2002",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kalihurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2003",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2004",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Dawuan Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2006",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2007",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Pusaka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2008",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2009",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Cikampek Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2010",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kamojing",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.13.2011",
+    "district_id": "32.15.13",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Dawuan Barat",
+    "type": "DESA"
+  }
+]

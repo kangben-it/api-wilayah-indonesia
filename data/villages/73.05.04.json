@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.05.04.1001",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Panrannuangku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.1002",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Manongkoki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.1003",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Malewang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.1004",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Palleko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.1005",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Mattompodale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.1006",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Parang Luara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.05.04.2007",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Lassang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.04.2009",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Pa'rappunganta",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.04.2010",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Towata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.05.04.2016",
+    "district_id": "73.05.04",
+    "regency_id": "73.05",
+    "province_id": "73",
+    "name": "Lassang Barat",
+    "type": "DESA"
+  }
+]

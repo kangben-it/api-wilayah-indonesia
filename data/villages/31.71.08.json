@@ -1,0 +1,34 @@
+[
+  {
+    "id": "31.71.08.1001",
+    "district_id": "31.71.08",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Johar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1002",
+    "district_id": "31.71.08",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Kampung Rawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1003",
+    "district_id": "31.71.08",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Galur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.08.1004",
+    "district_id": "31.71.08",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Tanah Tinggi",
+    "type": "KELURAHAN"
+  }
+]

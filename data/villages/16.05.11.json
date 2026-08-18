@@ -1,0 +1,98 @@
+[
+  {
+    "id": "16.05.11.1001",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Selangit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.11.2002",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Lubuk Ngin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2003",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Napal Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2004",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Taba Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2005",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Taba Remanik",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2006",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Batu Gane",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2007",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Karang Panggung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2008",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Muara Nilau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2009",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Perabumenang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2010",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Taba Rena",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2011",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Taba Gindo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.11.2012",
+    "district_id": "16.05.11",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Lubuk Ngin Baru",
+    "type": "DESA"
+  }
+]

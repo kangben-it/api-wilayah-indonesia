@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.12.10.2001",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kandang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2002",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Curah Cottok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2003",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Peleyan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2004",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Wonokoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2005",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Seletreng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2006",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Landangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2007",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kapongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2008",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kesambirampak",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2009",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Gebangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.10.2010",
+    "district_id": "35.12.10",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Pokaan",
+    "type": "DESA"
+  }
+]

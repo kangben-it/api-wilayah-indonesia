@@ -1,0 +1,114 @@
+[
+  {
+    "id": "53.08.05.1001",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Onelako",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.05.1002",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Lokoboko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.05.2003",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wolotopo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2004",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wolotolo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2006",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Puutuga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2007",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Ngalupolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2012",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Ngaluroga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2013",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Nila",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2014",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Kekasewa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2015",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Manulando",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2016",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Nanganesa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2017",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wolokota",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2018",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Kelikiku",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.05.2020",
+    "district_id": "53.08.05",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Reka",
+    "type": "DESA"
+  }
+]

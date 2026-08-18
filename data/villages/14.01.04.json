@@ -1,0 +1,106 @@
+[
+  {
+    "id": "14.01.04.1018",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Batu Bersurat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.01.04.2004",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Gunung Bungsu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2005",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Koto Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2006",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Balung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2007",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Muara Takus",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2010",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pulau Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2011",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Tanjung Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2012",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Ranah Sungkai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2013",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Lubuk Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2014",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Koto Mesjid",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2016",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pongkai Istiqomah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2017",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Binamang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.04.2019",
+    "district_id": "14.01.04",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Koto Tuo Barat",
+    "type": "DESA"
+  }
+]

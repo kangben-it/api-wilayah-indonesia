@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.14.05.1001",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Rappang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.05.1002",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lalebata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.05.1003",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Maccorawalie",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.05.1004",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Kadidi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.05.2005",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Timoreng Panua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.05.2006",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bulo Wattang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.05.2007",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Bulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.05.2008",
+    "district_id": "73.14.05",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Cipotakari",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.03.05.1008",
+    "district_id": "21.03.05",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Sedanau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.03.05.2007",
+    "district_id": "21.03.05",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.05.2012",
+    "district_id": "21.03.05",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.05.2013",
+    "district_id": "21.03.05",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Piantengah",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.05.2015",
+    "district_id": "21.03.05",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Selaut",
+    "type": "DESA"
+  }
+]

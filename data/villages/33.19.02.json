@@ -1,0 +1,202 @@
+[
+  {
+    "id": "33.19.02.1001",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Purwosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1004",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Sunggingan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1005",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Panjunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1006",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Wergu Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1007",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Wergu Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1008",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Mlati Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1009",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Mlatinorowito",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1017",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Kerjasan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.1018",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Kajeksan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.19.02.2002",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Janggalan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2003",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Demangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2010",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Mlati Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2011",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Nganguk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2012",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Kramat",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2013",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Demaan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2014",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Langgardalem",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2015",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Kauman",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2016",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Damaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2019",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Krandon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2020",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Singocandi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2021",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Glantengan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2022",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Kaliputu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2023",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Barongan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2024",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Burikan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.19.02.2025",
+    "district_id": "33.19.02",
+    "regency_id": "33.19",
+    "province_id": "33",
+    "name": "Rendeng",
+    "type": "DESA"
+  }
+]

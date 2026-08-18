@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.06.06.1001",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tebing Tinggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.06.2002",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2003",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2004",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Adi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2005",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Kelagian",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2006",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Teluk Pengkah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2007",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Talang Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2008",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Keruh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2009",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Dataran Kempas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.06.2010",
+    "district_id": "15.06.06",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Delima",
+    "type": "DESA"
+  }
+]

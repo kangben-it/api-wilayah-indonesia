@@ -1,0 +1,90 @@
+[
+  {
+    "id": "33.01.01.2001",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Tambakreja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2002",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Bumireja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2003",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Ciklapa",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2004",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Kedungreja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2005",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Tambaksari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2006",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Rejamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2007",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sidanegara",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2008",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Kaliwungu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2009",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Jatisari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2010",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Bangunreja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.01.01.2011",
+    "district_id": "33.01.01",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Bojongsari",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "63.01.03.1001",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Sarang Halang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.01.03.1002",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Karang Taruna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.01.03.1003",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Pelaihari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.01.03.1004",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Angsau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.01.03.1005",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Pabahanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.01.03.2006",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Bumi Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2008",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Sungai Riam",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2009",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Tampang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2010",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Telaga",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2011",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Panjaratan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2012",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Atu-atu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2015",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Panggung",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2016",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Tungkaran",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2017",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Ujung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2020",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Panggung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2024",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Ambungan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2025",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Guntung Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2026",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2027",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Sumber Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "63.01.03.2029",
+    "district_id": "63.01.03",
+    "regency_id": "63.01",
+    "province_id": "63",
+    "name": "Pemuda",
+    "type": "DESA"
+  }
+]

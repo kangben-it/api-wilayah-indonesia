@@ -1,0 +1,90 @@
+[
+  {
+    "id": "36.03.20.1011",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Babakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.20.2002",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Caringin",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2003",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Serdang Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2004",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Babat",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2005",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Ciangir",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2006",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Legok",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2007",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Palasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2008",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Bojongkamal",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2009",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Rancagong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2010",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kemuning",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.20.2012",
+    "district_id": "36.03.20",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cirarab",
+    "type": "DESA"
+  }
+]

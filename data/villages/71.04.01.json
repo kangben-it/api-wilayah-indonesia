@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.04.01.1005",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Lirung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.01.1011",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Lirung Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.01.1024",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Lirung Matane",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.01.2006",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Sereh",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.01.2007",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Musi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.01.2015",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Talolang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.01.2017",
+    "district_id": "71.04.01",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Sereh I",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.79.04.1004",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Muktisari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.79.04.1005",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Bojongkantong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.79.04.2001",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Langensari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.04.2002",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Rejasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.04.2003",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Waringinsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.79.04.2006",
+    "district_id": "32.79.04",
+    "regency_id": "32.79",
+    "province_id": "32",
+    "name": "Kujangsari",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "91.15.09.2002",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Somiangga",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2004",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Toire",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2005",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2006",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Demisa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2008",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Otodemo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2011",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Awaso",
+    "type": "DESA"
+  },
+  {
+    "id": "91.15.09.2012",
+    "district_id": "91.15.09",
+    "regency_id": "91.15",
+    "province_id": "91",
+    "name": "Firo",
+    "type": "DESA"
+  }
+]

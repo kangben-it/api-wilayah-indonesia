@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.14.10.1001",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Sine",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.1002",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Sragen Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.1003",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Sragen Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.1004",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Sragen Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.1005",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Nglorog",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.1006",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Karang Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.14.10.2007",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Tangkil",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.10.2008",
+    "district_id": "33.14.10",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Kedungupit",
+    "type": "DESA"
+  }
+]

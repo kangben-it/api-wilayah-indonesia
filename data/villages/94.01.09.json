@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.01.09.2001",
+    "district_id": "94.01.09",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Samabusa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.09.2002",
+    "district_id": "94.01.09",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Waharia",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.09.2003",
+    "district_id": "94.01.09",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Kimi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.09.2004",
+    "district_id": "94.01.09",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Lani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.09.2005",
+    "district_id": "94.01.09",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Air Mandidi",
+    "type": "DESA"
+  }
+]

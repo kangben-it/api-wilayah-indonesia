@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.04.05.2001",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cileunyi Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.05.2002",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cileunyi Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.05.2003",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cimekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.05.2004",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cinunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.05.2005",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cibiru Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.05.2006",
+    "district_id": "32.04.05",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cibiru Wetan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "61.08.12.2001",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Padang Pio",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2002",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Tembawang Bale",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2003",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Kampet",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2004",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Untang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2005",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Ringo Lojok",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2006",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Gamang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.12.2007",
+    "district_id": "61.08.12",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Semade",
+    "type": "DESA"
+  }
+]

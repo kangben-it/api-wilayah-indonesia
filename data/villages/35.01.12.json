@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.01.12.2001",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Pagerkidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2002",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Pagerlor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2003",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sukorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2004",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sudimoro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2005",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Ketanggung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2006",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Klepu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2007",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sembowo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2008",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Karangmulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2009",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Gunungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.01.12.2010",
+    "district_id": "35.01.12",
+    "regency_id": "35.01",
+    "province_id": "35",
+    "name": "Sumberejo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.03.05.1003",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Sungai Bedungun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.05.1004",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tanjung Redeb",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.05.1005",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.05.1006",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Gayam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.05.1007",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Karang Ambun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.05.1008",
+    "district_id": "64.03.05",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Gunung Panjang",
+    "type": "KELURAHAN"
+  }
+]

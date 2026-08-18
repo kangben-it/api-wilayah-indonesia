@@ -1,0 +1,122 @@
+[
+  {
+    "id": "33.12.08.1003",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Puloharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.08.1009",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngadirejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.08.2001",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Basuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2002",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pucung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2004",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sindukarto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2005",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Panekan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2006",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Baleharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2007",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sumberharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2008",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Minggarharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2010",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tegalharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2011",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Eromoko",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2012",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngunggahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2013",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tempurharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2014",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pasekan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.08.2015",
+    "district_id": "33.12.08",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngandong",
+    "type": "DESA"
+  }
+]

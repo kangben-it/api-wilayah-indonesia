@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.04.19.2001",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Lele",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.19.2002",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Bahu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.19.2003",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Jiko",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.19.2004",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.19.2005",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Tabalema",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.19.2006",
+    "district_id": "82.04.19",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Yoyok",
+    "type": "DESA"
+  }
+]

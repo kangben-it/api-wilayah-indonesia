@@ -1,0 +1,50 @@
+[
+  {
+    "id": "76.01.02.1001",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Pasangkayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.01.02.1002",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Martajaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.01.02.2010",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Pakava",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.02.2014",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Karya Bersama",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.02.2015",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Ako",
+    "type": "DESA"
+  },
+  {
+    "id": "76.01.02.2016",
+    "district_id": "76.01.02",
+    "regency_id": "76.01",
+    "province_id": "76",
+    "name": "Gunung Sari",
+    "type": "DESA"
+  }
+]

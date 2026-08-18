@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.10.07.2001",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.07.2002",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Jajag",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.07.2007",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gambiran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.07.2008",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Yosomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.07.2009",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Wringinrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.07.2010",
+    "district_id": "35.10.07",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Wringinagung",
+    "type": "DESA"
+  }
+]

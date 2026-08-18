@@ -1,0 +1,82 @@
+[
+  {
+    "id": "91.10.09.2001",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Wamariri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2002",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Aurimi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2003",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Tamaja",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2004",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Airoran",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2005",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Murara",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2006",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Sasawapece",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2011",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Maniwa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2012",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Surimania",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2013",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Kwawitania",
+    "type": "DESA"
+  },
+  {
+    "id": "91.10.09.2014",
+    "district_id": "91.10.09",
+    "regency_id": "91.10",
+    "province_id": "91",
+    "name": "Bina",
+    "type": "DESA"
+  }
+]

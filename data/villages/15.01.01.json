@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.01.01.1004",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Lempur Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.01.01.2001",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Selam Paung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2002",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Air Mumu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2003",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Lempur Mudik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2005",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Masgo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2006",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Lempur Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2011",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Kebun Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2012",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Perikan Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2013",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Dusun Baru Lempur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2016",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Sungaihangat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2018",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Manjunto Lempur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.01.01.2019",
+    "district_id": "15.01.01",
+    "regency_id": "15.01",
+    "province_id": "15",
+    "name": "Kebun Lima",
+    "type": "DESA"
+  }
+]

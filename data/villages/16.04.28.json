@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.04.28.2001",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Muara Payang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2002",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Muara Gelumpai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2003",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2004",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lawang Agung Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2005",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Lawang Agung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2006",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Muara Jauh",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.28.2007",
+    "district_id": "16.04.28",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Bandu Agung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "35.14.13.1013",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Glanggang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.13.1014",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Pagak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.13.2001",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Baujeng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2002",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Ngembe",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2003",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kenep",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2004",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Sidowayah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2005",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Gajahbendo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2006",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Gununggangsir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2007",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Wonokoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2008",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2009",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Cangkringmalang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2010",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kedungringin",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2011",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kedungboto",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.13.2012",
+    "district_id": "35.14.13",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Beji",
+    "type": "DESA"
+  }
+]

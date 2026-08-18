@@ -1,0 +1,34 @@
+[
+  {
+    "id": "76.03.14.1001",
+    "district_id": "76.03.14",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tawalian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.14.2002",
+    "district_id": "76.03.14",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tawalian Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.14.2003",
+    "district_id": "76.03.14",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Kariango",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.14.2004",
+    "district_id": "76.03.14",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Rantetangnga",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.72.07.1001",
+    "district_id": "14.72.07",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Ratu Sima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.07.1002",
+    "district_id": "14.72.07",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Bukit Timah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.07.1003",
+    "district_id": "14.72.07",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Mekar Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.07.1004",
+    "district_id": "14.72.07",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Bukit Datuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.07.1005",
+    "district_id": "14.72.07",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Bumi Ayu",
+    "type": "KELURAHAN"
+  }
+]

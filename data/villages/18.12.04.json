@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.12.04.2002",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Toto Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2006",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Setia Bumi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2007",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Gunung Terang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2008",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Gunung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2011",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Kagungan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2012",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Terang Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2013",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Terang Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2015",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Setia Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2017",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Mulyo Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.04.2020",
+    "district_id": "18.12.04",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Terang Makmur",
+    "type": "DESA"
+  }
+]

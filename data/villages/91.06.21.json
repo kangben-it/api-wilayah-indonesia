@@ -1,0 +1,42 @@
+[
+  {
+    "id": "91.06.21.2001",
+    "district_id": "91.06.21",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Wopes",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.21.2002",
+    "district_id": "91.06.21",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Wandos",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.21.2003",
+    "district_id": "91.06.21",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Doubo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.21.2004",
+    "district_id": "91.06.21",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Syurdori",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.21.2005",
+    "district_id": "91.06.21",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sansundi",
+    "type": "DESA"
+  }
+]

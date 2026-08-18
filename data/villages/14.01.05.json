@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.01.05.2001",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Kuok",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2005",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Merangin",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2006",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Empat Balai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2007",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pulau Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2008",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Silam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2010",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Bukit Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2011",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pulau Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2012",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Lereng",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.05.2013",
+    "district_id": "14.01.05",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Batu Langka Kecil",
+    "type": "DESA"
+  }
+]

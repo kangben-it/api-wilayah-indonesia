@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.76.10.1001",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Tapos",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1002",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Leuwinanggung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1003",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Sukatani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1004",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Sukamaju Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1005",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Jatijajar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1006",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Cilangkap",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.10.1007",
+    "district_id": "32.76.10",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Cimpaeun",
+    "type": "KELURAHAN"
+  }
+]

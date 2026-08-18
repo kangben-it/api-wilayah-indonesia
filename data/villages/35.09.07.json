@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.09.07.2001",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Pondokjoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.07.2002",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Pondokdalem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.07.2003",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Rejoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.07.2004",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Semboro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.07.2005",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Sidomekar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.07.2006",
+    "district_id": "35.09.07",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  }
+]

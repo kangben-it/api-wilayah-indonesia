@@ -1,0 +1,50 @@
+[
+  {
+    "id": "72.71.02.1002",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Ujuna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.02.1005",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Balaroa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.02.1007",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Kamonji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.02.1008",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.02.1009",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Lere",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.71.02.1015",
+    "district_id": "72.71.02",
+    "regency_id": "72.71",
+    "province_id": "72",
+    "name": "Siranindi",
+    "type": "KELURAHAN"
+  }
+]

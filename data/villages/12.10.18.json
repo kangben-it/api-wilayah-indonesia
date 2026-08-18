@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.10.18.1001",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Labuhan Bilik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.18.2002",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Pelancang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2003",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Siarti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2004",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Nahodaris",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2005",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Merdeka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2006",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sei Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2007",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Selat Beting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2008",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Bagan Bilah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2009",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Telaga Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.10.18.2010",
+    "district_id": "12.10.18",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Pasar Tiga",
+    "type": "DESA"
+  }
+]

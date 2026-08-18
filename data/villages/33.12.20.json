@@ -1,0 +1,138 @@
+[
+  {
+    "id": "33.12.20.1009",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pelem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.20.1012",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tanjungsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.20.2001",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tasikhargo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2002",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2003",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2004",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gondangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2005",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2006",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngrompak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2007",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Semen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2008",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pule",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2010",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2011",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tanggulangin",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2013",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2014",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Jatisari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2015",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Jatisrono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2016",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Watangsono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.20.2017",
+    "district_id": "33.12.20",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pandeyan",
+    "type": "DESA"
+  }
+]

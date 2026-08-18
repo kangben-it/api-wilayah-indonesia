@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.03.10.2002",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tabalar Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.10.2003",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tubaan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.10.2004",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tabalar Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.10.2005",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Semurut",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.10.2006",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Buyung-Buyung",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.10.2007",
+    "district_id": "64.03.10",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Harapan Maju",
+    "type": "DESA"
+  }
+]

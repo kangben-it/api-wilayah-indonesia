@@ -1,0 +1,122 @@
+[
+  {
+    "id": "16.06.07.1020",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sungai Lilin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.07.1030",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sungai Lilin Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.07.2007",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sri Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2008",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sumber Rejeki",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2009",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Linggo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2010",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mulyo Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2011",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Suka Damai Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2012",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Cinta Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2013",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Berlian Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2014",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bumi Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2015",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mekar Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2016",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Nusa Serasan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2017",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Pinang Banjar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2019",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Panca Tunggal",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.07.2021",
+    "district_id": "16.06.07",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bukit Jaya",
+    "type": "DESA"
+  }
+]

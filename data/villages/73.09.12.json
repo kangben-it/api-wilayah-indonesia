@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.09.12.1001",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Allepolea",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1002",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Maccini Baji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1003",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Soreang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.1004",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Mattirodeceng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.12.2005",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.12.2006",
+    "district_id": "73.09.12",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Tengkuru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.06.07.2001",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Parungponteng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2002",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cigunung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2003",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cibanteng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2004",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Barumekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2005",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Cibungur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2006",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Burujuljaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2007",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Girikencana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.06.07.2008",
+    "district_id": "32.06.07",
+    "regency_id": "32.06",
+    "province_id": "32",
+    "name": "Karyabakti",
+    "type": "DESA"
+  }
+]

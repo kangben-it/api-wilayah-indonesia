@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.14.12.2001",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cilangkap",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2002",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cicadas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2003",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Hegarmanah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2004",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Babakancikao",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2005",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Kadumekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2006",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Maracang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2007",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Ciwareng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2008",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Mulyamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.12.2009",
+    "district_id": "32.14.12",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cigelam",
+    "type": "DESA"
+  }
+]

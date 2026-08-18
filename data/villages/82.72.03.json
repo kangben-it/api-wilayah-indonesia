@@ -1,0 +1,106 @@
+[
+  {
+    "id": "82.72.03.1004",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Payahe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.03.2001",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Woda",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2002",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Gita",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2003",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Toseho",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2005",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Kususinopa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2008",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Bale",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2009",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Koli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2010",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Kosa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2011",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Tului",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2012",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Todapa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2013",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Talasi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2014",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Sigela Yef",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.03.2015",
+    "district_id": "82.72.03",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Talagamori",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "76.04.09.1001",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Matangnga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.09.2002",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Lilli",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.09.2003",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Rangoan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.09.2004",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tapua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.09.2005",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Mambu Tapua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.09.2006",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Ba'ba Tapua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.09.2007",
+    "district_id": "76.04.09",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Katimbang",
+    "type": "DESA"
+  }
+]

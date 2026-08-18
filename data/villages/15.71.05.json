@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.71.05.1001",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Arab Melayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.05.1002",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Mudung Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.05.1003",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Jelmu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.05.1004",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.05.1005",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Tahtul Yaman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.71.05.1006",
+    "district_id": "15.71.05",
+    "regency_id": "15.71",
+    "province_id": "15",
+    "name": "Tanjung Johor",
+    "type": "KELURAHAN"
+  }
+]

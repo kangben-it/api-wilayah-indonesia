@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32.09.15.1003",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Babakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1004",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sumber",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1005",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Perbutulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1006",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kaliwadas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1007",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pasalakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1008",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Watubelah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1009",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pejambon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1010",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Gegunung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1011",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kemantren",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1012",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sendang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1013",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Tukmudal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.1014",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kenanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.09.15.2001",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Matangaji",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.15.2002",
+    "district_id": "32.09.15",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sidawangi",
+    "type": "DESA"
+  }
+]

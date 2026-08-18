@@ -1,0 +1,58 @@
+[
+  {
+    "id": "36.01.01.2001",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sumberjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2002",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Kertajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2003",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Kertamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2004",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Tunggaljaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2005",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cigorondong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2006",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Tamanjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.01.2007",
+    "district_id": "36.01.01",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Ujungjaya",
+    "type": "DESA"
+  }
+]

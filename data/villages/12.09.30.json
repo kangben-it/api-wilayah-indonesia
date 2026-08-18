@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.09.30.2001",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2002",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perhutaan Silau",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2003",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Tanah Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2004",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Taman Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2005",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Gedangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2006",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2007",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Pulo Bandring",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2008",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2009",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Suka Damai Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.30.2010",
+    "district_id": "12.09.30",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Bunut Seberang",
+    "type": "DESA"
+  }
+]

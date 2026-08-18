@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.07.01.1010",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Muara Sabak Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.01.1013",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Muara Sabak Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.01.2001",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Alang-Alang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2002",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Lambur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2004",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Simbur Naik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2011",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Lambur I",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2012",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Lambur II",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2014",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Kota Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2015",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Siau Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2016",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Ular",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2017",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Kota Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.01.2018",
+    "district_id": "15.07.01",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Kuala Simbur",
+    "type": "DESA"
+  }
+]

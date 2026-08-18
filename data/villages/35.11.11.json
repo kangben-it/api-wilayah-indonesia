@@ -1,0 +1,90 @@
+[
+  {
+    "id": "35.11.11.1004",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Nangkaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1005",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Tamansari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1006",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kademangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1007",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Dabasah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1008",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Badean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1009",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kotakulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.1010",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Blindungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.11.11.2001",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Pancoran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.11.2002",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sukowiryo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.11.2003",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.11.2011",
+    "district_id": "35.11.11",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Pejaten",
+    "type": "DESA"
+  }
+]

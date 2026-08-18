@@ -1,0 +1,82 @@
+[
+  {
+    "id": "36.03.14.1001",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kosambi Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.14.1003",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Salembaran Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.14.1010",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Dadap",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.03.14.2002",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kosambi Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2004",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Salembaran Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2005",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Rawa Rengas",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2006",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Rawa Burung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2007",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cengklong",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2008",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Belimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.14.2009",
+    "district_id": "36.03.14",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Jati Mulya",
+    "type": "DESA"
+  }
+]

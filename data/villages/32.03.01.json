@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.03.01.1006",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Pamoyanan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.1007",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sawahgede",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.1008",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Bojongherang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.1009",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sayang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.1010",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Solokpandan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.1011",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Muka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.03.01.2001",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Babakankaret",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.01.2002",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Nagrak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.01.2003",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.01.2004",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Mekarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.01.2005",
+    "district_id": "32.03.01",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Limbangansari",
+    "type": "DESA"
+  }
+]

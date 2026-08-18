@@ -1,0 +1,58 @@
+[
+  {
+    "id": "52.04.02.2001",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lunyuk Rea",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2002",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lunyuk Ode",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2003",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Jamu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2007",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Pada Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2008",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2009",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Perung",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.02.2010",
+    "district_id": "52.04.02",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Emang Lestari",
+    "type": "DESA"
+  }
+]

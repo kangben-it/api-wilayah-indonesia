@@ -1,0 +1,82 @@
+[
+  {
+    "id": "51.08.09.2001",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Sembiran",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2002",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Pacung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2003",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Julah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2004",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Madenan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2005",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Bondalem",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2006",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Tejakula",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2007",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Les",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2008",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Penuktukan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2009",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Sambirenteng",
+    "type": "DESA"
+  },
+  {
+    "id": "51.08.09.2010",
+    "district_id": "51.08.09",
+    "regency_id": "51.08",
+    "province_id": "51",
+    "name": "Tembok",
+    "type": "DESA"
+  }
+]

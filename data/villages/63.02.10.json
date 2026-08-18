@@ -1,0 +1,58 @@
+[
+  {
+    "id": "63.02.10.2001",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sungai Hanyar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2002",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sungai Seluang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2003",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Pudi",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2004",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Mangga",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2005",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Wilas",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2006",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Pudi Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.10.2007",
+    "district_id": "63.02.10",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sulangkit",
+    "type": "DESA"
+  }
+]

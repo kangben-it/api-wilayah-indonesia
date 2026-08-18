@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.23.1001",
+    "district_id": "35.78.23",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Jambangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.23.1002",
+    "district_id": "35.78.23",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Karah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.23.1003",
+    "district_id": "35.78.23",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kebonsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.23.1004",
+    "district_id": "35.78.23",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pagesangan",
+    "type": "KELURAHAN"
+  }
+]

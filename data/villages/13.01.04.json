@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13.01.04.2001",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "IV Koto Hilie",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2002",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "IV Koto Mudiek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2003",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Taluak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2004",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Koto Nan Duo IV Koto Hilie",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2005",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Koto Nan Tigo IV Koto Hilie",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2006",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Teratak Tempatih IV Koto Mudiek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2007",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Tuik IV Koto Mudiek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2008",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Sungai Nyalo IV Koto Mudiek",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.04.2009",
+    "district_id": "13.01.04",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Taluk Tigo Sakato",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "34.71.09.1001",
+    "district_id": "34.71.09",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Patehan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "34.71.09.1002",
+    "district_id": "34.71.09",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Panembahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "34.71.09.1003",
+    "district_id": "34.71.09",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Kadipaten",
+    "type": "KELURAHAN"
+  }
+]

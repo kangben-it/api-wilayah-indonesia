@@ -1,0 +1,82 @@
+[
+  {
+    "id": "91.03.01.1001",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Sentani Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.03.01.1002",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Dobonsolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.03.01.1003",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Hinekombe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.03.01.2004",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Sereh",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.01.2005",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yobeh",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.01.2006",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Ilfele",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.01.2011",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Hobong",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.01.2017",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yahim",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.01.3007",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Yoboi",
+    "type": "DESA ADAT"
+  },
+  {
+    "id": "91.03.01.3010",
+    "district_id": "91.03.01",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Heaiseai Yomo Heai",
+    "type": "DESA ADAT"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.02.25.2001",
+    "district_id": "53.02.25",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Santian",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.25.2002",
+    "district_id": "53.02.25",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Poli",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.25.2003",
+    "district_id": "53.02.25",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Manufui",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.25.2004",
+    "district_id": "53.02.25",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nenotes",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.25.2005",
+    "district_id": "53.02.25",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Naifatu",
+    "type": "DESA"
+  }
+]

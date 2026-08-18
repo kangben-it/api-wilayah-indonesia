@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.05.05.1001",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kwala Begumit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.05.2002",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sambi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.05.2003",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sendang Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.05.2004",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Tanjung Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.05.2005",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.05.2006",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Perdamaian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.05.2007",
+    "district_id": "12.05.05",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  }
+]

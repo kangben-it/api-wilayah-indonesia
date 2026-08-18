@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.09.05.2001",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Tanaki",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2002",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Kapeta",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2003",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Talawid",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2004",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Laghaeng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2005",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Makoa",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2006",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Batusenggo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.05.2007",
+    "district_id": "71.09.05",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Mahuneni",
+    "type": "DESA"
+  }
+]

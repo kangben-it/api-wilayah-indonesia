@@ -1,0 +1,58 @@
+[
+  {
+    "id": "75.04.09.2001",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Hulawa",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2002",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Karya Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2003",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Taluduyunu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2004",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Buntulia Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2005",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Buntulia Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2006",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Taluduyunu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.09.2007",
+    "district_id": "75.04.09",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Sipatana",
+    "type": "DESA"
+  }
+]

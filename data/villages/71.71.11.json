@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.71.11.1001",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Ranomuut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1002",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Kairagi Weru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1003",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Paal Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1004",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Perkamil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1005",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Malendeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1006",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Dendengan Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.71.11.1007",
+    "district_id": "71.71.11",
+    "regency_id": "71.71",
+    "province_id": "71",
+    "name": "Dendengan Luar",
+    "type": "KELURAHAN"
+  }
+]

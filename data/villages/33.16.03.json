@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.16.03.2001",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Megeri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2002",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Nglebak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2003",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Getas",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2004",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Nginggil",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2005",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Ngrawoh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2006",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Mendenrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2007",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Sumber",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2008",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Mojorembun",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2009",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Nglungger",
+    "type": "DESA"
+  },
+  {
+    "id": "33.16.03.2010",
+    "district_id": "33.16.03",
+    "regency_id": "33.16",
+    "province_id": "33",
+    "name": "Medalem",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17.02.19.1001",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kepala Siring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1002",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Talang Rimbo Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1003",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Talang Rimbo Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1004",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Siderejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1005",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kampung Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1006",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Bang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1007",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Pelabuhan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1008",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Batu Galing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.1009",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Banyu Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.19.2010",
+    "district_id": "17.02.19",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Merah",
+    "type": "DESA"
+  }
+]

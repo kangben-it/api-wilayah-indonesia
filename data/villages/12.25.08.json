@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.25.08.2001",
+    "district_id": "12.25.08",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Bukit Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.08.2002",
+    "district_id": "12.25.08",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Lawelu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.08.2003",
+    "district_id": "12.25.08",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Saloo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.08.2004",
+    "district_id": "12.25.08",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hilisangawola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.25.08.2005",
+    "district_id": "12.25.08",
+    "regency_id": "12.25",
+    "province_id": "12",
+    "name": "Hilibadalu",
+    "type": "DESA"
+  }
+]

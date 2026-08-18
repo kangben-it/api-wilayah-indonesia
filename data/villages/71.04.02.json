@@ -1,0 +1,50 @@
+[
+  {
+    "id": "71.04.02.1005",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "B e o",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.02.1017",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Beo Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.02.1018",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Beo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.04.02.2011",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Bantik",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.02.2019",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Bengel",
+    "type": "DESA"
+  },
+  {
+    "id": "71.04.02.2020",
+    "district_id": "71.04.02",
+    "regency_id": "71.04",
+    "province_id": "71",
+    "name": "Bantik Lama",
+    "type": "DESA"
+  }
+]

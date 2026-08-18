@@ -1,0 +1,74 @@
+[
+  {
+    "id": "18.05.02.1008",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Menggala Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.05.02.1009",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Ujung Gunung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.05.02.1010",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Menggala Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.05.02.1011",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Menggala Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.05.02.2001",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Bujung Tenuk",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.02.2002",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Ujung Gunung Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.02.2007",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Astra Ksetra",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.02.2013",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Kagungan Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.05.02.2014",
+    "district_id": "18.05.02",
+    "regency_id": "18.05",
+    "province_id": "18",
+    "name": "Tiuh Tohou",
+    "type": "DESA"
+  }
+]

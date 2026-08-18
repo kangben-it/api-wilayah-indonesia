@@ -1,0 +1,210 @@
+[
+  {
+    "id": "16.07.03.1008",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Kayuara Kuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.03.1009",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Mulia Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.03.1012",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Pangkalan Balai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.03.1023",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Seterio",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.03.1033",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Kedondong Raye",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.03.2006",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Langkan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2007",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Pangkalan Panji",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2010",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Lubuk Saung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2011",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Ujung Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2013",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sidang Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2014",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Galang Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2015",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Petaling",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2016",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Rimba Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2017",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Pelajau Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2018",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Regan Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2019",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Suka Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2020",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2021",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanjung Menang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2022",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sri Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2024",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Pelajau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2025",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2026",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Terentang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2028",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanjung Kepayang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2034",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sukaraja Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2037",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Terlangu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.03.2038",
+    "district_id": "16.07.03",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Rimba Balai",
+    "type": "DESA"
+  }
+]

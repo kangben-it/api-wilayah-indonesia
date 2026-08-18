@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.09.18.1001",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Loba Pekan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.09.18.2002",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Loba Afd I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.18.2003",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Alang Bonbon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.18.2009",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sengon Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.18.2010",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Lobu Jiur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.18.2011",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Rawa Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.18.2013",
+    "district_id": "12.09.18",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Aek Loba",
+    "type": "DESA"
+  }
+]

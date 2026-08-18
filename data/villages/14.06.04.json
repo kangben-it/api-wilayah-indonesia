@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14.06.04.1001",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Tambusai Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.06.04.2002",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Tambusai Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2003",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Tambusai Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2004",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Batas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2005",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Talikumain",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2006",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2007",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Sungai Kumango",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2008",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Batang Kumu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2009",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Sialang Rindang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2010",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2011",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Lubuk Soting",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.04.2012",
+    "district_id": "14.06.04",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Tingkok",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.11.03.1001",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Coppo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.03.1002",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Mangempang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.03.1003",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Sumpang Binangae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.03.1004",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Sepee",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.03.1005",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Tuwung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.03.2006",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Palakka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.03.2007",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Tompo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.03.2008",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Anabanua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.03.2009",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Galung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.03.2010",
+    "district_id": "73.11.03",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Siawung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.01.15.2001",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kuala Sekampung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2002",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Baktirasa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2003",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Mandala Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2004",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sukapura",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2005",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sumber Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2006",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Marga Jasa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2007",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sumber Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2008",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Bandar Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2009",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kedaung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.15.2010",
+    "district_id": "18.01.15",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Margasari",
+    "type": "DESA"
+  }
+]

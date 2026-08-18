@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.26.11.1001",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tallunglipu Matalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.1002",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tallunglipu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.1003",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tampo Tallunglipu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.1004",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tagari Tallunglipu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.1005",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tantanan Tallunglipu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.1007",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Rante PakuTallunglipu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.11.2006",
+    "district_id": "73.26.11",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Buntu Tallunglipu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "16.10.04.1030",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Indralaya Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.04.1031",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Indralaya Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.04.1032",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Indralaya Mulia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.10.04.2005",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Lubuk Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2006",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Gelam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2007",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2008",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Sejaro",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2009",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sakatiga Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2010",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Muara P. Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2012",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tanjung Seteko",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2013",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Saka Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2014",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Banding",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2015",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Muara P. Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2016",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Talang Aur",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2017",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Bedil",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2018",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Penyandingan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2019",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sudimampir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2027",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ulak Segelung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2028",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sejaro Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.04.2029",
+    "district_id": "16.10.04",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Tunas Aur",
+    "type": "DESA"
+  }
+]

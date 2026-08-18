@@ -1,0 +1,58 @@
+[
+  {
+    "id": "13.06.07.2001",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Batu Taba",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2002",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Biaro Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2003",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Lambah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2004",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Panampuang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2005",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Ampang Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2006",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Pasia",
+    "type": "DESA"
+  },
+  {
+    "id": "13.06.07.2008",
+    "district_id": "13.06.07",
+    "regency_id": "13.06",
+    "province_id": "13",
+    "name": "Balai Gurah",
+    "type": "DESA"
+  }
+]

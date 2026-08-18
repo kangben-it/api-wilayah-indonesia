@@ -1,0 +1,58 @@
+[
+  {
+    "id": "93.03.04.1001",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Bade",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "93.03.04.2002",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Geturki",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.04.2003",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Mememu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.04.2004",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Gimikya",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.04.2005",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Banamepe",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.04.2006",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Yodom",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.04.2007",
+    "district_id": "93.03.04",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Isyaman",
+    "type": "DESA"
+  }
+]

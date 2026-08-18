@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.08.07.1008",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sindar Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.07.2001",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sambosar Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2002",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Panduman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2003",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Ambarokan Panei Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2004",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Tonang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2005",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bah Bulian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2006",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bangun Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2007",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Durian Banggal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2008",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sorba Dolog",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2009",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Gunung Datas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2010",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Puli Buah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2011",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Banu Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2012",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Marubun Siboras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.07.2013",
+    "district_id": "12.08.07",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Banjaran",
+    "type": "DESA"
+  }
+]

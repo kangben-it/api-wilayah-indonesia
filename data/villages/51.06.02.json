@@ -1,0 +1,74 @@
+[
+  {
+    "id": "51.06.02.1003",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Bebalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.06.02.1004",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Kawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.06.02.1005",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Cempaga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.06.02.1006",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Kubu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.06.02.2001",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Bunutin",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.02.2002",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Tamanbali",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.02.2007",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Kayubihi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.02.2008",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Pengotan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.02.2009",
+    "district_id": "51.06.02",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Landih",
+    "type": "DESA"
+  }
+]

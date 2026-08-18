@@ -1,0 +1,74 @@
+[
+  {
+    "id": "33.10.25.1001",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Bareng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.1002",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Kabupaten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.1003",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Klaten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.1004",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Tonggalan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.1006",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Buntalan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.1008",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Mojayan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.10.25.2005",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Semangkak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.25.2007",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Jomboran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.25.2009",
+    "district_id": "33.10.25",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Gumulan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "53.15.05.1024",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Wae Kelambu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.05.1025",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Labuan Bajo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.15.05.2001",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Komodo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2002",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2003",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Pasir Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2004",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Golo Mori",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2005",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Warloka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2007",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Golo Bilas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2008",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Macang Tanggar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2009",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Watu Nggelek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2015",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Golo Pongkor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2016",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Nggorang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2018",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Papa Garang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2019",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Batu Cermin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2020",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Gorontalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2022",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Tiwu Nampar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2026",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Seraya Marannu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2027",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Compang Longgo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.05.2028",
+    "district_id": "53.15.05",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Pantar",
+    "type": "DESA"
+  }
+]

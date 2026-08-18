@@ -1,0 +1,50 @@
+[
+  {
+    "id": "33.02.26.1001",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Sokanegara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.26.1002",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Kranji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.26.1003",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Purwokerto Lor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.26.1004",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Purwokerto Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.26.1005",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Mersi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.02.26.1006",
+    "district_id": "33.02.26",
+    "regency_id": "33.02",
+    "province_id": "33",
+    "name": "Arcawinangun",
+    "type": "KELURAHAN"
+  }
+]

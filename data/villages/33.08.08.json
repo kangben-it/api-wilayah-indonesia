@@ -1,0 +1,114 @@
+[
+  {
+    "id": "33.08.08.1014",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Muntilan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.08.08.2001",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2002",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sokorini",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2003",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sriwedari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2004",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Congkrang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2005",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Adikarto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2006",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Menayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2007",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Keji",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2008",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Ngawen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2009",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Gunungpring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2010",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Pucungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2011",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Tamanagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2012",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Gondosuli",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.08.2013",
+    "district_id": "33.08.08",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sedayu",
+    "type": "DESA"
+  }
+]

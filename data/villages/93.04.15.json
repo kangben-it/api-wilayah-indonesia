@@ -1,0 +1,82 @@
+[
+  {
+    "id": "93.04.15.2001",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Kawem",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2002",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Hahare",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2003",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Aikut",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2004",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sanem",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2005",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Kaipom",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2006",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Airo Sapem",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2007",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Simipit",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2008",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Heiyaram",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2009",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Wagasu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.15.2010",
+    "district_id": "93.04.15",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sasime",
+    "type": "DESA"
+  }
+]

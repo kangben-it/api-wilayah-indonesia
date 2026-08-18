@@ -1,0 +1,122 @@
+[
+  {
+    "id": "35.14.14.1001",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kolursari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1002",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kiduldalem",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1003",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Pogar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1004",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1005",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Bendomungal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1006",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kersikan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1007",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Gempeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1008",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Dermo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1009",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Latek",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1012",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kalianyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.1014",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Kalirejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.14.2010",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Masangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.14.2011",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Raci",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.14.2013",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Manaruwi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.14.2015",
+    "district_id": "35.14.14",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Tambakan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.72.09.1001",
+    "district_id": "64.72.09",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Karang Mumus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1002",
+    "district_id": "64.72.09",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Pelabuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1003",
+    "district_id": "64.72.09",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Pasar Pagi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1004",
+    "district_id": "64.72.09",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.09.1005",
+    "district_id": "64.72.09",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sungai Pinang Luar",
+    "type": "KELURAHAN"
+  }
+]

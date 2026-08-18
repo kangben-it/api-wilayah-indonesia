@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.13.24.2001",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Anggasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2002",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Batangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2003",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2004",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Mandalawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2005",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Curugreja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2006",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sukareja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.24.2007",
+    "district_id": "32.13.24",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sukasari",
+    "type": "DESA"
+  }
+]

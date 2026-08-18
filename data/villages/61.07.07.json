@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61.07.07.2001",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Jagoi",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.07.2002",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Kumba",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.07.2006",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sekida",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.07.2007",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Gersik",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.07.2008",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Semunying Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.07.2009",
+    "district_id": "61.07.07",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sinar Baru",
+    "type": "DESA"
+  }
+]

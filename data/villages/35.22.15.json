@@ -1,0 +1,146 @@
+[
+  {
+    "id": "35.22.15.1001",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Jetak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1004",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Mojokampung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1005",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kepatihan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1006",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Sumbang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1007",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Klangon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1009",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Ledok Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1010",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Ledok Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1011",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kadipaten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1012",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Ngrowo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1013",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Karangpacar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.1014",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Banjarejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.22.15.2002",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Pacul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2003",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Sukorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2008",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kauman",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2015",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Campurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2016",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Mulyoagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2017",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kalirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.15.2018",
+    "district_id": "35.22.15",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Semanding",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13.05.03.2001",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Kapalo Koto",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2002",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Pauh Kambar",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2003",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Padang Bintungan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2004",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Kurai Taji",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2005",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Sunua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2006",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Padang Kandang Pulau Air Padang Bintungan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2007",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Sunua Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2008",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Sunua Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.03.2009",
+    "district_id": "13.05.03",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Kurai Taji Timur",
+    "type": "DESA"
+  }
+]

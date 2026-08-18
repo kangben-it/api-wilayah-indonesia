@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.07.29.2001",
+    "district_id": "32.07.29",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Cimaragas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.29.2002",
+    "district_id": "32.07.29",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Beber",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.29.2003",
+    "district_id": "32.07.29",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Raksabaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.29.2004",
+    "district_id": "32.07.29",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Bojongmalang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.29.2005",
+    "district_id": "32.07.29",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Jayaraksa",
+    "type": "DESA"
+  }
+]

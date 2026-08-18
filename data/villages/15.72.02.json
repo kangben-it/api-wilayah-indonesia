@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15.72.02.2001",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Renah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2002",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Keras",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2003",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Bento",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2004",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Lolo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2005",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2008",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Koto Duo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2010",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Sungai Liuk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2011",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Seberang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.72.02.2015",
+    "district_id": "15.72.02",
+    "regency_id": "15.72",
+    "province_id": "15",
+    "name": "Sumur Gedang",
+    "type": "DESA"
+  }
+]

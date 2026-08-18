@@ -1,0 +1,58 @@
+[
+  {
+    "id": "81.06.11.2002",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Sanahu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2003",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Wasia",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2004",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Sumeith Pasinaro",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2005",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Watui",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2006",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Abio Ahiolo",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2007",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Huku Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.11.2008",
+    "district_id": "81.06.11",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Elpaputih",
+    "type": "DESA"
+  }
+]

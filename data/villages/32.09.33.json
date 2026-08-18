@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.09.33.2001",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sukadana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2002",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pabuaran Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2003",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pabuaran Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2004",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pabuaran Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2005",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Jatirenggang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2006",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Hulubanteng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.33.2007",
+    "district_id": "32.09.33",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Hulubanteng Lor",
+    "type": "DESA"
+  }
+]

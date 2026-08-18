@@ -1,0 +1,58 @@
+[
+  {
+    "id": "76.03.13.1001",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Nosu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.13.2002",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Minanga",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.13.2003",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Batupapan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.13.2004",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Masewwe",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.13.2005",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Siwi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.13.2006",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Minanga Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.13.2007",
+    "district_id": "76.03.13",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Parinding",
+    "type": "DESA"
+  }
+]

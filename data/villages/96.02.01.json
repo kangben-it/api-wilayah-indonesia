@@ -1,0 +1,130 @@
+[
+  {
+    "id": "96.02.01.1002",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Kaibus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.02.01.1003",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Kohoin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "96.02.01.2001",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wersar",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2004",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wehali",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2005",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Aibobor",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2006",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wermit",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2007",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Keyen",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2008",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Siribau",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2009",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Magis",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2010",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Tegirolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2011",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wernas",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2012",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Tapiri",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2013",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Gorolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2014",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Nambro",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2015",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Seyolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.01.2016",
+    "district_id": "96.02.01",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Ani Sesna",
+    "type": "DESA"
+  }
+]

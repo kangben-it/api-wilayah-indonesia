@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.10.02.1001",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Bakaran Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1002",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sioldengan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1003",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Urung Kompas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1004",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Ujung Bandar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1005",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sigambal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1006",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Lobusona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1007",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Pardamean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1008",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Danau Bale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.10.02.1009",
+    "district_id": "12.10.02",
+    "regency_id": "12.10",
+    "province_id": "12",
+    "name": "Sidorejo",
+    "type": "KELURAHAN"
+  }
+]

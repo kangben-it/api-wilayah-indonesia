@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.02.13.2001",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Parungkuda",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2002",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Palasari Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2003",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Kompa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2004",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Pondokkaso Landeuh",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2005",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sundawenang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2006",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongkokosan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2007",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Langesari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.13.2008",
+    "district_id": "32.02.13",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Babakanjaya",
+    "type": "DESA"
+  }
+]

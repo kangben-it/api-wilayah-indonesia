@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.03.07.2001",
+    "district_id": "64.03.07",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pegat Batumbuk",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.07.2002",
+    "district_id": "64.03.07",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Teluk Semanting",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.07.2003",
+    "district_id": "64.03.07",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tanjung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.07.2004",
+    "district_id": "64.03.07",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pulau Derawan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.07.2009",
+    "district_id": "64.03.07",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Kasai",
+    "type": "DESA"
+  }
+]

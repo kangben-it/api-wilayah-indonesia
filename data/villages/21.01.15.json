@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.01.15.1003",
+    "district_id": "21.01.15",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Teluk Lobam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.15.1005",
+    "district_id": "21.01.15",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Tanjung Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.01.15.2001",
+    "district_id": "21.01.15",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Busung",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.15.2002",
+    "district_id": "21.01.15",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Teluk Sasah",
+    "type": "DESA"
+  },
+  {
+    "id": "21.01.15.2004",
+    "district_id": "21.01.15",
+    "regency_id": "21.01",
+    "province_id": "21",
+    "name": "Kuala Sempang",
+    "type": "DESA"
+  }
+]

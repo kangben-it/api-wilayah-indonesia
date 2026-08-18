@@ -1,0 +1,66 @@
+[
+  {
+    "id": "64.02.03.2001",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Bakungan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2002",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Duri Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2003",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Janan Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2004",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Purwajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2005",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Tani Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2006",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Batuah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2007",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Loa Duri Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "64.02.03.2008",
+    "district_id": "64.02.03",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Tani Harapan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.02.03.2001",
+    "district_id": "34.02.03",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Tirtomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.03.2002",
+    "district_id": "34.02.03",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Parangtritis",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.03.2003",
+    "district_id": "34.02.03",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Donotirto",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.03.2004",
+    "district_id": "34.02.03",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Tirtosari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.03.2005",
+    "district_id": "34.02.03",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Tirtohargo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92.03.06.2001",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Malakuli",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2002",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Faur",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2003",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kiaba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2004",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Antalisa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2005",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Tarak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2006",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Tuberwasak",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.06.2007",
+    "district_id": "92.03.06",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Mas",
+    "type": "DESA"
+  }
+]

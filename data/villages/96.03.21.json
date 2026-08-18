@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.03.21.2001",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Kalobo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2002",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Sakabu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2003",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Waibu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2004",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Waijan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2005",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Waimeci",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2006",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Wailabu",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.21.2007",
+    "district_id": "96.03.21",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Wailen",
+    "type": "DESA"
+  }
+]

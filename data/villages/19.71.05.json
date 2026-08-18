@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19.71.05.1001",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Taman Bunga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.05.1002",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Bukit Merapen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.05.1004",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Bukit Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.05.1005",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Tua Tunu Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.05.1006",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Kacang Pedang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.05.1007",
+    "district_id": "19.71.05",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Air Kepala Tujuh",
+    "type": "KELURAHAN"
+  }
+]

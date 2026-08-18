@@ -1,0 +1,82 @@
+[
+  {
+    "id": "36.03.07.2001",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Kronjo",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2002",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pagenjahan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2006",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasir",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2007",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Muncung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2008",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pagedangan Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2009",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pagedangan Udik",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2010",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasilian",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2013",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Bakung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2015",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Blukbuk",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.07.2017",
+    "district_id": "36.03.07",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cirumpak",
+    "type": "DESA"
+  }
+]

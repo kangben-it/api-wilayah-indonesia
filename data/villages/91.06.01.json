@@ -1,0 +1,178 @@
+[
+  {
+    "id": "91.06.01.1001",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sorido",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1002",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Waupnor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1003",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Saramon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1004",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Burokup",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1005",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Fandoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1006",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Mandala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.1016",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Yenures",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.06.01.2007",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Mnubabo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2008",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Swapodibo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2009",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Mokmer",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2010",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Inggiri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2011",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Parai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2012",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Samau",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2013",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Insrom",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2014",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Anggraidi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2015",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Manswam",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2017",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Sanumi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2018",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Manggandisapi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2019",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Karyendi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2020",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Kababur",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2021",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Babrinbo",
+    "type": "DESA"
+  },
+  {
+    "id": "91.06.01.2022",
+    "district_id": "91.06.01",
+    "regency_id": "91.06",
+    "province_id": "91",
+    "name": "Inggupi",
+    "type": "DESA"
+  }
+]

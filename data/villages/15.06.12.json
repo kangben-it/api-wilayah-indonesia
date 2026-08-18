@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.06.12.1001",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Betara Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.12.2002",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Dualap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2003",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Betara Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2004",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Gebar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2005",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Dataran Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2006",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Tanjung Pasir",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2007",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Gebar Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2008",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Dungun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2009",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Kuala Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.12.2010",
+    "district_id": "15.06.12",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Suak Labu",
+    "type": "DESA"
+  }
+]

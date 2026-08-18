@@ -1,0 +1,66 @@
+[
+  {
+    "id": "16.73.01.1001",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Air Kuti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1002",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Majapahit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1003",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Taba Jemekeh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1004",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Nikan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1005",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Taba Lestari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1007",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Batu Urip Taba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1015",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Taba Koji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.01.1016",
+    "district_id": "16.73.01",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Watervang",
+    "type": "KELURAHAN"
+  }
+]

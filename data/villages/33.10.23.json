@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.10.23.2001",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Jimbung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2002",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Ngemplak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2003",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Kalikotes",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2004",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Krajan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2005",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Tambongwetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2006",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Jogosetran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.10.23.2007",
+    "district_id": "33.10.23",
+    "regency_id": "33.10",
+    "province_id": "33",
+    "name": "Gemblegan",
+    "type": "DESA"
+  }
+]

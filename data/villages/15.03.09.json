@@ -1,0 +1,106 @@
+[
+  {
+    "id": "15.03.09.1001",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.09.2002",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bukit Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2003",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2004",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Payo Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2005",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bukit Murau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2006",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Perdamaian",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2007",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Pasar Singkut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2008",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Siliwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2009",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Simpang Nibung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2010",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bukit Talang Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2011",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bukit Bumi Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2012",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Argo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.09.2013",
+    "district_id": "15.03.09",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sendang Sari",
+    "type": "DESA"
+  }
+]

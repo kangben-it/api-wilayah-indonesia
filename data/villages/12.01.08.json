@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.01.08.1002",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sibabangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.08.2005",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Mombang Boru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.08.2006",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Anggoli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.08.2007",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Muara Sibuntuon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.08.2008",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sibio bio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.08.2010",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Simanosor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.08.2011",
+    "district_id": "12.01.08",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Hutagur-gur",
+    "type": "DESA"
+  }
+]

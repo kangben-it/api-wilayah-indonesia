@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92.08.05.2001",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Rauna",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2002",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Werafuta",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2003",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Ubia Sermuku",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2004",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Bahumia",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2005",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Waho",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2006",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Wamesa",
+    "type": "DESA"
+  },
+  {
+    "id": "92.08.05.2007",
+    "district_id": "92.08.05",
+    "regency_id": "92.08",
+    "province_id": "92",
+    "name": "Kooy",
+    "type": "DESA"
+  }
+]

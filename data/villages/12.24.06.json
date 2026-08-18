@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.24.06.2001",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Banua Sibohou III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.06.2002",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Harefanaese",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.06.2003",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilimbowo Kare",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.06.2004",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Laehuwa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.06.2005",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Mazingo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.24.06.2006",
+    "district_id": "12.24.06",
+    "regency_id": "12.24",
+    "province_id": "12",
+    "name": "Hilina'a",
+    "type": "DESA"
+  }
+]

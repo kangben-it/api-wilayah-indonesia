@@ -1,0 +1,82 @@
+[
+  {
+    "id": "73.01.04.2001",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Parak",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2002",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Barugaiya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2003",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Jambuiya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2004",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Mare-Mare",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2005",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Polebunging",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2006",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bonea Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2008",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bontomarannu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2010",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bonea Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2011",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Bontokoraang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.01.04.2012",
+    "district_id": "73.01.04",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Kaburu",
+    "type": "DESA"
+  }
+]

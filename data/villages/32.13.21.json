@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.13.21.2001",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Tegalurung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2002",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Bobos",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2003",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Legonkulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2004",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Mayangan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2005",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Legonwetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2006",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pangarengan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.21.2007",
+    "district_id": "32.13.21",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Karangmulya",
+    "type": "DESA"
+  }
+]

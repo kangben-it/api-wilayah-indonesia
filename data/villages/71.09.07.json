@@ -1,0 +1,42 @@
+[
+  {
+    "id": "71.09.07.2001",
+    "district_id": "71.09.07",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Buang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.07.2002",
+    "district_id": "71.09.07",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Karungo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.07.2003",
+    "district_id": "71.09.07",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Lamanggo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.07.2004",
+    "district_id": "71.09.07",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Dalinsaheng",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.07.2005",
+    "district_id": "71.09.07",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Tope",
+    "type": "DESA"
+  }
+]

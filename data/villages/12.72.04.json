@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.72.04.1001",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Toba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.04.1002",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Karo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.04.1003",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Simalungun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.04.1004",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Martimbang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.04.1005",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Kristen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.04.1006",
+    "district_id": "12.72.04",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Aek Nauli",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "74.02.32.1001",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Bungguosu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.32.1002",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tudaone",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.32.1003",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Konawe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.32.1004",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tawanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.32.2005",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sanggona",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2006",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Uelawu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2007",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Mokowu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2008",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Uete",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2009",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Hudoa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2010",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Wonua Mbae",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2011",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Asoniwowo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.32.2012",
+    "district_id": "74.02.32",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Puuwonua",
+    "type": "DESA"
+  }
+]

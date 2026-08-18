@@ -1,0 +1,106 @@
+[
+  {
+    "id": "92.12.01.2001",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Iraiweri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2002",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Igembai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2003",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Imbai",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2004",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Suteibey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2005",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Susi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2006",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Ullong",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2007",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Mentubey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2008",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Ayaubey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2009",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Testega Pamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2010",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Pamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2011",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Uper",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2012",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Hungku",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.01.2013",
+    "district_id": "92.12.01",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Srubey",
+    "type": "DESA"
+  }
+]

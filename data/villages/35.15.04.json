@@ -1,0 +1,122 @@
+[
+  {
+    "id": "35.15.04.1003",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Porong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.04.1004",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Juwetkenongo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.04.1006",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Gedang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.15.04.2001",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kebonagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2002",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kedungsolo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2007",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kesambi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2008",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kebakalan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2009",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Lajuk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2010",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Kedungboto",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2011",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Candipari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2012",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pamotan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2015",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Glagaharum",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2016",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Plumbon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2018",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Wunut",
+    "type": "DESA"
+  },
+  {
+    "id": "35.15.04.2019",
+    "district_id": "35.15.04",
+    "regency_id": "35.15",
+    "province_id": "35",
+    "name": "Pesawahan",
+    "type": "DESA"
+  }
+]

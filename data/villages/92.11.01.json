@@ -1,0 +1,106 @@
+[
+  {
+    "id": "92.11.01.2001",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Ransiki",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2002",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Nuhuwei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2003",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Yamboi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2004",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Tobou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2005",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Sabri",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2006",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Bamaha",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2007",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Abreso",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2008",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Hamawi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2009",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Kobrey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2010",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Wamcei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2011",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Hamor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2012",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Susmorof",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.01.2013",
+    "district_id": "92.11.01",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Mambrema",
+    "type": "DESA"
+  }
+]

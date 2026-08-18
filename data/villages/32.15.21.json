@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.15.21.2001",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Majalaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2002",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Ciranggon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2003",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pasirjengkol",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2005",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Sarijaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2006",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Pasirmulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2007",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Lemahmulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.21.2008",
+    "district_id": "32.15.21",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Bengle",
+    "type": "DESA"
+  }
+]

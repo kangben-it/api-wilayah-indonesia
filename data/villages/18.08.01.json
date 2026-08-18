@@ -1,0 +1,106 @@
+[
+  {
+    "id": "18.08.01.1005",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Blambangan Umpu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.08.01.2006",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Lembasung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2009",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Gunung Sangkaran",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2010",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Tanjung Raja Giham",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2011",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Segara Mider",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2012",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Umpu Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2013",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Sangkaran Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2014",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Bumi Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2015",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Tanjung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2016",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Sri Rejeki",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2017",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Karang Umpu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2018",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Umpu Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.08.01.2022",
+    "district_id": "18.08.01",
+    "regency_id": "18.08",
+    "province_id": "18",
+    "name": "Tanjung Raja Sakti",
+    "type": "DESA"
+  }
+]

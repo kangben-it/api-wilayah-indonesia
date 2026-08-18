@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.04.05.2001",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Sempan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2002",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wenin",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2003",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Noema",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2004",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wapu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2005",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Sumapro",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2006",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Wacakam",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2007",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Waituku",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2008",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Bulumen",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2009",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kanmapiri",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.05.2010",
+    "district_id": "94.04.05",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Jaitak",
+    "type": "DESA"
+  }
+]

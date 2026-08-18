@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.11.22.2001",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Lumutan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2002",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Botolinggo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2003",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Lanas",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2004",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Penang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2005",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Gayam",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2006",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Klekehan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2007",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Sumber Canting",
+    "type": "DESA"
+  },
+  {
+    "id": "35.11.22.2008",
+    "district_id": "35.11.22",
+    "regency_id": "35.11",
+    "province_id": "35",
+    "name": "Gayam Lor",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17.01.09.2001",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Batu Panco",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2002",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Batu Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2003",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Bandar Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2004",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Merambung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2005",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Simpang Pino",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2006",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Talang Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2007",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Keban Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2008",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Lubuk Tapi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2009",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Kayu Ajaran",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.09.2010",
+    "district_id": "17.01.09",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Air Tenam",
+    "type": "DESA"
+  }
+]

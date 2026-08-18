@@ -1,0 +1,210 @@
+[
+  {
+    "id": "16.11.04.1010",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Kupang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.1013",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Tanjungkupang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.1014",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Tanjung Makmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.1017",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Ps. Tebing Tinggi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.1033",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Jaya Loka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.1036",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Kelumpang Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.11.04.2001",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Ujung Alih",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2002",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Lb. Gelanggang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2003",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Ulak Mengkudu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2004",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Batu Pance",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2005",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Aur Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2006",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Terusan Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2007",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Terusan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2008",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Rantau Tenang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2009",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Seguring Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2011",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Kemang Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2012",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Lampar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2021",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Kota Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2022",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Batu Raja Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2023",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Batu Raja Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2024",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Sugi Waras",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2027",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2030",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Fajar Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2032",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Pancur Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2034",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Makarti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.11.04.2035",
+    "district_id": "16.11.04",
+    "regency_id": "16.11",
+    "province_id": "16",
+    "name": "Tanjung Kupang Baru",
+    "type": "DESA"
+  }
+]

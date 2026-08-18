@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.72.02.1001",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cikole",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.02.1002",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Selabatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.02.1003",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Gunung Parang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.02.1004",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Kebonjati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.02.1005",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Cisarua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.72.02.1006",
+    "district_id": "32.72.02",
+    "regency_id": "32.72",
+    "province_id": "32",
+    "name": "Subangjaya",
+    "type": "KELURAHAN"
+  }
+]

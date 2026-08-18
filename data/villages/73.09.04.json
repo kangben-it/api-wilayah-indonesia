@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.09.04.1001",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Baji Pa'mai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.1002",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Pallantikang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.1003",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Baju Bodoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.04.2004",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Borikamase",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2005",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Mattirotasi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2006",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Majannang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.04.2007",
+    "district_id": "73.09.04",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Borimasunggu",
+    "type": "DESA"
+  }
+]

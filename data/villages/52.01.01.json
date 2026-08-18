@@ -1,0 +1,114 @@
+[
+  {
+    "id": "52.01.01.1001",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Gerung Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.01.01.1004",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Dasan Geres",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.01.01.1011",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Gerung Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "52.01.01.2002",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Kebon Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2003",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Gapuk",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2005",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2006",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Banyu Urip",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2007",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Babussalam",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2008",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Dasan Tapen",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2009",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Beleka",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2010",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Tempos",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2012",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Mesanggok",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2013",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Taman Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.01.2014",
+    "district_id": "52.01.01",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Giri Tembesi",
+    "type": "DESA"
+  }
+]

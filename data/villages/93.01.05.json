@@ -1,0 +1,82 @@
+[
+  {
+    "id": "93.01.05.2001",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Matara",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2002",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Waninggap Nanggo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2003",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Urumb",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2004",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Sido Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2005",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kuprik",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2006",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kuper",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2007",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Semangga Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2008",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Marga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2009",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Muram Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.05.2010",
+    "district_id": "93.01.05",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Waninggap Kai",
+    "type": "DESA"
+  }
+]

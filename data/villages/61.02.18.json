@@ -1,0 +1,66 @@
+[
+  {
+    "id": "61.02.18.1001",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pulau Pedalaman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.18.1002",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pasir Wan Salim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.18.2003",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Antibar",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.18.2004",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sejegi",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.18.2005",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pasir Palembang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.18.2006",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pasir Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.18.2007",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Sungai Bakau Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.18.2008",
+    "district_id": "61.02.18",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Parit Banjar",
+    "type": "DESA"
+  }
+]

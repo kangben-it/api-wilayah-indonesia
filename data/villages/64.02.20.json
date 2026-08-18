@@ -1,0 +1,82 @@
+[
+  {
+    "id": "64.02.20.1001",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Bukit Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1002",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Sungai Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1003",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Karya Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1005",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Amborawang Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1006",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Argo Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1007",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Salok Api Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1008",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Salok Api Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1009",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Amborawang Laut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.1010",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Margomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.02.20.2004",
+    "district_id": "64.02.20",
+    "regency_id": "64.02",
+    "province_id": "64",
+    "name": "Tani Bhakti",
+    "type": "DESA"
+  }
+]

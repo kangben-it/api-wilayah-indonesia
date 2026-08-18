@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.74.04.1001",
+    "district_id": "12.74.04",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Sei Merbau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1002",
+    "district_id": "12.74.04",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Pematang Pasir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1003",
+    "district_id": "12.74.04",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Perjuangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1004",
+    "district_id": "12.74.04",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Kapias Pulau Buaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.74.04.1005",
+    "district_id": "12.74.04",
+    "regency_id": "12.74",
+    "province_id": "12",
+    "name": "Beting Kuala Kapias",
+    "type": "KELURAHAN"
+  }
+]

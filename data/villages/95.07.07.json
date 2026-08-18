@@ -1,0 +1,82 @@
+[
+  {
+    "id": "95.07.07.2001",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Tima",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2002",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Balime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2003",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Balingga",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2004",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2005",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Timonikime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2006",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Binolanggen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2007",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Dewaka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2008",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Yialo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2009",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Towewak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.07.2010",
+    "district_id": "95.07.07",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Yumaneri",
+    "type": "DESA"
+  }
+]

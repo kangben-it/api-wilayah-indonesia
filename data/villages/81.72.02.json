@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.72.02.1003",
+    "district_id": "81.72.02",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Ketsoblak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.1004",
+    "district_id": "81.72.02",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Masrum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.1005",
+    "district_id": "81.72.02",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Lodar El",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.72.02.2001",
+    "district_id": "81.72.02",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Tual",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.02.2002",
+    "district_id": "81.72.02",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Taar",
+    "type": "DESA"
+  }
+]

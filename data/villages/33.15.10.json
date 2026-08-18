@@ -1,0 +1,114 @@
+[
+  {
+    "id": "33.15.10.1006",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Wirosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.15.10.1007",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Kunden",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.15.10.2001",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Tambahrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2002",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Kropak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2003",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Kalirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2004",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Dapurno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2005",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Mojorebo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2008",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Tanjungrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2009",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2010",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Gedangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2011",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Tambakselo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2012",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Karangasem",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2013",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Dokoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.10.2014",
+    "district_id": "33.15.10",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Tegalrejo",
+    "type": "DESA"
+  }
+]

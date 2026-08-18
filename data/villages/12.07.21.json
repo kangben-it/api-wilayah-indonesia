@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.07.21.2001",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lantasan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2002",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Patumbak I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2003",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Patumbak II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2004",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lantasan Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2005",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sigara-gara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2006",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Marindal I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2007",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Marindal II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.21.2008",
+    "district_id": "12.07.21",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Patumbak Kampung",
+    "type": "DESA"
+  }
+]

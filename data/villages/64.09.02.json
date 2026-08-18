@@ -1,0 +1,34 @@
+[
+  {
+    "id": "64.09.02.1003",
+    "district_id": "64.09.02",
+    "regency_id": "64.09",
+    "province_id": "64",
+    "name": "Waru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.09.02.2001",
+    "district_id": "64.09.02",
+    "regency_id": "64.09",
+    "province_id": "64",
+    "name": "Api-api",
+    "type": "DESA"
+  },
+  {
+    "id": "64.09.02.2002",
+    "district_id": "64.09.02",
+    "regency_id": "64.09",
+    "province_id": "64",
+    "name": "Sesulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.09.02.2004",
+    "district_id": "64.09.02",
+    "regency_id": "64.09",
+    "province_id": "64",
+    "name": "Bangun Mulya",
+    "type": "DESA"
+  }
+]

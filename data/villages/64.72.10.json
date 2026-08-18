@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.72.10.1001",
+    "district_id": "64.72.10",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Simpang Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1002",
+    "district_id": "64.72.10",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Tani Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1003",
+    "district_id": "64.72.10",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Sengkotek",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1004",
+    "district_id": "64.72.10",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Harapan Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.72.10.1005",
+    "district_id": "64.72.10",
+    "regency_id": "64.72",
+    "province_id": "64",
+    "name": "Rapak Dalam",
+    "type": "KELURAHAN"
+  }
+]

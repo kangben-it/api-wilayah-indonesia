@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.04.02.1003",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Mengkatip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.04.02.2001",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Sungai Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2002",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Mahajandau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2004",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Kalanis",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2005",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Lehai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2006",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Damparan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2007",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Teluk Timbau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2008",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Batilap",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2009",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Batampang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.04.02.2010",
+    "district_id": "62.04.02",
+    "regency_id": "62.04",
+    "province_id": "62",
+    "name": "Mangkatir",
+    "type": "DESA"
+  }
+]

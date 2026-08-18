@@ -1,0 +1,74 @@
+[
+  {
+    "id": "36.01.32.2001",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Koranji",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2002",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Banjarwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2003",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sukasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2004",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Karyawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2005",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sukaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2006",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Kaduhejo",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2007",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Banjarnegara",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2008",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Sanghiangdengdek",
+    "type": "DESA"
+  },
+  {
+    "id": "36.01.32.2009",
+    "district_id": "36.01.32",
+    "regency_id": "36.01",
+    "province_id": "36",
+    "name": "Cilentung",
+    "type": "DESA"
+  }
+]

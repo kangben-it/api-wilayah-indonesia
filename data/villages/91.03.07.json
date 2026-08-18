@@ -1,0 +1,114 @@
+[
+  {
+    "id": "91.03.07.1021",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Tabri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.03.07.2001",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Gemebs",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2002",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Singgri",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2003",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Meyu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2004",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Benyom",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2005",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Oyengsi",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2006",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Singgriway",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2009",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Imsar",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2010",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Kuipons",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2014",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yenggu Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2015",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Yenggu Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2017",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Kuwase",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.2019",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Pobaim",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.07.3018",
+    "district_id": "91.03.07",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Ketemung",
+    "type": "DESA ADAT"
+  }
+]

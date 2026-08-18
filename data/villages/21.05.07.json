@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.05.07.2001",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Air Asuk",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.07.2002",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Air Sena",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.07.2003",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Teluk Siantan",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.07.2004",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Lidi",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.07.2005",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Liuk",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.07.2006",
+    "district_id": "21.05.07",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Teluk Sunting",
+    "type": "DESA"
+  }
+]

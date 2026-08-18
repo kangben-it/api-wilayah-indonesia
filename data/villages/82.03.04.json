@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.03.04.2001",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Soa-Sio",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2002",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Pune",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2003",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Mamuya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2016",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Toweka",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2024",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Simau",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2031",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Barataku",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.04.2032",
+    "district_id": "82.03.04",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Towara",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "96.04.10.2001",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Saukorem",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2002",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wefiani",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2003",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wasarak",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2004",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Binasi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2005",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Kabibwan",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2006",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Binmaks",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2007",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Manggapnut",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2008",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Waramui",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.10.2009",
+    "district_id": "96.04.10",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Warpaperi",
+    "type": "DESA"
+  }
+]

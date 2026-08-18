@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.04.06.2001",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Kenali",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2002",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Kejadian",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2003",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Bumi Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2004",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Turgak",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2005",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Bedudu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2006",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sukarame",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2007",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Hujung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2013",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Serungkuk",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2019",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.06.2020",
+    "district_id": "18.04.06",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Fajar Agung",
+    "type": "DESA"
+  }
+]

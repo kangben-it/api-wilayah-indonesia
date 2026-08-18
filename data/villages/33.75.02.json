@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.75.02.1002",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Noyontaansari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1004",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1007",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Poncol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1008",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Klego",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1009",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Gamer",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1010",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Setono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.02.1012",
+    "district_id": "33.75.02",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Kali Baros",
+    "type": "KELURAHAN"
+  }
+]

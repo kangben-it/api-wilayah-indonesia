@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.14.19.2001",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Katelan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2002",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Dukuh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2003",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Jekawal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2004",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Galeh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2005",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Ngrombo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2006",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Sigit",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.19.2007",
+    "district_id": "33.14.19",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Denanyar",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "82.03.05.2004",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Gamsungi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2005",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Gura",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2006",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Wari",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2012",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Kakara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2013",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Kumo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2014",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Gosoma",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2015",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Rawajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2018",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "MKCM",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2024",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Tagalaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.05.2025",
+    "district_id": "82.03.05",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Wari Ino",
+    "type": "DESA"
+  }
+]

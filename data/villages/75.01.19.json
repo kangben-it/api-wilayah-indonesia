@@ -1,0 +1,74 @@
+[
+  {
+    "id": "75.01.19.2001",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Tabongo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2002",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Tabongo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2003",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Limehe Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2004",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Limehe Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2005",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Ilomangga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2006",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Motinelo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2007",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Moahudu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2008",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Teratai",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.19.2009",
+    "district_id": "75.01.19",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Limehu",
+    "type": "DESA"
+  }
+]

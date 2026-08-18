@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16.09.11.2001",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Pius",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2002",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Pengandonan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2003",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Siring Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2004",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Simpang Campang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2005",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Pulau Kemiling",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2006",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Keban Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2007",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Muara Sindang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2008",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Campang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.11.2009",
+    "district_id": "16.09.11",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Tanjung Jati",
+    "type": "DESA"
+  }
+]

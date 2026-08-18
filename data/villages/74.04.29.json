@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.04.29.2001",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wasuemba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2002",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wabula",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2003",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wasampela",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2004",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Holimombo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2005",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Koholimembona",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2006",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Wabula Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.04.29.2007",
+    "district_id": "74.04.29",
+    "regency_id": "74.04",
+    "province_id": "74",
+    "name": "Bajo Bahari",
+    "type": "DESA"
+  }
+]

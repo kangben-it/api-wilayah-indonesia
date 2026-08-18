@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.09.14.2001",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sampiran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2002",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Ciperna",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2003",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kecomberan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2004",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cirebon Girang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2005",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kerandon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2006",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Wanasaba Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2007",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Wanasaba Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2008",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cempaka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2009",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kepongpongan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2010",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sarwadadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.14.2011",
+    "district_id": "32.09.14",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Kubang",
+    "type": "DESA"
+  }
+]

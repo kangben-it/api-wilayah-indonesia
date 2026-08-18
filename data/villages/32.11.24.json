@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.11.24.2001",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Tomo",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2002",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Tolengas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2003",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Darmawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2004",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Marongge",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2005",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Jembarwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2006",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Bugel",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2007",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cipeles",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2008",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Karyamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.24.2010",
+    "district_id": "32.11.24",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Mekarwangi",
+    "type": "DESA"
+  }
+]

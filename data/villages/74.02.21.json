@@ -1,0 +1,74 @@
+[
+  {
+    "id": "74.02.21.1003",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Laosu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.21.2002",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Pebunooha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2004",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalonggalaku",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2009",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Diolo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2018",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Pebunooha Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2023",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Rumbia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2028",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Rambu Kongga",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2029",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Laosu Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.21.2031",
+    "district_id": "74.02.21",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Langgaluku Timur",
+    "type": "DESA"
+  }
+]

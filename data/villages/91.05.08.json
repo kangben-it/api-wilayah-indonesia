@@ -1,0 +1,58 @@
+[
+  {
+    "id": "91.05.08.2001",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Waindu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2008",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Barawai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2009",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Woda",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2010",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Kororompui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2011",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Aisau",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2012",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Sewenui",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.08.2013",
+    "district_id": "91.05.08",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Sawendui",
+    "type": "DESA"
+  }
+]

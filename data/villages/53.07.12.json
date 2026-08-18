@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.07.12.2001",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Magepanda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2002",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Reroroja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2003",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Done",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2004",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kolisia",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2005",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kolisia B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2006",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Woda Mude",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2007",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Legu Woda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.12.2008",
+    "district_id": "53.07.12",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Waturia",
+    "type": "DESA"
+  }
+]

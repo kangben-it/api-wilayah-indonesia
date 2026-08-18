@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96.01.30.2001",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sailala",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.30.2002",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klawana",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.30.2003",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kladuk",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.30.2004",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klawon",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.30.2005",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klakak",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.30.2006",
+    "district_id": "96.01.30",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klalwok",
+    "type": "DESA"
+  }
+]

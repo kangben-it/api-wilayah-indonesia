@@ -1,0 +1,130 @@
+[
+  {
+    "id": "35.05.03.1004",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Togogan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.03.1007",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Srengat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.03.1009",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Dandong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.03.1010",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.03.2001",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Karanggayam",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2002",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Dermojayan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2003",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kerjen",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2005",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Pakisrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2006",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Purwokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2008",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Wonorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2011",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Maron",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2012",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Bagelenan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2013",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kandangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2014",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kendalrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2015",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Selokajang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.03.2016",
+    "district_id": "35.05.03",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Ngaglik",
+    "type": "DESA"
+  }
+]

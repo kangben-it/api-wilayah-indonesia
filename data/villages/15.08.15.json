@@ -1,0 +1,42 @@
+[
+  {
+    "id": "15.08.15.2001",
+    "district_id": "15.08.15",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Pelayang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.15.2002",
+    "district_id": "15.08.15",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Peninjau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.15.2003",
+    "district_id": "15.08.15",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Talang Silungko",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.15.2004",
+    "district_id": "15.08.15",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Pulau Kerakap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.08.15.2005",
+    "district_id": "15.08.15",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Seberang Jaya",
+    "type": "DESA"
+  }
+]

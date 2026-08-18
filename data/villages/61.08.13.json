@@ -1,0 +1,58 @@
+[
+  {
+    "id": "61.08.13.2001",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Sompak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2002",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2003",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Lingkonong",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2004",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Galar",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2005",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Amawakng",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2006",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Tapakng",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.13.2007",
+    "district_id": "61.08.13",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Pakumbang",
+    "type": "DESA"
+  }
+]

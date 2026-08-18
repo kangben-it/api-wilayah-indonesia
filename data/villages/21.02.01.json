@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.02.01.1003",
+    "district_id": "21.02.01",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Moro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.01.1010",
+    "district_id": "21.02.01",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Moro Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.01.2004",
+    "district_id": "21.02.01",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.01.2009",
+    "district_id": "21.02.01",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Jang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.01.2014",
+    "district_id": "21.02.01",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Pulau Moro",
+    "type": "DESA"
+  }
+]

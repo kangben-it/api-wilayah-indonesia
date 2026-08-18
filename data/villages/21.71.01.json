@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.71.01.1002",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Pemping",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.01.1003",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Kasu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.01.1004",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Pulau Terung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.01.1005",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Pecong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.01.1006",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tanjung Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.01.1007",
+    "district_id": "21.71.01",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Sekanak Raya",
+    "type": "KELURAHAN"
+  }
+]

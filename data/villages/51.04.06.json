@@ -1,0 +1,58 @@
+[
+  {
+    "id": "51.04.06.2001",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Keliki",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2002",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Tegallalang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2003",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Kenderan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2004",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Kedisan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2005",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Pupuan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2006",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Sebatu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.06.2007",
+    "district_id": "51.04.06",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Taro",
+    "type": "DESA"
+  }
+]

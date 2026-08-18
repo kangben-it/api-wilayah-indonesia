@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.04.37.2001",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Soreang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2002",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sadu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2004",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Panyirapan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2010",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukajadi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2011",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Pamekaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2017",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Karamatmulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2018",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukanagara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2019",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cingcin",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2020",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Parungserab",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.37.2021",
+    "district_id": "32.04.37",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sekarwangi",
+    "type": "DESA"
+  }
+]

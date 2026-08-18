@@ -1,0 +1,66 @@
+[
+  {
+    "id": "96.02.03.2001",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Sawiat",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2002",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Sasnek",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2003",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Elles",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2004",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Sodrofoyo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2005",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Sfakyo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2006",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wensough",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2007",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Ween",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.03.2008",
+    "district_id": "96.02.03",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wendi",
+    "type": "DESA"
+  }
+]

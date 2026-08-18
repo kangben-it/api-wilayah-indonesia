@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.12.01.1001",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Labessi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.01.1002",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Tettikenrarae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.12.01.2003",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Gattareng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2004",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Watu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2005",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Goarie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2006",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Barae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2007",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Marioriaja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2008",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Marioritengnga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2009",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Mariorilau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2010",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Watu Toa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2011",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Congko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2012",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Gattareng Toa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.12.01.2013",
+    "district_id": "73.12.01",
+    "regency_id": "73.12",
+    "province_id": "73",
+    "name": "Soga",
+    "type": "DESA"
+  }
+]

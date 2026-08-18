@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.19.07.2001",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Kwala Sikasim",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2002",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sei Balai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2004",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2005",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Sei Balai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2007",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Suka Ramai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2008",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sei Bejangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2009",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mekar Mulio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2010",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Sei Bejangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2012",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Benteng Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2013",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Tanah Timbul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2014",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perjuangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2015",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sidomulio",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2016",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mekar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.07.2017",
+    "district_id": "12.19.07",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Suko Rejo",
+    "type": "DESA"
+  }
+]

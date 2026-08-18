@@ -1,0 +1,178 @@
+[
+  {
+    "id": "16.02.02.1011",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Lubuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.02.02.2001",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Ulak Kapal",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2002",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Merindu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2003",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2004",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Seritanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2005",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Pengaraian",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2006",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Sukarami",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2008",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2010",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Pulau Gemantung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2012",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Bumiagung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2013",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Kotabumi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2014",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2015",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Laga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2016",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2017",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Ulak Balam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2018",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Jambu Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2031",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Jukdadak",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2032",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Atar Balam",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2033",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Tanjung Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2034",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Pulau Gemantung Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2035",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Pulau Gemantung Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.02.02.2036",
+    "district_id": "16.02.02",
+    "regency_id": "16.02",
+    "province_id": "16",
+    "name": "Pulau Gemantung Darat",
+    "type": "DESA"
+  }
+]

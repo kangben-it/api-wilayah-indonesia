@@ -1,0 +1,26 @@
+[
+  {
+    "id": "73.01.01.1001",
+    "district_id": "73.01.01",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Benteng Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.01.01.1002",
+    "district_id": "73.01.01",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.01.01.1003",
+    "district_id": "73.01.01",
+    "regency_id": "73.01",
+    "province_id": "73",
+    "name": "Benteng Selatan",
+    "type": "KELURAHAN"
+  }
+]

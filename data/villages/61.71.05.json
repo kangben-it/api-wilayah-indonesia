@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.71.05.1001",
+    "district_id": "61.71.05",
+    "regency_id": "61.71",
+    "province_id": "61",
+    "name": "Sungaibangkong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.71.05.1002",
+    "district_id": "61.71.05",
+    "regency_id": "61.71",
+    "province_id": "61",
+    "name": "Daratsekip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.71.05.1003",
+    "district_id": "61.71.05",
+    "regency_id": "61.71",
+    "province_id": "61",
+    "name": "Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.71.05.1004",
+    "district_id": "61.71.05",
+    "regency_id": "61.71",
+    "province_id": "61",
+    "name": "Mariana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.71.05.1005",
+    "district_id": "61.71.05",
+    "regency_id": "61.71",
+    "province_id": "61",
+    "name": "Sungaijawi",
+    "type": "KELURAHAN"
+  }
+]

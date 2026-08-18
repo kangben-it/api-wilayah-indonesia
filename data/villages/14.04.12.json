@@ -1,0 +1,130 @@
+[
+  {
+    "id": "14.04.12.1006",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kuala Lahang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.12.2001",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Terusan Kempas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2002",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Lahang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2003",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Simpang Gaung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2004",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Belantaraya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2005",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungaibaru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2007",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Lahang Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2008",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Lahang Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2009",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pungkat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2010",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Jerambang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2011",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukkabung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2012",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Gembira",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2013",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Semambu Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2014",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukmerbau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2015",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Soren",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.12.2016",
+    "district_id": "14.04.12",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pintasan",
+    "type": "DESA"
+  }
+]

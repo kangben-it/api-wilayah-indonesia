@@ -1,0 +1,66 @@
+[
+  {
+    "id": "13.74.02.1001",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Bukit Surungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1002",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Pasar Usang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1003",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Kampung Manggis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1004",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Silaing Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1005",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Silaing Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1006",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1007",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Tanah Hitam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.74.02.1008",
+    "district_id": "13.74.02",
+    "regency_id": "13.74",
+    "province_id": "13",
+    "name": "Balai-balai",
+    "type": "KELURAHAN"
+  }
+]

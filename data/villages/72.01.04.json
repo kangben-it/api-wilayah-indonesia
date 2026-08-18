@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.01.04.1009",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Luwuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1010",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1011",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Soho",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1012",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bungin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1031",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Karaton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1033",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kaleke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1034",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bungin Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.1035",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Mangkio Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.04.2008",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tontouan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.04.2013",
+    "district_id": "72.01.04",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Lumpoknyo",
+    "type": "DESA"
+  }
+]

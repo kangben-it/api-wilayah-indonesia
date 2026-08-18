@@ -1,0 +1,50 @@
+[
+  {
+    "id": "34.01.05.2001",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Wahyuharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.05.2002",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Bumirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.05.2003",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Jatirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.05.2004",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.05.2005",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Gulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.01.05.2006",
+    "district_id": "34.01.05",
+    "regency_id": "34.01",
+    "province_id": "34",
+    "name": "Ngentakrejo",
+    "type": "DESA"
+  }
+]

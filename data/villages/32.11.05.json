@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.11.05.2001",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cisitu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2002",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Situmekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2003",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Pajagan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2004",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cigintung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2005",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sundamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2006",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Linggajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2007",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Ranjeng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2008",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cilopang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2009",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cimarga",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.05.2010",
+    "district_id": "32.11.05",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cinangsi",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "11.07.14.2001",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2002",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Piala Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2003",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Hagu Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2004",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Baro Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2005",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Tanoh Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2006",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Kambuek Nicah Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2007",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Kambuek Payapi Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2008",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Seunadeu Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2009",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Blang Gunci Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2010",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Baroh Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2011",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Blang Geuleudieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2012",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Geulumpang Geuleudieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2013",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Geuleudieng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2014",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Sukon Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2015",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2016",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Cut Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2017",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Buloh Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2018",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Perlak Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2019",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Dayah Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2020",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Teungoh Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2021",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tuha Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2022",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tunong Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2023",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Buni Reulieng Peudaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2024",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Trieng Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2025",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Leuhob Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2026",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Jurong Gampong Cot Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2027",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Suyo Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2028",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Kreet Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2029",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Capa Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2030",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Jurong Anoe Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2031",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Balee Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2032",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Siron Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2033",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Gampong Cut Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2034",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pante Cermen Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2035",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pasar Paloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2036",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Cot Kunyet",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2037",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Meuke Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2038",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2039",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Seukeumbrok Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2040",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Baro Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2041",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Adang Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2042",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Paloh Jeurat Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2043",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Seuleunggieng Beurabo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2044",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Teungoh Drien Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2045",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Kumbang Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2046",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2047",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tuha Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2048",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Glee Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2049",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Meuke Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2050",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Raya Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2051",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Grong-Grong Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2052",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Aron Bunot Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2053",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Buloh Gogo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2054",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Tunong Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2055",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Keupula Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2056",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Jok Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2057",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Leun Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2058",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pante Crueng Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2059",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Cot Keutapang Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2060",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Siron Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2061",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Mesjid Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2062",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Khang Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2063",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Meuriya Tanjong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.07.14.2064",
+    "district_id": "11.07.14",
+    "regency_id": "11.07",
+    "province_id": "11",
+    "name": "Pulo Hagu Tanjong",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "33.14.17.2001",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Newung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2002",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Jatitengah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2003",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Bendo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2004",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Juwok",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2005",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Pantirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2006",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Majenang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2007",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Karanganom",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2008",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Gebang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.17.2009",
+    "district_id": "33.14.17",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Baleharjo",
+    "type": "DESA"
+  }
+]

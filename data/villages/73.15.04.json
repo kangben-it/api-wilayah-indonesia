@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.15.04.1001",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1002",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Sawitto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1003",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Macorawalie",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1004",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Penrang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1005",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Salo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1006",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Bentengnge",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1007",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Sipatokkong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.15.04.1008",
+    "district_id": "73.15.04",
+    "regency_id": "73.15",
+    "province_id": "73",
+    "name": "Siparappe",
+    "type": "KELURAHAN"
+  }
+]

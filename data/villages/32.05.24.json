@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.05.24.2001",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Singajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2002",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Ciudian",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2003",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Mekartani",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2004",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2005",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Sukawangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2006",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Pancasura",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2007",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Karangagung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2008",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cigintung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.24.2009",
+    "district_id": "32.05.24",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Girimukti",
+    "type": "DESA"
+  }
+]

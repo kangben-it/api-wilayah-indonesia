@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.06.05.2001",
+    "district_id": "92.06.05",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Jagiro",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.05.2004",
+    "district_id": "92.06.05",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Meyenda",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.05.2005",
+    "district_id": "92.06.05",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Rawara",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.05.2006",
+    "district_id": "92.06.05",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Barma Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.05.2011",
+    "district_id": "92.06.05",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Inggof",
+    "type": "DESA"
+  }
+]

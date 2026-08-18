@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.08.17.2001",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Banyuputih Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.17.2002",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Rojopolo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.17.2003",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Kaliboto Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.17.2004",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Kaliboto Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.17.2005",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Sukosari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.08.17.2006",
+    "district_id": "35.08.17",
+    "regency_id": "35.08",
+    "province_id": "35",
+    "name": "Jatiroto",
+    "type": "DESA"
+  }
+]

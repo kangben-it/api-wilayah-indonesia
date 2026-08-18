@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.09.09.1001",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Binjai Serbangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.09.09.2002",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Air Joman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.09.2003",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Air Joman Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.09.2005",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Banjar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.09.2007",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Pasar Lembu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.09.2008",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Punggulan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.09.2012",
+    "district_id": "12.09.09",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Subur",
+    "type": "DESA"
+  }
+]

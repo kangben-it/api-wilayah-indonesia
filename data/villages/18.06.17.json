@@ -1,0 +1,66 @@
+[
+  {
+    "id": "18.06.17.2001",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Negeri Kelumbayan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2002",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Pekon Susuk",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2003",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Napal",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2005",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Pekon Unggak",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2006",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Penyandingan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2009",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2010",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Umbar",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.17.2012",
+    "district_id": "18.06.17",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kiluan Negeri",
+    "type": "DESA"
+  }
+]

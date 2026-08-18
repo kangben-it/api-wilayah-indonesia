@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.12.10.1006",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pagutan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.10.1007",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Punduhsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.10.2001",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kepuhsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.10.2002",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pijiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.10.2003",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Bero",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.10.2004",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gunungan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.10.2005",
+    "district_id": "33.12.10",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Karanglor",
+    "type": "DESA"
+  }
+]

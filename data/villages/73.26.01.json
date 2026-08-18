@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.26.01.1001",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Laang Tanduk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1002",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Rantepao",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1003",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Mentirotiku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1004",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Manggalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1005",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Pasale",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1006",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Singki'",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1007",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Karassik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1008",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Penanian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.1009",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Rante Pasele",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.01.2010",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Limbong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.01.2011",
+    "district_id": "73.26.01",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Saloso",
+    "type": "DESA"
+  }
+]

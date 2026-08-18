@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.08.15.1005",
+    "district_id": "12.08.15",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Haranggaol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.08.15.2001",
+    "district_id": "12.08.15",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Nagori Purba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.15.2002",
+    "district_id": "12.08.15",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Nagori Sihalpe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.15.2003",
+    "district_id": "12.08.15",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Purba Horisan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.15.2004",
+    "district_id": "12.08.15",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Purba Pasir",
+    "type": "DESA"
+  }
+]

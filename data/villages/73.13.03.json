@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.13.03.1001",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Peneki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.03.1002",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bocco",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.03.2003",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Parigi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2004",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Manyili",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2005",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Soro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2006",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ceppaga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2007",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Leweng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2008",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ajuraja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2009",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Botto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2010",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lagoari",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2011",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Aluppang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2012",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lamarua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.03.2013",
+    "district_id": "73.13.03",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pantai Timur",
+    "type": "DESA"
+  }
+]

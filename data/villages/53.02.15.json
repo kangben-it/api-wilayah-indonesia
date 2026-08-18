@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.02.15.2006",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Sabun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2007",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nano",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2009",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Boking",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2010",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Baus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2011",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Meusin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2013",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Leonmeni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.15.2014",
+    "district_id": "53.02.15",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Fatu Manufui",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.15.04.2001",
+    "district_id": "12.15.04",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Ulumerah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.04.2002",
+    "district_id": "12.15.04",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.04.2003",
+    "district_id": "12.15.04",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Silima Kuta",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.04.2004",
+    "district_id": "12.15.04",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Lae Langge Namuseng",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.04.2005",
+    "district_id": "12.15.04",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Cikaok",
+    "type": "DESA"
+  }
+]

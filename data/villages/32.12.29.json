@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.12.29.2001",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Brondong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.29.2002",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pabeanilir",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.29.2003",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pagirikan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.29.2004",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pasekan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.29.2005",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Karanganyar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.29.2006",
+    "district_id": "32.12.29",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Totoran",
+    "type": "DESA"
+  }
+]

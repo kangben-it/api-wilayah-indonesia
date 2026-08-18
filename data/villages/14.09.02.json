@@ -1,0 +1,186 @@
+[
+  {
+    "id": "14.09.02.1016",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pasar Teluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.09.02.1018",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Simpang Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.09.02.1025",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sungaijering",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.09.02.2001",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Bandar Alai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2002",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulaukedundung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2003",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulauaro",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2004",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Seberang Taluk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2005",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulau Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2006",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Koto Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2007",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Kopah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2008",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Munsalo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2014",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sawah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2015",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Koto Taluk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2017",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Koto Kari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2019",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pintu Gobang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2020",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Jake",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2021",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulau Godang Kari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2022",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2023",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Beringin Taluk",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2024",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sitorajo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2026",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Seberang Taluk Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2027",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Titian Modang Kopah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.02.2028",
+    "district_id": "14.09.02",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulaubanjar Kari",
+    "type": "DESA"
+  }
+]

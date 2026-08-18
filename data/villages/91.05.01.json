@@ -1,0 +1,106 @@
+[
+  {
+    "id": "91.05.01.1004",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Tarau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.05.01.1005",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Serui Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.05.01.1006",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Serui Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "91.05.01.2014",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Serui Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2015",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Banawa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2017",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Turu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2019",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Pasir Hitam",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2020",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2023",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Manaini",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2024",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Imandoa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2026",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Barawaikap",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2027",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Bawai",
+    "type": "DESA"
+  },
+  {
+    "id": "91.05.01.2028",
+    "district_id": "91.05.01",
+    "regency_id": "91.05",
+    "province_id": "91",
+    "name": "Nundawipi",
+    "type": "DESA"
+  }
+]

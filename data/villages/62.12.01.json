@@ -1,0 +1,122 @@
+[
+  {
+    "id": "62.12.01.1012",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Puruk Cahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.01.1013",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Beriwit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.01.2001",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Dirung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2002",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Malasan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2003",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Batu Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2004",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Mangkahui",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2005",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Panu'ut",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2006",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Untu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2007",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Ja'an",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2008",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Bahitom",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2009",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Danau Usung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2010",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Juking Pajang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2011",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Sumpoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2014",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Bumban",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.01.2015",
+    "district_id": "62.12.01",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Penyang",
+    "type": "DESA"
+  }
+]

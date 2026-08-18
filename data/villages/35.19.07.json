@@ -1,0 +1,114 @@
+[
+  {
+    "id": "35.19.07.1003",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Munggut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.19.07.1009",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Wungu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.19.07.2001",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2002",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Mojopurno",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2004",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Karangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2005",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Brumbun",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2006",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Kresek",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2007",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Mojorayung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2008",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Bantengan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2010",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Pilangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2011",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Tempursari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2012",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Nglanduk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2013",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Nglambangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.19.07.2014",
+    "district_id": "35.19.07",
+    "regency_id": "35.19",
+    "province_id": "35",
+    "name": "Sobrah",
+    "type": "DESA"
+  }
+]

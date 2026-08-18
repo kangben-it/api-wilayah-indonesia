@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.05.22.2001",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Pucangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2002",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Seboro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2003",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2004",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Sadangkulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2005",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Cangkring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2006",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Sadangwetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.05.22.2007",
+    "district_id": "33.05.22",
+    "regency_id": "33.05",
+    "province_id": "33",
+    "name": "Kedunggong",
+    "type": "DESA"
+  }
+]

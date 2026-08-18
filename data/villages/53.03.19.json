@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.03.19.2001",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Fafinesu A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2002",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Fafinesu B",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2003",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Fafinesu C",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2004",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenain",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2005",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Baunuan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.19.2006",
+    "district_id": "53.03.19",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Fafinesu",
+    "type": "DESA"
+  }
+]

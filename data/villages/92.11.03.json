@@ -1,0 +1,58 @@
+[
+  {
+    "id": "92.11.03.2001",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Wama",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2002",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Disi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2003",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Hiyou",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2004",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Sesum",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2005",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Benyas",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2006",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Aryawenmoho",
+    "type": "DESA"
+  },
+  {
+    "id": "92.11.03.2007",
+    "district_id": "92.11.03",
+    "regency_id": "92.11",
+    "province_id": "92",
+    "name": "Neney",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "14.02.04.1007",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Air Molek I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.04.1020",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kembang Harum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.04.1031",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Tanjung Gading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.04.1032",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sekar Mawar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.04.1033",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Tanah Merah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.04.2006",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Petalongan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2008",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Air Molek II",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2009",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Pasir Keranji",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2016",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Jati Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2017",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Batu Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2018",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Candi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2019",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Lembah Dusun Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.04.2030",
+    "district_id": "14.02.04",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Serumpun Jaya",
+    "type": "DESA"
+  }
+]

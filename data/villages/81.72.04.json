@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.72.04.2001",
+    "district_id": "81.72.04",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Tubyal",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2002",
+    "district_id": "81.72.04",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Kaimear",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2004",
+    "district_id": "81.72.04",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Lokwirin",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2005",
+    "district_id": "81.72.04",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Finualen",
+    "type": "DESA"
+  },
+  {
+    "id": "81.72.04.2012",
+    "district_id": "81.72.04",
+    "regency_id": "81.72",
+    "province_id": "81",
+    "name": "Sermaf",
+    "type": "DESA"
+  }
+]

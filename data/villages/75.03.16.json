@@ -1,0 +1,42 @@
+[
+  {
+    "id": "75.03.16.2001",
+    "district_id": "75.03.16",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Bulotalangi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.16.2002",
+    "district_id": "75.03.16",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Toluwaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.16.2003",
+    "district_id": "75.03.16",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Popodu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.16.2004",
+    "district_id": "75.03.16",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Bulotalangi Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.16.2005",
+    "district_id": "75.03.16",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Bulotalangi Barat",
+    "type": "DESA"
+  }
+]

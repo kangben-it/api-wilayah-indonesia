@@ -1,0 +1,34 @@
+[
+  {
+    "id": "53.08.19.1001",
+    "district_id": "53.08.19",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Potulando",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.19.1002",
+    "district_id": "53.08.19",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Onekore",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.19.1003",
+    "district_id": "53.08.19",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Kelimutu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.19.1004",
+    "district_id": "53.08.19",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Paupire",
+    "type": "KELURAHAN"
+  }
+]

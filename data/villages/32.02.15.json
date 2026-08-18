@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.15.2001",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Parakansalak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.15.2002",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojonglongok",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.15.2003",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukakersa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.15.2004",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukatani",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.15.2005",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Bojongasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.15.2006",
+    "district_id": "32.02.15",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Lebaksari",
+    "type": "DESA"
+  }
+]

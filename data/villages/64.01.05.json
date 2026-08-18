@@ -1,0 +1,106 @@
+[
+  {
+    "id": "64.01.05.1001",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kuaro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.01.05.2002",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Lolo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2003",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Sandeley",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2004",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Harapan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2005",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Rangan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2006",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Modang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2007",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Pasir Mayang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2008",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kerta Bumi",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2009",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Pondong Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2010",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Padang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2011",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kendarom",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2012",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Klempang Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.05.2013",
+    "district_id": "64.01.05",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Keluang Paser Jaya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "73.13.02.1001",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pammana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.02.1002",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Cina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.02.2003",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lempa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2004",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Patila",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2005",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Kampiri",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2006",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lapaukke",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2007",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lagosi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2008",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pallawarukka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2009",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Wecudai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2010",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Lampulung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2011",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Watampanua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2012",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tadangpalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2013",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Simpursia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2014",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tobatang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2015",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Abbanuangnge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.02.2016",
+    "district_id": "73.13.02",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tonrong Tengnga",
+    "type": "DESA"
+  }
+]

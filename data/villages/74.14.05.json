@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.14.05.1004",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Talaga Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.14.05.2001",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Kokoe",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.05.2002",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Talaga Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.05.2003",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Talaga II",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.05.2005",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Wulu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.05.2006",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Liwulompona",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.05.2007",
+    "district_id": "74.14.05",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Pangilia",
+    "type": "DESA"
+  }
+]

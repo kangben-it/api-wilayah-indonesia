@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.79.01.1001",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Temas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.79.01.1002",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Ngaglik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.79.01.1003",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Songgokerto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.79.01.1004",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Sisir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.79.01.2005",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.79.01.2006",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Oro-oro Ombo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.79.01.2007",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.79.01.2008",
+    "district_id": "35.79.01",
+    "regency_id": "35.79",
+    "province_id": "35",
+    "name": "Pesanggrahan",
+    "type": "DESA"
+  }
+]

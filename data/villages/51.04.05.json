@@ -1,0 +1,66 @@
+[
+  {
+    "id": "51.04.05.1005",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Ubud",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.05.2001",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Lodtunduh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2002",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2003",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Singakerta",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2004",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Kedewatan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2006",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Peliatan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2007",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Petulu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.05.2008",
+    "district_id": "51.04.05",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Sayan",
+    "type": "DESA"
+  }
+]

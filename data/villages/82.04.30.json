@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.04.30.2001",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Cap",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2002",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Madopolo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2003",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2004",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Madopolo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2005",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Waringi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2006",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.30.2007",
+    "district_id": "82.04.30",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Madopolo Timur",
+    "type": "DESA"
+  }
+]

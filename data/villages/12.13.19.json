@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.13.19.2001",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bangun Sejati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2002",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Hutarimbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2003",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar Huta Bargot",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2004",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Bargot Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2005",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Bargot Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2006",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Bargot Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2007",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Bargot Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2008",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Mondan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2009",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sayur Maincat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2010",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Kumpulan Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2011",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simalagi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2012",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Saba Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2013",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Binanga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.19.2014",
+    "district_id": "12.13.19",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Naingkan",
+    "type": "DESA"
+  }
+]

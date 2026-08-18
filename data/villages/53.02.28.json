@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.02.28.2001",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Sillu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2002",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nunukhniti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2003",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kaeneno",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2004",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oeleon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2005",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Tunis",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2006",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Bileon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.28.2007",
+    "district_id": "53.02.28",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Besle'u",
+    "type": "DESA"
+  }
+]

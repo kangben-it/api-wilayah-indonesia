@@ -1,0 +1,34 @@
+[
+  {
+    "id": "13.10.03.2003",
+    "district_id": "13.10.03",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sungai Rumbai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2004",
+    "district_id": "13.10.03",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Kurnia Koto Salak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2007",
+    "district_id": "13.10.03",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sungai Rumbai Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.03.2008",
+    "district_id": "13.10.03",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Kurnia Selatan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "53.03.15.2001",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Buk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2002",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenenu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2003",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Nimasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2004",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oelbonak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2005",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Kuenak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2006",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenino",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2007",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenenu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2008",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenenu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.15.2009",
+    "district_id": "53.03.15",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Sono",
+    "type": "DESA"
+  }
+]

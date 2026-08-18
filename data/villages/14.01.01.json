@@ -1,0 +1,34 @@
+[
+  {
+    "id": "14.01.01.1011",
+    "district_id": "14.01.01",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Bangkinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.01.01.1013",
+    "district_id": "14.01.01",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Langgini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.01.01.2009",
+    "district_id": "14.01.01",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Kumantan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.01.2010",
+    "district_id": "14.01.01",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Ridan Permai",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.08.10.1009",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sumberrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.08.10.2001",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Deyangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2002",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Pasuruhan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2003",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Donorojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2004",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Kalinegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2005",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Jogonegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2006",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Sukorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2007",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Bondowoso",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2008",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Danurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2010",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Banyurojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2011",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Banjarnegoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2012",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Bulurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.10.2013",
+    "district_id": "33.08.10",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Mertoyudan",
+    "type": "DESA"
+  }
+]

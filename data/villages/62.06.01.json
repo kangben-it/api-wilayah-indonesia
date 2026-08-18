@@ -1,0 +1,74 @@
+[
+  {
+    "id": "62.06.01.2001",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Galinggang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2002",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Tampelas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2003",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Telaga",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2004",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Parupuk",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2005",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Karuing",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2006",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Jahanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2007",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Tumbang Runen",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2008",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Baun Bango",
+    "type": "DESA"
+  },
+  {
+    "id": "62.06.01.2009",
+    "district_id": "62.06.01",
+    "regency_id": "62.06",
+    "province_id": "62",
+    "name": "Asem Kumbang",
+    "type": "DESA"
+  }
+]

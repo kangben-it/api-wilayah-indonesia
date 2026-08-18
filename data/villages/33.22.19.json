@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.22.19.1001",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Sidomulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.19.1002",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kalirejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.19.1003",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Susukan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.19.1007",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Gedanganak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.19.1008",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Beji",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.19.2004",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Mluweh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.19.2005",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kawengen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.19.2006",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kalikayen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.19.2009",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Leyangan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.19.2010",
+    "district_id": "33.22.19",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kalongan",
+    "type": "DESA"
+  }
+]

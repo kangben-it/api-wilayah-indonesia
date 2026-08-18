@@ -1,0 +1,154 @@
+[
+  {
+    "id": "16.07.10.1002",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Air Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1003",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sukomoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1004",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sukajadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1006",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Kenten",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1022",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanah Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1023",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Talang Keramat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1024",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sukajadi Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1025",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Tanah Mas Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1026",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Rawa Maju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1027",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Air Batu Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1028",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sei Sedapat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1029",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Azhar Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.1030",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Keramat Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.07.10.2001",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sungai Rengit",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.10.2005",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Pangkalan Benteng",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.10.2007",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Gasing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.10.2019",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Talang Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.10.2020",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Sungai Rengit Murni",
+    "type": "DESA"
+  },
+  {
+    "id": "16.07.10.2021",
+    "district_id": "16.07.10",
+    "regency_id": "16.07",
+    "province_id": "16",
+    "name": "Kenten Laut",
+    "type": "DESA"
+  }
+]

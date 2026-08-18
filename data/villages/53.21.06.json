@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.21.06.2001",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Biau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2002",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Kufeu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2003",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Tunmat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2004",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Tunabesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2005",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Bani-Bani",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2006",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Fatoin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.21.06.2007",
+    "district_id": "53.21.06",
+    "regency_id": "53.21",
+    "province_id": "53",
+    "name": "Ikan Tuanbeis",
+    "type": "DESA"
+  }
+]

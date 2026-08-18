@@ -1,0 +1,66 @@
+[
+  {
+    "id": "16.09.17.2001",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Tekana",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2002",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Tanjung Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2003",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Bandar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2004",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Jagaraga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2005",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Damarpura",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2006",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Tunas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2007",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Sinar Danau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.09.17.2008",
+    "district_id": "16.09.17",
+    "regency_id": "16.09",
+    "province_id": "16",
+    "name": "Gemiung",
+    "type": "DESA"
+  }
+]

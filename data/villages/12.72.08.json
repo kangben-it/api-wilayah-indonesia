@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.72.08.1001",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Simarimbun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.08.1002",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Tong Marimbun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.08.1003",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Naga Huta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.08.1004",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Naga Huta Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.08.1005",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Pematang Marihat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.08.1006",
+    "district_id": "12.72.08",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Marihat Jaya",
+    "type": "KELURAHAN"
+  }
+]

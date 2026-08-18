@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.78.05.1001",
+    "district_id": "35.78.05",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Tegalsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.05.1002",
+    "district_id": "35.78.05",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Dr. Soetomo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.05.1003",
+    "district_id": "35.78.05",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Kedungdoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.05.1004",
+    "district_id": "35.78.05",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Keputran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.05.1005",
+    "district_id": "35.78.05",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Wonorejo",
+    "type": "KELURAHAN"
+  }
+]

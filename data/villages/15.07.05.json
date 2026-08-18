@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15.07.05.1005",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Lokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.05.2001",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Sayang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2002",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Air Hitam Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2003",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Jambat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2004",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Itik",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2006",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Benuh",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2007",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Cemara",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2008",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Remau Baku Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.05.2009",
+    "district_id": "15.07.05",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Labuhan Pering",
+    "type": "DESA"
+  }
+]

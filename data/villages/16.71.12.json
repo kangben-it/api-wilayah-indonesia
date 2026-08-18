@@ -1,0 +1,42 @@
+[
+  {
+    "id": "16.71.12.1001",
+    "district_id": "16.71.12",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Gandus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1002",
+    "district_id": "16.71.12",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Karanganyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1003",
+    "district_id": "16.71.12",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Tiga-puluh-enam Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1004",
+    "district_id": "16.71.12",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Karangjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.12.1005",
+    "district_id": "16.71.12",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Pulokerto",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "95.04.34.2001",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Geka",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2002",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kwa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2003",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Gelok",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2004",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Makido",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2005",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Yinuwanu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2006",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Wanuwi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2007",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Dimbara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2008",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Wenigi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2009",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Membramonggen",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.34.2010",
+    "district_id": "95.04.34",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Tabunakme",
+    "type": "DESA"
+  }
+]

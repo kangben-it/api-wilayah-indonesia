@@ -1,0 +1,498 @@
+[
+  {
+    "id": "12.20.04.1001",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pasar Gunung Tua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.20.04.2008",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Lubuk Torop",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2012",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Tanjung Marulak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2013",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Ambasang Natigor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2014",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Napagadung Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2015",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Rampa Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2016",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Rampa Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2017",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Mananti",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2018",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Paran Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2019",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Rahuning Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2020",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Botung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2021",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sigimbal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2022",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Dolok Sae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2023",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2024",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sihapas Hapas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2025",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sungai Tolang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2026",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Losung Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2027",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batu Mamak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2028",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sampuran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2029",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Tua Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2030",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sibatang Kayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2031",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Aek Suhat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2038",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Tua Tonga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2039",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Tua Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2040",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Tua Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2041",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Hutalombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2042",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batang Baruhar Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2043",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batang Baruhar Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2044",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Purba Sinomba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2045",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Hambiri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2046",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sosopan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2047",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pagaran Singkam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2048",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pagaran Tonga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2049",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sibagasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2050",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batu Tambun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2051",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Tanjung Tiram",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2052",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Garoga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2053",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Hajoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2054",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Batu Sundung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2055",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Garonggang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2056",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Nabonggal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2057",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Liang Hasona",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2058",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simandiangin Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2059",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simandiangin Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2060",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Padang Garugur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2061",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simanosor",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2062",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sigama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2063",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sigama Ujung Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2064",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Parlimbatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2065",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Saba Sitahul tahul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2066",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Saba Bangunan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2067",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sidingkat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2069",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Gunung Manaon II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2070",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Purba Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2071",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sungai Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2072",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sungai Orosan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2073",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Hutaimbaru II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2074",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Siombob",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2075",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Aek Gambir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2076",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Bukit Raya Sordang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2077",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Aek Jangkang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.04.2078",
+    "district_id": "12.20.04",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simbolon",
+    "type": "DESA"
+  }
+]

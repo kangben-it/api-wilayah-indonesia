@@ -1,0 +1,42 @@
+[
+  {
+    "id": "33.01.23.1001",
+    "district_id": "33.01.23",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Mertasinga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.23.1002",
+    "district_id": "33.01.23",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Gumilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.23.1003",
+    "district_id": "33.01.23",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Karangtalun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.23.1004",
+    "district_id": "33.01.23",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Tritih Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.23.1005",
+    "district_id": "33.01.23",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Kebonmanis",
+    "type": "KELURAHAN"
+  }
+]

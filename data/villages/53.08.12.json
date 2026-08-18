@@ -1,0 +1,106 @@
+[
+  {
+    "id": "53.08.12.1001",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Watuneso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.12.2002",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Hobatua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2003",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wolosambi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2004",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Woloara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2005",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Detupera",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2006",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wololela A",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2007",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Liabeke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2013",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Fatamari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2014",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Ranggatalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2015",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Nua Lima",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2016",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Tanaroga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2017",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Bu Tanalagu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.12.2018",
+    "district_id": "53.08.12",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Mbewawora",
+    "type": "DESA"
+  }
+]

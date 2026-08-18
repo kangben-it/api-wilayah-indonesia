@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.05.19.1001",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Batang Serangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.19.2002",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Bamban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2003",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Musam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2004",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Serdang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2005",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Namo Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2006",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kwala Musam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2007",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Karya Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.19.2008",
+    "district_id": "12.05.19",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Paluh Pakeh Babussalam",
+    "type": "DESA"
+  }
+]

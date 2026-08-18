@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.07.28.1007",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lubuk Pakam I,II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1008",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lubuk Pakam III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1009",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Paluh Kemiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1010",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Cemara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1011",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Syahmad",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1012",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Petapahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.1013",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lubuk Pakam Pekan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.07.28.2001",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sekip",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2002",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pagar Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2003",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Garbus I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2004",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pasar Melintang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2005",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Pagar Merbau III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.28.2006",
+    "district_id": "12.07.28",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bakaran Batu",
+    "type": "DESA"
+  }
+]

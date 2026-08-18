@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.05.23.2001",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Amungkalpia",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.23.2002",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Bela",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.23.2003",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Ompliga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.23.2004",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Alama",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.23.2005",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Tagalarama",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.23.2006",
+    "district_id": "94.05.23",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Bemoki",
+    "type": "DESA"
+  }
+]

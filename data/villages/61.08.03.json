@@ -1,0 +1,66 @@
+[
+  {
+    "id": "61.08.03.2001",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Sepahat",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2002",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Lamoanak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2003",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Bengkawe",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2004",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Tempoak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2005",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Re'es",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2006",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Raba",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2007",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "61.08.03.2008",
+    "district_id": "61.08.03",
+    "regency_id": "61.08",
+    "province_id": "61",
+    "name": "Menjalin",
+    "type": "DESA"
+  }
+]

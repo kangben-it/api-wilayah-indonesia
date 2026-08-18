@@ -1,0 +1,58 @@
+[
+  {
+    "id": "62.13.10.2001",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Dayu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2002",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Wuran",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2003",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Ipu Mea",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2004",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Lagan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2005",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Putut Tawuluh",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2006",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Simpang Naneng",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.10.2007",
+    "district_id": "62.13.10",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Kandris",
+    "type": "DESA"
+  }
+]

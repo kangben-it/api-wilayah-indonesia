@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.03.09.2006",
+    "district_id": "53.03.09",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Fatumtasa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2007",
+    "district_id": "53.03.09",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oesoko",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2008",
+    "district_id": "53.03.09",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Humusu Sainiup",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2009",
+    "district_id": "53.03.09",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Humusu Oekolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.09.2010",
+    "district_id": "53.03.09",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Humusu Wini",
+    "type": "DESA"
+  }
+]

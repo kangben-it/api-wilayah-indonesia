@@ -1,0 +1,58 @@
+[
+  {
+    "id": "72.05.02.2009",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Tuinan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2010",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Lakea II",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2011",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Lakea I",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2012",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Lakuan Buol",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2017",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Bukaan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2018",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Ngune",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.02.2019",
+    "district_id": "72.05.02",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Ilambe",
+    "type": "DESA"
+  }
+]

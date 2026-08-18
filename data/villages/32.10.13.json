@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.10.13.2001",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Heuleut",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2002",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Kadipaten",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2003",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Babakananyar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2004",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Karangsambung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2005",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Liangjulang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2006",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Pagandon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.13.2007",
+    "district_id": "32.10.13",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cipaku",
+    "type": "DESA"
+  }
+]

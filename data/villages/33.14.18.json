@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.14.18.2001",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Tanggan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2002",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Pilangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2003",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Blangu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2004",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Gesi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2005",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Srawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2006",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Poleng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.14.18.2007",
+    "district_id": "33.14.18",
+    "regency_id": "33.14",
+    "province_id": "33",
+    "name": "Slendro",
+    "type": "DESA"
+  }
+]

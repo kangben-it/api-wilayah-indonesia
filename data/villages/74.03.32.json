@@ -1,0 +1,50 @@
+[
+  {
+    "id": "74.03.32.1001",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Lawama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.32.2002",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Wale-Ale",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2003",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Kulidawa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2004",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Labasa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2005",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Watondo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.32.2006",
+    "district_id": "74.03.32",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Lianosa",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15.05.04.1002",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Jambi Kecil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.05.04.2001",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Setiris",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2003",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Tanjung Katung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2004",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Jambi Tulo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2005",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2006",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Danau Lamo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2007",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Muaro Jambi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2016",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Niaso",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2017",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Bakung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2018",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Danau Kedap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2019",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Mudung Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.05.04.2020",
+    "district_id": "15.05.04",
+    "regency_id": "15.05",
+    "province_id": "15",
+    "name": "Lubuk Raman",
+    "type": "DESA"
+  }
+]

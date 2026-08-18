@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.02.03.2001",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikakak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2002",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimaja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2003",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Ridogalih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2004",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2005",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cileungsing",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2006",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Margalaksana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2007",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sirnarasa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2008",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Gandasoli",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.03.2009",
+    "district_id": "32.02.03",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cirendang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "33.12.14.1009",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kayuloko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.14.1012",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sidoharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.14.2001",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sempukerep",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2002",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sembukan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2003",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tempursari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2004",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kebonagung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2005",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Widoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2006",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Mojoreno",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2007",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Ngabeyan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2008",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Kedunggupit",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2010",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Tremes",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.14.2011",
+    "district_id": "33.12.14",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Jatinom",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.12.07.1002",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Patokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.12.07.1003",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Dawuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.12.07.2001",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kalibagor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.07.2004",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kotakan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.07.2005",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Talkandang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.07.2006",
+    "district_id": "35.12.07",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Olean",
+    "type": "DESA"
+  }
+]

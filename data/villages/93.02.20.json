@@ -1,0 +1,50 @@
+[
+  {
+    "id": "93.02.20.2001",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Wanggom",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.20.2002",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Kawagit",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.20.2003",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Kombay",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.20.2004",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Biwage 1",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.20.2005",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Biwage 2",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.20.2006",
+    "district_id": "93.02.20",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Niop",
+    "type": "DESA"
+  }
+]

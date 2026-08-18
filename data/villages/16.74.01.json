@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.74.01.1001",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Prabumulih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.1007",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Patih Galung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.1009",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Muntang Tapus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.1011",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Gunung Kemala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.1012",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Payuputat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.1014",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Tebing Tanah Puteh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.74.01.2013",
+    "district_id": "16.74.01",
+    "regency_id": "16.74",
+    "province_id": "16",
+    "name": "Tanjung Telang",
+    "type": "DESA"
+  }
+]

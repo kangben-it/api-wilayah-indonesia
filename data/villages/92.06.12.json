@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.06.12.2001",
+    "district_id": "92.06.12",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tuhiba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.12.2002",
+    "district_id": "92.06.12",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tisaida",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.12.2003",
+    "district_id": "92.06.12",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Kucir",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.12.2004",
+    "district_id": "92.06.12",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Sibena Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.12.2005",
+    "district_id": "92.06.12",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Sibena Permai",
+    "type": "DESA"
+  }
+]

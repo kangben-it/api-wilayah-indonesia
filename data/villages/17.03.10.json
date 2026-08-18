@@ -1,0 +1,106 @@
+[
+  {
+    "id": "17.03.10.1010",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Pasar Lais",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.03.10.2008",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Datar Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2009",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Air Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2011",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Durian Daun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2012",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Dusun Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2013",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Lubuk Lesung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2014",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Pal 30",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2015",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Jagobayo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2017",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Talang Rasau",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2018",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Lubuk Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2019",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Suka Langu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2020",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Taba Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.10.2021",
+    "district_id": "17.03.10",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Kalbang",
+    "type": "DESA"
+  }
+]

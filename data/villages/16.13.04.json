@@ -1,0 +1,106 @@
+[
+  {
+    "id": "16.13.04.1005",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Bingin Teluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.13.04.2001",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2002",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Batu Kucing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2003",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Belani",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2004",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Tanjung Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2006",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Mandi Angin",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2007",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Air Bening",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2008",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Beringin Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2009",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Beringin Makmur I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2010",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Beringin Makmur II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2011",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Pauh I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2012",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Ketapat Bening",
+    "type": "DESA"
+  },
+  {
+    "id": "16.13.04.2013",
+    "district_id": "16.13.04",
+    "regency_id": "16.13",
+    "province_id": "16",
+    "name": "Mekarsari",
+    "type": "DESA"
+  }
+]

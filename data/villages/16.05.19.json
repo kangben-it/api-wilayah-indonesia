@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.05.19.1002",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sumber Harta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.19.2001",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sumber Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2003",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2004",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Jamburejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2005",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sumber Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2006",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Suka Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2007",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2008",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Madang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2009",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sukarami Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.19.2010",
+    "district_id": "16.05.19",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sumber Asri",
+    "type": "DESA"
+  }
+]

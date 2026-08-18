@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.11.01.1001",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Lompo Riaja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.11.01.2002",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.01.2003",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Lompo Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.01.2004",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Kading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.01.2005",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Libureng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.01.2006",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Mattirowalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.11.01.2007",
+    "district_id": "73.11.01",
+    "regency_id": "73.11",
+    "province_id": "73",
+    "name": "Lempang",
+    "type": "DESA"
+  }
+]

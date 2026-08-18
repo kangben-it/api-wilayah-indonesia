@@ -1,0 +1,98 @@
+[
+  {
+    "id": "76.03.03.1001",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Mamasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.03.2002",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Rambusaratu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2003",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Osango",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2004",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Lambanan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2005",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Lembana Salulo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2006",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Taupe",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2007",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Buntu Buda",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2008",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tondok Bakaru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2009",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pebassian",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2010",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Mambuliling",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2011",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bombong Lambe",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.03.2012",
+    "district_id": "76.03.03",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bubun Batu",
+    "type": "DESA"
+  }
+]

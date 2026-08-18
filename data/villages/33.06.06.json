@@ -1,0 +1,202 @@
+[
+  {
+    "id": "33.06.06.1007",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Cangkrepkidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1008",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Cangkreplor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1010",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Tambakrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1011",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Kedungsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1012",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Pangenrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1013",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Pangenjurutengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1014",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Doplang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1015",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Sindurjan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1016",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Paduroso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1017",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Purworejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1018",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Mranti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1019",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Mudal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1020",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Keseneng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.1021",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Baledono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.06.06.2001",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Pacekelan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2002",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Plipir",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2003",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Brenggong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2004",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Ganggeng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2005",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Semawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2006",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Wonoroto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2009",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2022",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Wonotulus",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2023",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2024",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Sudimoro",
+    "type": "DESA"
+  },
+  {
+    "id": "33.06.06.2025",
+    "district_id": "33.06.06",
+    "regency_id": "33.06",
+    "province_id": "33",
+    "name": "Donorati",
+    "type": "DESA"
+  }
+]

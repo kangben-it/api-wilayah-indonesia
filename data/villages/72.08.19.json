@@ -1,0 +1,42 @@
+[
+  {
+    "id": "72.08.19.2001",
+    "district_id": "72.08.19",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Avolua",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.19.2002",
+    "district_id": "72.08.19",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Toboli",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.19.2003",
+    "district_id": "72.08.19",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Toboli Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.19.2004",
+    "district_id": "72.08.19",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Pangi",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.19.2005",
+    "district_id": "72.08.19",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Sakinah Jaya",
+    "type": "DESA"
+  }
+]

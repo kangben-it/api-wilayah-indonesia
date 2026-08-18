@@ -1,0 +1,138 @@
+[
+  {
+    "id": "12.12.07.1037",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Pasar Porsea",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.12.07.1038",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Patane III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.12.07.1039",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Parparean III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.12.07.2001",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Patane IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2003",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lumban Gurning",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2004",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Amborgang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2005",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Nalela",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2007",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Patane II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2022",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Gala Gala Pangkailan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2023",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Silamosik I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2030",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Parparean IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2031",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Parparean I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2033",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Parparean II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2036",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Patane I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2040",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Patane V",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2041",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Simpang Sigura-Gura",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.07.2042",
+    "district_id": "12.12.07",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Raut Bosi",
+    "type": "DESA"
+  }
+]

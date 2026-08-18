@@ -1,0 +1,194 @@
+[
+  {
+    "id": "14.09.01.1012",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pasar Lubuk Jambi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.09.01.2004",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Air Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2005",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2007",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Lubuk Ramo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2008",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Seberang Cengar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2009",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Koto Cengar",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2010",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sangau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2011",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Banjar Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2013",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Kasang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2014",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Koto Lubuk Jambi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2015",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pulaubinjai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2016",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Seberang Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2017",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Rantau Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2018",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Luai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2019",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Banjar Guntung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2020",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Bukitpedusunan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2021",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Saik",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2022",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pebaun Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2023",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Pebaun Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2024",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Kinali",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2025",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Bukit Kauman",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2026",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Aur Duri",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2027",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Sungaimanau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.09.01.2030",
+    "district_id": "14.09.01",
+    "regency_id": "14.09",
+    "province_id": "14",
+    "name": "Muaro Tombang",
+    "type": "DESA"
+  }
+]

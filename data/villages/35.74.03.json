@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.74.03.1001",
+    "district_id": "35.74.03",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Mayangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.03.1002",
+    "district_id": "35.74.03",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Mangunharjo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.03.1004",
+    "district_id": "35.74.03",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Jati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.03.1007",
+    "district_id": "35.74.03",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Sukabumi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.03.1010",
+    "district_id": "35.74.03",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Wiroborang",
+    "type": "KELURAHAN"
+  }
+]

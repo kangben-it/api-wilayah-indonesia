@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.03.09.2001",
+    "district_id": "94.03.09",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Wotai",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.09.2002",
+    "district_id": "94.03.09",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Keniapa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.09.2003",
+    "district_id": "94.03.09",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Memiyaibutu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.09.2004",
+    "district_id": "94.03.09",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Dimiya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.03.09.2005",
+    "district_id": "94.03.09",
+    "regency_id": "94.03",
+    "province_id": "94",
+    "name": "Udaugi",
+    "type": "DESA"
+  }
+]

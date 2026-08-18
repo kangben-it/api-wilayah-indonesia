@@ -1,0 +1,50 @@
+[
+  {
+    "id": "52.05.08.2001",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Ranggo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.08.2002",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Jambu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.08.2003",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Lepadi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.08.2004",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Lune",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.08.2005",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Woko",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.08.2006",
+    "district_id": "52.05.08",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Tembal Lae",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "92.12.02.2001",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Sibiogud",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2002",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Krobut",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2003",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Tubyam",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2004",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Sakumi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2005",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Tombrok",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2006",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Sisrang",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2007",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Ngisrow",
+    "type": "DESA"
+  },
+  {
+    "id": "92.12.02.2008",
+    "district_id": "92.12.02",
+    "regency_id": "92.12",
+    "province_id": "92",
+    "name": "Itkau",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "63.04.15.1001",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Marabahan Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.04.15.1002",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Ulu Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.04.15.2003",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Penghulu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2004",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Bagus",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2005",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Baliuk",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2006",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Antar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2007",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Antar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2008",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Antar Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2009",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Sido Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.15.2010",
+    "district_id": "63.04.15",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Karya Maju",
+    "type": "DESA"
+  }
+]

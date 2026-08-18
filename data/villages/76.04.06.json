@@ -1,0 +1,82 @@
+[
+  {
+    "id": "76.04.06.1005",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Amassangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.06.2001",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tonyaman",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2002",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Kuajang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2003",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2004",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Mirring",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2006",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Batetangnga",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2007",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Mammi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2008",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Kaleok",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2009",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Amola",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.06.2010",
+    "district_id": "76.04.06",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Rea",
+    "type": "DESA"
+  }
+]

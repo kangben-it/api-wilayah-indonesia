@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.77.04.1001",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Hutaimbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.04.1002",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Lubuk Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.04.1003",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Sabungan Jae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.04.1004",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Lembah Lubuk Manik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.04.1005",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Palopat Maria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.77.04.2006",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Sabungan Sipabangun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.04.2007",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Singali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.04.2008",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Huta Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.04.2009",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Partihaman Saroha",
+    "type": "DESA"
+  },
+  {
+    "id": "12.77.04.2010",
+    "district_id": "12.77.04",
+    "regency_id": "12.77",
+    "province_id": "12",
+    "name": "Tinjoman Lama",
+    "type": "DESA"
+  }
+]

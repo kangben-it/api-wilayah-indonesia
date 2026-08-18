@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.13.04.2006",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Marengmang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2007",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kalijati Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2008",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kaliangsana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2011",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kalijati Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2012",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Tanggulun Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2013",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Tanggulun Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2017",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Caracas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2018",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Ciruluk",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2019",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Jalupang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.04.2020",
+    "district_id": "32.13.04",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Banggalamulya",
+    "type": "DESA"
+  }
+]

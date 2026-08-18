@@ -1,0 +1,66 @@
+[
+  {
+    "id": "15.09.12.2001",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tanah Garo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2002",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Pintas Tuo",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2003",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Embacang Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2004",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Bangun Seranten",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2005",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tambun Arang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2006",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Jernih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2007",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Bangko Pintas",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.12.2008",
+    "district_id": "15.09.12",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Olak Kemang",
+    "type": "DESA"
+  }
+]

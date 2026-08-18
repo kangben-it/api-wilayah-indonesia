@@ -1,0 +1,42 @@
+[
+  {
+    "id": "95.01.22.2001",
+    "district_id": "95.01.22",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Korma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.22.2002",
+    "district_id": "95.01.22",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Tulem",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.22.2003",
+    "district_id": "95.01.22",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Alula",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.22.2004",
+    "district_id": "95.01.22",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Arogolik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.01.22.2005",
+    "district_id": "95.01.22",
+    "regency_id": "95.01",
+    "province_id": "95",
+    "name": "Wiligima",
+    "type": "DESA"
+  }
+]

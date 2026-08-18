@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.22.01.1001",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Kotapinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.22.01.2002",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Simatahari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2003",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Mampang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2004",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Pasir Tuntung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2005",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Sisumut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2006",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Hadundung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2007",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Sosopan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2008",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Perkebunan Nomark",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2009",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Perkebunan Nagodang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.22.01.2010",
+    "district_id": "12.22.01",
+    "regency_id": "12.22",
+    "province_id": "12",
+    "name": "Perk. Sei Rumbia",
+    "type": "DESA"
+  }
+]

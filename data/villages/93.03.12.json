@@ -1,0 +1,58 @@
+[
+  {
+    "id": "93.03.12.2001",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Amk",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2002",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Yame",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2003",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Benggo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2004",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Kokoya",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2005",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Borohaba",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2006",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Ogorito",
+    "type": "DESA"
+  },
+  {
+    "id": "93.03.12.2007",
+    "district_id": "93.03.12",
+    "regency_id": "93.03",
+    "province_id": "93",
+    "name": "Hebeske",
+    "type": "DESA"
+  }
+]

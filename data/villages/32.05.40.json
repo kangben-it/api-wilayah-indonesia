@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.05.40.2001",
+    "district_id": "32.05.40",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cipareuan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.40.2002",
+    "district_id": "32.05.40",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cibiuk Kaler",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.40.2003",
+    "district_id": "32.05.40",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Cibiuk Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.40.2004",
+    "district_id": "32.05.40",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Majasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.05.40.2005",
+    "district_id": "32.05.40",
+    "regency_id": "32.05",
+    "province_id": "32",
+    "name": "Lingkungpasir",
+    "type": "DESA"
+  }
+]

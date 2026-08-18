@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.06.03.2020",
+    "district_id": "92.06.03",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Irarutu III",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.03.2021",
+    "district_id": "92.06.03",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Amutu",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.03.2022",
+    "district_id": "92.06.03",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Nusei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.03.2023",
+    "district_id": "92.06.03",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Kasira",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.08.21.2001",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Muncangela",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2002",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Karoya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2003",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Susukan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2004",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cimaranten",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2005",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cipicung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2006",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Pamulihan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2007",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Salareuma",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2008",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Suganangan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2009",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Sukamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.21.2010",
+    "district_id": "32.08.21",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Mekarsari",
+    "type": "DESA"
+  }
+]

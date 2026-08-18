@@ -1,0 +1,34 @@
+[
+  {
+    "id": "96.03.16.2001",
+    "district_id": "96.03.16",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Weijim Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.16.2002",
+    "district_id": "96.03.16",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Weijim Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.16.2003",
+    "district_id": "96.03.16",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Satokurano",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.16.2004",
+    "district_id": "96.03.16",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Pulau Tikus",
+    "type": "DESA"
+  }
+]

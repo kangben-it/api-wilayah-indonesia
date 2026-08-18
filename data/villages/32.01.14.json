@@ -1,0 +1,90 @@
+[
+  {
+    "id": "32.01.14.2001",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Leuwiliang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2002",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Purasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2003",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karyasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2004",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabangbon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2005",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karacak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2006",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Barengkok",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2007",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Leuwimekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2008",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Puraseda",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2009",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibeber I",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2010",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Cibeber II",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.14.2011",
+    "district_id": "32.01.14",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Karehkel",
+    "type": "DESA"
+  }
+]

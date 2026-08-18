@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.03.29.1002",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Hutaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.29.1008",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Manompas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.29.1009",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Ampolu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.29.2001",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bandar Hapinis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.29.2003",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pardamean",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.29.2004",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tarapung Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.29.2007",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Opu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.29.2010",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simarlelan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.29.2011",
+    "district_id": "12.03.29",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Muara Huta Raja",
+    "type": "DESA"
+  }
+]

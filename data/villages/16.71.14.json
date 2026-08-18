@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.71.14.1001",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Plaju Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1002",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Plaju Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1003",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Plaju Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1004",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Baguskuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1005",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Komperta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1006",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Talangputri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.71.14.1007",
+    "district_id": "16.71.14",
+    "regency_id": "16.71",
+    "province_id": "16",
+    "name": "Talangbubuk",
+    "type": "KELURAHAN"
+  }
+]

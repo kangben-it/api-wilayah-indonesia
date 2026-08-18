@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.01.04.1001",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pinangsori",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.04.1004",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sitonong Bangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.04.1007",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Pinangbaru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.04.1009",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Albion Prancis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.04.1010",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sori Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.04.2002",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Gunung Marijo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.04.2003",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sihaporas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.04.2005",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Toga Basir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.04.2006",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Parjalihotan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.04.2008",
+    "district_id": "12.01.04",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Danau Pandan",
+    "type": "DESA"
+  }
+]

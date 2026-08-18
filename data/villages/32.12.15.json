@@ -1,0 +1,146 @@
+[
+  {
+    "id": "32.12.15.1001",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Bojongsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1002",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Kepandean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1003",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Karangmalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1004",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Karanganyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1005",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Lemahmekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1006",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Lemahabang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1007",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Margadadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.1008",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Paoman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.12.15.2009",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Telukagung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2010",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Plumbon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2011",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Dukuh",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2012",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pekandangan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2013",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Singaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2014",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Singajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2015",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pekandangan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2016",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Karangsong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2017",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Pabeanudik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.15.2020",
+    "district_id": "32.12.15",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tambak",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "72.01.07.1011",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Pakowa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.07.1018",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Pagimana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.07.1022",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Basabungan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.07.2001",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Baloa Doda",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2002",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tampe",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2010",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Asaan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2012",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Balai Gondi",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2013",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bajo Poat",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2014",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Gomuo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2015",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Nain",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2016",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Lamo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2017",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tongkonunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2019",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Hohudongan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2020",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Sinampangnyo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2021",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Jaya Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2023",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Pisou",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2024",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Lambangan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2025",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Toipan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2026",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Siuna",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2027",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Pinapuan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2029",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Sepa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2030",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Taloyon",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2031",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Uwedaka",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2032",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tintingan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2033",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bungawon",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2034",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Huhak",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2035",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Poh",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2037",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bondat",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2038",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Sammajatem",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2039",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2041",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tombang",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2043",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.07.2044",
+    "district_id": "72.01.07",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Dongkalan",
+    "type": "DESA"
+  }
+]

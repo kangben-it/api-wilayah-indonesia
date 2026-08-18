@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.78.14.1002",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Tandes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.14.1006",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Karang Poh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.14.1007",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Balongsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.14.1009",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Manukan Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.14.1011",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Manukan Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.14.1012",
+    "district_id": "35.78.14",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Banjar Sugihan",
+    "type": "KELURAHAN"
+  }
+]

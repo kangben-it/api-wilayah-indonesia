@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.10.13.2001",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Aliyan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2002",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Mangir",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2006",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gladag",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2007",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2008",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Lemahbangdewo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2010",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Gitik",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2012",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Karangbendo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2013",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Rogojampi",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2014",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Pengatigan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.13.2018",
+    "district_id": "35.10.13",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kedaleman",
+    "type": "DESA"
+  }
+]

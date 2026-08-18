@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.75.03.1002",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Krapyak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1003",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Kandang Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1004",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Panjang Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1006",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Padukuhan Kraton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1007",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Degayu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1009",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Bandengan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.75.03.1010",
+    "district_id": "33.75.03",
+    "regency_id": "33.75",
+    "province_id": "33",
+    "name": "Panjang Baru",
+    "type": "KELURAHAN"
+  }
+]

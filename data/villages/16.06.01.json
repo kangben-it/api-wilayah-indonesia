@@ -1,0 +1,114 @@
+[
+  {
+    "id": "16.06.01.1009",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Kayu Ara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.01.1010",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Serasan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.01.1011",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Soak baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.01.1012",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Balai Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.01.2001",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sukarami",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2002",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Lumpatan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2003",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bailangu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2004",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Muara Teladan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2005",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bandar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2006",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sungai Medak",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2007",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sungai Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2008",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Rimba Ukur",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2013",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Lumpatan 2",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.01.2014",
+    "district_id": "16.06.01",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Baliangu Timur",
+    "type": "DESA"
+  }
+]

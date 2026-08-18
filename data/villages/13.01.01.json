@@ -1,0 +1,82 @@
+[
+  {
+    "id": "13.01.01.2001",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2002",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Muaro Sakai Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2003",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Tiga Sepakat Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2004",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Inderapura Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2005",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Kudo-Kudo Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2006",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Inderapura Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2009",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Simpang Lama Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2010",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Tigo Sungai Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2011",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Tluk Amplu Inderapura",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.01.2012",
+    "district_id": "13.01.01",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Inderapura Tengah",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "16.12.01.1003",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Ubi Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.1010",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Ubi Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.1011",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Ubi Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.1012",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Ubi Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.1017",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Pasar Bhayangkara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.1018",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Handayani Mulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.12.01.2001",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Bulang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2002",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Benuang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2004",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Talang Akar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2005",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Sungai Ibul",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2006",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Karta Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2007",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Panta Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2008",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Sungai Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2009",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Semangus",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2013",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Sinar Dewa",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2014",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Benakat Minyak",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2015",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2016",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2019",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Beruge Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.01.2020",
+    "district_id": "16.12.01",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Simpang Tais",
+    "type": "DESA"
+  }
+]

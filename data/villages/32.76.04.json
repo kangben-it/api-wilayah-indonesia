@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.76.04.1001",
+    "district_id": "32.76.04",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Meruyung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.04.1002",
+    "district_id": "32.76.04",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Grogol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.04.1003",
+    "district_id": "32.76.04",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Krukut",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.76.04.1004",
+    "district_id": "32.76.04",
+    "regency_id": "32.76",
+    "province_id": "32",
+    "name": "Limo",
+    "type": "KELURAHAN"
+  }
+]

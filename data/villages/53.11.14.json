@@ -1,0 +1,74 @@
+[
+  {
+    "id": "53.11.14.2001",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kamanggih",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2002",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambatabundung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2003",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Meurumba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2004",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Laimbonga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2005",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kota Kawau",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2006",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Matawai Katingga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2007",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kataka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2008",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Matawai Maringgu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.14.2009",
+    "district_id": "53.11.14",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mauramba",
+    "type": "DESA"
+  }
+]

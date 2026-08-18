@@ -1,0 +1,82 @@
+[
+  {
+    "id": "81.01.23.2001",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Ulahahan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2002",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Laha Kaba",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2003",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Lafa",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2004",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Yamalatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2005",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Hunisi",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2006",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Laimu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2007",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Maneoratu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2008",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Tehua",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2009",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Laha",
+    "type": "DESA"
+  },
+  {
+    "id": "81.01.23.2010",
+    "district_id": "81.01.23",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Wolu",
+    "type": "DESA"
+  }
+]

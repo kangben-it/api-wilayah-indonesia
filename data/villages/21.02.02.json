@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.02.02.1001",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Batu Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.02.1002",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Batu Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.02.1009",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Gading Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.02.2004",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Sungai Sebesi",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.02.2005",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Sungai Ungar",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.02.2006",
+    "district_id": "21.02.02",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Lubuk",
+    "type": "DESA"
+  }
+]

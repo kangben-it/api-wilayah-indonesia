@@ -1,0 +1,114 @@
+[
+  {
+    "id": "74.02.33.1001",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Kapoiala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.33.2002",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalimbue Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2003",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Labotoy",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2004",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Muara Sampara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2005",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Sambaraasi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2006",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lamendora",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2007",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tani Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2008",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Pereoa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2009",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Ulu Lalimbue",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2010",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalimbue",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2011",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tombawatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2012",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lalonggombuno",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2013",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Kapoiala Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.33.2014",
+    "district_id": "74.02.33",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Labotoy Jaya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.04.09.2001",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Indari",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2014",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Tawabi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2015",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Wiring",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2016",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Nondang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2017",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Kusubibi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2018",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Nang",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.09.2030",
+    "district_id": "82.04.09",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Kokotu",
+    "type": "DESA"
+  }
+]

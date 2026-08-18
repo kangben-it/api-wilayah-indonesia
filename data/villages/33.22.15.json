@@ -1,0 +1,74 @@
+[
+  {
+    "id": "33.22.15.1004",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Pringapus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.15.2001",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Klepu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2002",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Derekan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2003",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Jatirunggo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2005",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Pringsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2006",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Wonorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2007",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Wonoyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2008",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Candirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.15.2009",
+    "district_id": "33.22.15",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Penawangan",
+    "type": "DESA"
+  }
+]

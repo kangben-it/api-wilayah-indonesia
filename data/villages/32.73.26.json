@@ -1,0 +1,42 @@
+[
+  {
+    "id": "32.73.26.1003",
+    "district_id": "32.73.26",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasir Endah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.26.1004",
+    "district_id": "32.73.26",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cigending",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.26.1005",
+    "district_id": "32.73.26",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasirwangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.26.1006",
+    "district_id": "32.73.26",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasirjati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.26.1007",
+    "district_id": "32.73.26",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pasanggrahan",
+    "type": "KELURAHAN"
+  }
+]

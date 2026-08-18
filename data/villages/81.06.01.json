@@ -1,0 +1,58 @@
+[
+  {
+    "id": "81.06.01.2008",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Kamarian",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2009",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Seruawan",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2010",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Kairatu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2011",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Waimital",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2012",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Hatusua",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2014",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Waipirit",
+    "type": "DESA"
+  },
+  {
+    "id": "81.06.01.2015",
+    "district_id": "81.06.01",
+    "regency_id": "81.06",
+    "province_id": "81",
+    "name": "Uraur",
+    "type": "DESA"
+  }
+]

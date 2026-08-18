@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.74.01.1001",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.01.1002",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Triwung Lor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.01.1003",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Triwung Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.01.1007",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Pohsangit Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.01.1008",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Kademangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.74.01.1009",
+    "district_id": "35.74.01",
+    "regency_id": "35.74",
+    "province_id": "35",
+    "name": "Pilang",
+    "type": "KELURAHAN"
+  }
+]

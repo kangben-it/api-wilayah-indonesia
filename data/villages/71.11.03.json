@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.11.03.2001",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Linawan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2002",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Nunuk",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2003",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Pinolosian",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2004",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Kombot",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2005",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Lungkap",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2006",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Ilomata",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2007",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Linawan I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2008",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Tolotoyon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2009",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Pinolosian Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.11.03.2010",
+    "district_id": "71.11.03",
+    "regency_id": "71.11",
+    "province_id": "71",
+    "name": "Kombot Timur",
+    "type": "DESA"
+  }
+]

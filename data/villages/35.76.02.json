@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.76.02.1001",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Gununggedangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.76.02.1003",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Magersari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.76.02.1004",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Gedongan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.76.02.1008",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Balongsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.76.02.1009",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Kedundung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.76.02.1010",
+    "district_id": "35.76.02",
+    "regency_id": "35.76",
+    "province_id": "35",
+    "name": "Wates",
+    "type": "KELURAHAN"
+  }
+]

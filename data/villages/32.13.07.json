@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.13.07.2004",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Gunungsembung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2005",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Gembor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2006",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kamarung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2010",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Gambarsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2011",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pagaden",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2012",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sukamulya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2013",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Neglasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2014",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Sumbersari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2015",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.07.2019",
+    "district_id": "32.13.07",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Jabong",
+    "type": "DESA"
+  }
+]

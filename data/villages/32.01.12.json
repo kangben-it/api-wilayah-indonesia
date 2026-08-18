@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.01.12.1006",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Atang Senjaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.01.12.2001",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2002",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Parakanjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2003",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Kemang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2004",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pabuaran",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2005",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Semplak Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2007",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Jampang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2008",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Pondok Udik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.01.12.2009",
+    "district_id": "32.01.12",
+    "regency_id": "32.01",
+    "province_id": "32",
+    "name": "Tegal",
+    "type": "DESA"
+  }
+]

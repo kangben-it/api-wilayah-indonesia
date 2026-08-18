@@ -1,0 +1,58 @@
+[
+  {
+    "id": "15.07.06.1006",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.06.2003",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Kuala Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2004",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Koto Kandis Dendang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2005",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Koto Kandis",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2007",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sido Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2008",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Catur Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.06.2009",
+    "district_id": "15.07.06",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Jati Mulyo",
+    "type": "DESA"
+  }
+]

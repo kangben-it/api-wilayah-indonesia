@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.07.08.2001",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Panjalu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2002",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Kertamandala",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2003",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Ciomas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2004",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Sandingtaman",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2005",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Maparah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2009",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Bahara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2012",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Hujungtiwu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.08.2013",
+    "district_id": "32.07.08",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Mandalare",
+    "type": "DESA"
+  }
+]

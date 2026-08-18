@@ -1,0 +1,122 @@
+[
+  {
+    "id": "73.13.01.1001",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Walennae",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.01.1002",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tolotenreng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.01.1003",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Sompe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.01.2004",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Liu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2005",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ugi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2006",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Ujungpero",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2007",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Wage",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2008",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Worongnge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2009",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Salotengnga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2010",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pallimae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2011",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Mallusesalo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2012",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Pasaka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2013",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tadangpalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2014",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Benteng Lompoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.01.2015",
+    "district_id": "73.13.01",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Bila",
+    "type": "DESA"
+  }
+]

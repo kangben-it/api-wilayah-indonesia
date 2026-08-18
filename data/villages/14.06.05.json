@@ -1,0 +1,82 @@
+[
+  {
+    "id": "14.06.05.1001",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "KepenuhanTengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.06.05.2003",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2004",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2005",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2006",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Barat Sei Rokan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2007",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2008",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2009",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kepenuhan Barat Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2010",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Ulak Patian",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.05.2012",
+    "district_id": "14.06.05",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Rantau Binuang Sakti",
+    "type": "DESA"
+  }
+]

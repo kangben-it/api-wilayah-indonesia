@@ -1,0 +1,258 @@
+[
+  {
+    "id": "12.78.01.1030",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Pasar Gunungsitoli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.1031",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Saombo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.1032",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.78.01.2001",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Bawodesolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2002",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Boyo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2003",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Dahadano Gawu-Gawu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2004",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Dahana Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2005",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Fadoro Lasara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2006",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hilihao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2007",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hilimbaruzo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2008",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hilina'a",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2009",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Iraonogeba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2010",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Lasara Bahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2011",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Lolowonu Niko'otano",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2012",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Madula",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2013",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Madolaoli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2014",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Mudik",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2015",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Miga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2016",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Mo'awo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2017",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Ombolata Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2018",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Onowaembo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2019",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Onozitoli Olora",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2020",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Onozitoli Sifaoroasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2021",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Saewe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2022",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sifalaete Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2023",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sifalaete Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2024",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sihare'o II Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2025",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Simandraolo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2026",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sisarahiligamo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2027",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sisarahili Sisambualahe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2028",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sisobahili Tabaloho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.01.2029",
+    "district_id": "12.78.01",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Tuhemberua Ulu",
+    "type": "DESA"
+  }
+]

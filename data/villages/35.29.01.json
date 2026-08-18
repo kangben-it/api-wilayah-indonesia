@@ -1,0 +1,130 @@
+[
+  {
+    "id": "35.29.01.1015",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Kepanjin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.29.01.1016",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Pajagalan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.29.01.1017",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Bangselok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.29.01.1018",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Karangduak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.29.01.2005",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Kolor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2006",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Pabian",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2007",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Marengan Daya",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2008",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Kacongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2009",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Paberasan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2010",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Parsanga",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2011",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Bangkal",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2012",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Kebunan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2013",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Pamolokan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2014",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Pangarangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2019",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Pandian",
+    "type": "DESA"
+  },
+  {
+    "id": "35.29.01.2020",
+    "district_id": "35.29.01",
+    "regency_id": "35.29",
+    "province_id": "35",
+    "name": "Kebunagung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.03.02.1001",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Tappanjeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1002",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Pallantikang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1003",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Letta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1004",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Mallilingi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1005",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Lembang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1006",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Lamalaka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1007",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Karatuang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.1008",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Onto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.03.02.2009",
+    "district_id": "73.03.02",
+    "regency_id": "73.03",
+    "province_id": "73",
+    "name": "Kayu Loe",
+    "type": "DESA"
+  }
+]

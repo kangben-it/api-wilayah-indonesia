@@ -1,0 +1,138 @@
+[
+  {
+    "id": "51.04.03.1003",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Samplangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.03.1005",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Abianbase",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.03.1006",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Gianyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.03.1007",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Bitera",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.03.1008",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Beng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.04.03.2001",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Tulikup",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2002",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Sidan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2004",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Lebih",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2009",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Bakbakan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2010",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Siangan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2011",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Suwat",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2012",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Petak",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2013",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Serongga",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2014",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Petak Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2015",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Temesi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2016",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Sumita",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.03.2017",
+    "district_id": "51.04.03",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Tegal Tugu",
+    "type": "DESA"
+  }
+]

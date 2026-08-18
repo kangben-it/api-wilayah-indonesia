@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.04.17.2001",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Amar",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.17.2002",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kawar",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.17.2003",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Manuare",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.17.2004",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Ipiri",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.17.2005",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Paripi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.17.2006",
+    "district_id": "94.04.17",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Yaraya",
+    "type": "DESA"
+  }
+]

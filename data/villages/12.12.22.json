@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.12.22.2001",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lintong Nihuta",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.22.2002",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Tarabunga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.22.2003",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Meat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.22.2004",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Gurgur Aek Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.22.2005",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Tangga Batu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.22.2006",
+    "district_id": "12.12.22",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Tangga Batu Timur",
+    "type": "DESA"
+  }
+]

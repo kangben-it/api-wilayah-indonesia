@@ -1,0 +1,82 @@
+[
+  {
+    "id": "95.08.02.2001",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Mapenduma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2002",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Duma",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2003",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Yoe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2004",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Palsam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2005",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Endumu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2006",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Litkui",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2007",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Nowomlusu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2008",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Kelapa Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2009",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Dumdum",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.02.2010",
+    "district_id": "95.08.02",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Lunggadumu",
+    "type": "DESA"
+  }
+]

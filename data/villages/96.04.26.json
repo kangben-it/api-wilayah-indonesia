@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.04.26.2001",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Arupi",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2002",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Mangganek",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2003",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wajarek",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2004",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Kali An",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2005",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Araro",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2006",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Wekari",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.26.2007",
+    "district_id": "96.04.26",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Serayo",
+    "type": "DESA"
+  }
+]

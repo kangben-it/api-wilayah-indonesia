@@ -1,0 +1,42 @@
+[
+  {
+    "id": "65.01.02.2001",
+    "district_id": "65.01.02",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Beluah",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.02.2002",
+    "district_id": "65.01.02",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Sam",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.02.2003",
+    "district_id": "65.01.02",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Mara I",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.02.2004",
+    "district_id": "65.01.02",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Mara Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.02.2005",
+    "district_id": "65.01.02",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Long Pari",
+    "type": "DESA"
+  }
+]

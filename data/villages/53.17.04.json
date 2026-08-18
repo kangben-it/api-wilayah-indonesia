@@ -1,0 +1,90 @@
+[
+  {
+    "id": "53.17.04.2001",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Mbilur Pangadu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2002",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Soru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2003",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Praikoruku Jangga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2007",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Lenang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2008",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Tana Mbanas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2009",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Padira Tana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2010",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Ngadu Bolu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2014",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Tana Mbanas Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2015",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Tana Mbanas Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2016",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Ngadu Olu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.17.04.2017",
+    "district_id": "53.17.04",
+    "regency_id": "53.17",
+    "province_id": "53",
+    "name": "Lenang Selatan",
+    "type": "DESA"
+  }
+]

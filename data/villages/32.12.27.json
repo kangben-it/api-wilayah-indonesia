@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.12.27.2001",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Cibeber",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2002",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Bondan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2003",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Gunungsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2004",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Sukagumiwang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2005",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Tersana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2006",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Cadang Pinggan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.12.27.2007",
+    "district_id": "32.12.27",
+    "regency_id": "32.12",
+    "province_id": "32",
+    "name": "Gedangan",
+    "type": "DESA"
+  }
+]

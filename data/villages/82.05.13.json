@@ -1,0 +1,58 @@
+[
+  {
+    "id": "82.05.13.2001",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Falabisahaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2002",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Modapia",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2003",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Modapuhi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2004",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Pastabulu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2005",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Saniahaya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2006",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Minaluli",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.13.2007",
+    "district_id": "82.05.13",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Modapuhi Trans",
+    "type": "DESA"
+  }
+]

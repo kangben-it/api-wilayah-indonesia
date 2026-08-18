@@ -1,0 +1,66 @@
+[
+  {
+    "id": "93.04.17.2001",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Yausakor",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2002",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Damen",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2003",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Biwar Darat",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2004",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Kaimo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2005",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Awok",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2006",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Fos",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2007",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Waganu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.17.2008",
+    "district_id": "93.04.17",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sakor",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "32.73.09.1001",
+    "district_id": "32.73.09",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cihapit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.09.1002",
+    "district_id": "32.73.09",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Taman Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.09.1003",
+    "district_id": "32.73.09",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Citarum",
+    "type": "KELURAHAN"
+  }
+]

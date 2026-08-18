@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.03.15.2001",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salumokanan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2003",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salumokanan Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2004",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Buangin",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2005",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bambang Buda",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2006",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Leko",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2007",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Kirak",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2008",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salumokanan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.15.2009",
+    "district_id": "76.03.15",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Sampale",
+    "type": "DESA"
+  }
+]

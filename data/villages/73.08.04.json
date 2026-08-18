@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.08.04.1001",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Pancaitana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.08.04.2002",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Malimongeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2003",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Manera",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2004",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Ulubalang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2005",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Gattareng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2006",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Bellu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2007",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Tebba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.04.2008",
+    "district_id": "73.08.04",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Mappatoba",
+    "type": "DESA"
+  }
+]

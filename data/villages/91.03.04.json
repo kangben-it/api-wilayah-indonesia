@@ -1,0 +1,42 @@
+[
+  {
+    "id": "91.03.04.2001",
+    "district_id": "91.03.04",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Dosay",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.04.2005",
+    "district_id": "91.03.04",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Maribu",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.04.2008",
+    "district_id": "91.03.04",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Sabron Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.04.2011",
+    "district_id": "91.03.04",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Sabro Yaru",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.04.3006",
+    "district_id": "91.03.04",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Waibron Bano",
+    "type": "DESA ADAT"
+  }
+]

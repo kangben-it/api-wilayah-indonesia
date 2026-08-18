@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.03.03.2001",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Pantae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2002",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oenaem",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2003",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Upfaon",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2007",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tautpah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2009",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tokbesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2010",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Sainiup",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2011",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Supun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.03.2012",
+    "district_id": "53.03.03",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tunbaen",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64.71.02.1001",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Baru Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1002",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Baru Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1003",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Baru Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1004",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Kariangau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1005",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Margo Mulyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.02.1006",
+    "district_id": "64.71.02",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Marga Sari",
+    "type": "KELURAHAN"
+  }
+]

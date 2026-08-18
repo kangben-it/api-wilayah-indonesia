@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.07.05.1006",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Madawat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.05.1007",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Nangalimang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.05.1008",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kabor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.05.1009",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Kota Uneng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.07.05.2014",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Pemana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.05.2015",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Samparong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.07.05.2016",
+    "district_id": "53.07.05",
+    "regency_id": "53.07",
+    "province_id": "53",
+    "name": "Gunung Sari",
+    "type": "DESA"
+  }
+]

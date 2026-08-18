@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.03.12.2001",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oelneke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2002",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oetulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2003",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oeolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2004",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Ainan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2005",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Bisafe",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.12.2006",
+    "district_id": "53.03.12",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Batnes",
+    "type": "DESA"
+  }
+]

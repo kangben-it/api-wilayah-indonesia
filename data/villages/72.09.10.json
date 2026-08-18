@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.09.10.1001",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Uentanaga Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.1002",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Uentanaga Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.1003",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Dondo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.1007",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Uamalingku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.1008",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Dondo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.1009",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Muara Toba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.09.10.2004",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Sumoli",
+    "type": "DESA"
+  },
+  {
+    "id": "72.09.10.2005",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Sabulira Toba",
+    "type": "DESA"
+  },
+  {
+    "id": "72.09.10.2006",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Labuan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.09.10.2010",
+    "district_id": "72.09.10",
+    "regency_id": "72.09",
+    "province_id": "72",
+    "name": "Patingko",
+    "type": "DESA"
+  }
+]

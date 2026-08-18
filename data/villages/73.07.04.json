@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.07.04.1001",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Samaenre",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.07.04.2002",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Mattunreng Tellue",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2003",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Kompang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2004",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2005",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Pattongko",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2006",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Saotengnga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2007",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Saohiring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2008",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Kanrung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2009",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Saotanre",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2010",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Bonto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.07.04.2011",
+    "district_id": "73.07.04",
+    "regency_id": "73.07",
+    "province_id": "73",
+    "name": "Gantarang",
+    "type": "DESA"
+  }
+]

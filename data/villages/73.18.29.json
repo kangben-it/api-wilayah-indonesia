@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.18.29.1001",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tiromanda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1002",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Sandabilik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1003",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tosapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.1004",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Pasang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.29.2005",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Randan Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2006",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Patekke",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2007",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Pa'buaran",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.29.2008",
+    "district_id": "73.18.29",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Bo'ne Buntu Sisong",
+    "type": "DESA"
+  }
+]

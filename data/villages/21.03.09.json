@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.03.09.2001",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Subi",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.09.2002",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Subi Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.09.2003",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Meliah",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.09.2005",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Terayak",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.09.2007",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Subi Besar Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.09.2008",
+    "district_id": "21.03.09",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Meliah Selatan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.08.13.1006",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungaimempura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.08.13.2001",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kota Ringin",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2002",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Paluh",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2003",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Benteng Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2004",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Benteng Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2005",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kampung Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2007",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Merempan Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.13.2008",
+    "district_id": "14.08.13",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Telukmerempan",
+    "type": "DESA"
+  }
+]

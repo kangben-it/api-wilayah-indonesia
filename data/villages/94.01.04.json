@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.01.04.2001",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Topo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.04.2002",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Urumusu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.04.2003",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Marga Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.04.2004",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Argo Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.04.2005",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Topo Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.01.04.2006",
+    "district_id": "94.01.04",
+    "regency_id": "94.01",
+    "province_id": "94",
+    "name": "Gamei Jaya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "31.75.08.1001",
+    "district_id": "31.75.08",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Makasar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.08.1002",
+    "district_id": "31.75.08",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Pinangranti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.08.1003",
+    "district_id": "31.75.08",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Kebon Pala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.08.1004",
+    "district_id": "31.75.08",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Halim Perdana Kusuma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.75.08.1005",
+    "district_id": "31.75.08",
+    "regency_id": "31.75",
+    "province_id": "31",
+    "name": "Cipinang Melayu",
+    "type": "KELURAHAN"
+  }
+]

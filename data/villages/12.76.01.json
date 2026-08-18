@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.76.01.1001",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Pabatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1002",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Lubuk Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1006",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Persiakan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1007",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Bandar Sono",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1010",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Tualang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1011",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Padang Merbau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.01.1012",
+    "district_id": "12.76.01",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Lubuk Raya",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "33.27.14.2001",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Pakembaran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.27.14.2002",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Warungpring",
+    "type": "DESA"
+  },
+  {
+    "id": "33.27.14.2003",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Karangdawa",
+    "type": "DESA"
+  },
+  {
+    "id": "33.27.14.2004",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Datar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.27.14.2005",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Cibuyur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.27.14.2006",
+    "district_id": "33.27.14",
+    "regency_id": "33.27",
+    "province_id": "33",
+    "name": "Mereng",
+    "type": "DESA"
+  }
+]

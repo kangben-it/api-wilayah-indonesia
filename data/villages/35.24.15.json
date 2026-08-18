@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.24.15.2001",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Dadapan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2002",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Tebluru",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2003",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sugihan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2004",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Tenggulun",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2005",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Payaman",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2006",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Solokuro",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2007",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Takerharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2008",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Dagan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2009",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Banyubang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.15.2010",
+    "district_id": "35.24.15",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Bluri",
+    "type": "DESA"
+  }
+]

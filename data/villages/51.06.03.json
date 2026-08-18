@@ -1,0 +1,50 @@
+[
+  {
+    "id": "51.06.03.2001",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Jehem",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.03.2002",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Tembuku",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.03.2003",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Yangapi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.03.2004",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Undisan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.03.2005",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Bangbang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.06.03.2006",
+    "district_id": "51.06.03",
+    "regency_id": "51.06",
+    "province_id": "51",
+    "name": "Peninjoan",
+    "type": "DESA"
+  }
+]

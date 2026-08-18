@@ -1,0 +1,210 @@
+[
+  {
+    "id": "64.01.06.1001",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Long Ikis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.01.06.2002",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Adang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2003",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Teluk Waru",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2004",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Tajur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2005",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Semuntai",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2006",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Lombok",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2007",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Pait",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2008",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Olung",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2009",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kayungo",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2010",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Jemparing",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2011",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Tiwei",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2012",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Belimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2013",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Long Gelang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2014",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Krayan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2015",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Bukit Saloka",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2016",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Krayan Sentosa",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2017",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Krayan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2018",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kayungo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2019",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Krayan Bahagia",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2020",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Sawit Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2021",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Sekurou Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2022",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Kerta Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2023",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Adang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2024",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Tajer Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2025",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Brewe",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.06.2026",
+    "district_id": "64.01.06",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Atang Pait",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18.71.11.1001",
+    "district_id": "18.71.11",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Tanjung Senang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1002",
+    "district_id": "18.71.11",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Way Kandis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1003",
+    "district_id": "18.71.11",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Labuhan Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1004",
+    "district_id": "18.71.11",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Perumnas Way Kandis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.11.1005",
+    "district_id": "18.71.11",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Pematang Wangi",
+    "type": "KELURAHAN"
+  }
+]

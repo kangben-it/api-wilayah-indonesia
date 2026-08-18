@@ -1,0 +1,186 @@
+[
+  {
+    "id": "95.04.01.1001",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Karubaga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.04.01.2002",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kogimagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2003",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Muara",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2004",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2005",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Elsadai",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2006",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Ebenhaiser",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2007",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kolilan",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2008",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kuloname",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2009",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Lirak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2010",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kimobur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2011",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kuragepura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2012",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kiranage",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2013",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Luwik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2014",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Gininggadonak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2015",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Danggulurik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2016",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Gurikme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2017",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Molera",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2018",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Nalorini",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2019",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Beleme",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2020",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Gurikagewa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2021",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Pulanggun",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2022",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Yalikaluk",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.01.2023",
+    "district_id": "95.04.01",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Losmen",
+    "type": "DESA"
+  }
+]

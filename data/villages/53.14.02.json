@@ -1,0 +1,98 @@
+[
+  {
+    "id": "53.14.02.1008",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Busalangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.14.02.2004",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Temas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2007",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Modosinal",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2009",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Netenaen",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2012",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Ingguinak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2013",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Oetutulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2014",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Daudolu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2017",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Tualima",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2019",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Hundihuk",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2021",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Saindule",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2025",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Busalangga Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.14.02.2026",
+    "district_id": "53.14.02",
+    "regency_id": "53.14",
+    "province_id": "53",
+    "name": "Busalangga Barat",
+    "type": "DESA"
+  }
+]

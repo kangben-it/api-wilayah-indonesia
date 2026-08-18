@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52.07.06.2001",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Senayan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2002",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Mantar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2003",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Kiantar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2004",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Poto Tano",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2005",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "UPT Tambak Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2006",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Kokarlian",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2007",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tebo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.06.2008",
+    "district_id": "52.07.06",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tuananga",
+    "type": "DESA"
+  }
+]

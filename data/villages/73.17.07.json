@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.17.07.1001",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tampumia Radda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.07.1003",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tanamanai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.07.1005",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Senga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.07.1007",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Balo-Balo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.07.2004",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Kurrusumanga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.07.2006",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Belopa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.07.2014",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Senga Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.07.2015",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Balubu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.07.2016",
+    "district_id": "73.17.07",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pasamai",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "51.04.01.2001",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Batubulan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2002",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Ketewel",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2003",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Guwang",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2004",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Sukawati",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2005",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Celuk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2006",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Singapadu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2007",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Batuan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2008",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Kemenuh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2009",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Batubulan Kangin",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2010",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Singapadu Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2011",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Singapadu Kaler",
+    "type": "DESA"
+  },
+  {
+    "id": "51.04.01.2012",
+    "district_id": "51.04.01",
+    "regency_id": "51.04",
+    "province_id": "51",
+    "name": "Batuan Kaler",
+    "type": "DESA"
+  }
+]

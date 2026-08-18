@@ -1,0 +1,50 @@
+[
+  {
+    "id": "36.71.02.1001",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Keroncong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.02.1002",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Jatake",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.02.1003",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Pasir Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.02.1004",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Gandasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.02.1005",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Manis Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "36.71.02.1006",
+    "district_id": "36.71.02",
+    "regency_id": "36.71",
+    "province_id": "36",
+    "name": "Alam Jaya",
+    "type": "KELURAHAN"
+  }
+]

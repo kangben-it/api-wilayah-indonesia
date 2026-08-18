@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.22.11.1005",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Salassa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.22.11.2002",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Salulemo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2003",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Radda",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2004",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Baebunta",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2007",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Tarobok",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2008",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Mario",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2009",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Sassa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2010",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Kariango",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2011",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Meli",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2013",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Palandan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.11.2015",
+    "district_id": "73.22.11",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Bumi Harapan",
+    "type": "DESA"
+  }
+]

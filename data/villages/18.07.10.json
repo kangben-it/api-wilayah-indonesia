@@ -1,0 +1,58 @@
+[
+  {
+    "id": "18.07.10.2001",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Kibang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2002",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Marga Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2003",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Margototo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2004",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Purbosembodo",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2005",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Sumber Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2006",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Margasari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.07.10.2007",
+    "district_id": "18.07.10",
+    "regency_id": "18.07",
+    "province_id": "18",
+    "name": "Jaya Asri",
+    "type": "DESA"
+  }
+]

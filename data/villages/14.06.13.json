@@ -1,0 +1,58 @@
+[
+  {
+    "id": "14.06.13.2001",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Teluk Sono",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2002",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Sontang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2003",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Bonai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2004",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Rawa Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2005",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Pauh",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2006",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kasang Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.06.13.2007",
+    "district_id": "14.06.13",
+    "regency_id": "14.06",
+    "province_id": "14",
+    "name": "Kasang Mungkal",
+    "type": "DESA"
+  }
+]

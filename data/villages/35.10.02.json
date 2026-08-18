@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.10.02.2001",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sukorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2002",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2003",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Temurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2004",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Bangorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2005",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Kebondalem",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2006",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Sambimulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.02.2007",
+    "district_id": "35.10.02",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Ringintelu",
+    "type": "DESA"
+  }
+]

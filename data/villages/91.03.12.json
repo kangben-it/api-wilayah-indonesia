@@ -1,0 +1,42 @@
+[
+  {
+    "id": "91.03.12.2001",
+    "district_id": "91.03.12",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Ebungfa",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.12.2002",
+    "district_id": "91.03.12",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Atabar",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.12.2004",
+    "district_id": "91.03.12",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Khameyoka",
+    "type": "DESA"
+  },
+  {
+    "id": "91.03.12.3003",
+    "district_id": "91.03.12",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Bobrongko",
+    "type": "DESA ADAT"
+  },
+  {
+    "id": "91.03.12.3005",
+    "district_id": "91.03.12",
+    "regency_id": "91.03",
+    "province_id": "91",
+    "name": "Desa Adat Homfolo",
+    "type": "DESA ADAT"
+  }
+]

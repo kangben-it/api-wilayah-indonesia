@@ -1,0 +1,106 @@
+[
+  {
+    "id": "71.01.19.2001",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Muntoi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2002",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Poyuyanan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2003",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Lobong",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2004",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Passi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2017",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bintau",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2018",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bulud",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2019",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Otam",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2020",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Wangga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2022",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Inuai",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2023",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Passi II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2024",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Muntoi Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2025",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Otam Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.19.2026",
+    "district_id": "71.01.19",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Wangga Satu",
+    "type": "DESA"
+  }
+]

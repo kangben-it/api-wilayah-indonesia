@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.03.21.2001",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Lanaus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2002",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Letmafo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2003",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tainsala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2004",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Maubesi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2005",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Sone",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2006",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Letmafo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.21.2007",
+    "district_id": "53.03.21",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oehalo",
+    "type": "DESA"
+  }
+]

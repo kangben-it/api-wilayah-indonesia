@@ -1,0 +1,106 @@
+[
+  {
+    "id": "16.01.14.1001",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Baturaja Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1003",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Pasar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1004",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Kemalaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1005",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Sukaraya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1006",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Sukajadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1011",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Kemelak Bindung Langit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1012",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Sepancar Lawang Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1013",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Baturaja Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.1014",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Sekar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.01.14.2007",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Tanjung Kemala",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.14.2008",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Tanjung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.14.2015",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Air Paoh",
+    "type": "DESA"
+  },
+  {
+    "id": "16.01.14.2016",
+    "district_id": "16.01.14",
+    "regency_id": "16.01",
+    "province_id": "16",
+    "name": "Terusan",
+    "type": "DESA"
+  }
+]

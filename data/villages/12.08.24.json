@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.08.24.2001",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Masilam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2002",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Lias Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2003",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Silou",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2004",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Panombeian Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2005",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Gunung Serawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2006",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Masilam II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2007",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Partimbalan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2008",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2009",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.24.2010",
+    "district_id": "12.08.24",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Gunung",
+    "type": "DESA"
+  }
+]

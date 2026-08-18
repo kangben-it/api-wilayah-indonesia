@@ -1,0 +1,66 @@
+[
+  {
+    "id": "17.08.05.1002",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Durian Depun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.08.05.2001",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pulo Geto",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2003",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Taba Mulan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2004",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Lubuk Penyamun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2005",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "SP. Kota Bingin",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2006",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Bukit Barisan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2007",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Batu Ampar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.08.05.2008",
+    "district_id": "17.08.05",
+    "regency_id": "17.08",
+    "province_id": "17",
+    "name": "Pulo Geto Baru",
+    "type": "DESA"
+  }
+]

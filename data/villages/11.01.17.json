@@ -1,0 +1,82 @@
+[
+  {
+    "id": "11.01.17.2001",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Buket Gadeng",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2002",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Rambong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2003",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Seuneubok Keuranji",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2004",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Seuneubok Alur Buloh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2005",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Ujong Tanoh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2006",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Ujong Gunong Cut",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2007",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Ujong Gunung Rayeuk",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2008",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Beutong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2009",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Jambo Keupok",
+    "type": "DESA"
+  },
+  {
+    "id": "11.01.17.2010",
+    "district_id": "11.01.17",
+    "regency_id": "11.01",
+    "province_id": "11",
+    "name": "Alurduamas",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.16.04.2001",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Sihonongan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2002",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Paranginan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2003",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Paranginan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2004",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Lumban Sialaman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2005",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Pearung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2006",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Lobutolong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2007",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Lumban Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2008",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Siboru Torop",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2009",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Pearung Silali",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2010",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Lumban Sianturi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.16.04.2011",
+    "district_id": "12.16.04",
+    "regency_id": "12.16",
+    "province_id": "12",
+    "name": "Lobutolong Habinsaran",
+    "type": "DESA"
+  }
+]

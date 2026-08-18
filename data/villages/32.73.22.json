@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.73.22.1001",
+    "district_id": "32.73.22",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sekejati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.22.1002",
+    "district_id": "32.73.22",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Margasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.22.1003",
+    "district_id": "32.73.22",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cijaura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.22.1004",
+    "district_id": "32.73.22",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Jati Sari",
+    "type": "KELURAHAN"
+  }
+]

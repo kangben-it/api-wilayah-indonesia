@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.09.06.2001",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tanjung Pucuk Jambi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2002",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Kuamang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2003",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Kayu Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2004",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Sungai Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2005",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Aur Cino",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2007",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Muara Niro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2013",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Teluk Lancang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2014",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Dusun Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2015",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Tabun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.09.06.2016",
+    "district_id": "15.09.06",
+    "regency_id": "15.09",
+    "province_id": "15",
+    "name": "Muara Tabun",
+    "type": "DESA"
+  }
+]

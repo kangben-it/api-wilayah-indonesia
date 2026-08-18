@@ -1,0 +1,50 @@
+[
+  {
+    "id": "72.02.20.2001",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Taipa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.20.2002",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Meko",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.20.2003",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Toinasa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.20.2004",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Salukaia",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.20.2005",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Uranosari",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.20.2006",
+    "district_id": "72.02.20",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Owini",
+    "type": "DESA"
+  }
+]

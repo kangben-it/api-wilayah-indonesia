@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.13.10.2005",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Pusakaratu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2006",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Gempol",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2007",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kalentambo",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2008",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Patimban",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2012",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Rancadaka",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2014",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Kotasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.13.10.2015",
+    "district_id": "32.13.10",
+    "regency_id": "32.13",
+    "province_id": "32",
+    "name": "Mundusari",
+    "type": "DESA"
+  }
+]

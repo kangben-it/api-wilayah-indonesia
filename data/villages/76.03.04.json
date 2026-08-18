@@ -1,0 +1,106 @@
+[
+  {
+    "id": "76.03.04.1001",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.04.2003",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Manipi",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2005",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Mamullu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2006",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Sapan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2009",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Datubaringan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2010",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Panura",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2011",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tallang Bulawan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2012",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Karaka",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2013",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Ulusalu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2014",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Weri",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2015",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salutambun",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2016",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Saloan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.04.2017",
+    "district_id": "76.03.04",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Ulusalu Indah",
+    "type": "DESA"
+  }
+]

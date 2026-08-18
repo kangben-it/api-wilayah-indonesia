@@ -1,0 +1,114 @@
+[
+  {
+    "id": "64.03.03.1013",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Sambaliung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.03.2001",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Long Lanuk",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2002",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tumbit Dayak",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2004",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Inaran",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2005",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pegat Bukur",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2006",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2007",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Suaran",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2008",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pilanjau",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2009",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pesayan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2010",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Sei Bebanir Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2011",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Gurimbang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2012",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Sukan Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2014",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tanjung Perangat",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.03.2015",
+    "district_id": "64.03.03",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Bena Baru",
+    "type": "DESA"
+  }
+]

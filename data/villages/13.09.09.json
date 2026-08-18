@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.09.09.2001",
+    "district_id": "13.09.09",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Sikakap",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.09.2002",
+    "district_id": "13.09.09",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Taikako",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.09.2003",
+    "district_id": "13.09.09",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Matobe",
+    "type": "DESA"
+  }
+]

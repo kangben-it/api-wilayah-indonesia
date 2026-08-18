@@ -1,0 +1,42 @@
+[
+  {
+    "id": "21.02.07.1012",
+    "district_id": "21.02.07",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Berlian Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.02.07.2003",
+    "district_id": "21.02.07",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Sungai Ungar Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.07.2004",
+    "district_id": "21.02.07",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Teluk Radang",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.07.2010",
+    "district_id": "21.02.07",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Perayun",
+    "type": "DESA"
+  },
+  {
+    "id": "21.02.07.2013",
+    "district_id": "21.02.07",
+    "regency_id": "21.02",
+    "province_id": "21",
+    "name": "Tanjung Berlian Barat",
+    "type": "DESA"
+  }
+]

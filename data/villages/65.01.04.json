@@ -1,0 +1,66 @@
+[
+  {
+    "id": "65.01.04.2001",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Tanah Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2002",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Mangkupadi",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2003",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Sajau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2004",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Wonomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2005",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2006",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Binai",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2007",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Sajau Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "65.01.04.2008",
+    "district_id": "65.01.04",
+    "regency_id": "65.01",
+    "province_id": "65",
+    "name": "Pura Sajau",
+    "type": "DESA"
+  }
+]

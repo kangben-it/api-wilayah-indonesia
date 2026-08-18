@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.03.12.2001",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Yaro",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.12.2002",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Mawea",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.12.2003",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Meti",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.12.2004",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Katana",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.12.2005",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Gonga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.03.12.2006",
+    "district_id": "82.03.12",
+    "regency_id": "82.03",
+    "province_id": "82",
+    "name": "Todokuiha",
+    "type": "DESA"
+  }
+]

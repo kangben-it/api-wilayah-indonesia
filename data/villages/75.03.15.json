@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.03.15.2001",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Ayula Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2002",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Huntu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2003",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Ayula Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2004",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Huntu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2006",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Ayula Tilango",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2007",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Ayula Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2008",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Lamahu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2009",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Tinelo Ayula",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2010",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Sejahtera",
+    "type": "DESA"
+  },
+  {
+    "id": "75.03.15.2011",
+    "district_id": "75.03.15",
+    "regency_id": "75.03",
+    "province_id": "75",
+    "name": "Huntu Barat",
+    "type": "DESA"
+  }
+]

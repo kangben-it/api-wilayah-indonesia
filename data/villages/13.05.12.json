@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.05.12.2001",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.12.2002",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Koto Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.12.2003",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Batu Kalang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.12.2004",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Koto Dalam Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.12.2005",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Koto Dalam Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.12.2006",
+    "district_id": "13.05.12",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Batu Kalang Utara",
+    "type": "DESA"
+  }
+]

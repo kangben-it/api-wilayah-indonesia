@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.72.01.1001",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Kebun Sayur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1002",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Tomuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1003",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Pahlawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1004",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Asuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1005",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1006",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.01.1007",
+    "district_id": "12.72.01",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Siopat Suhu",
+    "type": "KELURAHAN"
+  }
+]

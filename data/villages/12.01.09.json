@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.01.09.1001",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sosor Gadong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.01.09.2002",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Unte Boang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2003",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Sibintang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2004",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Barambang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2005",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Siantar Ca.",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2006",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Muara Bolak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2007",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Huta Tombak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2008",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Siantar Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.01.09.2009",
+    "district_id": "12.01.09",
+    "regency_id": "12.01",
+    "province_id": "12",
+    "name": "Baringin",
+    "type": "DESA"
+  }
+]

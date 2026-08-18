@@ -1,0 +1,202 @@
+[
+  {
+    "id": "33.23.03.1001",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Temanggung I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1002",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Temanggung II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1003",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Butuh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1004",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Jampiroso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1005",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Jampirejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1006",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kertosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1007",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Banyuurip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1008",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kowangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1009",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Jurang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1010",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Tlogorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1012",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Kebonsari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1013",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Manding",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1014",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Mungseng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1015",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Purworejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1016",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Giyanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1018",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Madureso",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1022",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Sidorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1025",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Walitelon Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.1026",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Walitelon Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.23.03.2011",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Joho",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.03.2017",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Guntur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.03.2019",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Lungge",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.03.2020",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Mudal",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.03.2021",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Gilingsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.23.03.2024",
+    "district_id": "33.23.03",
+    "regency_id": "33.23",
+    "province_id": "33",
+    "name": "Nampirejo",
+    "type": "DESA"
+  }
+]

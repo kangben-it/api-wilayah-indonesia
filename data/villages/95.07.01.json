@@ -1,0 +1,90 @@
+[
+  {
+    "id": "95.07.01.1001",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Bokon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "95.07.01.2002",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Oyi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2003",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gurika",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2004",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Olume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2005",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Dura",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2006",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Langgalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2007",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Kuapur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2008",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wadinalome",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2009",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Yilondum",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2010",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Palunggame",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.01.2011",
+    "district_id": "95.07.01",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Ginime",
+    "type": "DESA"
+  }
+]

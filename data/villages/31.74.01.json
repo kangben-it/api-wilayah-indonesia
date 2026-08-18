@@ -1,0 +1,58 @@
+[
+  {
+    "id": "31.74.01.1001",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Tebet Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1002",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Tebet Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1003",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Menteng Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1004",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Kebon Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1005",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Bukit Duri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1006",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Manggarai Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.01.1007",
+    "district_id": "31.74.01",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Manggarai",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.13.1001",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Pekan Labuhan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1002",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Sei Mati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1003",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Besar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1004",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Martubung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1005",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Nelayan Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.13.1006",
+    "district_id": "12.71.13",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Tangkahan",
+    "type": "KELURAHAN"
+  }
+]

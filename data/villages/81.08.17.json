@@ -1,0 +1,26 @@
+[
+  {
+    "id": "81.08.17.2001",
+    "district_id": "81.08.17",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Purpura",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.17.2002",
+    "district_id": "81.08.17",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Nomaha",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.17.2003",
+    "district_id": "81.08.17",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Labelau",
+    "type": "DESA"
+  }
+]

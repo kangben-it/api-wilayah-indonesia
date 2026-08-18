@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.14.07.1001",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Pangkajene",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1002",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lautang Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1003",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Majjelling",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1004",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Wala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1005",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Lakessi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1006",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Rijang Pittu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.1007",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Majjelling Watang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.14.07.2008",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Sereang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.07.2009",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Kanie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.07.2010",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Allakuang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.07.2011",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Tanete",
+    "type": "DESA"
+  },
+  {
+    "id": "73.14.07.2012",
+    "district_id": "73.14.07",
+    "regency_id": "73.14",
+    "province_id": "73",
+    "name": "Takkalasi",
+    "type": "DESA"
+  }
+]

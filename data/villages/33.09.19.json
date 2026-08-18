@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.09.19.1006",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Sambeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.09.19.2001",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Krobokan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2002",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Ngaren",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2003",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Kalimati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2004",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Kayen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2005",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Jerukan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2007",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Pilangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2008",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Cerme",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2009",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Juwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.19.2010",
+    "district_id": "33.09.19",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Ngleses",
+    "type": "DESA"
+  }
+]

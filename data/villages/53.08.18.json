@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.08.18.1001",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Kota Raja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.18.1002",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Kota Ratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.18.1003",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Roworena",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.18.1007",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Roworena Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.18.2004",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Gheoghoma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.18.2005",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Borokanda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.18.2006",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Watusipi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.18.2008",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Mbomba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.18.2009",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Embundoa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.18.2010",
+    "district_id": "53.08.18",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Raterua",
+    "type": "DESA"
+  }
+]

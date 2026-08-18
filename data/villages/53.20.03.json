@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.20.03.1001",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Bolou",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.03.1002",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Limaggu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.03.2003",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Lobodei",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2004",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Bodae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2005",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Keduru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2006",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Kuji Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2007",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Loborai",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2008",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Huwaga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2009",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Eiada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.03.2010",
+    "district_id": "53.20.03",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Keliha",
+    "type": "DESA"
+  }
+]

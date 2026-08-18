@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.73.02.1001",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipaganti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.02.1002",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Lebak Gede",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.02.1003",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sadang Serang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.02.1004",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Dago",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.02.1005",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sekeloa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.02.1006",
+    "district_id": "32.73.02",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Lebak Siliwangi",
+    "type": "KELURAHAN"
+  }
+]

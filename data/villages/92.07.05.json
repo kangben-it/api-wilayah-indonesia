@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.07.05.2001",
+    "district_id": "92.07.05",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sabubar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.05.2002",
+    "district_id": "92.07.05",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Ambuar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.05.2003",
+    "district_id": "92.07.05",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Karuan",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.05.2007",
+    "district_id": "92.07.05",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Yarpate",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.05.2009",
+    "district_id": "92.07.05",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Nordiwar",
+    "type": "DESA"
+  }
+]

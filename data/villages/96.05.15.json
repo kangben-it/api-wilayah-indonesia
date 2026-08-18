@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.05.15.2001",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sauf",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2002",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sembaro",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2003",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Koma Koma",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2004",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Kanisabar",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2005",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sfarare",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2006",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Saneh",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2007",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Lemauk Klit",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2008",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Hawioh",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2009",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Simiyah",
+    "type": "DESA"
+  },
+  {
+    "id": "96.05.15.2010",
+    "district_id": "96.05.15",
+    "regency_id": "96.05",
+    "province_id": "96",
+    "name": "Sagrim",
+    "type": "DESA"
+  }
+]

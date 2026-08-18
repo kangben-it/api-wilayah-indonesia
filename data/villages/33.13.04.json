@@ -1,0 +1,90 @@
+[
+  {
+    "id": "33.13.04.2001",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Sedayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2002",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Kebak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2003",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Gemantar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2004",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Tunggulrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2005",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Genengan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2006",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Ngunut",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2007",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Tugu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2008",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Sukosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2009",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2010",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Blorong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.04.2011",
+    "district_id": "33.13.04",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Sringin",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.13.05.2001",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Malasankulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2002",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Tigasan Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2003",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Tigasan Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2004",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Pondok Wuluh",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2005",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Leces",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2006",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Sumberkedawung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2007",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kerpangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2008",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Clarak",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2009",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Jorongan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.05.2010",
+    "district_id": "35.13.05",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Warujinggo",
+    "type": "DESA"
+  }
+]

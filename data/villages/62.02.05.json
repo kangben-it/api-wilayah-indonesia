@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.02.05.1001",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Baamang Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.05.1002",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Baamang Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.05.1003",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Baamang Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.05.1007",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Tanah Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.05.1008",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Baamang Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.05.2006",
+    "district_id": "62.02.05",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Tinduk",
+    "type": "DESA"
+  }
+]

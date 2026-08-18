@@ -1,0 +1,234 @@
+[
+  {
+    "id": "33.18.10.1005",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Pati Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.18.10.1007",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Pati Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.18.10.1012",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Pati Lor",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.18.10.1013",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Parenggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.18.10.1015",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Kalidoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.18.10.2001",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Panjunan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2002",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Gajahmati",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2003",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Mustokoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2004",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Semampir",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2006",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Blaru",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2008",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Plangitan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2009",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Puri",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2010",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Winong",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2011",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Ngarus",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2014",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Sidoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2016",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Sarirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2017",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Geritan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2018",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Dengkek",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2019",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Sugiharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2020",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Widorokandang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2021",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Payang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2022",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Kutoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2023",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Sidokerto",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2024",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Mulyoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2025",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Tambaharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2026",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Tambahsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2027",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Ngepungrojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2028",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Purworejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.18.10.2029",
+    "district_id": "33.18.10",
+    "regency_id": "33.18",
+    "province_id": "33",
+    "name": "Sinoman",
+    "type": "DESA"
+  }
+]

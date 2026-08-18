@@ -1,0 +1,42 @@
+[
+  {
+    "id": "65.03.02.1001",
+    "district_id": "65.03.02",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Nunukan Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.02.1002",
+    "district_id": "65.03.02",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Nunukan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.02.1003",
+    "district_id": "65.03.02",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Nunukan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.02.1005",
+    "district_id": "65.03.02",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Nunukan Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.02.2004",
+    "district_id": "65.03.02",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Binusan",
+    "type": "DESA"
+  }
+]

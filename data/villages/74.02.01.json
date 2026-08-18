@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.02.01.1001",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Lambuya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.02.01.2006",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Awuliti",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2007",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Asaki",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2011",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Amberi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2012",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Waworaha",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2015",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tanggobu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2027",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Meraka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2035",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Wanua Hoa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2036",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Watarema",
+    "type": "DESA"
+  },
+  {
+    "id": "74.02.01.2037",
+    "district_id": "74.02.01",
+    "regency_id": "74.02",
+    "province_id": "74",
+    "name": "Tetembomua",
+    "type": "DESA"
+  }
+]

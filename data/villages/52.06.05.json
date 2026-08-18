@@ -1,0 +1,74 @@
+[
+  {
+    "id": "52.06.05.2001",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Tarlawi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2005",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Ntori",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2006",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Maria",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2007",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Pesa",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2008",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Raba",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2011",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kambilo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2012",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Maria Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2013",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Kombo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.06.05.2014",
+    "district_id": "52.06.05",
+    "regency_id": "52.06",
+    "province_id": "52",
+    "name": "Riamau",
+    "type": "DESA"
+  }
+]

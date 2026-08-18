@@ -1,0 +1,50 @@
+[
+  {
+    "id": "52.01.15.2001",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Kuripan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.15.2002",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Jagaraga",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.15.2003",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Kuripan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.15.2004",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Kuripan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.15.2005",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Kuripan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.01.15.2006",
+    "district_id": "52.01.15",
+    "regency_id": "52.01",
+    "province_id": "52",
+    "name": "Giri Sasak",
+    "type": "DESA"
+  }
+]

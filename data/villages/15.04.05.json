@@ -1,0 +1,154 @@
+[
+  {
+    "id": "15.04.05.1002",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Jembatan Mas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.05.2001",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Tebing Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2003",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Serasah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2004",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Lubuk Ruso",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2005",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kuap",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2006",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Senaning",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2007",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kubu Kandang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2008",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Ture",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2009",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pulau Betung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2010",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Lopak Aur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2011",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Selat",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2012",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Teluk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2013",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pulau Raman",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2014",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kaos",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2015",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Simpang Kubu Kandang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2016",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Awin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2017",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Olak Rambahan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2019",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Teluk Ketapang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.05.2020",
+    "district_id": "15.04.05",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Kampung Pulau",
+    "type": "DESA"
+  }
+]

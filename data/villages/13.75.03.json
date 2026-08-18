@@ -1,0 +1,66 @@
+[
+  {
+    "id": "13.75.03.1001",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Aur Kuning",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1002",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Birugo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1003",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Belakang Balok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1004",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Sapiran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1005",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Kubu Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1006",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Pakan Labuah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1007",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Parit Antang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "13.75.03.1008",
+    "district_id": "13.75.03",
+    "regency_id": "13.75",
+    "province_id": "13",
+    "name": "Ladang Cakiah",
+    "type": "KELURAHAN"
+  }
+]

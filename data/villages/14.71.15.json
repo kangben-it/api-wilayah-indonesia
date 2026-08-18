@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.71.15.1001",
+    "district_id": "14.71.15",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tebing Tinggi Okura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.15.1002",
+    "district_id": "14.71.15",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sungaiukai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.15.1003",
+    "district_id": "14.71.15",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sungaiambang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.15.1004",
+    "district_id": "14.71.15",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Lembah Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.15.1005",
+    "district_id": "14.71.15",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Limbungan",
+    "type": "KELURAHAN"
+  }
+]

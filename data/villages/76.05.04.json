@@ -1,0 +1,98 @@
+[
+  {
+    "id": "76.05.04.1001",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Malunda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.04.1015",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Lamungang Batu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.05.04.2002",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Bambangan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2004",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2005",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Lombong",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2006",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Mekkatta",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2010",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Maliaya",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2011",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Lombang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2012",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Salutahongan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2013",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Lombong Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2014",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Mekkatta Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.05.04.2016",
+    "district_id": "76.05.04",
+    "regency_id": "76.05",
+    "province_id": "76",
+    "name": "Kayuangin",
+    "type": "DESA"
+  }
+]

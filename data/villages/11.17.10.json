@@ -1,0 +1,82 @@
+[
+  {
+    "id": "11.17.10.2001",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Simpang Rahmat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2002",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gajah Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2003",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gayo Setie",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2004",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Umah Besi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2005",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pante Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2006",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Meriah Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2007",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Timang Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2008",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pantan Lues",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2009",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Alam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.10.2010",
+    "district_id": "11.17.10",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Reronga",
+    "type": "DESA"
+  }
+]

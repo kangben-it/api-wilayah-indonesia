@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.12.09.1003",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Mojopuro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.09.1007",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Wuryantoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.12.09.2001",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Genukharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.09.2002",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Sumberejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.09.2004",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Mlopoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.09.2005",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pulutan Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.09.2006",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Pulutan Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.12.09.2008",
+    "district_id": "33.12.09",
+    "regency_id": "33.12",
+    "province_id": "33",
+    "name": "Gumiwang Lor",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "17.07.03.1005",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Embong Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.03.2006",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tanjung Bungai I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2007",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Semelako I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2008",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Pagar Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2009",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2013",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Semelako II",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2014",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Semelako III",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2015",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Semelako Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2016",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Danau Liang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2020",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.03.2023",
+    "district_id": "17.07.03",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tanjung Bungai II",
+    "type": "DESA"
+  }
+]

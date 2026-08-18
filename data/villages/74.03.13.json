@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.03.13.1003",
+    "district_id": "74.03.13",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Labunia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.03.13.2001",
+    "district_id": "74.03.13",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Wambona",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2004",
+    "district_id": "74.03.13",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Bakealu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2005",
+    "district_id": "74.03.13",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Pure",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.13.2006",
+    "district_id": "74.03.13",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Wakorumba",
+    "type": "DESA"
+  }
+]

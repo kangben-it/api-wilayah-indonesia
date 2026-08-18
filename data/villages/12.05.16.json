@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.05.16.1009",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pekan Besitang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.16.1010",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bukit Kubu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.16.1011",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Kampung Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.16.2001",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Halaban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.16.2002",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bukit Mas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.16.2005",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Pir Adb Besitang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.16.2006",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sekoci",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.16.2007",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Suka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.16.2008",
+    "district_id": "12.05.16",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Bukit Selamat",
+    "type": "DESA"
+  }
+]

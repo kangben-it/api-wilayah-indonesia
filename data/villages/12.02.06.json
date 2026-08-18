@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.02.06.1001",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sarulla",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.06.2002",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Tordolok Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2003",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sigurung-gurung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2004",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Silangkitang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2005",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sitoluompu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2006",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Siopat Bahal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2007",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Pardomuan Nainggolan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2008",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Nahornop Marsada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2009",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parsaoran Samosir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2010",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2011",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Setia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2012",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Parsaoran Nainggolan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.06.2013",
+    "district_id": "12.02.06",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Pardamean Nainggolan",
+    "type": "DESA"
+  }
+]

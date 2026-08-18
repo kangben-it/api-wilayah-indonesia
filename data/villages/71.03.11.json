@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.03.11.2001",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kalama",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2002",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Kahakitang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2003",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Mahengetang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2004",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Para",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2005",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Dalako Bembanehe",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2006",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Taleko Batusaiki",
+    "type": "DESA"
+  },
+  {
+    "id": "71.03.11.2007",
+    "district_id": "71.03.11",
+    "regency_id": "71.03",
+    "province_id": "71",
+    "name": "Para I",
+    "type": "DESA"
+  }
+]

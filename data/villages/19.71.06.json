@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19.71.06.1001",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Selindung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.06.1002",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Selindung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.06.1003",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Gabek Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.06.1004",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Gabek Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.06.1005",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Air Salemba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.71.06.1006",
+    "district_id": "19.71.06",
+    "regency_id": "19.71",
+    "province_id": "19",
+    "name": "Jerambah Gantung",
+    "type": "KELURAHAN"
+  }
+]

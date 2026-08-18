@@ -1,0 +1,210 @@
+[
+  {
+    "id": "62.12.03.1003",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Laung I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.03.1006",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Tuhup",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.03.1031",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Batu Bua I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.12.03.2001",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Batu Tuhup",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2002",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Bahan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2004",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Laung II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2005",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Beras Balange",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2010",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Pelaci",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2011",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Biha",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2012",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Dirung Pundu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2013",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Dirung Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2014",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Tupuh",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2015",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Narui",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2016",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Bana",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2017",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Lakutan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2018",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tawai Haui",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2026",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Penda Siron",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2027",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Maruwei I",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2028",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Muara Maruwei II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2029",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Beralang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2030",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Kalang Dohong",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2032",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Batu Bua II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2033",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tahujan Laung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2034",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Bondang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2035",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Tumbang Tonduk",
+    "type": "DESA"
+  },
+  {
+    "id": "62.12.03.2037",
+    "district_id": "62.12.03",
+    "regency_id": "62.12",
+    "province_id": "62",
+    "name": "Batu Karang",
+    "type": "DESA"
+  }
+]

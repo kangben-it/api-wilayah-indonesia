@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.05.09.2002",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Baraler",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2003",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalondama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2007",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Leer",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2018",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Baranusa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2019",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Blang Merang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2020",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Illu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.09.2024",
+    "district_id": "53.05.09",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Piringsina",
+    "type": "DESA"
+  }
+]

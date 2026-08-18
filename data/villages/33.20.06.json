@@ -1,0 +1,130 @@
+[
+  {
+    "id": "33.20.06.1001",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Karangkebagusan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1002",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Demaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1003",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Potroyudan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1004",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Bapangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1005",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Saripan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1006",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Panggang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1007",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Kauman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1008",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Bulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1009",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Jobokuto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1010",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Ujungbatu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.1011",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Pengkol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.20.06.2012",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Mulyoharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.06.2013",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Wonorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.06.2014",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Kedungcino",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.06.2015",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Kuwasen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.20.06.2016",
+    "district_id": "33.20.06",
+    "regency_id": "33.20",
+    "province_id": "33",
+    "name": "Bandengan",
+    "type": "DESA"
+  }
+]

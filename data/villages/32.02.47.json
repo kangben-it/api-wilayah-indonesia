@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.47.2001",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Ciambar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.47.2002",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Ginanjar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.47.2003",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Wangunjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.47.2004",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Munjul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.47.2005",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Ambarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.47.2006",
+    "district_id": "32.02.47",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibunarjaya",
+    "type": "DESA"
+  }
+]

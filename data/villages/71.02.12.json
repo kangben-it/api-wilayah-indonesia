@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.02.12.1005",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sendangan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1011",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kinali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1019",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sendangan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1020",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Sendangan Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1028",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Uner Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.1029",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kinali Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.12.2012",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tondegesan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2016",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kanonang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2030",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tondegesan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.12.2031",
+    "district_id": "71.02.12",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Tondegesan Dua",
+    "type": "DESA"
+  }
+]

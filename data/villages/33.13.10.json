@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.13.10.2001",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Buran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2002",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Papahan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2003",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Ngijo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2004",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Gaum",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2005",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Suruh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2006",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Pandeyan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2007",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Karangmojo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2008",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Kaling",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2009",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Wonolopo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.10.2010",
+    "district_id": "33.13.10",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Kalijirak",
+    "type": "DESA"
+  }
+]

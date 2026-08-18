@@ -1,0 +1,146 @@
+[
+  {
+    "id": "73.16.02.1001",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Galonta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.1002",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Juppandang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.1003",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Puserren",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.1004",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Lewaja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.1010",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Leoran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.1016",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tuara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.02.2005",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Ranga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2006",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Buttu Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2007",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tokkonan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2008",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Karueng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2011",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tallu Bamba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2012",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tungka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2013",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Kaluppini",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2014",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tobalu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2015",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Cemba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2017",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Temban",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2018",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Rosoan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.02.2019",
+    "district_id": "73.16.02",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Lembang",
+    "type": "DESA"
+  }
+]

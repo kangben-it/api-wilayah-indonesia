@@ -1,0 +1,98 @@
+[
+  {
+    "id": "62.10.04.1001",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Miri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.10.04.2002",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Batu Tangkoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2005",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Penda Rangas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2006",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Sian",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2008",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Pasangon",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2012",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Korik",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2014",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Ponyoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2019",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Dandang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2020",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Hamputung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2021",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Tajungan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2028",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Tumbang Takaoi",
+    "type": "DESA"
+  },
+  {
+    "id": "62.10.04.2029",
+    "district_id": "62.10.04",
+    "regency_id": "62.10",
+    "province_id": "62",
+    "name": "Teluk Kanduri",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13.01.03.2001",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Kambang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2002",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lakitan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2003",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Kambang Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2004",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Kambang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2005",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Kambang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2006",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lakitan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2007",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lakitan Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2008",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lakitan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.01.03.2009",
+    "district_id": "13.01.03",
+    "regency_id": "13.01",
+    "province_id": "13",
+    "name": "Lakitan Tengah",
+    "type": "DESA"
+  }
+]

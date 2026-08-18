@@ -1,0 +1,74 @@
+[
+  {
+    "id": "64.01.10.2001",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Tanjung Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2002",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Rantau Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2003",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Libur Dinding",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2004",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Luan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2005",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Suweto",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2006",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muser",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2007",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Biu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2008",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Rantau Bintungan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.01.10.2009",
+    "district_id": "64.01.10",
+    "regency_id": "64.01",
+    "province_id": "64",
+    "name": "Muara Andeh",
+    "type": "DESA"
+  }
+]

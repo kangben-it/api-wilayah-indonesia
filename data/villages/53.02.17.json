@@ -1,0 +1,74 @@
+[
+  {
+    "id": "53.02.17.2001",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "OP",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2002",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Sahan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2003",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nenoat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2004",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Haineno",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2005",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nunkolo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2006",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Saenam",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2007",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Fat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2008",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Haumeni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.17.2009",
+    "district_id": "53.02.17",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Putun",
+    "type": "DESA"
+  }
+]

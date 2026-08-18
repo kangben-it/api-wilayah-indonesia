@@ -1,0 +1,58 @@
+[
+  {
+    "id": "71.72.06.1001",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Atas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1002",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Weru Satu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1003",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Bawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1004",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1005",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Weru Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1006",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Girian Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.72.06.1007",
+    "district_id": "71.72.06",
+    "regency_id": "71.72",
+    "province_id": "71",
+    "name": "Wangurer",
+    "type": "KELURAHAN"
+  }
+]

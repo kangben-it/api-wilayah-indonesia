@@ -1,0 +1,66 @@
+[
+  {
+    "id": "82.04.05.2001",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Wayaloar",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2002",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Fluk",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2003",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Bobo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2004",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Mano",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2005",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Loleo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2007",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Soligi",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2008",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Gambaru",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.05.2009",
+    "district_id": "82.04.05",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Ocimaloleo",
+    "type": "DESA"
+  }
+]

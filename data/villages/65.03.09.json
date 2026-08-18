@@ -1,0 +1,34 @@
+[
+  {
+    "id": "65.03.09.1001",
+    "district_id": "65.03.09",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Selisun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.09.1002",
+    "district_id": "65.03.09",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Nunukan Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.09.1003",
+    "district_id": "65.03.09",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Mansapa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.03.09.1004",
+    "district_id": "65.03.09",
+    "regency_id": "65.03",
+    "province_id": "65",
+    "name": "Tanjung Harapan",
+    "type": "KELURAHAN"
+  }
+]

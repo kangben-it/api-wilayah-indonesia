@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62.02.01.1009",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Kota Besi Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.01.1010",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Kota Besi Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.01.2003",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Palangan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2004",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Hanjalipan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2005",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Simpur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2006",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Pamalian",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2007",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Camba",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2008",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Kandan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2012",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bajarum",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2015",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Rasau Tumbuh",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.01.2017",
+    "district_id": "62.02.01",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Soren",
+    "type": "DESA"
+  }
+]

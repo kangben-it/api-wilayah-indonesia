@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.04.13.1001",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.13.2002",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Meekurima",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2003",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Landun Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2004",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Olaroa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2005",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Bintang Lima",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2006",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2007",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Walani",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2008",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Amole",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2009",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Lamopi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.13.2010",
+    "district_id": "94.04.13",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Tunas Matoa",
+    "type": "DESA"
+  }
+]

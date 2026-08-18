@@ -1,0 +1,234 @@
+[
+  {
+    "id": "18.01.06.1006",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Bumi Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.01.06.1007",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kalianda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.01.06.1008",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Way Urang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.01.06.1028",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Wai Lubuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.01.06.2001",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Jondong",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2002",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Tengkujuh",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2003",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Pauh Tanjung Iman",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2004",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sumur Kumbang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2005",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Maja",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2009",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Buah Berak",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2010",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kesugihan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2011",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Pematang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2012",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kecapi",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2013",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Babulang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2014",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sukaratu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2015",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Palembapang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2016",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Tajimalela",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2017",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Canggu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2018",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Kedaton",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2019",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Merak Belatung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2020",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Bulok",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2021",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Munjuk Sampurna",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2022",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Gunung Terang",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2023",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Margacatur",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2024",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Sukatani",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2025",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Agom",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2026",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Negeri Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2027",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Taman Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.01.06.2029",
+    "district_id": "18.01.06",
+    "regency_id": "18.01",
+    "province_id": "18",
+    "name": "Hara Banjar Manis",
+    "type": "DESA"
+  }
+]

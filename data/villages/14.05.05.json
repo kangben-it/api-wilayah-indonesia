@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.05.05.1001",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Langgam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.05.05.2002",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Tambak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2003",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Penarikan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2004",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Segati",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2005",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sotol",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2006",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Pangkalan Gondai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2007",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Langkan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.05.2008",
+    "district_id": "14.05.05",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Padang Luas",
+    "type": "DESA"
+  }
+]

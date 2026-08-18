@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.02.06.2001",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Pollo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2002",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oekiu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2003",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oebelo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2004",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noemuke",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2010",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kiubaat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2011",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Linamnutu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2014",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mio",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2015",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Batnun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2018",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Bena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.06.2019",
+    "district_id": "53.02.06",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Eno Neten",
+    "type": "DESA"
+  }
+]

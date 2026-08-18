@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.11.10.2001",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2002",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Hole",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2003",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan IV",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2004",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2005",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2006",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2007",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan V",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2008",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Parbuluan VI",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2009",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Hole I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2010",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Hole II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.10.2011",
+    "district_id": "12.11.10",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Bangun I",
+    "type": "DESA"
+  }
+]

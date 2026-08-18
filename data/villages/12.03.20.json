@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12.03.20.1004",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Pasar Sempurna",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.20.2002",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Huraba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2014",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Gunung Binanga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2015",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Marancar Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2016",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simaninggir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2023",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sugi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2028",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Haunatas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2032",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Nabara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2033",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Gapuk Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2034",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Marancar Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2035",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Sabaon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.20.2036",
+    "district_id": "12.03.20",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tanjung Dolok",
+    "type": "DESA"
+  }
+]

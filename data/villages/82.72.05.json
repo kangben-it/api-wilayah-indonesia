@@ -1,0 +1,114 @@
+[
+  {
+    "id": "82.72.05.1001",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Rum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1002",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Fobaharu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1003",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1004",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Ome",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1005",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Mareku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1006",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Afa Afa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1008",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Bobo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1009",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Gubu Kusuma",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1010",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Sirongo Folaraha",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.1011",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Rum Balibunga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.05.2007",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Maitara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2012",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Maitara Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2013",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Maitara Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.05.2014",
+    "district_id": "82.72.05",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Maitara Tengah",
+    "type": "DESA"
+  }
+]

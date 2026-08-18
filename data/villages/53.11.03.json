@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.11.03.1001",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lewa Paku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.11.03.2002",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambuhapang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2003",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kambata Wundut",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2004",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kondamara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2005",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Matawai Pawali",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2006",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Rakawatu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2007",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tana Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.03.2013",
+    "district_id": "53.11.03",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Bidi Hunga",
+    "type": "DESA"
+  }
+]

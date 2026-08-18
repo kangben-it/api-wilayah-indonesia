@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.22.22.2001",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kalangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.22.2002",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Ngelo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.22.2003",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.22.2004",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Sumberjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.22.2005",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Meduri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.22.2006",
+    "district_id": "35.22.22",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Geneng",
+    "type": "DESA"
+  }
+]

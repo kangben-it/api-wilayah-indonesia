@@ -1,0 +1,58 @@
+[
+  {
+    "id": "93.04.10.2001",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Komor",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2002",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Amor",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2003",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Yipawer",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2004",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Berip",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2005",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Ayir",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2006",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Werer",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.10.2009",
+    "district_id": "93.04.10",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Paar",
+    "type": "DESA"
+  }
+]

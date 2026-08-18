@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.04.02.1001",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bonto Tangnga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.1002",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tonro Kassi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.1003",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tonro Kassi Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.1004",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tonro Kassi Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.1005",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Taman Roya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.1006",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Manjangloe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.02.2007",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Borongtala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.02.2008",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bontosunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.02.2009",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Turatea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.02.2010",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Karelayu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.02.2011",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bontojai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.02.2012",
+    "district_id": "73.04.02",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Turatea Timur",
+    "type": "DESA"
+  }
+]

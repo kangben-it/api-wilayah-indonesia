@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.72.04.1001",
+    "district_id": "74.72.04",
+    "regency_id": "74.72",
+    "province_id": "74",
+    "name": "Liabuku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.72.04.1002",
+    "district_id": "74.72.04",
+    "regency_id": "74.72",
+    "province_id": "74",
+    "name": "Ngkaring Karing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.72.04.1003",
+    "district_id": "74.72.04",
+    "regency_id": "74.72",
+    "province_id": "74",
+    "name": "Kampeonaho",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.72.04.1008",
+    "district_id": "74.72.04",
+    "regency_id": "74.72",
+    "province_id": "74",
+    "name": "Waliabuku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.72.04.1010",
+    "district_id": "74.72.04",
+    "regency_id": "74.72",
+    "province_id": "74",
+    "name": "Tampuna",
+    "type": "KELURAHAN"
+  }
+]

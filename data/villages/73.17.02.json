@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.17.02.1003",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Larompong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.02.2001",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Rantebelu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2002",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Komba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2004",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lumaring",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2005",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Binturu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2006",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bilante",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2007",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Rante Alang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2008",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Riwang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2009",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Matabing",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2010",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bukit Sutra",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2011",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Riwang Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2012",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Komba Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.02.2013",
+    "district_id": "73.17.02",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Pasik",
+    "type": "DESA"
+  }
+]

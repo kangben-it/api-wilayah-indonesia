@@ -1,0 +1,58 @@
+[
+  {
+    "id": "16.03.21.2001",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Embacang Kelekar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2002",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Menanti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2003",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Menanti Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2004",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Suban Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2005",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Pelempang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2006",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Teluk Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.21.2007",
+    "district_id": "16.03.21",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tanjung Medang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "74.07.05.1016",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mandati II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.05.1017",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mandati I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.05.1025",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mandati III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.05.2011",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Kapota",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2012",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Komala",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2013",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wungka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2014",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Matahora",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2015",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Kabita",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2018",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mola Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2019",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mola Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2020",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Numana",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2021",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Liya Mawi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2022",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Liya Togo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2023",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Kapota Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2024",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Kabita Togo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2026",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Liya Onemaelangka",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2027",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Wisata Kolo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2028",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mola Samaturu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2029",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mola Bahari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2030",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Mola Nelayan Bhakti",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.05.2031",
+    "district_id": "74.07.05",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Liya Bahari Indah",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "73.16.04.1001",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Lakawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.04.1002",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tanete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.04.1004",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Mataran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.04.2003",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bamba Puang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2005",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Siambo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2006",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Mampu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2007",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Pekalobean",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2008",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Singki",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2009",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Salu Dewata",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2010",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tindalun",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2011",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bubun Lamba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2012",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tampo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2013",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Batunoni",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2014",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Saruran",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.04.2015",
+    "district_id": "73.16.04",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Mendatte",
+    "type": "DESA"
+  }
+]

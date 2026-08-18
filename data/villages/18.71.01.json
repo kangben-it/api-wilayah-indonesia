@@ -1,0 +1,58 @@
+[
+  {
+    "id": "18.71.01.1003",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Kedaton",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1004",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Surabaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1005",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Sukamenanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1006",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Sidodadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1009",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Sukamenanti Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1010",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Penengahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.01.1012",
+    "district_id": "18.71.01",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Penengahan Raya",
+    "type": "KELURAHAN"
+  }
+]

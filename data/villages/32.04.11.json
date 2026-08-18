@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.04.11.2001",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sangkanhurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2002",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Katapang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2004",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Gandasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2006",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2007",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cilampeni",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2008",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Pangauban",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.11.2009",
+    "district_id": "32.04.11",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Banyusari",
+    "type": "DESA"
+  }
+]

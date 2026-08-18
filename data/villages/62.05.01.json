@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.05.01.1001",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Montallat I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.05.01.1002",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Montallat II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.05.01.1003",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Tumpung Laung I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.05.01.1004",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Tumpung Laung II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.05.01.2005",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Sikan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.05.01.2006",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Rubei",
+    "type": "DESA"
+  },
+  {
+    "id": "62.05.01.2007",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Pepas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.05.01.2008",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Ruji",
+    "type": "DESA"
+  },
+  {
+    "id": "62.05.01.2009",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Paring Lahung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.05.01.2010",
+    "district_id": "62.05.01",
+    "regency_id": "62.05",
+    "province_id": "62",
+    "name": "Kamawen",
+    "type": "DESA"
+  }
+]

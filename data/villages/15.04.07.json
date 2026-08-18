@@ -1,0 +1,82 @@
+[
+  {
+    "id": "15.04.07.1004",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bajubang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.04.07.2001",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Bungku",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2002",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Pompa Air",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2003",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Ladang Peris",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2005",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Penerokan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2006",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Petajen",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2007",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Batin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2008",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2009",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Sungkai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.04.07.2010",
+    "district_id": "15.04.07",
+    "regency_id": "15.04",
+    "province_id": "15",
+    "name": "Mekar Sari Nes",
+    "type": "DESA"
+  }
+]

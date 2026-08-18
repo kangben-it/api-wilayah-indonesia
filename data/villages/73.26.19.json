@@ -1,0 +1,42 @@
+[
+  {
+    "id": "73.26.19.2001",
+    "district_id": "73.26.19",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Suloara'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.19.2002",
+    "district_id": "73.26.19",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Sesean Matallo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.19.2003",
+    "district_id": "73.26.19",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Landorundun",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.19.2004",
+    "district_id": "73.26.19",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tonga Riu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.19.2005",
+    "district_id": "73.26.19",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Lempo",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.02.21.1001",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Talikuran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1002",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Talikuran Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1003",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Talikuran Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.1004",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Uner",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.02.21.2005",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2006",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Satu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2007",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Satu Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2008",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2009",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Dua Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.02.21.2010",
+    "district_id": "71.02.21",
+    "regency_id": "71.02",
+    "province_id": "71",
+    "name": "Kiawa Dua Barat",
+    "type": "DESA"
+  }
+]

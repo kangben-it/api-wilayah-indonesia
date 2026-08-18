@@ -1,0 +1,74 @@
+[
+  {
+    "id": "53.04.01.2001",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Kewar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2002",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Fulur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2004",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Duarato",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2005",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Makir",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2006",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Lamaksenulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2008",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Dirun",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2009",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Leowalu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2014",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Maudemu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.01.2015",
+    "district_id": "53.04.01",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Mahuitas",
+    "type": "DESA"
+  }
+]

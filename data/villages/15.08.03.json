@@ -1,0 +1,42 @@
+[
+  {
+    "id": "15.08.03.1006",
+    "district_id": "15.08.03",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Tanjung Gedang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.08.03.1007",
+    "district_id": "15.08.03",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Bungo Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.08.03.1008",
+    "district_id": "15.08.03",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Bungo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.08.03.1022",
+    "district_id": "15.08.03",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Jaya Setia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.08.03.1023",
+    "district_id": "15.08.03",
+    "regency_id": "15.08",
+    "province_id": "15",
+    "name": "Batang Bungo",
+    "type": "KELURAHAN"
+  }
+]

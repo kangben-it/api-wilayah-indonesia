@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.15.01.1001",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karawang Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1003",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Adiarsa Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1005",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Tanjungpura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1006",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Tanjungmekar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1007",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Tunggakjati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1010",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karangpawitan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1011",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Nagasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.15.01.1012",
+    "district_id": "32.15.01",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Mekarjati",
+    "type": "KELURAHAN"
+  }
+]

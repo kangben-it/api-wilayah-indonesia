@@ -1,0 +1,26 @@
+[
+  {
+    "id": "34.71.02.1001",
+    "district_id": "34.71.02",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Bumijo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "34.71.02.1002",
+    "district_id": "34.71.02",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Cokrodiningratan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "34.71.02.1003",
+    "district_id": "34.71.02",
+    "regency_id": "34.71",
+    "province_id": "34",
+    "name": "Gowongan",
+    "type": "KELURAHAN"
+  }
+]

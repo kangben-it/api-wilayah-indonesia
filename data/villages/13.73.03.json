@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.73.03.2001",
+    "district_id": "13.73.03",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Silungkang Duo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.03.2002",
+    "district_id": "13.73.03",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Silungkang Oso",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.03.2003",
+    "district_id": "13.73.03",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Silungkang Tigo",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.03.2004",
+    "district_id": "13.73.03",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Muaro Kalaban",
+    "type": "DESA"
+  },
+  {
+    "id": "13.73.03.2005",
+    "district_id": "13.73.03",
+    "regency_id": "13.73",
+    "province_id": "13",
+    "name": "Taratak Boncah",
+    "type": "DESA"
+  }
+]

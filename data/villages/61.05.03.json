@@ -1,0 +1,314 @@
+[
+  {
+    "id": "61.05.03.2001",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Nanga Sepauk",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2002",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Tanjung Ria",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2003",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sekubang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2004",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Kenyauk",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2005",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Lengkenat",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2006",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Manis Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2007",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Temiang Kapuas",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2008",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Ensabang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2009",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Mait Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2010",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sekujam Timbai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2011",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Semuntai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2012",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sirang Setambang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2013",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Nanga Libau",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2014",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Bernayau",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2015",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sinar Pekayau",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2016",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Nanga Pari",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2017",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Buluh Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2018",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Temawang Muntai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2019",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Tawang Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2020",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Gernis Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2021",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Paoh Benua",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2022",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Bedayan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2023",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Tanjung Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2024",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sungai Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2025",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Landau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2026",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2027",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sukau Bersatu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2028",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Kemantan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2029",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Peninsung",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2030",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sepulut",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2031",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Temawang Bulai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2032",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sungai Segak",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2033",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Tanjung Balai",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2034",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sinar Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2035",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Riam Kempadik",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2036",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Nanga Layung",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2037",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Limau Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2038",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Tanjung Mawang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.05.03.2040",
+    "district_id": "61.05.03",
+    "regency_id": "61.05",
+    "province_id": "61",
+    "name": "Sungai Jaung",
+    "type": "DESA"
+  }
+]

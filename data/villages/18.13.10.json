@@ -1,0 +1,74 @@
+[
+  {
+    "id": "18.13.10.2001",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Negeri Ratu Ngaras",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2003",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Kota Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2004",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Mulang Maya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2005",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Raja Basa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2006",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Parda Suka",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2017",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Padang Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2018",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2019",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Sukarame",
+    "type": "DESA"
+  },
+  {
+    "id": "18.13.10.2020",
+    "district_id": "18.13.10",
+    "regency_id": "18.13",
+    "province_id": "18",
+    "name": "Bandar Jaya",
+    "type": "DESA"
+  }
+]

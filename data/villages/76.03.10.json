@@ -1,0 +1,58 @@
+[
+  {
+    "id": "76.03.10.1001",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tabang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.10.2003",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tadokalua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.10.2004",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tabang Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.10.2005",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Masupu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.10.2006",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Kalama",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.10.2007",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bakadisura",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.10.2008",
+    "district_id": "76.03.10",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salukona",
+    "type": "DESA"
+  }
+]

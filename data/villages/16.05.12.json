@@ -1,0 +1,170 @@
+[
+  {
+    "id": "16.05.12.1001",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Megang Sakti I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.12.1021",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Talang Ubi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.12.2002",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Muara Megang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2003",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Megang Sakti II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2004",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Megang Sakti III",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2005",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Megang Sakti IV",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2006",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Jajaran Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2007",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sumber Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2008",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Rejo Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2009",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2010",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Campur Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2011",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Tegal Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2012",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Marga Puspita",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2013",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Megang Sakti V",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2014",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Pagar Ayu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2015",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Karya Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2016",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2017",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Trisakti",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2018",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Jajaran Baru II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2019",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Muara Megang I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.12.2020",
+    "district_id": "16.05.12",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Mulyo Sari",
+    "type": "DESA"
+  }
+]

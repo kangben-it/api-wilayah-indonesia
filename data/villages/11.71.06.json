@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11.71.06.2001",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Keudah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.06.2002",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Peulanggahan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.06.2003",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Merduati",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.06.2004",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Lampaseh Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.06.2005",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Gampong Pande",
+    "type": "DESA"
+  },
+  {
+    "id": "11.71.06.2006",
+    "district_id": "11.71.06",
+    "regency_id": "11.71",
+    "province_id": "11",
+    "name": "Gampong Jawa",
+    "type": "DESA"
+  }
+]

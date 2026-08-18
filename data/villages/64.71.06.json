@@ -1,0 +1,42 @@
+[
+  {
+    "id": "64.71.06.1001",
+    "district_id": "64.71.06",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Prapatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1002",
+    "district_id": "64.71.06",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Telaga Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1003",
+    "district_id": "64.71.06",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Klandasan Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1004",
+    "district_id": "64.71.06",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Klandasan Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.71.06.1005",
+    "district_id": "64.71.06",
+    "regency_id": "64.71",
+    "province_id": "64",
+    "name": "Damai",
+    "type": "KELURAHAN"
+  }
+]

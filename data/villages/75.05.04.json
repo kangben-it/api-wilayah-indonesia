@@ -1,0 +1,90 @@
+[
+  {
+    "id": "75.05.04.2001",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bulontiyo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2002",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bulontiyo Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2007",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Buloila",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2009",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Kasia",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2010",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Kikia",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2012",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tumba",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2013",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Mebongo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2014",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Lelato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2016",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Pulohenti",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2019",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Puncak Mandiri",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.04.2020",
+    "district_id": "75.05.04",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Hutakalo",
+    "type": "DESA"
+  }
+]

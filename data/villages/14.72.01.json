@@ -1,0 +1,34 @@
+[
+  {
+    "id": "14.72.01.1003",
+    "district_id": "14.72.01",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Pangkalan Sesai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.01.1006",
+    "district_id": "14.72.01",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Purnama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.01.1008",
+    "district_id": "14.72.01",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Bagan Keladi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.01.1009",
+    "district_id": "14.72.01",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Simpang Tetap Darul Ichsan",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.08.09.1001",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wolojita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.09.2002",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Tenda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.09.2003",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Wiwipemo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.09.2004",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Pora",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.09.2005",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Nuamulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.08.09.2006",
+    "district_id": "53.08.09",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Nggela",
+    "type": "DESA"
+  }
+]

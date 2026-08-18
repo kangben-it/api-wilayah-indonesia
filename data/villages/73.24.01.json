@@ -1,0 +1,90 @@
+[
+  {
+    "id": "73.24.01.2001",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Maleku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2002",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Wonorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2003",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Margolembo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2004",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Teromu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2007",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Manggala",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2009",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Kasintuwu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2011",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Balai Kembang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2013",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Panca Karsa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2014",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Sindu Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2015",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Wonorejo Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "73.24.01.2016",
+    "district_id": "73.24.01",
+    "regency_id": "73.24",
+    "province_id": "73",
+    "name": "Koroncia",
+    "type": "DESA"
+  }
+]

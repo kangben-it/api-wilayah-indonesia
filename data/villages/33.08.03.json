@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33.08.03.2001",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Bligo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2002",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Pakunden",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2003",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Somokaton",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2004",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Ngluwar",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2005",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Karangtalun",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2006",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Jamuskauman",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2007",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Plosogede",
+    "type": "DESA"
+  },
+  {
+    "id": "33.08.03.2008",
+    "district_id": "33.08.03",
+    "regency_id": "33.08",
+    "province_id": "33",
+    "name": "Blongkeng",
+    "type": "DESA"
+  }
+]

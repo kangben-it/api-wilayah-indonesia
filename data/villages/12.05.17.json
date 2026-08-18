@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.05.17.1001",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Bilah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.17.1002",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Alur Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.17.1008",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Alur Dua Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.17.1009",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Harapan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.17.1010",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Sei Bilah Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.05.17.2003",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Puraka I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2004",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Puraka II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2005",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2006",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Telaga Said",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2007",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Lama Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2011",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Mekar Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2012",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Harapan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2013",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Harapan Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "12.05.17.2014",
+    "district_id": "12.05.17",
+    "regency_id": "12.05",
+    "province_id": "12",
+    "name": "Harapan Makmur",
+    "type": "DESA"
+  }
+]

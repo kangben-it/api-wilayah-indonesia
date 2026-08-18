@@ -1,0 +1,58 @@
+[
+  {
+    "id": "21.71.03.1001",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Sungai Harapan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1002",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tanjung Pinggir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1003",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tanjung Riau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1005",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tiban Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1006",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tiban Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1007",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Tiban Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.71.03.1008",
+    "district_id": "21.71.03",
+    "regency_id": "21.71",
+    "province_id": "21",
+    "name": "Patam Lestari",
+    "type": "KELURAHAN"
+  }
+]

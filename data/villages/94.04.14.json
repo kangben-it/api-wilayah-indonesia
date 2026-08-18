@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.04.14.2001",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Hoya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.14.2002",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Mamontoga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.14.2003",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Jinonin",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.14.2004",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kulama Ogom",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.14.2005",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Puti",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.14.2006",
+    "district_id": "94.04.14",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Jawa",
+    "type": "DESA"
+  }
+]

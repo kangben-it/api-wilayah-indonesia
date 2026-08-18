@@ -1,0 +1,90 @@
+[
+  {
+    "id": "94.02.01.1010",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Wuyukwi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.02.01.1011",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Pagaleme",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.02.01.2001",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Pruleme",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2002",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Wuyukwi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2003",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Wuyuneri",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2004",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Pepera",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2005",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Muliagambut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2006",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Trikora",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2007",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Towogi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2008",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Birak Ambut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.01.2009",
+    "district_id": "94.02.01",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Usir",
+    "type": "DESA"
+  }
+]

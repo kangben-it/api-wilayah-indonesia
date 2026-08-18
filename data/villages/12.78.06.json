@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12.78.06.2001",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Tumori",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2002",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Tumori Balohili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2003",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Orahili Tumori",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2004",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Gada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2005",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Lolomoyo Tuhemberua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2006",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Sihare'o Siwahili",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2007",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Hilinakhe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2008",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Onozikho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.78.06.2009",
+    "district_id": "12.78.06",
+    "regency_id": "12.78",
+    "province_id": "12",
+    "name": "Ononamolo II Lot",
+    "type": "DESA"
+  }
+]

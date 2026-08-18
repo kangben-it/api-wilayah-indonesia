@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.02.12.2001",
+    "district_id": "53.02.12",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nenas",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.12.2004",
+    "district_id": "53.02.12",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Fatumnasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.12.2005",
+    "district_id": "53.02.12",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nuapin",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.12.2009",
+    "district_id": "53.02.12",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kuanoel",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.12.2010",
+    "district_id": "53.02.12",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Mutis",
+    "type": "DESA"
+  }
+]

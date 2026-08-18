@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17.07.04.1002",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tes",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.04.1003",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Taba Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.04.1004",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Mubai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.04.1005",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Turan Lalang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.07.04.2001",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kutai Donok",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.04.2013",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Turan Tiging",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.04.2014",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Suka Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.04.2016",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Mangkurajo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.04.2018",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tik Jeniak",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.04.2019",
+    "district_id": "17.07.04",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Manai Blau",
+    "type": "DESA"
+  }
+]

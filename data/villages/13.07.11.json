@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.07.11.2001",
+    "district_id": "13.07.11",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Jopang Manganti",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2002",
+    "district_id": "13.07.11",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Simpang Kapuak",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2003",
+    "district_id": "13.07.11",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Mungka",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2004",
+    "district_id": "13.07.11",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Talang Maur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.11.2005",
+    "district_id": "13.07.11",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Sungai Antuan",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "73.06.01.1001",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontonompo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.01.1002",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Tamallayang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.01.1003",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Kalaserena",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.01.2004",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontolangkasa Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2005",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontolangkasa Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2006",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Barembeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2015",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Manjapai",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2016",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontobiraeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2017",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Romanglasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2018",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Katangka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2019",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bulogading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2020",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bategulung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2021",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Kalabarembeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.01.2022",
+    "district_id": "73.06.01",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontobiraeng Selatan",
+    "type": "DESA"
+  }
+]

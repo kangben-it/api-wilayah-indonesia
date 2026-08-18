@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.03.01.1006",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Murung Keramat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1007",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1008",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1009",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1010",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Dalam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1021",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1022",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Selat Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.1023",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Panamas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.01.2011",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Pulau Telo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.01.2020",
+    "district_id": "62.03.01",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Pulau Telo Baru",
+    "type": "DESA"
+  }
+]

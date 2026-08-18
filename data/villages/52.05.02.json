@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52.05.02.2001",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Kempo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2002",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Ta'a",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2003",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Soro",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2004",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Konte",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2005",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Tolo Kalo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2006",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Songgaja",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2007",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Doro Kobo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.05.02.2008",
+    "district_id": "52.05.02",
+    "regency_id": "52.05",
+    "province_id": "52",
+    "name": "Soro Barat",
+    "type": "DESA"
+  }
+]

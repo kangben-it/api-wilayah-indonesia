@@ -1,0 +1,114 @@
+[
+  {
+    "id": "35.14.10.1007",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Ledug",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.10.1008",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Pecalukan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.10.1009",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Prigen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.14.10.2001",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Jatiarjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2002",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Watuagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2003",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Dayurejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2004",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Bulukandang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2005",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Ketanireng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2006",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Sukolelo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2010",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Lumbangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2011",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Sukoreno",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2012",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Sekarjoho",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2013",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Gambiran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.14.10.2014",
+    "district_id": "35.14.10",
+    "regency_id": "35.14",
+    "province_id": "35",
+    "name": "Candiwates",
+    "type": "DESA"
+  }
+]

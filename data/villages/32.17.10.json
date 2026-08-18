@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.17.10.2001",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cipatik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2002",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Citapen",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2003",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Cihampelas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2004",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Mekarjaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2005",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Mekarmukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2006",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Pataruman",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2007",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Situwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2008",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Singajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2009",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Tanjungwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.17.10.2010",
+    "district_id": "32.17.10",
+    "regency_id": "32.17",
+    "province_id": "32",
+    "name": "Tanjungjaya",
+    "type": "DESA"
+  }
+]

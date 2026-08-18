@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11.10.09.2001",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Lentong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2002",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Lapahan Buaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2003",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Butar",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2004",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Samar Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2005",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Ladang Bisik",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2006",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Muara Pea",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2008",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Sumber Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2009",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Mukti Lincer",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.09.2010",
+    "district_id": "11.10.09",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Danau Bungara",
+    "type": "DESA"
+  }
+]

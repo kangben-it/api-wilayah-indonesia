@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.36.2001",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukalarang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.36.2002",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.36.2003",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimangkok",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.36.2004",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Titisan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.36.2005",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Semplak",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.36.2006",
+    "district_id": "32.02.36",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Prianganjaya",
+    "type": "DESA"
+  }
+]

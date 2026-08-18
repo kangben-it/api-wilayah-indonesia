@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.05.12.1002",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Rawang Empat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.05.12.2001",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Kuala Semundam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2003",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Tambun",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2004",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Terbangiang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2005",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Lubuk Terap",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2006",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Angkasa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2007",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sialang Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2008",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Lubuk Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2009",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Lubuk Keranji Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2010",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Airterjun",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.12.2011",
+    "district_id": "14.05.12",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sialang Bungkuk",
+    "type": "DESA"
+  }
+]

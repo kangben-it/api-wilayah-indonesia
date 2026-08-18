@@ -1,0 +1,66 @@
+[
+  {
+    "id": "16.12.04.2001",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Betung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2002",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Betung Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2003",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Karang Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2004",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Tanjung Kurung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2005",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Pengabuan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2006",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Prambatan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2007",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Pengabuan Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "16.12.04.2008",
+    "district_id": "16.12.04",
+    "regency_id": "16.12",
+    "province_id": "16",
+    "name": "Betung Selatan",
+    "type": "DESA"
+  }
+]

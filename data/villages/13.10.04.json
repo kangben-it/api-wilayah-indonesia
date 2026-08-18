@@ -1,0 +1,34 @@
+[
+  {
+    "id": "13.10.04.2001",
+    "district_id": "13.10.04",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sitiung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2002",
+    "district_id": "13.10.04",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Siguntur",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2004",
+    "district_id": "13.10.04",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Gunung Medan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.10.04.2005",
+    "district_id": "13.10.04",
+    "regency_id": "13.10",
+    "province_id": "13",
+    "name": "Sungai Duo",
+    "type": "DESA"
+  }
+]

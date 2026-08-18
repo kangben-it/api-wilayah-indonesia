@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74.06.01.1007",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Boeara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.1008",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Kastarib",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.1010",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Boepinang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.1015",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Boepinang Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.1016",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Barangga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.1017",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Kasabolo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.06.01.2009",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Pokurumba",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.01.2011",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Pallimae",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.01.2018",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Salosa",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.01.2019",
+    "district_id": "74.06.01",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Mattiro Walie",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.09.22.2001",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Rahuning",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2002",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perkebunan Gunung Melayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2003",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Gunung Melayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2004",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Batu Anam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2005",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Perkebunan Aek Nagaga",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2006",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Rahuning I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.22.2007",
+    "district_id": "12.09.22",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Rahuning II",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.02.24.2001",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Guna",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2002",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Mandura",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2003",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Lugubago",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2004",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Andugir",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2005",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Muara Miguni",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2006",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Abili",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2007",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Pereya",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2008",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Ginimanggen",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2009",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Laworege",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.24.2010",
+    "district_id": "94.02.24",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Wumbiri",
+    "type": "DESA"
+  }
+]

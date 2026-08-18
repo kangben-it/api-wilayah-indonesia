@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.04.06.1001",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Argasoka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1006",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Karangtengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1007",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Wangon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1008",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Semampir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1009",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Sokanandi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1010",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Parakancanggah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1011",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Semarang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1012",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Krandegan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.1013",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Kutabanjarnegara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.04.06.2002",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Ampelsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.06.2003",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Tlagawera",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.06.2004",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Cendana",
+    "type": "DESA"
+  },
+  {
+    "id": "33.04.06.2005",
+    "district_id": "33.04.06",
+    "regency_id": "33.04",
+    "province_id": "33",
+    "name": "Sokayasa",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "18.03.02.1001",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kotabumi Udik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1002",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Cempedak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1003",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Rejosari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1004",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kotabumi Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1005",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kotabumi Pasar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1006",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kotabumi Ilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1007",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Sindang Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1008",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Sribasuki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.1009",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kota Gapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.03.02.2010",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Talang Bojong",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.02.2011",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Sumber Arum",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.02.2012",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Bojong Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "18.03.02.2013",
+    "district_id": "18.03.02",
+    "regency_id": "18.03",
+    "province_id": "18",
+    "name": "Kotabumi Tengah Barat",
+    "type": "DESA"
+  }
+]

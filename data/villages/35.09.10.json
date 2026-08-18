@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.09.10.2001",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Karangduren",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2002",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Karang Semanding",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2003",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Tutul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2004",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Balungkulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2005",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Balunglor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2006",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Balungkidul",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2007",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Curahlele",
+    "type": "DESA"
+  },
+  {
+    "id": "35.09.10.2008",
+    "district_id": "35.09.10",
+    "regency_id": "35.09",
+    "province_id": "35",
+    "name": "Gumelar",
+    "type": "DESA"
+  }
+]

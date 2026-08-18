@@ -1,0 +1,50 @@
+[
+  {
+    "id": "61.07.11.2001",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Capkala",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.11.2002",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Mandor",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.11.2003",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Setanduk",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.11.2004",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Aris",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.11.2005",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sebandut",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.11.2006",
+    "district_id": "61.07.11",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Pawangi",
+    "type": "DESA"
+  }
+]

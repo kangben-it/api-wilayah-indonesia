@@ -1,0 +1,162 @@
+[
+  {
+    "id": "12.13.10.1010",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Laru Lombang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.10.2001",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Angin Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2006",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Tonga AB",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2007",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Laru Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2008",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Laru Bolak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2009",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Laru Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2011",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lumban Pasir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2012",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Mais",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2013",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Mais Jambur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2014",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Padang Sanggar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2015",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Panjaringan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2016",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pasar Laru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2017",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pastap",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2018",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pastap Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2020",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rao Rao Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2021",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Rao Rao Lombang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2025",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simangambat TB",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2026",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tambangan Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2027",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tambangan Pasoman",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.10.2028",
+    "district_id": "12.13.10",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tambangan Tonga",
+    "type": "DESA"
+  }
+]

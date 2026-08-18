@@ -1,0 +1,106 @@
+[
+  {
+    "id": "15.06.03.1001",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Teluknilau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.06.03.2006",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Parit Pudin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2007",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Serindit",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2008",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Mekar Jati",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2012",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Pampang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2013",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Parit Sidang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2014",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Jering",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2015",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Parit Bilal",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2016",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Suak Samin",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2017",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2018",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Karya Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2019",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Sungai Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.06.03.2020",
+    "district_id": "15.06.03",
+    "regency_id": "15.06",
+    "province_id": "15",
+    "name": "Pasar Senin",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "33.15.12.1001",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Grobogan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.15.12.2002",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Getasrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2003",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Rejosari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2004",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Tanggungharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2005",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Teguhan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2006",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Ngabenrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2007",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Karangrejo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2008",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Putatsari",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2009",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Lebak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2010",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Lebengjumuk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2011",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Sedayu",
+    "type": "DESA"
+  },
+  {
+    "id": "33.15.12.2012",
+    "district_id": "33.15.12",
+    "regency_id": "33.15",
+    "province_id": "33",
+    "name": "Sumberjatipohon",
+    "type": "DESA"
+  }
+]

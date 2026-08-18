@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19.01.05.2001",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Air Ruai",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.05.2002",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Air Duren",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.05.2003",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Penyamun",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.05.2004",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Sempan",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.05.2005",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Pemali",
+    "type": "DESA"
+  },
+  {
+    "id": "19.01.05.2006",
+    "district_id": "19.01.05",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Karya Makmur",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "73.02.01.1001",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Matekko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.01.1002",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Jalanjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.01.1003",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Mario Rennu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.02.01.2004",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bialo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2005",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontomacinna",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2006",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Gattareng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2007",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Dampang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2008",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontosunggu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2009",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Palambarae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2010",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontonyeleng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2011",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Benteng Malewang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2012",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2013",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontoraja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2014",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Paenre Lompoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2015",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Benteng Gattareng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2016",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bukit Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2017",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Polewali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2018",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bontomasila",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2019",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Barombong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2020",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Bukit Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.02.01.2021",
+    "district_id": "73.02.01",
+    "regency_id": "73.02",
+    "province_id": "73",
+    "name": "Taccorong",
+    "type": "DESA"
+  }
+]

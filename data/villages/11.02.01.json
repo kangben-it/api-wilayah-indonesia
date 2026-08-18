@@ -1,0 +1,226 @@
+[
+  {
+    "id": "11.02.01.2001",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Engkeran",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2002",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Rumah Kampung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2004",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pasir Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2006",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kubu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2007",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Lawe Kongker",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2008",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kuta Cingkam II",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2009",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Muara Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2011",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kuta Batu I",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2012",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kuta Cingkam I",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2013",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kuta Batu II",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2014",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Lawe Sempilang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2015",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Prapat Batu Nunggul",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2016",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pulo Sepang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2017",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Rih Mbelang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2018",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Kute Batu Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2019",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Darul Amin",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2020",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Lawe Lubang Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2021",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Batu Hamparan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2022",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Paye Munje",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2023",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pulo Ndadap",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2024",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pasir Nunggul",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2025",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Cingkham Mekhanggun",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2026",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pintu Khimbe",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2027",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Lawe Kongker Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2028",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pulo Gadung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2029",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pasikh Pehkmate",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2030",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Pasikh Nunang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.02.01.2031",
+    "district_id": "11.02.01",
+    "regency_id": "11.02",
+    "province_id": "11",
+    "name": "Deleng Kukusen",
+    "type": "DESA"
+  }
+]

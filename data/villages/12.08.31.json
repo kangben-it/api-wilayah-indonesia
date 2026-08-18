@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.08.31.2001",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Ujung Saribu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2002",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Silimakuta Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2003",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Siboras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2004",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Mardingding",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2005",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Naga Saribu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2007",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Saribu Jandi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2008",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Sinar Naga Mariah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2009",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Ujung Mariah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2010",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Bandar Saribu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.08.31.2011",
+    "district_id": "12.08.31",
+    "regency_id": "12.08",
+    "province_id": "12",
+    "name": "Naga Bosar",
+    "type": "DESA"
+  }
+]

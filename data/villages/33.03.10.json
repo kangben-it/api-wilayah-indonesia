@@ -1,0 +1,58 @@
+[
+  {
+    "id": "33.03.10.2001",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Serang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2002",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Kutabawa",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2003",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Siwarak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2004",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Tlahab Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2005",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Tlahab Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2006",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Karangreja",
+    "type": "DESA"
+  },
+  {
+    "id": "33.03.10.2007",
+    "district_id": "33.03.10",
+    "regency_id": "33.03",
+    "province_id": "33",
+    "name": "Gondang",
+    "type": "DESA"
+  }
+]

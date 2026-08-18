@@ -1,0 +1,98 @@
+[
+  {
+    "id": "16.10.11.2001",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kotadaro I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2002",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ketapang I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2003",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Rantau Panjang Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2004",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Jagaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2005",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Jagalano",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2006",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sejangko I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2007",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Kota Daro II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2008",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sungai Rotan",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2009",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Rantau Panjang Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2010",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Ketapang II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2011",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Sejangko II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.10.11.2012",
+    "district_id": "16.10.11",
+    "regency_id": "16.10",
+    "province_id": "16",
+    "name": "Arisan Deras",
+    "type": "DESA"
+  }
+]

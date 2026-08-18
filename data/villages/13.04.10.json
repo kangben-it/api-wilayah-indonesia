@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13.04.10.2001",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Sumanik",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.10.2002",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Situmbuk",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.10.2003",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Lawang Mandahiling",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.10.2004",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Supayang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.10.2005",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Salimpaung",
+    "type": "DESA"
+  },
+  {
+    "id": "13.04.10.2006",
+    "district_id": "13.04.10",
+    "regency_id": "13.04",
+    "province_id": "13",
+    "name": "Tabek Patah",
+    "type": "DESA"
+  }
+]

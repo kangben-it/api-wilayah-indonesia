@@ -1,0 +1,50 @@
+[
+  {
+    "id": "53.04.05.2001",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Fatuketi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.05.2002",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Dualaus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.05.2003",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Jenilu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.05.2004",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Kenebibi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.05.2005",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Leosama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.04.05.2006",
+    "district_id": "53.04.05",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Kabuna",
+    "type": "DESA"
+  }
+]

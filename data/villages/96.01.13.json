@@ -1,0 +1,74 @@
+[
+  {
+    "id": "96.01.13.2001",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Luwelala",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2002",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klatim",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2003",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klaos",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2004",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Suluh",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2005",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Bousui",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2006",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Kamuyar",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2007",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klaka",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2008",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Safdesa",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.13.2009",
+    "district_id": "96.01.13",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klagen",
+    "type": "DESA"
+  }
+]

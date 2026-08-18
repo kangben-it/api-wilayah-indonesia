@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.01.32.2001",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bilalang III",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2002",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bilalang IV",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2003",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Tudu Aog",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2004",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Tudu Aog Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2005",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Kolinganga'an",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2006",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bilalang III Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2007",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bilalang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.32.2008",
+    "district_id": "71.01.32",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Apado",
+    "type": "DESA"
+  }
+]

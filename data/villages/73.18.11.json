@@ -1,0 +1,50 @@
+[
+  {
+    "id": "73.18.11.1003",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tapparan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.1012",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Rantetayo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.1013",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Padangiring",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.18.11.2007",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Madandan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.11.2011",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tapparan Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.11.2014",
+    "district_id": "73.18.11",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Tonglo",
+    "type": "DESA"
+  }
+]

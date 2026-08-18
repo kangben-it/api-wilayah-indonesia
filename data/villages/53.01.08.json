@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.01.08.1007",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tarus",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.01.08.2006",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oelnasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2008",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Noelbaki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2009",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oelpuah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2010",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Oebelo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2011",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Penfui Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2012",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.08.2013",
+    "district_id": "53.01.08",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Mata Air",
+    "type": "DESA"
+  }
+]

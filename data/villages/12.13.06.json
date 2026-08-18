@@ -1,0 +1,226 @@
+[
+  {
+    "id": "12.13.06.1014",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Siabu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.06.1023",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simangambat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.06.2001",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Aek Mual",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2002",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Bonan Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2003",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2004",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Puli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2005",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2006",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Godang Muda",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2007",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huraba I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2008",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huraba II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2009",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lumban Pinasa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2010",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Lumban Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2011",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Muara Btg. Angkola",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2012",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pintu Padang Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2013",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Pintu Padang Julu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2015",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sibaruang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2016",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2017",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Simaninggir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2018",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sinonoan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2019",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tangga Bosi II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2020",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tanjung Sialang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2021",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tangga Bosi I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2022",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Tangga Bosi III",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2024",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng Sada",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2025",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2026",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng Tolu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2027",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng Opat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.06.2028",
+    "district_id": "12.13.06",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sihepeng Lima",
+    "type": "DESA"
+  }
+]

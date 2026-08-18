@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.10.11.1017",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Reo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.10.11.1018",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Mata Air",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.10.11.1019",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.10.11.1020",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Wangkung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.10.11.2001",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Robek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.10.11.2009",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Ruis",
+    "type": "DESA"
+  },
+  {
+    "id": "53.10.11.2010",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Bajak",
+    "type": "DESA"
+  },
+  {
+    "id": "53.10.11.2011",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Watu Baur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.10.11.2012",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Salama",
+    "type": "DESA"
+  },
+  {
+    "id": "53.10.11.2016",
+    "district_id": "53.10.11",
+    "regency_id": "53.10",
+    "province_id": "53",
+    "name": "Watu Tango",
+    "type": "DESA"
+  }
+]

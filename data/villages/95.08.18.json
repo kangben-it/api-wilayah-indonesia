@@ -1,0 +1,50 @@
+[
+  {
+    "id": "95.08.18.2001",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Dal",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.18.2002",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Silan",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.18.2003",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Gurumbe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.18.2004",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Kaboneri",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.18.2005",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Silankuru",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.18.2006",
+    "district_id": "95.08.18",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Grinbun",
+    "type": "DESA"
+  }
+]

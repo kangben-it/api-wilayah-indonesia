@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.18.31.2001",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Ratte",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2002",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Paliorong",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2003",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Kadundung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2004",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Pondingao'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2005",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Belau",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2006",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Belau Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2007",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Paku",
+    "type": "DESA"
+  },
+  {
+    "id": "73.18.31.2008",
+    "district_id": "73.18.31",
+    "regency_id": "73.18",
+    "province_id": "73",
+    "name": "Sesesalu",
+    "type": "DESA"
+  }
+]

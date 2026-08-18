@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.07.10.2001",
+    "district_id": "13.07.10",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Situjuah Batua",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2002",
+    "district_id": "13.07.10",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Situjuah Ladang Laweh",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2003",
+    "district_id": "13.07.10",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Tungka",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2004",
+    "district_id": "13.07.10",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Situjuah Banda Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "13.07.10.2005",
+    "district_id": "13.07.10",
+    "regency_id": "13.07",
+    "province_id": "13",
+    "name": "Situjuah Gadang",
+    "type": "DESA"
+  }
+]

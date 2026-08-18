@@ -1,0 +1,106 @@
+[
+  {
+    "id": "72.01.01.1006",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bugis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1007",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Balantang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1008",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Batui",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1009",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Tolando",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1010",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Lamo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1017",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Sisipan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.1023",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bakung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.01.2002",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Nonong",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.01.2003",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kayowa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.01.2005",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Ondo-Ondolu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.01.2011",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Honbola",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.01.2012",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Uso",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.01.2016",
+    "district_id": "72.01.01",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Ondo-Ondolu I",
+    "type": "DESA"
+  }
+]

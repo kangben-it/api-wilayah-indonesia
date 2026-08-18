@@ -1,0 +1,82 @@
+[
+  {
+    "id": "52.03.05.2001",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Kesik",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2002",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Paokmotong",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2003",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Masbagik Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2004",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Masbagik Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2005",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Masbagik Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2006",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Danger",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2007",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Lendang Nangka",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2008",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Masbagik Utara Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2009",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Lendang Nangka Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.05.2010",
+    "district_id": "52.03.05",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Kumbang",
+    "type": "DESA"
+  }
+]

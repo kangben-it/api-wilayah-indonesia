@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.05.08.2001",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Pido",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2002",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Waisika",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2003",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kamot",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2004",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Taramana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2005",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Nailang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2006",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Lippang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2007",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kenarimbala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.08.2008",
+    "district_id": "53.05.08",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Air Mancur",
+    "type": "DESA"
+  }
+]

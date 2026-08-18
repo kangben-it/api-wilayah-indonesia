@@ -1,0 +1,50 @@
+[
+  {
+    "id": "31.74.08.1001",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Pancoran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1002",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Kalibata",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1003",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Rawajati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1004",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Duren Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1005",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Pengadegan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.74.08.1006",
+    "district_id": "31.74.08",
+    "regency_id": "31.74",
+    "province_id": "31",
+    "name": "Cikoko",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "82.04.20.2001",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Pelita",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.20.2002",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Indong",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.20.2003",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Waya",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.20.2004",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Leleongusu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.20.2005",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Akedabo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.20.2006",
+    "district_id": "82.04.20",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Bobo",
+    "type": "DESA"
+  }
+]

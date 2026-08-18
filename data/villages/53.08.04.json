@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.08.04.1003",
+    "district_id": "53.08.04",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Mbongawani",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.04.1004",
+    "district_id": "53.08.04",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Rukun Lima",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.04.1006",
+    "district_id": "53.08.04",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Paupanda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.04.1008",
+    "district_id": "53.08.04",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Tetandara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.08.04.1014",
+    "district_id": "53.08.04",
+    "regency_id": "53.08",
+    "province_id": "53",
+    "name": "Tanjung",
+    "type": "KELURAHAN"
+  }
+]

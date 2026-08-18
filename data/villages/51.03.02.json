@@ -1,0 +1,162 @@
+[
+  {
+    "id": "51.03.02.1004",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Kapal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1005",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Sempidi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1014",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Abianbase",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1015",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Sading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.1016",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Lukluk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.03.02.2001",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Munggu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2002",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Buduk",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2003",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Mengwitani",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2006",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Penarungan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2007",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Sembung",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2008",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Baha",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2009",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Mengwi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2010",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Kekeran",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2011",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Sobangan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2012",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Gulingan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2013",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Werdi Bhuwana",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2017",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Cemagi",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2018",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Pererenan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2019",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Tumbakbayuh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.03.02.2020",
+    "district_id": "51.03.02",
+    "regency_id": "51.03",
+    "province_id": "51",
+    "name": "Kuwum",
+    "type": "DESA"
+  }
+]

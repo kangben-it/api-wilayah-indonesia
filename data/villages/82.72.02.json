@@ -1,0 +1,106 @@
+[
+  {
+    "id": "82.72.02.1002",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Guraping",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.02.1003",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Sofifi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "82.72.02.2001",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Kaiyasa",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2005",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Oba",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2006",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Somahode",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2007",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Ake Kolano",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2009",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Balbar",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2010",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Bukit Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2011",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2012",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Ampera",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2013",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Kusu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2014",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Garojou",
+    "type": "DESA"
+  },
+  {
+    "id": "82.72.02.2015",
+    "district_id": "82.72.02",
+    "regency_id": "82.72",
+    "province_id": "82",
+    "name": "Gosale",
+    "type": "DESA"
+  }
+]

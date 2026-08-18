@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.05.07.2001",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Dambalo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2002",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Milango",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2003",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Jembatan Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2004",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bubode",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2005",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Leyao",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2006",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Molantadu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2007",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Huidu Melito",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2008",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bulango Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2009",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tanjung Karang",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.07.2010",
+    "district_id": "75.05.07",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Mutiara Laut",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "74.07.08.1003",
+    "district_id": "74.07.08",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Sowa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.08.1004",
+    "district_id": "74.07.08",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Popalia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.07.08.2001",
+    "district_id": "74.07.08",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Waloindi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.08.2002",
+    "district_id": "74.07.08",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Oihu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.07.08.2005",
+    "district_id": "74.07.08",
+    "regency_id": "74.07",
+    "province_id": "74",
+    "name": "Haka",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "52.04.27.2001",
+    "district_id": "52.04.27",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Tatebal",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.27.2002",
+    "district_id": "52.04.27",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Lenangguar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.27.2003",
+    "district_id": "52.04.27",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Ledang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.04.27.2004",
+    "district_id": "52.04.27",
+    "regency_id": "52.04",
+    "province_id": "52",
+    "name": "Telaga",
+    "type": "DESA"
+  }
+]

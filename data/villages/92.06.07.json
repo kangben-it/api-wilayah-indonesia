@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.06.07.2001",
+    "district_id": "92.06.07",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Wamesa I / Idoor",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.07.2002",
+    "district_id": "92.06.07",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Wamesa II / Yakati",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.07.2003",
+    "district_id": "92.06.07",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Yansei",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.07.2004",
+    "district_id": "92.06.07",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Mamuranu",
+    "type": "DESA"
+  }
+]

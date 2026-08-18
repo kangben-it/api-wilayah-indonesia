@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.08.19.2001",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Padabeunghar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2002",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kaduela",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2003",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Pasawahan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2004",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Ciwiru",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2005",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cidahu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2006",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cimara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2007",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Paniis",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2008",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cibuntu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2009",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Singkup",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.19.2010",
+    "district_id": "32.08.19",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Padamatang",
+    "type": "DESA"
+  }
+]

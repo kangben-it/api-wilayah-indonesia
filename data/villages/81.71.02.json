@@ -1,0 +1,114 @@
+[
+  {
+    "id": "81.71.02.1010",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Pandan Kasturi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1011",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Rijali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1012",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Amantelu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1013",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Karang Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1014",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Waihoka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1015",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Batu Meja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1016",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Batu Gajah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1017",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Uritetu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1018",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Honipopu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.1019",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Ahusen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.71.02.2001",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Hative Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2002",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Galala",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2003",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Batu Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "81.71.02.2009",
+    "district_id": "81.71.02",
+    "regency_id": "81.71",
+    "province_id": "81",
+    "name": "Soya",
+    "type": "DESA"
+  }
+]

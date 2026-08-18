@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.26.10.1002",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Tagari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.10.1005",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Balusu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.26.10.2001",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Palangi'",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.10.2003",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Lilikira Ao'gading",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.10.2004",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Karua",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.10.2006",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Awa' Kawasik",
+    "type": "DESA"
+  },
+  {
+    "id": "73.26.10.2007",
+    "district_id": "73.26.10",
+    "regency_id": "73.26",
+    "province_id": "73",
+    "name": "Balusu Bangunlipu",
+    "type": "DESA"
+  }
+]

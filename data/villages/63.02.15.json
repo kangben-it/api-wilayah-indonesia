@@ -1,0 +1,58 @@
+[
+  {
+    "id": "63.02.15.2001",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Buluh Kuning",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2002",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Gendang Timburu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2004",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Manunggul Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2006",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Rantau Buda",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2007",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Manunggul Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2008",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Terombong Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.15.2009",
+    "district_id": "63.02.15",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Rantau Jaya",
+    "type": "DESA"
+  }
+]

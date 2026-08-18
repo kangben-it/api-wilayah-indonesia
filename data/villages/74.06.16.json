@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.06.16.2001",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lamonggi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2002",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Tangkeno",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2003",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lengora",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2004",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Enano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2005",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Ulungkura",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2006",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lengora Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.16.2007",
+    "district_id": "74.06.16",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lengora Pantai",
+    "type": "DESA"
+  }
+]

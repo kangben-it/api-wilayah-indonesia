@@ -1,0 +1,130 @@
+[
+  {
+    "id": "14.04.15.1002",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pelangiran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.15.2001",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Rotan Semelur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2003",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Simpang Kateman",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2004",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjungsimpang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2005",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Baung Rejo Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2006",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tagagiri Tama Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2007",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Pinang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2008",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2009",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tegal Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2010",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Intan Mulia Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2011",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Saka Palas Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2012",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Catur Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2013",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Bagan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2014",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Telukbunian",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2015",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Terusan Beringin Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.15.2016",
+    "district_id": "14.04.15",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Hidayah",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "53.12.15.1001",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Wailiang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1002",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Komerda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1003",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1004",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Kampung Sawah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1008",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Pada Eweta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.1009",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Maliti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.15.2005",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Kodaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2006",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Tebara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2007",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Kalembu Kuni",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2010",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Soba Rade",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2011",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Lapale",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2012",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Modu Waimaringu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.15.2013",
+    "district_id": "53.12.15",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Puu Mawo",
+    "type": "DESA"
+  }
+]

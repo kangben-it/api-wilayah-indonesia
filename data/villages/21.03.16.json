@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21.03.16.2001",
+    "district_id": "21.03.16",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Tapau",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.16.2002",
+    "district_id": "21.03.16",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "21.03.16.2003",
+    "district_id": "21.03.16",
+    "regency_id": "21.03",
+    "province_id": "21",
+    "name": "Air Lengit",
+    "type": "DESA"
+  }
+]

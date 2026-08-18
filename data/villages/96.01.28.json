@@ -1,0 +1,82 @@
+[
+  {
+    "id": "96.01.28.2001",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Waliam",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2002",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Manfanim",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2003",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Waibin",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2004",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Waiman",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2005",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sakapul",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2006",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Maralol",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2007",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Batbiro",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2008",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Duriankari",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2009",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Meyaup",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.28.2010",
+    "district_id": "96.01.28",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sailen",
+    "type": "DESA"
+  }
+]

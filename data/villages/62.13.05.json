@@ -1,0 +1,66 @@
+[
+  {
+    "id": "62.13.05.1011",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Ampah Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.13.05.2008",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Saing",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2009",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Rodok",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2010",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Ampah II",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2012",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Putai",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2018",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Netampin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2024",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Sumber Garunggung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.13.05.2025",
+    "district_id": "62.13.05",
+    "regency_id": "62.13",
+    "province_id": "62",
+    "name": "Muara Awang",
+    "type": "DESA"
+  }
+]

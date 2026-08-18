@@ -1,0 +1,42 @@
+[
+  {
+    "id": "31.71.06.1001",
+    "district_id": "31.71.06",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Menteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1002",
+    "district_id": "31.71.06",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Pegangsaan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1003",
+    "district_id": "31.71.06",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Cikini",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1004",
+    "district_id": "31.71.06",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Gondangdia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.71.06.1005",
+    "district_id": "31.71.06",
+    "regency_id": "31.71",
+    "province_id": "31",
+    "name": "Kebon Sirih",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.03.31.1001",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Sangkunur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.31.1002",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Rianiate",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.03.31.2003",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simatohir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2004",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Perkebunan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2005",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Bandar Tarutung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2006",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Aek Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2007",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Tindoan Laut",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2008",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Simataniari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2009",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Batu Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.03.31.2010",
+    "district_id": "12.03.31",
+    "regency_id": "12.03",
+    "province_id": "12",
+    "name": "Malombu",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "65.71.02.1001",
+    "district_id": "65.71.02",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Kampung I Skip",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.02.1002",
+    "district_id": "65.71.02",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Pamusian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.02.1003",
+    "district_id": "65.71.02",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Sebengkok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.02.1004",
+    "district_id": "65.71.02",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Selumit",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "65.71.02.1005",
+    "district_id": "65.71.02",
+    "regency_id": "65.71",
+    "province_id": "65",
+    "name": "Selumit Pantai",
+    "type": "KELURAHAN"
+  }
+]

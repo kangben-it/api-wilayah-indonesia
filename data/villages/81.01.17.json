@@ -1,0 +1,42 @@
+[
+  {
+    "id": "81.01.17.1001",
+    "district_id": "81.01.17",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Namaelo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.01.17.1002",
+    "district_id": "81.01.17",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Namasina",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.01.17.1003",
+    "district_id": "81.01.17",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Ampera",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.01.17.1004",
+    "district_id": "81.01.17",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Lesane",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "81.01.17.1005",
+    "district_id": "81.01.17",
+    "regency_id": "81.01",
+    "province_id": "81",
+    "name": "Letwaru",
+    "type": "KELURAHAN"
+  }
+]

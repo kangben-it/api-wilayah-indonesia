@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.13.09.1001",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Anabanua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.09.1002",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Dualimpoe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.09.1003",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Tangkoli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.13.09.2004",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Mattirowalie",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.09.2005",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Kalola",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.09.2006",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Sogi",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.09.2007",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Abbanuangnge",
+    "type": "DESA"
+  },
+  {
+    "id": "73.13.09.2008",
+    "district_id": "73.13.09",
+    "regency_id": "73.13",
+    "province_id": "73",
+    "name": "Minagatellue",
+    "type": "DESA"
+  }
+]

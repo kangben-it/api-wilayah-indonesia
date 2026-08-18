@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.02.06.1001",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Pangkalan Kasai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.06.2002",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kelesa",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2003",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Beligan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2004",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Seresam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2005",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Paya Rumbai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2006",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Bukit Meranti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2007",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Buluh Rampai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2008",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Titian Resak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2009",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Petala Bumi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2010",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sibabat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.06.2011",
+    "district_id": "14.02.06",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Bandar Padang",
+    "type": "DESA"
+  }
+]

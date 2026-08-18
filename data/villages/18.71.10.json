@@ -1,0 +1,58 @@
+[
+  {
+    "id": "18.71.10.1001",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rajabasa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1002",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Gedong Meneng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1005",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rajabasa Nunyai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1006",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rajabasa Pemuka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1007",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Gedong Meneng Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1008",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rajabasa Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.10.1009",
+    "district_id": "18.71.10",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Rajabasa Jaya",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.08.15.2001",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Selajambe",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2002",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cantilan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2003",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Ciberung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2004",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kutawaringin",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2005",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Jamberama",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2006",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Bagawat",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.15.2007",
+    "district_id": "32.08.15",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Padahurip",
+    "type": "DESA"
+  }
+]

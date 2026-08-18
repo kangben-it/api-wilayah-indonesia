@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.04.17.2001",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Carenang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2002",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Pamanuk",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2003",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Mandaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2004",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Teras",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2006",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Ragas Masigit",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2007",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Walikukun",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2009",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Panenjoan",
+    "type": "DESA"
+  },
+  {
+    "id": "36.04.17.2010",
+    "district_id": "36.04.17",
+    "regency_id": "36.04",
+    "province_id": "36",
+    "name": "Mekarsari",
+    "type": "DESA"
+  }
+]

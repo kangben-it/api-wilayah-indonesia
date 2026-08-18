@@ -1,0 +1,186 @@
+[
+  {
+    "id": "16.06.09.1016",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bayung Lencir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.09.1065",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bayung Lencir Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.06.09.2006",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Muara Merang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2007",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mangsang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2008",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Tampang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2009",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Kali Berau",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2010",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sindang Marga",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2011",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Telang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2012",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Pagar Desa",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2013",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mendis",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2014",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Pulai Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2015",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Muara Medak",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2017",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2026",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Senawar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2048",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Simpang Bayat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2049",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Bayat Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2050",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Pangkalan Bayat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2051",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Muara Bahar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2058",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mekar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2059",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Mendis Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2060",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Kepayang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2061",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Wono Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.06.09.2063",
+    "district_id": "16.06.09",
+    "regency_id": "16.06",
+    "province_id": "16",
+    "name": "Lubuk Harjo",
+    "type": "DESA"
+  }
+]

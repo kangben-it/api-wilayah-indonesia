@@ -1,0 +1,146 @@
+[
+  {
+    "id": "35.13.14.1003",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Semampir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.13.14.1005",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Sidomukti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.13.14.1007",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kraksaan Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.13.14.1008",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kandangjati Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.13.14.1017",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Patokan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.13.14.2001",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kregenan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2002",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Rondokuning",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2004",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2006",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Rangkang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2009",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kandang Jati Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2010",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Alassumur Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2011",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Sumberlele",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2012",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Tamansari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2013",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Asembakor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2014",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kebonagung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2015",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Sidopekso",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2016",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Kalibuntu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.13.14.2018",
+    "district_id": "35.13.14",
+    "regency_id": "35.13",
+    "province_id": "35",
+    "name": "Asembagus",
+    "type": "DESA"
+  }
+]

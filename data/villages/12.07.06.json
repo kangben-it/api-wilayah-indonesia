@@ -1,0 +1,290 @@
+[
+  {
+    "id": "12.07.06.2001",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Deli Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2002",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Jati Kesuma",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2003",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Rambe",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2004",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Gunung Kelawas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2005",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Ujung Labuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2006",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lubang Ido",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2007",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Silue-lue",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2008",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Timbang Lawan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2009",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Batu Mbelin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2010",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Batang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2011",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tanjung Selamat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2012",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Bekukul",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2013",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Pakam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2014",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Suka Mulia Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2015",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Suka Mulia Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2016",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Rumah Mbacang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2017",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Cinta Rakyat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2018",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Batu Penjemuran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2019",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kuta Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2020",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Landur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2021",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Gunung Berita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2022",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Tangkahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2023",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Uruk Gedang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2024",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Rumah Keben",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2025",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Pinang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2026",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Sudi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2027",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Jaba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2028",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kuta Tualah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2029",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Kwala Simeme",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2030",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Batu Gemuk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2031",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Lau Mulgap",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2032",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Batu Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2033",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Salang Tungir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2034",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Mbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2035",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Rimo Mungkur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.07.06.2036",
+    "district_id": "12.07.06",
+    "regency_id": "12.07",
+    "province_id": "12",
+    "name": "Namo Mbelin",
+    "type": "DESA"
+  }
+]

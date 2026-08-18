@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.22.25.2001",
+    "district_id": "35.22.25",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kawengan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.25.2002",
+    "district_id": "35.22.25",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Wonocolo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.25.2003",
+    "district_id": "35.22.25",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Hargomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.25.2004",
+    "district_id": "35.22.25",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Kedewan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.22.25.2005",
+    "district_id": "35.22.25",
+    "regency_id": "35.22",
+    "province_id": "35",
+    "name": "Beji",
+    "type": "DESA"
+  }
+]

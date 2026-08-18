@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.02.13.2001",
+    "district_id": "34.02.13",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Wonokromo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.13.2002",
+    "district_id": "34.02.13",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Pleret",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.13.2003",
+    "district_id": "34.02.13",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Segoroyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.13.2004",
+    "district_id": "34.02.13",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Bawuran",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.13.2005",
+    "district_id": "34.02.13",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Wonolelo",
+    "type": "DESA"
+  }
+]

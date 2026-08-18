@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.05.05.2001",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tolinggula Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2002",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tolinggula Pantai",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2003",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tolinggula Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2006",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Limbato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2007",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Papualangi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2008",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Molangga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2011",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Cempaka Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2014",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Tolite Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2017",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Ilomangga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.05.2018",
+    "district_id": "75.05.05",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Ilotunggula",
+    "type": "DESA"
+  }
+]

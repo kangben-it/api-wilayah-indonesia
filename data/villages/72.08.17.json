@@ -1,0 +1,74 @@
+[
+  {
+    "id": "72.08.17.2001",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Marantale",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2002",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Tandaigi",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2003",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Silanga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2004",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Siniu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2005",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Towera",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2006",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Toraranga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2007",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Uevolo",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2008",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Siniu Sayogindano",
+    "type": "DESA"
+  },
+  {
+    "id": "72.08.17.2009",
+    "district_id": "72.08.17",
+    "regency_id": "72.08",
+    "province_id": "72",
+    "name": "Silanga Barat",
+    "type": "DESA"
+  }
+]

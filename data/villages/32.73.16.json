@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.73.16.1001",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Sukapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.16.1002",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Jayanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.16.1003",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Babakan Surabaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.16.1004",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cicaheum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.16.1005",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Babakan Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.16.1006",
+    "district_id": "32.73.16",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Kangkung",
+    "type": "KELURAHAN"
+  }
+]

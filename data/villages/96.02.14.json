@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.02.14.2001",
+    "district_id": "96.02.14",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Wenslolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.14.2002",
+    "district_id": "96.02.14",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Klamit",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.14.2003",
+    "district_id": "96.02.14",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Mlabolo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.14.2004",
+    "district_id": "96.02.14",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Kofalit",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.14.2005",
+    "district_id": "96.02.14",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Alma",
+    "type": "DESA"
+  }
+]

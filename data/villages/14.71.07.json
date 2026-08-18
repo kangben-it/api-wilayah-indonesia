@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.71.07.1005",
+    "district_id": "14.71.07",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Simpang Tiga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.07.1006",
+    "district_id": "14.71.07",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tangkerang Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.07.1008",
+    "district_id": "14.71.07",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tangkerang Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.07.1011",
+    "district_id": "14.71.07",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Tangkerang Labuai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.07.1012",
+    "district_id": "14.71.07",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Airdingin",
+    "type": "KELURAHAN"
+  }
+]

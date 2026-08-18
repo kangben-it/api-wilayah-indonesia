@@ -1,0 +1,130 @@
+[
+  {
+    "id": "14.02.01.1004",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kampung Dagang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.1006",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Pasar Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.1007",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kampung Besar Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.1008",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sekip Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.1011",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kampung Besar Seberang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.1018",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sekip Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.02.01.2001",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sungai Guntung Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2002",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sungai Guntung Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2003",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kuantan Babu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2005",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Kampung Pulau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2009",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sungai Beringin",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2010",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Pasir Kemilu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2012",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Rantau Mapesai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2013",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Pulau Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2014",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Sungai Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.02.01.2023",
+    "district_id": "14.02.01",
+    "regency_id": "14.02",
+    "province_id": "14",
+    "name": "Rawa Bangun",
+    "type": "DESA"
+  }
+]

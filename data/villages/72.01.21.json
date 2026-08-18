@@ -1,0 +1,90 @@
+[
+  {
+    "id": "72.01.21.1010",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kilongan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.21.1011",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kilongan Permai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.01.21.2001",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Biak",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2002",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bunga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2003",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Kamumu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2004",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Salodik",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2005",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Lenyek",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2006",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Buon Mandiri",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2007",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Boyou",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2008",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Awu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.01.21.2009",
+    "district_id": "72.01.21",
+    "regency_id": "72.01",
+    "province_id": "72",
+    "name": "Bumi Beringin",
+    "type": "DESA"
+  }
+]

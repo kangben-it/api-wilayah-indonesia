@@ -1,0 +1,50 @@
+[
+  {
+    "id": "65.02.01.2002",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Bisai",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2005",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Pulau Sapi",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2006",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Paking",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2007",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Lidung Kemenci",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2008",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Mentarang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.01.2009",
+    "district_id": "65.02.01",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Harapan Maju",
+    "type": "DESA"
+  }
+]

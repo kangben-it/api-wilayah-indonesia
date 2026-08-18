@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.04.09.1001",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Kuala Kencana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.09.1002",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Karang Senang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "94.04.09.2003",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Utikini Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2004",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Bhintuka",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2005",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Tioka Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2006",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Mimika Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2007",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Karya Kencana",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2008",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Utikini Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2009",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Utikini Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.04.09.2010",
+    "district_id": "94.04.09",
+    "regency_id": "94.04",
+    "province_id": "94",
+    "name": "Jimbi",
+    "type": "DESA"
+  }
+]

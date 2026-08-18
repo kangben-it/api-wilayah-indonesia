@@ -1,0 +1,82 @@
+[
+  {
+    "id": "14.03.13.1001",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Titian Antui",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.13.1012",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Balai Raja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.03.13.2003",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Balai Pungut",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2005",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Muara Basung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2007",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pinggir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2008",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Semunai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2011",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Tengganau",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2014",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Sungai Meranti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2015",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Pangkalan Libut",
+    "type": "DESA"
+  },
+  {
+    "id": "14.03.13.2016",
+    "district_id": "14.03.13",
+    "regency_id": "14.03",
+    "province_id": "14",
+    "name": "Buluh Apo",
+    "type": "DESA"
+  }
+]

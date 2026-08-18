@@ -1,0 +1,58 @@
+[
+  {
+    "id": "63.04.17.2001",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Sampurna",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2002",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Jejangkit Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2003",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Bahandang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2004",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Jejangkit Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2005",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Cahaya Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2006",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Jejangkit Pasar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.04.17.2007",
+    "district_id": "63.04.17",
+    "regency_id": "63.04",
+    "province_id": "63",
+    "name": "Jejangkit Muara",
+    "type": "DESA"
+  }
+]

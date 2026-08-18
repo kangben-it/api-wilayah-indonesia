@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18.71.16.1001",
+    "district_id": "18.71.16",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Langkapura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1002",
+    "district_id": "18.71.16",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Langkapura Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1003",
+    "district_id": "18.71.16",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Gunungterang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1005",
+    "district_id": "18.71.16",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Bilabong Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.71.16.1006",
+    "district_id": "18.71.16",
+    "regency_id": "18.71",
+    "province_id": "18",
+    "name": "Gunungagung",
+    "type": "KELURAHAN"
+  }
+]

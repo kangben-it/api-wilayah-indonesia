@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.22.10.1001",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Ngampin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1002",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Pojoksari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1004",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Tambakboyo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1005",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Lodoyong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1006",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kupang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1007",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kranggan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1008",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Panjang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.1010",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Baran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.22.10.2003",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Bejalen",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.10.2009",
+    "district_id": "33.22.10",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Pasekan",
+    "type": "DESA"
+  }
+]

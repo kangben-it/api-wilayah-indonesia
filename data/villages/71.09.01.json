@@ -1,0 +1,130 @@
+[
+  {
+    "id": "71.09.01.1009",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bebali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.09.01.1010",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Tatahadeng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.09.01.1011",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Tarorane",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.09.01.1012",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Akesimbeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.09.01.1013",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bahu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.09.01.2001",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Bukide",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2002",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Apelawo",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2003",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Deahe",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2004",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Lia",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2005",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Kanang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2006",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Buise",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2007",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Karalung",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2008",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Dame",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2014",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Dame I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2015",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Lia Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.09.01.2016",
+    "district_id": "71.09.01",
+    "regency_id": "71.09",
+    "province_id": "71",
+    "name": "Karalung Satu",
+    "type": "DESA"
+  }
+]

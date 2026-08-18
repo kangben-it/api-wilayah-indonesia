@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.18.09.1003",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Langga Lero",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.18.09.1004",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Waitabula",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.18.09.2001",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Rada Mata",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2002",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Kalena Wano",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2005",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Wee Londa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2006",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Wee Pangali",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2007",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Kadi Pada",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2008",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Watu Kawula",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2009",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Wee Rena",
+    "type": "DESA"
+  },
+  {
+    "id": "53.18.09.2010",
+    "district_id": "53.18.09",
+    "regency_id": "53.18",
+    "province_id": "53",
+    "name": "Kalembu Kaha",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.07.14.2001",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Sukadana",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.14.2002",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Salakaria",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.14.2003",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Margaharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.14.2004",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Margajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.14.2005",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Bunter",
+    "type": "DESA"
+  },
+  {
+    "id": "32.07.14.2006",
+    "district_id": "32.07.14",
+    "regency_id": "32.07",
+    "province_id": "32",
+    "name": "Ciparigi",
+    "type": "DESA"
+  }
+]

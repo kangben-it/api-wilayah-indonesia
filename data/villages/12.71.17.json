@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.71.17.1001",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Petisah Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1002",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Babura",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1003",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Merdeka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1004",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Darat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1005",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Padang Bulan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.71.17.1006",
+    "district_id": "12.71.17",
+    "regency_id": "12.71",
+    "province_id": "12",
+    "name": "Titi Rante",
+    "type": "KELURAHAN"
+  }
+]

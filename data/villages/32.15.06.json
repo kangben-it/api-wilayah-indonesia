@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.15.06.2001",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Rengasdengklok Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2002",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Rengasdengklok Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2003",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kertasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2004",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Dewisari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2005",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Amansari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2006",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Karyasari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2007",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Dukuhkarya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2008",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kalangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.15.06.2009",
+    "district_id": "32.15.06",
+    "regency_id": "32.15",
+    "province_id": "32",
+    "name": "Kalangsurya",
+    "type": "DESA"
+  }
+]

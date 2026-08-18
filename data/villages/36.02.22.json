@@ -1,0 +1,82 @@
+[
+  {
+    "id": "36.02.22.2001",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Ciparasi",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2002",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sobang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2003",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2004",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sindanglaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2005",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sukamaju",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2006",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Hariang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2007",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Majasari",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2008",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sinar Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2009",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Cirompang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.02.22.2010",
+    "district_id": "36.02.22",
+    "regency_id": "36.02",
+    "province_id": "36",
+    "name": "Sukaresmi",
+    "type": "DESA"
+  }
+]

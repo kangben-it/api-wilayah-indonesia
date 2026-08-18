@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.08.13.2001",
+    "district_id": "13.08.13",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Malampah",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.13.2002",
+    "district_id": "13.08.13",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Ladang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.13.2003",
+    "district_id": "13.08.13",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.13.2004",
+    "district_id": "13.08.13",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Malampah Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.13.2005",
+    "district_id": "13.08.13",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Ladang Panjang Barat",
+    "type": "DESA"
+  }
+]

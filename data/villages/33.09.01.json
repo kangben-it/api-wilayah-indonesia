@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.09.01.2001",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Tlogolele",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2002",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Klakah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2003",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Jrakah",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2004",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Lencoh",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2005",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Suroteleng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2006",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Samiran",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2007",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Selo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2008",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Tarubatang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2009",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Senden",
+    "type": "DESA"
+  },
+  {
+    "id": "33.09.01.2010",
+    "district_id": "33.09.01",
+    "regency_id": "33.09",
+    "province_id": "33",
+    "name": "Jeruk",
+    "type": "DESA"
+  }
+]

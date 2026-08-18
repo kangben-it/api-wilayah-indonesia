@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.16.05.1001",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Kambiolangi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.05.1002",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Kalosi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.05.1003",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Buntu Sugi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.05.2004",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Mata Allo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.05.2010",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Sumillan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.05.2011",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Pana",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.05.2017",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Taulo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.05.2018",
+    "district_id": "73.16.05",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bolang",
+    "type": "DESA"
+  }
+]

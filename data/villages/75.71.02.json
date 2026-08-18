@@ -1,0 +1,42 @@
+[
+  {
+    "id": "75.71.02.1010",
+    "district_id": "75.71.02",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Biawao",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1012",
+    "district_id": "75.71.02",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Biawu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1013",
+    "district_id": "75.71.02",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Limba B",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1019",
+    "district_id": "75.71.02",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Limba U I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "75.71.02.1020",
+    "district_id": "75.71.02",
+    "regency_id": "75.71",
+    "province_id": "75",
+    "name": "Limba U II",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "34.04.05.2001",
+    "district_id": "34.04.05",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Margoluwih",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2002",
+    "district_id": "34.04.05",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Margodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2003",
+    "district_id": "34.04.05",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Margokaton",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2004",
+    "district_id": "34.04.05",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Margomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.04.05.2005",
+    "district_id": "34.04.05",
+    "regency_id": "34.04",
+    "province_id": "34",
+    "name": "Margoagung",
+    "type": "DESA"
+  }
+]

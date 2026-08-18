@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.04.01.2003",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Torosiaje Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2004",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Popayato",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2008",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Telaga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2012",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Torosiaje",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2015",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Bukit Tingki",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2016",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Tunas Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2017",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Trikora",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2018",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Dambalo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2019",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Telaga Biru",
+    "type": "DESA"
+  },
+  {
+    "id": "75.04.01.2020",
+    "district_id": "75.04.01",
+    "regency_id": "75.04",
+    "province_id": "75",
+    "name": "Bumi Bahari",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "14.04.10.1001",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Kuala Enok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.04.10.2002",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Selatnama",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2003",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungainyiur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2004",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjungbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2005",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tekulai Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2006",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tekulai Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2007",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tekulai Bugis",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2008",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanjungpasir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2009",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.04.10.2010",
+    "district_id": "14.04.10",
+    "regency_id": "14.04",
+    "province_id": "14",
+    "name": "Sungailaut",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18.04.05.1016",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Tugu Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.04.05.2001",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Simpangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.05.2010",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sukajaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.05.2011",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sindang Pagar",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.05.2012",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Sukapura",
+    "type": "DESA"
+  },
+  {
+    "id": "18.04.05.2013",
+    "district_id": "18.04.05",
+    "regency_id": "18.04",
+    "province_id": "18",
+    "name": "Way Petai",
+    "type": "DESA"
+  }
+]

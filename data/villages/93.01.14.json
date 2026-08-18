@@ -1,0 +1,58 @@
+[
+  {
+    "id": "93.01.14.2001",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kumbe",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2002",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Onggari",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2003",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Rawa Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2004",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Padang Raharja",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2005",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kaiburse",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2006",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Domande",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.14.2007",
+    "district_id": "93.01.14",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Suka Maju",
+    "type": "DESA"
+  }
+]

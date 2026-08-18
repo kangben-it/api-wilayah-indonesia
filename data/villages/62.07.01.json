@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.07.01.1001",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Kuala Pembuang I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.07.01.1002",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Kuala Pembuang II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.07.01.2005",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Pematang Limau",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2006",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Sungai Perlu",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2007",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Tanjung Rangas",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2008",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Muara Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2009",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Jahitan",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2010",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2015",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Persil Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.07.01.2016",
+    "district_id": "62.07.01",
+    "regency_id": "62.07",
+    "province_id": "62",
+    "name": "Sungai Undang",
+    "type": "DESA"
+  }
+]

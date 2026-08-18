@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21.05.06.1005",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Letung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "21.05.06.2001",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Mampok",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.06.2002",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Rewak",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.06.2006",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Air Biru",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.06.2008",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Batu Berapit",
+    "type": "DESA"
+  },
+  {
+    "id": "21.05.06.2009",
+    "district_id": "21.05.06",
+    "regency_id": "21.05",
+    "province_id": "21",
+    "name": "Landak",
+    "type": "DESA"
+  }
+]

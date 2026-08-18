@@ -1,0 +1,90 @@
+[
+  {
+    "id": "51.71.02.1003",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Kesiman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1006",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Sumerta",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1010",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Dangin Puri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.1014",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Penatih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "51.71.02.2001",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Dangin Puri Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2002",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Sumerta Kelod",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2004",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Kesiman Petilan",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2005",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Kesiman Kertalangu",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2007",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Sumerta Kaja",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2008",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Sumerta Kauh",
+    "type": "DESA"
+  },
+  {
+    "id": "51.71.02.2015",
+    "district_id": "51.71.02",
+    "regency_id": "51.71",
+    "province_id": "51",
+    "name": "Penatih Dangin Puri",
+    "type": "DESA"
+  }
+]

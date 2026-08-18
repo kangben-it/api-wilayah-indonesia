@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.04.10.2001",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Margaasih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.10.2002",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Lagadar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.10.2003",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Nanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.10.2004",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Mekarrahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.10.2005",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Rahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.10.2006",
+    "district_id": "32.04.10",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cigondewah Hilir",
+    "type": "DESA"
+  }
+]

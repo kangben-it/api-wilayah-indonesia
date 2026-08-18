@@ -1,0 +1,26 @@
+[
+  {
+    "id": "31.72.06.1001",
+    "district_id": "31.72.06",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Kelapa Gading Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.06.1002",
+    "district_id": "31.72.06",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Pegangsaan Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "31.72.06.1003",
+    "district_id": "31.72.06",
+    "regency_id": "31.72",
+    "province_id": "31",
+    "name": "Kelapa Gading Barat",
+    "type": "KELURAHAN"
+  }
+]

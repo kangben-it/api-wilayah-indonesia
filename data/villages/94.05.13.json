@@ -1,0 +1,58 @@
+[
+  {
+    "id": "94.05.13.2001",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Aguit",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2002",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kembru",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2003",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Molu",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2004",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Belaba",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2005",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Makuma",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2006",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Tinoti",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.13.2007",
+    "district_id": "94.05.13",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Nilime",
+    "type": "DESA"
+  }
+]

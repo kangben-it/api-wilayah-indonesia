@@ -1,0 +1,66 @@
+[
+  {
+    "id": "13.05.10.2001",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Tapakih",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2002",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2003",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Padang Toboh Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2004",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Sungai Gimba Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2005",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Seulayat Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2006",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Manggopoh Palak Gadang Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2007",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Sandi Ulakan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.10.2008",
+    "district_id": "13.05.10",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Kampuang Gelapuang Ulakan",
+    "type": "DESA"
+  }
+]

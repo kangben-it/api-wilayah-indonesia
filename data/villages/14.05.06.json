@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.05.06.1001",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Pelalawan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.05.06.2002",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sungai Ara",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2003",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Ransang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2004",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Kuala Tolam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2005",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Sering",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2006",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Telayap",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2007",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Batang Nilo Kecil",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2008",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Delik",
+    "type": "DESA"
+  },
+  {
+    "id": "14.05.06.2010",
+    "district_id": "14.05.06",
+    "regency_id": "14.05",
+    "province_id": "14",
+    "name": "Lalang Kabung",
+    "type": "DESA"
+  }
+]

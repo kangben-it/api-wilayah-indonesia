@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.01.21.2001",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Dasri",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2002",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Masos",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2003",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Ketawas",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2004",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Warbo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2005",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Suus",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2006",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sulya",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.21.2007",
+    "district_id": "96.01.21",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Bouwoi",
+    "type": "DESA"
+  }
+]

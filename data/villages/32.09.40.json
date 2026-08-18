@@ -1,0 +1,66 @@
+[
+  {
+    "id": "32.09.40.2001",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Jamblang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2002",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Sitiwinangun",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2003",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Wangunharja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2004",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Bojong Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2005",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Bojong Lor",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2006",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Orimalang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2007",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Bakung Kidul",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.40.2008",
+    "district_id": "32.09.40",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Bakung Lor",
+    "type": "DESA"
+  }
+]

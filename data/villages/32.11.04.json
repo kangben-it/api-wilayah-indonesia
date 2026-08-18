@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.11.04.2001",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Jayamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2002",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Buanamekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2003",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cibugel",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2004",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Sukaraja",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2005",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Cipasang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2006",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Tamansari",
+    "type": "DESA"
+  },
+  {
+    "id": "32.11.04.2007",
+    "district_id": "32.11.04",
+    "regency_id": "32.11",
+    "province_id": "32",
+    "name": "Jayamandiri",
+    "type": "DESA"
+  }
+]

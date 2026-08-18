@@ -1,0 +1,34 @@
+[
+  {
+    "id": "74.06.19.2001",
+    "district_id": "74.06.19",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Mulaeno",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.19.2002",
+    "district_id": "74.06.19",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Lebo Ea",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.19.2003",
+    "district_id": "74.06.19",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Paria",
+    "type": "DESA"
+  },
+  {
+    "id": "74.06.19.2004",
+    "district_id": "74.06.19",
+    "regency_id": "74.06",
+    "province_id": "74",
+    "name": "Poleondro",
+    "type": "DESA"
+  }
+]

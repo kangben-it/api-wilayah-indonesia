@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.01.21.2001",
+    "district_id": "93.01.21",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Sabudon",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.21.2002",
+    "district_id": "93.01.21",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Padua",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.21.2003",
+    "district_id": "93.01.21",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Sigad",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.21.2004",
+    "district_id": "93.01.21",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Bamol I",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.21.2005",
+    "district_id": "93.01.21",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Bamol II",
+    "type": "DESA"
+  }
+]

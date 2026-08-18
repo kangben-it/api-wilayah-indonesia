@@ -1,0 +1,122 @@
+[
+  {
+    "id": "74.09.10.1002",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Bende",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.09.10.2001",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tondowatu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2003",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Matandahi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2004",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Banggina",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2005",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Motui",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2006",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Wawoluri",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2007",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Lambuluo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2008",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Poni Poniki",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2009",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Puuwonggia",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2010",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Punggulahi",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2011",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Sama Subur",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2012",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Ranombupulu",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2013",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Tobimeita",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2014",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Kapolano",
+    "type": "DESA"
+  },
+  {
+    "id": "74.09.10.2015",
+    "district_id": "74.09.10",
+    "regency_id": "74.09",
+    "province_id": "74",
+    "name": "Sambasule",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "62.03.02.1001",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Mambulau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.02.1002",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Hampatung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.02.1003",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Dahirang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.02.1004",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Barimba",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.02.1005",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sei Pasah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.03.02.2006",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Bakungin",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.02.2007",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sei Asam",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.02.2008",
+    "district_id": "62.03.02",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Saka Batur",
+    "type": "DESA"
+  }
+]

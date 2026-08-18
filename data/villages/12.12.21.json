@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.12.21.2001",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lumban Rau Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2002",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lumban Rau Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2003",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lumban Rau Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2004",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Sipagabu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2005",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Napajoring",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2006",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Liat Tondung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2007",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Batu Manumpak",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2008",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Lumban Rau Tenggara",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2009",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Cinta Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.12.21.2010",
+    "district_id": "12.12.21",
+    "regency_id": "12.12",
+    "province_id": "12",
+    "name": "Siantarasa",
+    "type": "DESA"
+  }
+]

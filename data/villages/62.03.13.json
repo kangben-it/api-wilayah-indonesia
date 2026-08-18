@@ -1,0 +1,82 @@
+[
+  {
+    "id": "62.03.13.2001",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Tamban Baru Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2002",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Tamban Baru Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2003",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Tamban Baru Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2004",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Bandaraya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2005",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sidorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2006",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Warna Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2007",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Bandar Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2008",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Tamban Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2009",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Sidomulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.03.13.2010",
+    "district_id": "62.03.13",
+    "regency_id": "62.03",
+    "province_id": "62",
+    "name": "Tamban Jaya",
+    "type": "DESA"
+  }
+]

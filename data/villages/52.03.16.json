@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52.03.16.2001",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Selaparang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2002",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Ketangga",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2003",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Suntalangu",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2004",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Suela",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2005",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Sapit",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2006",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Perigi",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2007",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Mekar Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "52.03.16.2008",
+    "district_id": "52.03.16",
+    "regency_id": "52.03",
+    "province_id": "52",
+    "name": "Puncak Jeringo",
+    "type": "DESA"
+  }
+]

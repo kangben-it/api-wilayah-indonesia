@@ -1,0 +1,58 @@
+[
+  {
+    "id": "72.02.01.1001",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Moengko Lama",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1002",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Moengko Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1003",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Kayamanya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1007",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Gebangrejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1016",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Gebangrejo Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1017",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Gebangrejo Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "72.02.01.1018",
+    "district_id": "72.02.01",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Kayamanya Sentral",
+    "type": "KELURAHAN"
+  }
+]

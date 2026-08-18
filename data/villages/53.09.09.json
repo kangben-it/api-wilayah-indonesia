@@ -1,0 +1,234 @@
+[
+  {
+    "id": "53.09.09.1010",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Benteng Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.09.09.1011",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Nangamese",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.09.09.2005",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Taenterong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2006",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Wangka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2008",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2009",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Tadho",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2012",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Sambinasi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2013",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Latung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2014",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Rawangkalo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2016",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Wangka Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2017",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2018",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2019",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Sambinasi Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2020",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2021",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Taen Terong I",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2022",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Taen Terong II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2023",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Kota Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2024",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Ite Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2025",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Wangka Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2026",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2027",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Tadho Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2028",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Tadho Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2029",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Tadho Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2030",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Sambinasi Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2031",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Latung Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2032",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Rawangkalo I",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2033",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Rawangkalo II",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2034",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Wakamanga",
+    "type": "DESA"
+  },
+  {
+    "id": "53.09.09.2035",
+    "district_id": "53.09.09",
+    "regency_id": "53.09",
+    "province_id": "53",
+    "name": "Lengkosambi Barat Daya",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.06.11.2001",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2004",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Rimo Kayu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2007",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Selandi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2012",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Batukarang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2015",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Gurukinayan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2017",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Cimbang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.06.11.2025",
+    "district_id": "12.06.11",
+    "regency_id": "12.06",
+    "province_id": "12",
+    "name": "Ujung Payung",
+    "type": "DESA"
+  }
+]

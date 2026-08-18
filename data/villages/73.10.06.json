@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.10.06.1001",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bori Appaka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.06.1002",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Samalewa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.06.1003",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Sapanang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.10.06.2004",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bowong Cindea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.06.2005",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Tabo-Tabo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.06.2006",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Mangilu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.06.2007",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Bulu Cindea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.10.06.2008",
+    "district_id": "73.10.06",
+    "regency_id": "73.10",
+    "province_id": "73",
+    "name": "Biring Ere",
+    "type": "DESA"
+  }
+]

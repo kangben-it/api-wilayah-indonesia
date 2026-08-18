@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.02.01.1001",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Palabuhanratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.02.01.2002",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Tonjong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2003",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Citepus",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2004",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Buniwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2005",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibodas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2006",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Pasirsuren",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2007",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cikadu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2008",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Citarik",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2009",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cimanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.01.2010",
+    "district_id": "32.02.01",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Jayanti",
+    "type": "DESA"
+  }
+]

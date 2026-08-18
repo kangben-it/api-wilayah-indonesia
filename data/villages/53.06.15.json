@@ -1,0 +1,58 @@
+[
+  {
+    "id": "53.06.15.2001",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Ile Padung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2002",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Bantala",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2003",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Sinar Hading",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2004",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Painapang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2005",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Balukhering",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2006",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Riangkotek",
+    "type": "DESA"
+  },
+  {
+    "id": "53.06.15.2007",
+    "district_id": "53.06.15",
+    "regency_id": "53.06",
+    "province_id": "53",
+    "name": "Lewobelen",
+    "type": "DESA"
+  }
+]

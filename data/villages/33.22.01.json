@@ -1,0 +1,106 @@
+[
+  {
+    "id": "33.22.01.2001",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Tajuk",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2002",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Batur",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2003",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Kopeng",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2004",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Tolokan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2005",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Wates",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2006",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Getasan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2007",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Sumogawe",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2008",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Samirono",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2009",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Jetak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2010",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Polobogo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2011",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Manggihan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2012",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Ngrawan",
+    "type": "DESA"
+  },
+  {
+    "id": "33.22.01.2013",
+    "district_id": "33.22.01",
+    "regency_id": "33.22",
+    "province_id": "33",
+    "name": "Nogosaren",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "19.05.06.2001",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Sekar Biru",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2002",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Telak",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2003",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Cupat",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2004",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Bakit",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2005",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Puput",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2006",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Air Gantang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2007",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Kelabat",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2008",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Kapit",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2009",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Semulut",
+    "type": "DESA"
+  },
+  {
+    "id": "19.05.06.2010",
+    "district_id": "19.05.06",
+    "regency_id": "19.05",
+    "province_id": "19",
+    "name": "Teluk Limau",
+    "type": "DESA"
+  }
+]

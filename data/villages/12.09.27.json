@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12.09.27.2001",
+    "district_id": "12.09.27",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Urung Pane",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.27.2002",
+    "district_id": "12.09.27",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Silau Tua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.27.2003",
+    "district_id": "12.09.27",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Silau Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.27.2004",
+    "district_id": "12.09.27",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Silau Maraja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.27.2005",
+    "district_id": "12.09.27",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  }
+]

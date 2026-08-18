@@ -1,0 +1,130 @@
+[
+  {
+    "id": "53.05.01.1001",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalabahi Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1002",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalabahi Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1003",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalabahi Tengah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1004",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kalabahi Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1005",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Binongko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1006",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Nusa Kenari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1008",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Welai Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1009",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Welai Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1010",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Mutiara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.1011",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Wetabua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.01.2012",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Lendola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.01.2013",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Fanating",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.01.2014",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Motongbang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.01.2015",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Air Kenari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.01.2018",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Teluk Kenari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.01.2019",
+    "district_id": "53.05.01",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Adang Buom",
+    "type": "DESA"
+  }
+]

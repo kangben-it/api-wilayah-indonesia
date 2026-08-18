@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.05.13.2001",
+    "district_id": "13.05.13",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Malai V Suku",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.13.2002",
+    "district_id": "13.05.13",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Gasan Gadang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.05.13.2003",
+    "district_id": "13.05.13",
+    "regency_id": "13.05",
+    "province_id": "13",
+    "name": "Malai V Suku Timur",
+    "type": "DESA"
+  }
+]

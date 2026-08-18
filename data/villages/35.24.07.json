@@ -1,0 +1,82 @@
+[
+  {
+    "id": "35.24.07.1010",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Brondong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.24.07.2001",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Lohgung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2002",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Labuhan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2003",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sidomukti",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2004",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Brengkok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2005",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Tlogoretno",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2006",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sendangharjo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2007",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Lembor",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2008",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sedayulawas",
+    "type": "DESA"
+  },
+  {
+    "id": "35.24.07.2009",
+    "district_id": "35.24.07",
+    "regency_id": "35.24",
+    "province_id": "35",
+    "name": "Sumberagung",
+    "type": "DESA"
+  }
+]

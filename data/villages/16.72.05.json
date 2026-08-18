@@ -1,0 +1,42 @@
+[
+  {
+    "id": "16.72.05.1001",
+    "district_id": "16.72.05",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Karang Dalo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.05.1003",
+    "district_id": "16.72.05",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Pelang Kenidai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.05.1008",
+    "district_id": "16.72.05",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Jokoh",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.05.1011",
+    "district_id": "16.72.05",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Padang Temu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.05.1012",
+    "district_id": "16.72.05",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Candi Jaya",
+    "type": "KELURAHAN"
+  }
+]

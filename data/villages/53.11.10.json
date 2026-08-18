@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.11.10.2001",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kaliuda",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2002",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Kuruwaki",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2003",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tana Manang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2004",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Mburukulu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2005",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Pamburu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2006",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Lambakara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2007",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Tamma",
+    "type": "DESA"
+  },
+  {
+    "id": "53.11.10.2009",
+    "district_id": "53.11.10",
+    "regency_id": "53.11",
+    "province_id": "53",
+    "name": "Palanggai",
+    "type": "DESA"
+  }
+]

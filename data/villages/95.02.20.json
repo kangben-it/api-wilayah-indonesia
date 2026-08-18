@@ -1,0 +1,34 @@
+[
+  {
+    "id": "95.02.20.2001",
+    "district_id": "95.02.20",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Okelwel",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.20.2002",
+    "district_id": "95.02.20",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Kotyobakon",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.20.2003",
+    "district_id": "95.02.20",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Okteneng",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.20.2004",
+    "district_id": "95.02.20",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Tengnong",
+    "type": "DESA"
+  }
+]

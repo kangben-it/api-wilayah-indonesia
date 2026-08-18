@@ -1,0 +1,42 @@
+[
+  {
+    "id": "72.02.25.2001",
+    "district_id": "72.02.25",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Watutau",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.25.2002",
+    "district_id": "72.02.25",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Betue",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.25.2003",
+    "district_id": "72.02.25",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Talabosa",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.25.2004",
+    "district_id": "72.02.25",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Wanga",
+    "type": "DESA"
+  },
+  {
+    "id": "72.02.25.2005",
+    "district_id": "72.02.25",
+    "regency_id": "72.02",
+    "province_id": "72",
+    "name": "Siliwanga",
+    "type": "DESA"
+  }
+]

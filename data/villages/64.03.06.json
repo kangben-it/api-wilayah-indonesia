@@ -1,0 +1,90 @@
+[
+  {
+    "id": "64.03.06.1003",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Gunung Tabur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.03.06.2001",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Tasuk",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2002",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Birang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2004",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Maluang",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2005",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Samburakat",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2006",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Sambakungan",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2007",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Merancang Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2008",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Merancang Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2009",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Pulau Besing",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2010",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Melati Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "64.03.06.2011",
+    "district_id": "64.03.06",
+    "regency_id": "64.03",
+    "province_id": "64",
+    "name": "Batu-Batu",
+    "type": "DESA"
+  }
+]

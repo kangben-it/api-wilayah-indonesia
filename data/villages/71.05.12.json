@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.05.12.2001",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumpaan Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2002",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumpaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2003",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Matani",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2004",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Popontolen",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2005",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Lelema",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2006",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tangkunei",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2007",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Munte",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2016",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumpaan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2017",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Matani Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.12.2018",
+    "district_id": "71.05.12",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Tumpan Dua",
+    "type": "DESA"
+  }
+]

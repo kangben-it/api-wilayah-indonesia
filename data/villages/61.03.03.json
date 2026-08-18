@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.03.03.2001",
+    "district_id": "61.03.03",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Noyan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.03.2002",
+    "district_id": "61.03.03",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Empoto",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.03.2003",
+    "district_id": "61.03.03",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Semongan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.03.2004",
+    "district_id": "61.03.03",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Sungai Dangin",
+    "type": "DESA"
+  },
+  {
+    "id": "61.03.03.2005",
+    "district_id": "61.03.03",
+    "regency_id": "61.03",
+    "province_id": "61",
+    "name": "Idas",
+    "type": "DESA"
+  }
+]

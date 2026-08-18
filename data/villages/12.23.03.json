@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.23.03.1001",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Kampung Mesjid",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.23.03.2002",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Kuala Bangka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.03.2003",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sei Sentang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.03.2004",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Teluk Piai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.03.2005",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Tanjung Mangedar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.03.2006",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Teluk Binjai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.23.03.2007",
+    "district_id": "12.23.03",
+    "regency_id": "12.23",
+    "province_id": "12",
+    "name": "Sei Apung",
+    "type": "DESA"
+  }
+]

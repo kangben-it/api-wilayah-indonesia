@@ -1,0 +1,26 @@
+[
+  {
+    "id": "64.74.03.1001",
+    "district_id": "64.74.03",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Belimbing",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.03.1002",
+    "district_id": "64.74.03",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Gunung Telihan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.74.03.1003",
+    "district_id": "64.74.03",
+    "regency_id": "64.74",
+    "province_id": "64",
+    "name": "Kanaan",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "52.07.04.2001",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Sekongkang Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2002",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Sekongkang Bawah",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2003",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tongo",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2004",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Ai Kangkung",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2005",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Tatar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2006",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Talonang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "52.07.04.2007",
+    "district_id": "52.07.04",
+    "regency_id": "52.07",
+    "province_id": "52",
+    "name": "Kemuning",
+    "type": "DESA"
+  }
+]

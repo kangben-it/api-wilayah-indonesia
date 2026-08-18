@@ -1,0 +1,58 @@
+[
+  {
+    "id": "74.01.04.1001",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lamokato",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1002",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Watuliandu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1003",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Balandete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1004",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Lalombaa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1005",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Sabilambo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1006",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Laloeha",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.01.04.1007",
+    "district_id": "74.01.04",
+    "regency_id": "74.01",
+    "province_id": "74",
+    "name": "Tahoa",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.13.05.1006",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Longat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.13.05.2001",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Barbaran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2002",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Barbaran Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2003",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Batang Gadis",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2004",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2005",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Huta Tonga BB",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2007",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Runding",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2008",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Sirambas",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2009",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Saba Jior",
+    "type": "DESA"
+  },
+  {
+    "id": "12.13.05.2010",
+    "district_id": "12.13.05",
+    "regency_id": "12.13",
+    "province_id": "12",
+    "name": "Batang Gadis Jae",
+    "type": "DESA"
+  }
+]

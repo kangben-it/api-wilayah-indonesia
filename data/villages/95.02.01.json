@@ -1,0 +1,66 @@
+[
+  {
+    "id": "95.02.01.2001",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Kabiding",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2002",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Aldom",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2003",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Kutdol",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2004",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Polsam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2005",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Akmakot",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2006",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Mabilabol",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2007",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Bunamdol",
+    "type": "DESA"
+  },
+  {
+    "id": "95.02.01.2008",
+    "district_id": "95.02.01",
+    "regency_id": "95.02",
+    "province_id": "95",
+    "name": "Molbib Silibib",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "52.08.03.2001",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Kayangan",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2002",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Santong",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2003",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Selengen",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2004",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Sesait",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2005",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Gumantar",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2006",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Salut",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2007",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Dangiang",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2008",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Pendua",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2009",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Pansor",
+    "type": "DESA"
+  },
+  {
+    "id": "52.08.03.2010",
+    "district_id": "52.08.03",
+    "regency_id": "52.08",
+    "province_id": "52",
+    "name": "Santong Mulia",
+    "type": "DESA"
+  }
+]

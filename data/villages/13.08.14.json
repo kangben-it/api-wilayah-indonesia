@@ -1,0 +1,42 @@
+[
+  {
+    "id": "13.08.14.2002",
+    "district_id": "13.08.14",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Taruang Taruang",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.14.2005",
+    "district_id": "13.08.14",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Padang Mantinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.14.2008",
+    "district_id": "13.08.14",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Taruang Taruang Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.14.2009",
+    "district_id": "13.08.14",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Taruang Taruang Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "13.08.14.2010",
+    "district_id": "13.08.14",
+    "regency_id": "13.08",
+    "province_id": "13",
+    "name": "Padang Mantinggi Utara",
+    "type": "DESA"
+  }
+]

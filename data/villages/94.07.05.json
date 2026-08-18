@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.07.05.2001",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Agisiga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2002",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Tausiga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2003",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Unabundoga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2004",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Mbamogo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2005",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Jenetapa Janasiga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2006",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Soali",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2007",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Tambage",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2008",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Nabia",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2009",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Danggoa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.05.2010",
+    "district_id": "94.07.05",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Kombogosiga",
+    "type": "DESA"
+  }
+]

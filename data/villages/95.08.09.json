@@ -1,0 +1,50 @@
+[
+  {
+    "id": "95.08.09.2001",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Kroptak",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.09.2002",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Miniem",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.09.2003",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Golparek",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.09.2004",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Pesat",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.09.2005",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Komoroam",
+    "type": "DESA"
+  },
+  {
+    "id": "95.08.09.2006",
+    "district_id": "95.08.09",
+    "regency_id": "95.08",
+    "province_id": "95",
+    "name": "Gol",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.01.20.2001",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Kebun Durian",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2002",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Gunung Sahilan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2003",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Gunung Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2004",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Suka Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2005",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Subarak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2006",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Sungai Lipai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2007",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Sahilan Darussalam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2008",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Gunung Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.20.2009",
+    "district_id": "14.01.20",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Makmur Sejahtera",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.08.05.2001",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Muara Kelantan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2002",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Teluk Lancang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2003",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Selodang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2004",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Olak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2005",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Lubuk Jering",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2006",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Muara Bungkal",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2007",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Lubuk Umbut",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2008",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Bencah Umbai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.05.2009",
+    "district_id": "14.08.05",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Tasik Betung",
+    "type": "DESA"
+  }
+]

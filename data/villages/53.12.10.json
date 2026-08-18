@@ -1,0 +1,114 @@
+[
+  {
+    "id": "53.12.10.1007",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Wee Karou",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1008",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Sobawawi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1011",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Loda Pare",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1012",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Wee Dabo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.1013",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Dira Tana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.12.10.2001",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Bera Dolu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2002",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Doka Kaka",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2003",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Tana Rara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2004",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Bali Ledo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2005",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Dedekadu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2006",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Ubu Pede",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2009",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Tema Tana",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2010",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Ubu Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "53.12.10.2014",
+    "district_id": "53.12.10",
+    "regency_id": "53.12",
+    "province_id": "53",
+    "name": "Manola",
+    "type": "DESA"
+  }
+]

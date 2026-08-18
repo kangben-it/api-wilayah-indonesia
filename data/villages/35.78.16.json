@@ -1,0 +1,42 @@
+[
+  {
+    "id": "35.78.16.1001",
+    "district_id": "35.78.16",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Ampel",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.16.1002",
+    "district_id": "35.78.16",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pegirian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.16.1003",
+    "district_id": "35.78.16",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Wonokusumo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.16.1004",
+    "district_id": "35.78.16",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Ujung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.16.1005",
+    "district_id": "35.78.16",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Sidotopo",
+    "type": "KELURAHAN"
+  }
+]

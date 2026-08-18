@@ -1,0 +1,66 @@
+[
+  {
+    "id": "35.12.12.2001",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sopet",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2002",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Curah Kalak",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2003",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Palangan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2004",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Jangkar",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2005",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Gadingan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2006",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Kumbangsari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2007",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Pesanggrahan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.12.2008",
+    "district_id": "35.12.12",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Agel",
+    "type": "DESA"
+  }
+]

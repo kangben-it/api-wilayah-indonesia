@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.04.04.2001",
+    "district_id": "93.04.04",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Ayam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.04.2006",
+    "district_id": "93.04.04",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Waw",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.04.2007",
+    "district_id": "93.04.04",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Bayiw Pinam",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.04.2008",
+    "district_id": "93.04.04",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Cumnew",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.04.2009",
+    "district_id": "93.04.04",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Jewes",
+    "type": "DESA"
+  }
+]

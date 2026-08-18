@@ -1,0 +1,58 @@
+[
+  {
+    "id": "81.04.01.2001",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Namlea",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2002",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Lala",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2003",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Karang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2009",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Siahoni",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2010",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Jamilu",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2011",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Sanleko",
+    "type": "DESA"
+  },
+  {
+    "id": "81.04.01.2012",
+    "district_id": "81.04.01",
+    "regency_id": "81.04",
+    "province_id": "81",
+    "name": "Batu boy",
+    "type": "DESA"
+  }
+]

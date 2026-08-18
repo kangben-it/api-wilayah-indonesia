@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.02.16.1001",
+    "district_id": "61.02.16",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Anjungan Melancar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "61.02.16.2002",
+    "district_id": "61.02.16",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Anjungan Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.16.2003",
+    "district_id": "61.02.16",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Kepayang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.16.2004",
+    "district_id": "61.02.16",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Pak Bulu",
+    "type": "DESA"
+  },
+  {
+    "id": "61.02.16.2005",
+    "district_id": "61.02.16",
+    "regency_id": "61.02",
+    "province_id": "61",
+    "name": "Dema",
+    "type": "DESA"
+  }
+]

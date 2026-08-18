@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.15.03.2001",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Salak I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.03.2002",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Salak II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.03.2003",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Boangmanalu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.03.2009",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Sibongkaras",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.03.2013",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Kuta Tinggi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.15.03.2014",
+    "district_id": "12.15.03",
+    "regency_id": "12.15",
+    "province_id": "12",
+    "name": "Penanggalan Binanga Boang",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "17.04.15.2001",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Naga Rantai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2002",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Bungin Tambun",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2003",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Bungin Tambun II",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2004",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Bungin Tambun III",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2005",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Manau IX",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2006",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Manau IX Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2007",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Pagar Alam",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2008",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Pagar Gunung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2009",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Coko Betung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2010",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Marga Mulyo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.04.15.2011",
+    "district_id": "17.04.15",
+    "regency_id": "17.04",
+    "province_id": "17",
+    "name": "Jati Mulyo",
+    "type": "DESA"
+  }
+]

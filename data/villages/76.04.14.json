@@ -1,0 +1,58 @@
+[
+  {
+    "id": "76.04.14.1001",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Matakali",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.14.2002",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Petampanua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.14.2003",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Barumbung",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.14.2004",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Pasiang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.14.2005",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tonrolima",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.14.2006",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Indomakkombong",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.14.2007",
+    "district_id": "76.04.14",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Bunga-Bunga",
+    "type": "DESA"
+  }
+]

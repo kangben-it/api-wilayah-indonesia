@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.04.31.2001",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Banjar Negara",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2002",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Tanjung Payang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2003",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Tanjung Tebat",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2004",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Nantal",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2005",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Karang Anyar",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2006",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Karang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2007",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Kerung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2008",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Muara Cawang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2009",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Sawah",
+    "type": "DESA"
+  },
+  {
+    "id": "16.04.31.2010",
+    "district_id": "16.04.31",
+    "regency_id": "16.04",
+    "province_id": "16",
+    "name": "Talang Sejemput",
+    "type": "DESA"
+  }
+]

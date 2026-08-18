@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.10.20.1004",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cigasong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.20.1005",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Simpeureum",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.20.1006",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cicenang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.20.2001",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Kawunghilir",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2002",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Tajur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2003",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Tenjolayar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2007",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Baribis",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2008",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Batujaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2009",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Kutamanggu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.20.2010",
+    "district_id": "32.10.20",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Karayunan",
+    "type": "DESA"
+  }
+]

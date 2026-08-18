@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.72.05.1002",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sukaraja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1005",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Baringin Pancur Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1006",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Pardamean",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1007",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sukamaju",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1008",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Parhorasan Nauli",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1009",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Sukamakmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.72.05.1010",
+    "district_id": "12.72.05",
+    "regency_id": "12.72",
+    "province_id": "12",
+    "name": "Mekar Nauli",
+    "type": "KELURAHAN"
+  }
+]

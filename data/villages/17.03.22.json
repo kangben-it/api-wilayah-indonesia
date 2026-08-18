@@ -1,0 +1,82 @@
+[
+  {
+    "id": "17.03.22.2001",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Sengkuang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2002",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Lubuk Pendam",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2003",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Alun Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2004",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Ketapi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2005",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Lubuk Semantung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2006",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Sawang Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2007",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Sawang Lebar Ilir",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2008",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Lubuk Gading",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2009",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Tanjung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.22.2010",
+    "district_id": "17.03.22",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Padang Sepan",
+    "type": "DESA"
+  }
+]

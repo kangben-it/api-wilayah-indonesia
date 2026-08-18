@@ -1,0 +1,282 @@
+[
+  {
+    "id": "11.17.04.2001",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bahgie Bertona",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2003",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bathin Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2004",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Blang Pulo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2009",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Bukit Wih Ilang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2010",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Hakim Wih Ilang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2011",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Janarata",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2012",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Keramat Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2013",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Lewa Jadi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2014",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Muyang Kute Mangku",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2016",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pakat Jeroh",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2017",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Paya Baning",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2018",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Blang Jorong",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2019",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pondok Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2020",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pondok Gajah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2021",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Pondok Ulung",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2022",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Puja Mulia",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2023",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Purwosari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2024",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Selamat Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2025",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2026",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Simpang Utama",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2027",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Suku Wih Ilang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2028",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Tanjung Pura",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2029",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Wonosari",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2030",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Mutiara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2032",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Tansaran Bidin",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2033",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Jadi Sepakat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2034",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Selisih Mara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2035",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Kala Nempan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2036",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gunung Antara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2037",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Gele Semayang",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2042",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Tawar Sedenge",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2043",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Beranun Teleden",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2044",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Remang Ketike Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2045",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Makmur Sentosa",
+    "type": "DESA"
+  },
+  {
+    "id": "11.17.04.2047",
+    "district_id": "11.17.04",
+    "regency_id": "11.17",
+    "province_id": "11",
+    "name": "Sinar Jaya Paya Ringkel",
+    "type": "DESA"
+  }
+]

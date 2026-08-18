@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12.14.28.2001",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Gobo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.28.2002",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Silina",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.28.2003",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Maufa",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.28.2004",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Gondia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.28.2005",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Gobo Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.28.2006",
+    "district_id": "12.14.28",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Silina Baru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "71.01.13.1006",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Inobonto",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "71.01.13.2001",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Komangaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2002",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Solimandungan II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2003",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Solimandungan I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2004",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Bangomulunow",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2005",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Langagon",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2007",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Inobonto II",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2014",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Inobonto",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2015",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Langagon Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2016",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Langagon Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.01.13.2017",
+    "district_id": "71.01.13",
+    "regency_id": "71.01",
+    "province_id": "71",
+    "name": "Solimandungan Baru",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17.03.21.1001",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Kemumu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.03.21.2002",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Tebing Kaning",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2003",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2004",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Sumber Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2005",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Pematang Sapang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2006",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Pagar Banyu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2007",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Gardu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2008",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Kali",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2009",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Kalai Duai",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2010",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Pagar Ruyung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2011",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Air Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.03.21.2012",
+    "district_id": "17.03.21",
+    "regency_id": "17.03",
+    "province_id": "17",
+    "name": "Gunung Besar",
+    "type": "DESA"
+  }
+]

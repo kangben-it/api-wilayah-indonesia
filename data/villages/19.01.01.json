@@ -1,0 +1,106 @@
+[
+  {
+    "id": "19.01.01.1001",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Sungailiat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1002",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Sri Menanti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1003",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Kudai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1004",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Sinar Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1005",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Kenanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1006",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Parit Padang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1008",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Sinar Jaya Jelutung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1009",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Matras",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1010",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Jelitik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1011",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Surya Timur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1012",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Lubuk Kelik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.1013",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Bukit Betung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "19.01.01.2007",
+    "district_id": "19.01.01",
+    "regency_id": "19.01",
+    "province_id": "19",
+    "name": "Rebo",
+    "type": "DESA"
+  }
+]

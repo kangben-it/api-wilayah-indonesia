@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.04.04.2001",
+    "district_id": "96.04.04",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Kwoor",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.04.2002",
+    "district_id": "96.04.04",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Hopmare",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.04.2003",
+    "district_id": "96.04.04",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Orwen",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.04.2004",
+    "district_id": "96.04.04",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Barar",
+    "type": "DESA"
+  },
+  {
+    "id": "96.04.04.2005",
+    "district_id": "96.04.04",
+    "regency_id": "96.04",
+    "province_id": "96",
+    "name": "Esmambo",
+    "type": "DESA"
+  }
+]

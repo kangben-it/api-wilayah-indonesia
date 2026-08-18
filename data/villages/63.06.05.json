@@ -1,0 +1,146 @@
+[
+  {
+    "id": "63.06.05.1001",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Kandangan Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.06.05.1002",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Kandangan Utara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.06.05.1003",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Kandangan Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.06.05.1004",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Jambu Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.06.05.2005",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Gambah Luar",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2006",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Gambah Luar Muka",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2007",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Gambah Dalam",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2008",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Gambah Dalam Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2009",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Sungai Kupang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2010",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Bangkau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2011",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Lungau",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2012",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Sungai Paring",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2013",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Bariang",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2014",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Amawang Kiri",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2015",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Amawang Kiri Muka",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2016",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Amawang Kanan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2017",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Tibung Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "63.06.05.2018",
+    "district_id": "63.06.05",
+    "regency_id": "63.06",
+    "province_id": "63",
+    "name": "Baluti",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15.02.07.2009",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Muara Jernih",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.07.2010",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Kapuk",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.07.2011",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Pulau Aro",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.07.2012",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Rantau Ngarau",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.07.2013",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Medan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.07.2014",
+    "district_id": "15.02.07",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Muaro Seketuk",
+    "type": "DESA"
+  }
+]

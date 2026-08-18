@@ -1,0 +1,42 @@
+[
+  {
+    "id": "65.02.15.2001",
+    "district_id": "65.02.15",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Nyau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2002",
+    "district_id": "65.02.15",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Titi",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2003",
+    "district_id": "65.02.15",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Ranau",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2004",
+    "district_id": "65.02.15",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Rian Tubu",
+    "type": "DESA"
+  },
+  {
+    "id": "65.02.15.2005",
+    "district_id": "65.02.15",
+    "regency_id": "65.02",
+    "province_id": "65",
+    "name": "Long Pada",
+    "type": "DESA"
+  }
+]

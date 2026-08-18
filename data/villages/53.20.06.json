@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.20.06.1001",
+    "district_id": "53.20.06",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Ledeke",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.06.1002",
+    "district_id": "53.20.06",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Ledeunu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.20.06.2003",
+    "district_id": "53.20.06",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Bolua",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.06.2004",
+    "district_id": "53.20.06",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Kolorae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.20.06.2005",
+    "district_id": "53.20.06",
+    "regency_id": "53.20",
+    "province_id": "53",
+    "name": "Ballu",
+    "type": "DESA"
+  }
+]

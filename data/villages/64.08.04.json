@@ -1,0 +1,34 @@
+[
+  {
+    "id": "64.08.04.1010",
+    "district_id": "64.08.04",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Teluk Lingga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "64.08.04.2001",
+    "district_id": "64.08.04",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Sangatta Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.04.2011",
+    "district_id": "64.08.04",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Singa Gembara",
+    "type": "DESA"
+  },
+  {
+    "id": "64.08.04.2012",
+    "district_id": "64.08.04",
+    "regency_id": "64.08",
+    "province_id": "64",
+    "name": "Swarga Bara",
+    "type": "DESA"
+  }
+]

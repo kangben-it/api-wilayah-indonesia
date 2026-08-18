@@ -1,0 +1,66 @@
+[
+  {
+    "id": "71.05.15.2002",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kumelembuai",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2003",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kumelembuai Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2004",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kumelembuai Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2005",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Malola",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2006",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Malola I",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2007",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Makasili",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2011",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Kumelembuai Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.05.15.2015",
+    "district_id": "71.05.15",
+    "regency_id": "71.05",
+    "province_id": "71",
+    "name": "Lolombulan Makasili",
+    "type": "DESA"
+  }
+]

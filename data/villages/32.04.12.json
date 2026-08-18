@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.04.12.1001",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Pasawahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.04.12.2002",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Dayeuhkolot",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.12.2003",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cangkuang Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.12.2004",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Cangkuang Kulon",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.12.2005",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Sukapura",
+    "type": "DESA"
+  },
+  {
+    "id": "32.04.12.2006",
+    "district_id": "32.04.12",
+    "regency_id": "32.04",
+    "province_id": "32",
+    "name": "Citeureup",
+    "type": "DESA"
+  }
+]

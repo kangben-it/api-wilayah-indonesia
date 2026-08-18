@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.02.01.1002",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Binanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.01.1003",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Mamunyu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.01.1012",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Karema",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.01.1013",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Rimuku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.01.2005",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Bambu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.01.2006",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Karampuang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.01.2010",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Tadui",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.01.2014",
+    "district_id": "76.02.01",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Batu Pannu",
+    "type": "DESA"
+  }
+]

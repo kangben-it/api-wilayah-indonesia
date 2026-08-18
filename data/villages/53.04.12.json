@@ -1,0 +1,34 @@
+[
+  {
+    "id": "53.04.12.1001",
+    "district_id": "53.04.12",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Kota Atambua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.04.12.1002",
+    "district_id": "53.04.12",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Tenukiik",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.04.12.1003",
+    "district_id": "53.04.12",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Manumutin",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.04.12.1010",
+    "district_id": "53.04.12",
+    "regency_id": "53.04",
+    "province_id": "53",
+    "name": "Fatubenao",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "63.02.06.1001",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Kotabaru Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "63.02.06.2009",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Megasari",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2010",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sebelimbingan",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2011",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Stagen",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2012",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Rampa",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2013",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Sungai Taib",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2014",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Semayap",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2015",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Dirgahayu",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2022",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Gunung Ulin",
+    "type": "DESA"
+  },
+  {
+    "id": "63.02.06.2025",
+    "district_id": "63.02.06",
+    "regency_id": "63.02",
+    "province_id": "63",
+    "name": "Gunung Sari",
+    "type": "DESA"
+  }
+]

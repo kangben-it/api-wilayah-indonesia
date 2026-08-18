@@ -1,0 +1,66 @@
+[
+  {
+    "id": "62.08.03.2001",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Jihing",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2002",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Air Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2005",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Lupu Peruca",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2006",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Balai Riam",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2007",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Pempaning",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2011",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Sekuningan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2012",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Bangun Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "62.08.03.2013",
+    "district_id": "62.08.03",
+    "regency_id": "62.08",
+    "province_id": "62",
+    "name": "Bukit Sungkai",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.21.1001",
+    "district_id": "35.78.21",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Dukuh Pakis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.21.1002",
+    "district_id": "35.78.21",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Dukuh Kupang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.21.1003",
+    "district_id": "35.78.21",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Gunung Sari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.21.1004",
+    "district_id": "35.78.21",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pradah Kalikendal",
+    "type": "KELURAHAN"
+  }
+]

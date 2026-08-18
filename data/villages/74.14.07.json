@@ -1,0 +1,50 @@
+[
+  {
+    "id": "74.14.07.1002",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Tolandona",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "74.14.07.2001",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Baruta Lestari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.07.2003",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Doda Bahari",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.07.2004",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Baruta",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.07.2006",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Baruta Analalaki",
+    "type": "DESA"
+  },
+  {
+    "id": "74.14.07.2007",
+    "district_id": "74.14.07",
+    "regency_id": "74.14",
+    "province_id": "74",
+    "name": "Tolandona Matanaeo",
+    "type": "DESA"
+  }
+]

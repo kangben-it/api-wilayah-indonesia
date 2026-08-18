@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73.17.21.1005",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pattedong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.17.21.2001",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Jenne Maeja",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2002",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2003",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Buntu Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2004",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Olang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2006",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bassiang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2007",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Paccerakkang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2008",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Lampuara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2009",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "To'balo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2010",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "To'bia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2011",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Bassiang Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2012",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Pattedong Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.17.21.2013",
+    "district_id": "73.17.21",
+    "regency_id": "73.17",
+    "province_id": "73",
+    "name": "Tarramatekkeng",
+    "type": "DESA"
+  }
+]

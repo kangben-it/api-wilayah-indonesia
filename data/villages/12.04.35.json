@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.04.35.2001",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Tuhembuasi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2002",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Hilibadalu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2003",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "La'uri",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2004",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Hilimbana",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2005",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Saitagaramba",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2006",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Sogae'adu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2007",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Baruzo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2008",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Tulumbaho",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2009",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Sisarahili Sogae'adu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2010",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "We'a-we'a",
+    "type": "DESA"
+  },
+  {
+    "id": "12.04.35.2011",
+    "district_id": "12.04.35",
+    "regency_id": "12.04",
+    "province_id": "12",
+    "name": "Sihare'o Sogae'adu",
+    "type": "DESA"
+  }
+]

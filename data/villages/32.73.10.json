@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.73.10.1001",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Karasak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.10.1002",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Nyengseret",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.10.1003",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Karang Anyar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.10.1004",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Panjunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.10.1005",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cibadak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.10.1006",
+    "district_id": "32.73.10",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Pelindung Hewan",
+    "type": "KELURAHAN"
+  }
+]

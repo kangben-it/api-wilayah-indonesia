@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.14.11.2001",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Togizita",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2002",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Soledua",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2003",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Bawosalo'o Dao-dao",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2004",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Tuho'owo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2005",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Togizita I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2007",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hilitoese",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2008",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Dao-dao Sowo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2009",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Hiliadulo",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2010",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Soledua I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.14.11.2011",
+    "district_id": "12.14.11",
+    "regency_id": "12.14",
+    "province_id": "12",
+    "name": "Soledua II",
+    "type": "DESA"
+  }
+]

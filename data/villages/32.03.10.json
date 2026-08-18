@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.03.10.2001",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Ciherang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2003",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Cibodas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2005",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sukanagalih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2007",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Cipendawa",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2010",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Ciputri",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2012",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Gadog",
+    "type": "DESA"
+  },
+  {
+    "id": "32.03.10.2013",
+    "district_id": "32.03.10",
+    "regency_id": "32.03",
+    "province_id": "32",
+    "name": "Sukatani",
+    "type": "DESA"
+  }
+]

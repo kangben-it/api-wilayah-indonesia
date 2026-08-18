@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.20.09.2001",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Aek Godang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2002",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Aek Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2003",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sampuran Simarloting",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2004",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pangirkiran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2005",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Simaninggir",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2006",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Suka Dame",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2007",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Pintu Bosi",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2008",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sidong-dong",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2009",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Sitabar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.20.09.2010",
+    "district_id": "12.20.09",
+    "regency_id": "12.20",
+    "province_id": "12",
+    "name": "Parmeraan",
+    "type": "DESA"
+  }
+]

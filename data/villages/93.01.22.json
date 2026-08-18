@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.01.22.2001",
+    "district_id": "93.01.22",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Kawe",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.22.2002",
+    "district_id": "93.01.22",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Wetau",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.22.2003",
+    "district_id": "93.01.22",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Pembri",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.22.2004",
+    "district_id": "93.01.22",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Sibenda",
+    "type": "DESA"
+  },
+  {
+    "id": "93.01.22.2005",
+    "district_id": "93.01.22",
+    "regency_id": "93.01",
+    "province_id": "93",
+    "name": "Wantarma",
+    "type": "DESA"
+  }
+]

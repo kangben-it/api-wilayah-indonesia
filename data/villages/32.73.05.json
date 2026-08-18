@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.73.05.1001",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Maleber",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.05.1002",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Dungus Cariang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.05.1003",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Ciroyom",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.05.1004",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Kebon Jeruk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.05.1005",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Garuda",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.05.1006",
+    "district_id": "32.73.05",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Campaka",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.11.08.2001",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Itam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2002",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Luhung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2003",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Pardomuan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2004",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Markelang",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2005",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Jambur Indonesia",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2006",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Simungun",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2007",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Janji",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2008",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Sopo Butar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2009",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Sering",
+    "type": "DESA"
+  },
+  {
+    "id": "12.11.08.2010",
+    "district_id": "12.11.08",
+    "regency_id": "12.11",
+    "province_id": "12",
+    "name": "Lae Haporas",
+    "type": "DESA"
+  }
+]

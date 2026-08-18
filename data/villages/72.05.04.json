@@ -1,0 +1,82 @@
+[
+  {
+    "id": "72.05.04.2001",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Lonu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2002",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Tamit",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2003",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Botugolu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2004",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Bunobogu",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2005",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Konamukan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2006",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Ponipingan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2007",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Inalatan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2015",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Domag Mekar",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2016",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Bunobogu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "72.05.04.2017",
+    "district_id": "72.05.04",
+    "regency_id": "72.05",
+    "province_id": "72",
+    "name": "Pokobo",
+    "type": "DESA"
+  }
+]

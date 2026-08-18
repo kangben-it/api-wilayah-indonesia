@@ -1,0 +1,50 @@
+[
+  {
+    "id": "94.05.10.2001",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Babe",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.10.2002",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Jambul",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.10.2003",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Nungai",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.10.2004",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Mugulip",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.10.2005",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Kelmabet",
+    "type": "DESA"
+  },
+  {
+    "id": "94.05.10.2006",
+    "district_id": "94.05.10",
+    "regency_id": "94.05",
+    "province_id": "94",
+    "name": "Jenggeren",
+    "type": "DESA"
+  }
+]

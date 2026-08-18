@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.06.14.2001",
+    "district_id": "92.06.14",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tofoi",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.14.2002",
+    "district_id": "92.06.14",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tanah Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.14.2003",
+    "district_id": "92.06.14",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Saengga",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.14.2004",
+    "district_id": "92.06.14",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Forada",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.14.2005",
+    "district_id": "92.06.14",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Materabu Jaya",
+    "type": "DESA"
+  }
+]

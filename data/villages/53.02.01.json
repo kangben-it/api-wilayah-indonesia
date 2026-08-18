@@ -1,0 +1,106 @@
+[
+  {
+    "id": "53.02.01.1001",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "SoE",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1002",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Cendana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1003",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oebesa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1004",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Taubneno",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1005",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nonohonis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1006",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Karang Sirih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1007",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Nunumeu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1008",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kobekamusa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1009",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Oe Kefan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1010",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kota Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.1011",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kampung Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.02.01.2012",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Kuatae",
+    "type": "DESA"
+  },
+  {
+    "id": "53.02.01.2013",
+    "district_id": "53.02.01",
+    "regency_id": "53.02",
+    "province_id": "53",
+    "name": "Noemeto",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "95.07.34.2001",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Guna",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2002",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Gukopi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2003",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Kori",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2004",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Keyagalo",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2005",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Nondinime",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2006",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Wigume",
+    "type": "DESA"
+  },
+  {
+    "id": "95.07.34.2007",
+    "district_id": "95.07.34",
+    "regency_id": "95.07",
+    "province_id": "95",
+    "name": "Piwugun",
+    "type": "DESA"
+  }
+]

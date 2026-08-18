@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.07.07.2001",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Kalait",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2002",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Kalait Satu",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2003",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Kalait Dua",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2004",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Kalait Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2005",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Lowatag",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2006",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Bunag",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2007",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Banga",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2008",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Tambelang",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2009",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Ranoako",
+    "type": "DESA"
+  },
+  {
+    "id": "71.07.07.2010",
+    "district_id": "71.07.07",
+    "regency_id": "71.07",
+    "province_id": "71",
+    "name": "Suhuyon",
+    "type": "DESA"
+  }
+]

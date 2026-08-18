@@ -1,0 +1,42 @@
+[
+  {
+    "id": "33.01.22.1001",
+    "district_id": "33.01.22",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Lomanis",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.22.1002",
+    "district_id": "33.01.22",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Gunungsimping",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.22.1003",
+    "district_id": "33.01.22",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Sidanegara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.22.1004",
+    "district_id": "33.01.22",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Donan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.01.22.1005",
+    "district_id": "33.01.22",
+    "regency_id": "33.01",
+    "province_id": "33",
+    "name": "Kutawaru",
+    "type": "KELURAHAN"
+  }
+]

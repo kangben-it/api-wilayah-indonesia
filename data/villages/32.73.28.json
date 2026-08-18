@@ -1,0 +1,34 @@
+[
+  {
+    "id": "32.73.28.1001",
+    "district_id": "32.73.28",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipadung Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.28.1002",
+    "district_id": "32.73.28",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipadung Kidul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.28.1003",
+    "district_id": "32.73.28",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Cipadung Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.73.28.1004",
+    "district_id": "32.73.28",
+    "regency_id": "32.73",
+    "province_id": "32",
+    "name": "Mekar Mulya",
+    "type": "KELURAHAN"
+  }
+]

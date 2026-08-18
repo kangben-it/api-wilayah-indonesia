@@ -1,0 +1,82 @@
+[
+  {
+    "id": "93.04.03.2001",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sawa",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2002",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Erma",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2003",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Bu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2004",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Er",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2005",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Pupis",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2006",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sona",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2007",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Agani",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2008",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Mumugu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2009",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Sauti",
+    "type": "DESA"
+  },
+  {
+    "id": "93.04.03.2010",
+    "district_id": "93.04.03",
+    "regency_id": "93.04",
+    "province_id": "93",
+    "name": "Mumugi II",
+    "type": "DESA"
+  }
+]

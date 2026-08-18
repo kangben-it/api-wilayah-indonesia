@@ -1,0 +1,82 @@
+[
+  {
+    "id": "75.05.10.2001",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Biau",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2002",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Omuto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2003",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Luhuto",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2004",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Windu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2005",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Topi",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2006",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Sembihingan",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2007",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Didingga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2008",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bualo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2009",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Potanga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.05.10.2010",
+    "district_id": "75.05.10",
+    "regency_id": "75.05",
+    "province_id": "75",
+    "name": "Bohulo",
+    "type": "DESA"
+  }
+]

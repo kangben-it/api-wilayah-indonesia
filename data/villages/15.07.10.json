@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15.07.10.1010",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Pandan Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.10.2001",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Lagan Ulu",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2002",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Lagan Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2004",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Pandan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2005",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Pandan Lagan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2006",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Suka Maju",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2007",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Kota Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2008",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.10.2009",
+    "district_id": "15.07.10",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Pandan Sejahtera",
+    "type": "DESA"
+  }
+]

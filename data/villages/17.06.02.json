@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17.06.02.1009",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Pasar Mukomuko",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.06.02.1017",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Koto Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.06.02.1018",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Bandar Ratu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.06.02.2007",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Pasar Sebelah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.02.2008",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Ujung Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.02.2010",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Pondok Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.02.2011",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Tanah Rekah",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.02.2012",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Selagan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "17.06.02.2019",
+    "district_id": "17.06.02",
+    "regency_id": "17.06",
+    "province_id": "17",
+    "name": "Tanah Harapan",
+    "type": "DESA"
+  }
+]

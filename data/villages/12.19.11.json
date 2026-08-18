@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.19.11.2001",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sumber Tani",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2002",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Sei Muka",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2003",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Tanah Datar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2004",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Binjai Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2005",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Bangun Sari",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2006",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Karang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2007",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Perkebunan Petatal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2008",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Mekar Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2009",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Petatal",
+    "type": "DESA"
+  },
+  {
+    "id": "12.19.11.2010",
+    "district_id": "12.19.11",
+    "regency_id": "12.19",
+    "province_id": "12",
+    "name": "Glugur Makmur",
+    "type": "DESA"
+  }
+]

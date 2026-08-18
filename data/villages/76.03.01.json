@@ -1,0 +1,106 @@
+[
+  {
+    "id": "76.03.01.1001",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Mambi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.01.1002",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Talipukki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.03.01.2004",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Rantebulahan",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2008",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Sondonglayu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2016",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salubanua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2017",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Tapalina",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2019",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Sendana",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2024",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Pamosean",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2025",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Selumaka",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2026",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Bujung Manurung",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2027",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Salu Alo",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2029",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Indobanua",
+    "type": "DESA"
+  },
+  {
+    "id": "76.03.01.2030",
+    "district_id": "76.03.01",
+    "regency_id": "76.03",
+    "province_id": "76",
+    "name": "Saludurian",
+    "type": "DESA"
+  }
+]

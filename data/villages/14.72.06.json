@@ -1,0 +1,42 @@
+[
+  {
+    "id": "14.72.06.1001",
+    "district_id": "14.72.06",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Laksamana",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.06.1002",
+    "district_id": "14.72.06",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Rimba Sekampung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.06.1003",
+    "district_id": "14.72.06",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Dumai Kota",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.06.1004",
+    "district_id": "14.72.06",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Bintan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.72.06.1005",
+    "district_id": "14.72.06",
+    "regency_id": "14.72",
+    "province_id": "14",
+    "name": "Sukajadi",
+    "type": "KELURAHAN"
+  }
+]

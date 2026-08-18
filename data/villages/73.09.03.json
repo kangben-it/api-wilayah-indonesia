@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.09.03.1001",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Kalabbirang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.03.1002",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Leang-Leang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.09.03.2003",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Alatengae",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2004",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Minasa Baji",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2005",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Tukamasea",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2006",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Mattoanging",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2007",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Mangeloreng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.09.03.2008",
+    "district_id": "73.09.03",
+    "regency_id": "73.09",
+    "province_id": "73",
+    "name": "Baruga",
+    "type": "DESA"
+  }
+]

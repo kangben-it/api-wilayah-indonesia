@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.73.04.1001",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Durian Rampak",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1002",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Tanjung Raya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1003",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Sumber Agung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1004",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Marga Bakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1005",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Belalau I",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1006",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Belalau II",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1007",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Taba Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1008",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Margorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1009",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Petanang Ulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.04.1010",
+    "district_id": "16.73.04",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Petanang Ilir",
+    "type": "KELURAHAN"
+  }
+]

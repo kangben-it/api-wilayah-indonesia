@@ -1,0 +1,90 @@
+[
+  {
+    "id": "62.02.06.1001",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Mentawa Baru Hulu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.06.1002",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Mentawa Baru Hilir",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.06.1003",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Ketapang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.06.1007",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Sawahan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.06.1009",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Pasir Putih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.06.2005",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Pelangsian",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.06.2006",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bapeang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.06.2008",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Eka Bahurui",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.06.2010",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Telaga baru",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.06.2011",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bangkuang Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.06.2012",
+    "district_id": "62.02.06",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Bapanggang Raya",
+    "type": "DESA"
+  }
+]

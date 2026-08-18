@@ -1,0 +1,130 @@
+[
+  {
+    "id": "15.03.03.1001",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Dusun Sarolangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.1015",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sukasari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.1016",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Pasar Sarolangun",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.1019",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sarolangun Kembang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.1025",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Gunung Kembang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.1026",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Aur Gading",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.03.03.2002",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bernai",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2003",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Baung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2004",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Panti",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2005",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Tinting",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2006",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Sungai Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2013",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Lidung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2014",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Ladang Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2024",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Desa Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2027",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Ujung Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "15.03.03.2028",
+    "district_id": "15.03.03",
+    "regency_id": "15.03",
+    "province_id": "15",
+    "name": "Bernai Dalam",
+    "type": "DESA"
+  }
+]

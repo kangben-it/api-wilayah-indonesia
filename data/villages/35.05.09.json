@@ -1,0 +1,90 @@
+[
+  {
+    "id": "35.05.09.1009",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Nglegok",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.09.2001",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Sumberasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2002",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kedawung",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2003",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Ngoran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2004",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Dayu",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2005",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Bangsri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2006",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Kemloko",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2007",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Penataran",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2008",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Krenceng",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2010",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Jiwut",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.09.2011",
+    "district_id": "35.05.09",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Modangan",
+    "type": "DESA"
+  }
+]

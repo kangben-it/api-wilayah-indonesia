@@ -1,0 +1,42 @@
+[
+  {
+    "id": "53.05.10.1001",
+    "district_id": "53.05.10",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kabola",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.05.10.2002",
+    "district_id": "53.05.10",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Kopidil",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.10.2003",
+    "district_id": "53.05.10",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Pante Deere",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.10.2004",
+    "district_id": "53.05.10",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Lawahing",
+    "type": "DESA"
+  },
+  {
+    "id": "53.05.10.2005",
+    "district_id": "53.05.10",
+    "regency_id": "53.05",
+    "province_id": "53",
+    "name": "Alila Timur",
+    "type": "DESA"
+  }
+]

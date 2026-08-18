@@ -1,0 +1,130 @@
+[
+  {
+    "id": "18.06.01.1001",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Baros",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.06.01.1002",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Pasar Madang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.06.01.1003",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kuripan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "18.06.01.2016",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Negeri Ratu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2019",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Penanggungan",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2020",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Terdana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2021",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kelungu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2022",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Pardasuka",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2023",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Teratas",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2024",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kusa",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2025",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Terbaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2026",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kedamaian",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2027",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kota Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2039",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Kota Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2040",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Campang Tiga",
+    "type": "DESA"
+  },
+  {
+    "id": "18.06.01.2041",
+    "district_id": "18.06.01",
+    "regency_id": "18.06",
+    "province_id": "18",
+    "name": "Benteng Jaya",
+    "type": "DESA"
+  }
+]

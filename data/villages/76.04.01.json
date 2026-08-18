@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.04.01.1001",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tinambung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.04.01.2002",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Karama",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2003",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tangnga Tangnga",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2004",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Lekopadis",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2005",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Galung Lombok",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2006",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Tandung",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2007",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Batulaya",
+    "type": "DESA"
+  },
+  {
+    "id": "76.04.01.2008",
+    "district_id": "76.04.01",
+    "regency_id": "76.04",
+    "province_id": "76",
+    "name": "Sepabatu",
+    "type": "DESA"
+  }
+]

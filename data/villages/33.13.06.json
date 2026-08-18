@@ -1,0 +1,82 @@
+[
+  {
+    "id": "33.13.06.1002",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Blumbang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.13.06.1003",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Kalisoro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.13.06.1004",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Tawangmangu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "33.13.06.2001",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Gondosuli",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2005",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Sepanjang",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2006",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Bandardawung",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2007",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Karanglo",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2008",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Nglebak",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2009",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Plumbon",
+    "type": "DESA"
+  },
+  {
+    "id": "33.13.06.2010",
+    "district_id": "33.13.06",
+    "regency_id": "33.13",
+    "province_id": "33",
+    "name": "Tengklik",
+    "type": "DESA"
+  }
+]

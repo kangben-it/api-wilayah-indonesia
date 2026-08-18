@@ -1,0 +1,50 @@
+[
+  {
+    "id": "32.02.25.2001",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Talagamurni",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.25.2002",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Banyumurni",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.25.2003",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibitung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.25.2004",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cidahu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.25.2005",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Cibodas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.02.25.2006",
+    "district_id": "32.02.25",
+    "regency_id": "32.02",
+    "province_id": "32",
+    "name": "Banyuwangi",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "32.10.07.1001",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Munjul",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1002",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Babakan Jawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1003",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cicurug",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1004",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Sindangkasih",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1007",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Majalengka Wetan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1008",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Majalengka Kulon",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1009",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Tarikolot",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1010",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cikasarung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1011",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Tonjong",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.1013",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cijati",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.10.07.2005",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Kulur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.07.2006",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Kawunggirang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.07.2012",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Sidamukti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.10.07.2014",
+    "district_id": "32.10.07",
+    "regency_id": "32.10",
+    "province_id": "32",
+    "name": "Cibodas",
+    "type": "DESA"
+  }
+]

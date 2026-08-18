@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14.71.03.1001",
+    "district_id": "14.71.03",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Cinta Raja",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.03.1002",
+    "district_id": "14.71.03",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sukamulya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.71.03.1003",
+    "district_id": "14.71.03",
+    "regency_id": "14.71",
+    "province_id": "14",
+    "name": "Sukamaju",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "73.22.05.2001",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Marampa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2002",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Pengkendekan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2003",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Kanandede",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2004",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Rinding Allo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2005",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Minanga",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2006",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Komba",
+    "type": "DESA"
+  },
+  {
+    "id": "73.22.05.2007",
+    "district_id": "73.22.05",
+    "regency_id": "73.22",
+    "province_id": "73",
+    "name": "Limbong",
+    "type": "DESA"
+  }
+]

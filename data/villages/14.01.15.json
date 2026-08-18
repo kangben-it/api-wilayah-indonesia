@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14.01.15.1007",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pulau",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.01.15.1008",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pasir Sialang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.01.15.2001",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Pulau Lawas",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2002",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Muara Uwai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2003",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Laboy Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2004",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Bukit Payung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2005",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Suka Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2006",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Bukit Sembilan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.01.15.2009",
+    "district_id": "14.01.15",
+    "regency_id": "14.01",
+    "province_id": "14",
+    "name": "Binuang",
+    "type": "DESA"
+  }
+]

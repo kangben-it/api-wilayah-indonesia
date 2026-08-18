@@ -1,0 +1,74 @@
+[
+  {
+    "id": "73.06.06.1001",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Borongloe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.06.1002",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bontomanai",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.06.1012",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Romang Lompoa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.06.06.2003",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Pakatto",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.06.2004",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Nirannuang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.06.2005",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Romangloe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.06.2006",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Sokkolia",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.06.2013",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Mata Allo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.06.06.2014",
+    "district_id": "73.06.06",
+    "regency_id": "73.06",
+    "province_id": "73",
+    "name": "Bili-bili",
+    "type": "DESA"
+  }
+]

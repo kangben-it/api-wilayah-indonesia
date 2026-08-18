@@ -1,0 +1,58 @@
+[
+  {
+    "id": "19.03.04.2001",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Jelutung II",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2002",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Gudang",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2003",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Bangka Kota",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2004",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Rajik",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2005",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Sebagin",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2006",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Simpang Rimba",
+    "type": "DESA"
+  },
+  {
+    "id": "19.03.04.2007",
+    "district_id": "19.03.04",
+    "regency_id": "19.03",
+    "province_id": "19",
+    "name": "Permis",
+    "type": "DESA"
+  }
+]

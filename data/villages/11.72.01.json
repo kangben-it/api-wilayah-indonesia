@@ -1,0 +1,42 @@
+[
+  {
+    "id": "11.72.01.2004",
+    "district_id": "11.72.01",
+    "regency_id": "11.72",
+    "province_id": "11",
+    "name": "Krueng Raya",
+    "type": "DESA"
+  },
+  {
+    "id": "11.72.01.2005",
+    "district_id": "11.72.01",
+    "regency_id": "11.72",
+    "province_id": "11",
+    "name": "Aneuk Laot",
+    "type": "DESA"
+  },
+  {
+    "id": "11.72.01.2006",
+    "district_id": "11.72.01",
+    "regency_id": "11.72",
+    "province_id": "11",
+    "name": "Kuta Timu",
+    "type": "DESA"
+  },
+  {
+    "id": "11.72.01.2007",
+    "district_id": "11.72.01",
+    "regency_id": "11.72",
+    "province_id": "11",
+    "name": "Kuta Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.72.01.2008",
+    "district_id": "11.72.01",
+    "regency_id": "11.72",
+    "province_id": "11",
+    "name": "Kuta Ateuh",
+    "type": "DESA"
+  }
+]

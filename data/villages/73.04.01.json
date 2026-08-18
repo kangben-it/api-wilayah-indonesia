@@ -1,0 +1,114 @@
+[
+  {
+    "id": "73.04.01.1001",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Benteng",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.01.1002",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Pallengu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.01.1003",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Pantai Bahari",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.01.1004",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bontorannu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.04.01.2005",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Pallantikang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2006",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Kalimporo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2007",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Punagaya",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2008",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Mallasoro",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2009",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Kapita",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2010",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Marayoka",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2011",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Jenetallasa",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2012",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tombo Tombolo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2013",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Gunung Silanu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.01.2014",
+    "district_id": "73.04.01",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bontomanai",
+    "type": "DESA"
+  }
+]

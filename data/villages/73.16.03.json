@@ -1,0 +1,122 @@
+[
+  {
+    "id": "73.16.03.1001",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Baraka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.03.1002",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tomenawa",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.03.1021",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Balla",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.16.03.2003",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Banti",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2005",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bontongan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2006",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Salukanan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2007",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Parinding",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2010",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Tirowali",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2011",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Pepandungan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2012",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Kendenan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2015",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Perangian",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2019",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Janggurara",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2020",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Kadingeh",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2022",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Bonebone",
+    "type": "DESA"
+  },
+  {
+    "id": "73.16.03.2023",
+    "district_id": "73.16.03",
+    "regency_id": "73.16",
+    "province_id": "73",
+    "name": "Pandung Batu",
+    "type": "DESA"
+  }
+]

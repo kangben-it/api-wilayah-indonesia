@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.72.01.1001",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Sukorejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1002",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Bangun Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1005",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Pagar Alam",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1007",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Alun Dua",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1014",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Selibar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1016",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Beringin Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1018",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Dempo Makmur",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1019",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Kuripan Babas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1020",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Bangun Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.72.01.1021",
+    "district_id": "16.72.01",
+    "regency_id": "16.72",
+    "province_id": "16",
+    "name": "Curup Jare",
+    "type": "KELURAHAN"
+  }
+]

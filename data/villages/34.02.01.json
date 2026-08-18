@@ -1,0 +1,18 @@
+[
+  {
+    "id": "34.02.01.2001",
+    "district_id": "34.02.01",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Poncosari",
+    "type": "DESA"
+  },
+  {
+    "id": "34.02.01.2002",
+    "district_id": "34.02.01",
+    "regency_id": "34.02",
+    "province_id": "34",
+    "name": "Trimurti",
+    "type": "DESA"
+  }
+]

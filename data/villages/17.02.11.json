@@ -1,0 +1,130 @@
+[
+  {
+    "id": "17.02.11.1004",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Duku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.11.1006",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Cawang Baru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.11.1008",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Simpang Nangka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.02.11.2001",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Putih Kali Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2002",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Air Meles Atas",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2003",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Sambirejo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2005",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Suban Ayam",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2007",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Cawang Lama",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2009",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Sumber Urip",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2010",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Sumber Bening",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2011",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Karang Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2012",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kayu Manis",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2013",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2014",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Kali Padang",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2015",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Mojorejo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.02.11.2016",
+    "district_id": "17.02.11",
+    "regency_id": "17.02",
+    "province_id": "17",
+    "name": "Talang Lahat",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "15.07.04.1006",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Bandar Jaya",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "15.07.04.2004",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Rasau I",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2005",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Rasau II",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2007",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Harapan Makmur",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2008",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Bangun Karya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2009",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Rantau Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2011",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Sungai Dusun",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2013",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Karya Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2014",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Marga Mulya",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2015",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Pematang Mayan",
+    "type": "DESA"
+  },
+  {
+    "id": "15.07.04.2016",
+    "district_id": "15.07.04",
+    "regency_id": "15.07",
+    "province_id": "15",
+    "name": "Tri Mulyo",
+    "type": "DESA"
+  }
+]

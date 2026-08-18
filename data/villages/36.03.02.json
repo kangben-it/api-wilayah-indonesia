@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36.03.02.2001",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pangkat",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2002",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pabuaran",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2004",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasir Muncang",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2005",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Sumur Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2006",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Jayanti",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2007",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Dangdeur",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2008",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Cikande",
+    "type": "DESA"
+  },
+  {
+    "id": "36.03.02.2009",
+    "district_id": "36.03.02",
+    "regency_id": "36.03",
+    "province_id": "36",
+    "name": "Pasir Gintung",
+    "type": "DESA"
+  }
+]

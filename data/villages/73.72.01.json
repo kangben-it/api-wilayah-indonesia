@@ -1,0 +1,34 @@
+[
+  {
+    "id": "73.72.01.1004",
+    "district_id": "73.72.01",
+    "regency_id": "73.72",
+    "province_id": "73",
+    "name": "Lompoe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.72.01.1005",
+    "district_id": "73.72.01",
+    "regency_id": "73.72",
+    "province_id": "73",
+    "name": "Watang Bacukiki",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.72.01.1009",
+    "district_id": "73.72.01",
+    "regency_id": "73.72",
+    "province_id": "73",
+    "name": "Lemoe",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.72.01.1010",
+    "district_id": "73.72.01",
+    "regency_id": "73.72",
+    "province_id": "73",
+    "name": "Galung Maloang",
+    "type": "KELURAHAN"
+  }
+]

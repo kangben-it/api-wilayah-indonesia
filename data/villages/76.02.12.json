@@ -1,0 +1,66 @@
+[
+  {
+    "id": "76.02.12.1001",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Simboro",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.12.1002",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Rangas",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.12.2003",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Botteng",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.12.2004",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Saletto",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.12.2005",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Sumare",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.12.2007",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Botteng Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.12.2008",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Tapandullu",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.12.2009",
+    "district_id": "76.02.12",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Pati'di",
+    "type": "DESA"
+  }
+]

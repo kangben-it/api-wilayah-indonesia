@@ -1,0 +1,106 @@
+[
+  {
+    "id": "12.21.17.2001",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Tanjung Ale",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2002",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sigala-Gala",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2003",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Simangambat",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2004",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pir Trans Sosa I B",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2005",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pir Trans Sosa I A",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2006",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Gunung Manaon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2007",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Muara Tige",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2008",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Sibodak Papaso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2009",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Gunung Inten",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2010",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Pagaran Baringin",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2011",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Salambue",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2012",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Papaso",
+    "type": "DESA"
+  },
+  {
+    "id": "12.21.17.2013",
+    "district_id": "12.21.17",
+    "regency_id": "12.21",
+    "province_id": "12",
+    "name": "Rombayan",
+    "type": "DESA"
+  }
+]

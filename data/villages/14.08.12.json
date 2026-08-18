@@ -1,0 +1,66 @@
+[
+  {
+    "id": "14.08.12.2001",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Bandar Sungai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2002",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Rempak",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2003",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Belading",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2004",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sungai Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2005",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Laksamana",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2006",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sabak Permai",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2007",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Bandar Pedada",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.12.2008",
+    "district_id": "14.08.12",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Selat Guntung",
+    "type": "DESA"
+  }
+]

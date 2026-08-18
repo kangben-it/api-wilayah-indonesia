@@ -1,0 +1,82 @@
+[
+  {
+    "id": "18.12.06.2001",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Agung Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2002",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Mercu Buana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2003",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Balam Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2004",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Pagar Buana",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2005",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Indraloka I",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2006",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Indraloka II",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2007",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Balam Asri",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2008",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Indraloka Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2009",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Indraloka Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "18.12.06.2010",
+    "district_id": "18.12.06",
+    "regency_id": "18.12",
+    "province_id": "18",
+    "name": "Sido Agung",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "16.05.08.1006",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Marga Tunggal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.05.08.2001",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Giri Yoso",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2002",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Kertosono",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2003",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Margoyoso",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2004",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Bumi Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2005",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sidodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2007",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Marga Tani",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2008",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Sukowono",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2010",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Purwodadi",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2012",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Dono Rejo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2015",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Ngesti Boga I",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2016",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Ngesti Boga II",
+    "type": "DESA"
+  },
+  {
+    "id": "16.05.08.2020",
+    "district_id": "16.05.08",
+    "regency_id": "16.05",
+    "province_id": "16",
+    "name": "Ngestikarya",
+    "type": "DESA"
+  }
+]

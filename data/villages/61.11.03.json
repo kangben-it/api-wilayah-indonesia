@@ -1,0 +1,58 @@
+[
+  {
+    "id": "61.11.03.2001",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Mas Bangun",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2002",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Alur Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2003",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Telukbatang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2004",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Sungaipaduan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2005",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Banyu Abang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2006",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Telukbatang Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "61.11.03.2007",
+    "district_id": "61.11.03",
+    "regency_id": "61.11",
+    "province_id": "61",
+    "name": "Telukbatang Utara",
+    "type": "DESA"
+  }
+]

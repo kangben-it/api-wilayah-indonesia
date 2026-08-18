@@ -1,0 +1,42 @@
+[
+  {
+    "id": "15.02.22.2001",
+    "district_id": "15.02.22",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Tambang Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.22.2002",
+    "district_id": "15.02.22",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sido Lego",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.22.2003",
+    "district_id": "15.02.22",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Mensango",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.22.2004",
+    "district_id": "15.02.22",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Koto Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "15.02.22.2005",
+    "district_id": "15.02.22",
+    "regency_id": "15.02",
+    "province_id": "15",
+    "name": "Sido Harjo",
+    "type": "DESA"
+  }
+]

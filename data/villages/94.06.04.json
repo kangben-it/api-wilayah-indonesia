@@ -1,0 +1,82 @@
+[
+  {
+    "id": "94.06.04.2001",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Idakebo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2002",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Pugatadi I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2003",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Pugatadi II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2004",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Ikrar",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2005",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Obayo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2006",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Kuyakago",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2007",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Mogou",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2008",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Yametadi",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2009",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Duntek",
+    "type": "DESA"
+  },
+  {
+    "id": "94.06.04.2010",
+    "district_id": "94.06.04",
+    "regency_id": "94.06",
+    "province_id": "94",
+    "name": "Ekimani",
+    "type": "DESA"
+  }
+]

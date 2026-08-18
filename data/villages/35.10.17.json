@@ -1,0 +1,50 @@
+[
+  {
+    "id": "35.10.17.1002",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Boyolangu",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.17.1003",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Mojopanggung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.17.1004",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Penataban",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.17.1005",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Giri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.10.17.2001",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Jambesari",
+    "type": "DESA"
+  },
+  {
+    "id": "35.10.17.2006",
+    "district_id": "35.10.17",
+    "regency_id": "35.10",
+    "province_id": "35",
+    "name": "Grogol",
+    "type": "DESA"
+  }
+]

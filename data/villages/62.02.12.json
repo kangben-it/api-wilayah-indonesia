@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62.02.12.1001",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Mentaya Seberang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "62.02.12.2002",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Terantang",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.12.2003",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Batuah",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.12.2004",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Terantang Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.12.2005",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Ganepo",
+    "type": "DESA"
+  },
+  {
+    "id": "62.02.12.2006",
+    "district_id": "62.02.12",
+    "regency_id": "62.02",
+    "province_id": "62",
+    "name": "Seragam Jaya",
+    "type": "DESA"
+  }
+]

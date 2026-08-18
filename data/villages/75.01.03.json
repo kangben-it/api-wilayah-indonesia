@@ -1,0 +1,66 @@
+[
+  {
+    "id": "75.01.03.2001",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Iluta",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2002",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Bua",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2003",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Huntu",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2004",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Payunga",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2012",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Barakati",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2013",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Ilohungayo",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2014",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Dunggala",
+    "type": "DESA"
+  },
+  {
+    "id": "75.01.03.2015",
+    "district_id": "75.01.03",
+    "regency_id": "75.01",
+    "province_id": "75",
+    "name": "Pilobuhuta",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.03.07.2001",
+    "district_id": "96.03.07",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Selpele",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.07.2002",
+    "district_id": "96.03.07",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Mutus",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.07.2003",
+    "district_id": "96.03.07",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Bianci",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.07.2004",
+    "district_id": "96.03.07",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Saleo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.03.07.2005",
+    "district_id": "96.03.07",
+    "regency_id": "96.03",
+    "province_id": "96",
+    "name": "Waisilip",
+    "type": "DESA"
+  }
+]

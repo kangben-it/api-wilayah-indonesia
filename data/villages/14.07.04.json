@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14.07.04.1001",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Rimba Melintang",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.04.2002",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Jumrah",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2003",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Telukpulau Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2004",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Telukpulau Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2005",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Langgadai Hulu",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2006",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Lenggadai Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2007",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Mukti Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2008",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Karya Mukti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2009",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Harapan Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2010",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Seremban Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2011",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pematang Botam",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.04.2012",
+    "district_id": "14.07.04",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Pematang Sikek",
+    "type": "DESA"
+  }
+]

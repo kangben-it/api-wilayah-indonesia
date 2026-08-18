@@ -1,0 +1,58 @@
+[
+  {
+    "id": "34.03.05.2001",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Sodo",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2002",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Pampang",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2003",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Grogol",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2004",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Karangduwet",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2005",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Karangasem",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2006",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Mulusan",
+    "type": "DESA"
+  },
+  {
+    "id": "34.03.05.2007",
+    "district_id": "34.03.05",
+    "regency_id": "34.03",
+    "province_id": "34",
+    "name": "Giring",
+    "type": "DESA"
+  }
+]

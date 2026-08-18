@@ -1,0 +1,58 @@
+[
+  {
+    "id": "11.10.10.2001",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Gosong Telaga Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2002",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Gosong Telaga Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2003",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2004",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Ketapang Indah",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2005",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Gosong Telaga Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2006",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Gosong Telaga Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "11.10.10.2007",
+    "district_id": "11.10.10",
+    "regency_id": "11.10",
+    "province_id": "11",
+    "name": "Telaga Bakti",
+    "type": "DESA"
+  }
+]

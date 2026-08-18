@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.10.07.2001",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Mooat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2002",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2003",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2004",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2005",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2006",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Guaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2007",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Mototompiaan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2008",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Mokitompia",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2009",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Kokapoi",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.07.2010",
+    "district_id": "71.10.07",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Kokapoi Timur",
+    "type": "DESA"
+  }
+]

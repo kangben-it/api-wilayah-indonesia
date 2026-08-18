@@ -1,0 +1,74 @@
+[
+  {
+    "id": "32.16.02.1006",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Bahagia",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.16.02.1007",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Kebalen",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "32.16.02.2001",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Bunibakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2002",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Muarabakti",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2003",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Kedung Pengawas",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2004",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Hurip Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2005",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Pantaihurip",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2008",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Babelankota",
+    "type": "DESA"
+  },
+  {
+    "id": "32.16.02.2009",
+    "district_id": "32.16.02",
+    "regency_id": "32.16",
+    "province_id": "32",
+    "name": "Kedungjaya",
+    "type": "DESA"
+  }
+]

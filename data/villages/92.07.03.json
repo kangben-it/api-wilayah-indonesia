@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.07.03.2001",
+    "district_id": "92.07.03",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Aisandami",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.03.2002",
+    "district_id": "92.07.03",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sobey",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.03.2006",
+    "district_id": "92.07.03",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Yopanggar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.07.03.2011",
+    "district_id": "92.07.03",
+    "regency_id": "92.07",
+    "province_id": "92",
+    "name": "Sobey Indah",
+    "type": "DESA"
+  }
+]

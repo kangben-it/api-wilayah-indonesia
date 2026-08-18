@@ -1,0 +1,74 @@
+[
+  {
+    "id": "94.07.03.2001",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Sabisa",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2002",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Dubandoga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2003",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Debasiga I",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2004",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Debasiga II",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2005",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Isandoga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2006",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Mogalo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2007",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Jae",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2008",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Mbugulo",
+    "type": "DESA"
+  },
+  {
+    "id": "94.07.03.2009",
+    "district_id": "94.07.03",
+    "regency_id": "94.07",
+    "province_id": "94",
+    "name": "Hulagupa",
+    "type": "DESA"
+  }
+]

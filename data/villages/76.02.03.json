@@ -1,0 +1,114 @@
+[
+  {
+    "id": "76.02.03.1001",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Sinyonyoi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.03.1002",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Bebanga",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.03.1003",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Kalukku",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.03.1014",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Sinyonyoi Selatan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "76.02.03.2004",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Sondoang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2005",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Beru-Beru",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2006",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Belang Belang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2007",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Kabuloang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2008",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Keang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2009",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Pokkang",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2010",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Guliling",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2011",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Uhaimate",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2012",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Kalukku Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "76.02.03.2013",
+    "district_id": "76.02.03",
+    "regency_id": "76.02",
+    "province_id": "76",
+    "name": "Pammulukang",
+    "type": "DESA"
+  }
+]

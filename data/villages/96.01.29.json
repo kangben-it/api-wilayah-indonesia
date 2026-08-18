@@ -1,0 +1,42 @@
+[
+  {
+    "id": "96.01.29.2001",
+    "district_id": "96.01.29",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klafluk",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.29.2002",
+    "district_id": "96.01.29",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Mamsit",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.29.2003",
+    "district_id": "96.01.29",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Sabake",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.29.2004",
+    "district_id": "96.01.29",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Klayastani",
+    "type": "DESA"
+  },
+  {
+    "id": "96.01.29.2005",
+    "district_id": "96.01.29",
+    "regency_id": "96.01",
+    "province_id": "96",
+    "name": "Botain",
+    "type": "DESA"
+  }
+]

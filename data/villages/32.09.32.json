@@ -1,0 +1,58 @@
+[
+  {
+    "id": "32.09.32.2001",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Tonjong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2002",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Tanjunganom",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2003",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cilengkrang Girang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2004",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cilengkrang",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2005",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Pasaleman",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2006",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cigobangwangi",
+    "type": "DESA"
+  },
+  {
+    "id": "32.09.32.2007",
+    "district_id": "32.09.32",
+    "regency_id": "32.09",
+    "province_id": "32",
+    "name": "Cigobang",
+    "type": "DESA"
+  }
+]

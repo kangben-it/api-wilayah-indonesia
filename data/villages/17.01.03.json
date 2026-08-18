@@ -1,0 +1,130 @@
+[
+  {
+    "id": "17.01.03.1018",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Masat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "17.01.03.2001",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Tanjung Aur I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2002",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Anggut",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2003",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Tanjung Eran",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2004",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2005",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Gedung Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2015",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Batu Bandung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2016",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Ulak Lebar",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2017",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Kota Bumi",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2019",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Air Umban",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2020",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Sebilo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2021",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Ganjuh",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2022",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Puding",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2023",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Tambak",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2024",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Padang Mumpo",
+    "type": "DESA"
+  },
+  {
+    "id": "17.01.03.2025",
+    "district_id": "17.01.03",
+    "regency_id": "17.01",
+    "province_id": "17",
+    "name": "Beringin Datar",
+    "type": "DESA"
+  }
+]

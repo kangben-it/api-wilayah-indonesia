@@ -1,0 +1,58 @@
+[
+  {
+    "id": "12.76.04.1001",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1002",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Pelita",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1003",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Bulian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1004",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Berohol",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1005",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Bandar Sakti",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1006",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Pinang Mancung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.76.04.1007",
+    "district_id": "12.76.04",
+    "regency_id": "12.76",
+    "province_id": "12",
+    "name": "Teluk Karang",
+    "type": "KELURAHAN"
+  }
+]

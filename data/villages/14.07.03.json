@@ -1,0 +1,138 @@
+[
+  {
+    "id": "14.07.03.1007",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sedinginan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.03.1010",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Banjar XII",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.03.1019",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Cempedak Rahuk",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "14.07.03.2001",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Ujung Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2002",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Rantau Bais",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2005",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sekeladi",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2006",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Teluk Mega",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2008",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Putat",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2009",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sintong",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2011",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Mumugo",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2012",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Teluk Berembun",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2013",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Menggala Sakti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2014",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sekeladi Hilir",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2015",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Menggala Sempurna",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2016",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sintong Pusaka",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2017",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sintong Bakti",
+    "type": "DESA"
+  },
+  {
+    "id": "14.07.03.2018",
+    "district_id": "14.07.03",
+    "regency_id": "14.07",
+    "province_id": "14",
+    "name": "Sintong Makmur",
+    "type": "DESA"
+  }
+]

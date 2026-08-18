@@ -1,0 +1,42 @@
+[
+  {
+    "id": "82.04.26.2001",
+    "district_id": "82.04.26",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Gaimu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.26.2002",
+    "district_id": "82.04.26",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Gane Luar",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.26.2003",
+    "district_id": "82.04.26",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Kuwo",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.26.2004",
+    "district_id": "82.04.26",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Ranga Ranga",
+    "type": "DESA"
+  },
+  {
+    "id": "82.04.26.2005",
+    "district_id": "82.04.26",
+    "regency_id": "82.04",
+    "province_id": "82",
+    "name": "Sawat",
+    "type": "DESA"
+  }
+]

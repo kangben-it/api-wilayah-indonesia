@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.02.17.2001",
+    "district_id": "93.02.17",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Ninati",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.17.2003",
+    "district_id": "93.02.17",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Kawaktembut",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.17.2004",
+    "district_id": "93.02.17",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Tembutka",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.17.2005",
+    "district_id": "93.02.17",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Timka",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.17.2006",
+    "district_id": "93.02.17",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Yetetko",
+    "type": "DESA"
+  }
+]

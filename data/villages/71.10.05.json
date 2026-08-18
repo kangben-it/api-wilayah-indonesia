@@ -1,0 +1,82 @@
+[
+  {
+    "id": "71.10.05.2001",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Moyongkota",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2002",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bangunan Wuwuk",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2003",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai Barat",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2004",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bongkudai",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2005",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Moyongkota Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2006",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Moonow",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2007",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Inaton",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2008",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Bangunan Wuwuk Timur",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2009",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Pinonobatuan",
+    "type": "DESA"
+  },
+  {
+    "id": "71.10.05.2010",
+    "district_id": "71.10.05",
+    "regency_id": "71.10",
+    "province_id": "71",
+    "name": "Tangaton",
+    "type": "DESA"
+  }
+]

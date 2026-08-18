@@ -1,0 +1,34 @@
+[
+  {
+    "id": "92.06.04.2001",
+    "district_id": "92.06.04",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Aranday",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.04.2007",
+    "district_id": "92.06.04",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Kampung Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.04.2008",
+    "district_id": "92.06.04",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Kecap",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.04.2009",
+    "district_id": "92.06.04",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Manunggal Karya",
+    "type": "DESA"
+  }
+]

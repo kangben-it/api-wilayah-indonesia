@@ -1,0 +1,106 @@
+[
+  {
+    "id": "53.15.01.2001",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Bari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2002",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Rokap",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2003",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Mbakung",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2004",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Nggilat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2005",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Rego",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2006",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Wontong",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2007",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Raba",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2008",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Nanga Kantor",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2014",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Watubaru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2015",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Lewat",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2016",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Watu Manggar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2025",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Sarae Naru",
+    "type": "DESA"
+  },
+  {
+    "id": "53.15.01.2026",
+    "district_id": "53.15.01",
+    "regency_id": "53.15",
+    "province_id": "53",
+    "name": "Nanga Kantor Barat",
+    "type": "DESA"
+  }
+]

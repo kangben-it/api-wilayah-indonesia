@@ -1,0 +1,90 @@
+[
+  {
+    "id": "16.73.02.1001",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Kayu Ara",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1002",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Lubuk Tanjung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1003",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Tanjung Indah",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1004",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Bandung Ujung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1008",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Bandung Kiri",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1009",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Sukajadi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1010",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Muara Enim",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1015",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Watas Lubuk Durian",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1016",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Lubuk Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1018",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Tanjung Aman",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "16.73.02.1019",
+    "district_id": "16.73.02",
+    "regency_id": "16.73",
+    "province_id": "16",
+    "name": "Pelita Jaya",
+    "type": "KELURAHAN"
+  }
+]

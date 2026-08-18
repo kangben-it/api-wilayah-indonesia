@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.19.12.1001",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Golo Wangkung",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.12.1007",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Golo Wangkung Barat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "53.19.12.2002",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Buti",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2003",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Golo Ngawan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2004",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Satar Nawang",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2005",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Rana Mese",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2006",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Compang Congkar",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2008",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Compang Lawi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2009",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Golo Pari",
+    "type": "DESA"
+  },
+  {
+    "id": "53.19.12.2010",
+    "district_id": "53.19.12",
+    "regency_id": "53.19",
+    "province_id": "53",
+    "name": "Wea",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "93.02.16.2001",
+    "district_id": "93.02.16",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Wanggemalo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.16.2002",
+    "district_id": "93.02.16",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Sinimburu",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.16.2003",
+    "district_id": "93.02.16",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Yafufla",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.16.2004",
+    "district_id": "93.02.16",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Ugo",
+    "type": "DESA"
+  },
+  {
+    "id": "93.02.16.2005",
+    "district_id": "93.02.16",
+    "regency_id": "93.02",
+    "province_id": "93",
+    "name": "Dema",
+    "type": "DESA"
+  }
+]

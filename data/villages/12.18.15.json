@@ -1,0 +1,82 @@
+[
+  {
+    "id": "12.18.15.2001",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Pon",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2002",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sei Bamban",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2003",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Bakaran Batu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2004",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Gempolan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2005",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Rampah Estate",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2006",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Suka Damai",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2007",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sei Bamban Estate",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2008",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sei Belutu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2009",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Sei Buluh",
+    "type": "DESA"
+  },
+  {
+    "id": "12.18.15.2010",
+    "district_id": "12.18.15",
+    "regency_id": "12.18",
+    "province_id": "12",
+    "name": "Penggalangan",
+    "type": "DESA"
+  }
+]

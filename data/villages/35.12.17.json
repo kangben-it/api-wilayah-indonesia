@@ -1,0 +1,58 @@
+[
+  {
+    "id": "35.12.17.2001",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Patemon",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2002",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Sumbertengah",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2003",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Selowogo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2004",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Mlandingan Wetan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2005",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Bungatan",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2006",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Bletok",
+    "type": "DESA"
+  },
+  {
+    "id": "35.12.17.2007",
+    "district_id": "35.12.17",
+    "regency_id": "35.12",
+    "province_id": "35",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  }
+]

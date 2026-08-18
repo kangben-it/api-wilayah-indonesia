@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12.17.03.1011",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Parhusip III",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.17.03.1012",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sirumahombar",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.17.03.2001",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Pangaloan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2002",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Hutarihit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2003",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sinaga Uruk Pandiangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2004",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Toguan Galung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2005",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Pananggangan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2006",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Pasaran Parsaoran",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2007",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sipinggan Lumban Siantar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2008",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sibonor Ompu Ratus",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2009",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Nainggolan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2010",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Pasaran I",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2013",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Pananggangan II",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2014",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Sipinggan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.17.03.2015",
+    "district_id": "12.17.03",
+    "regency_id": "12.17",
+    "province_id": "12",
+    "name": "Janji Marapot",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "61.07.06.2001",
+    "district_id": "61.07.06",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Lembang",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.06.2002",
+    "district_id": "61.07.06",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Gua",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.06.2003",
+    "district_id": "61.07.06",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Bange",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.06.2004",
+    "district_id": "61.07.06",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Danti",
+    "type": "DESA"
+  },
+  {
+    "id": "61.07.06.2005",
+    "district_id": "61.07.06",
+    "regency_id": "61.07",
+    "province_id": "61",
+    "name": "Sango",
+    "type": "DESA"
+  }
+]

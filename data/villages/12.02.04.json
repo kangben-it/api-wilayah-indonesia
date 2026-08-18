@@ -1,0 +1,114 @@
+[
+  {
+    "id": "12.02.04.1001",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Situmeang Habinsaran",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "12.02.04.2002",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutauruk",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2003",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Simanungkalit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2004",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Situmeang Hasundutan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2005",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Sipahutar",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2007",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Tapian Nauli",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2008",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Huta Raja",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2009",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Lobu Singkam",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2010",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Rura Julu Dolok",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2011",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Rura Julu Toruan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2012",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutaraja Hasundutan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2013",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Pagarbatu",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2014",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutaraja Simanungkalit",
+    "type": "DESA"
+  },
+  {
+    "id": "12.02.04.2015",
+    "district_id": "12.02.04",
+    "regency_id": "12.02",
+    "province_id": "12",
+    "name": "Hutauruk Hasundutan",
+    "type": "DESA"
+  }
+]

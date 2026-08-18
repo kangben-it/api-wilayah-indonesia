@@ -1,0 +1,74 @@
+[
+  {
+    "id": "35.05.17.1001",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Beru",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.17.1002",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Babadan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.17.1003",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Tangkil",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.17.1004",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Wlingi",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.17.1006",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Klemunan",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.05.17.2005",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Tembalang",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.17.2007",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Ngadirenggo",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.17.2008",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Tegalasri",
+    "type": "DESA"
+  },
+  {
+    "id": "35.05.17.2009",
+    "district_id": "35.05.17",
+    "regency_id": "35.05",
+    "province_id": "35",
+    "name": "Balerejo",
+    "type": "DESA"
+  }
+]

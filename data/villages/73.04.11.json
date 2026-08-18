@@ -1,0 +1,66 @@
+[
+  {
+    "id": "73.04.11.2001",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Pao",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2002",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bontorappo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2003",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tarowang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2004",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Allu Tarowang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2005",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Balangbaru",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2006",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Balangloe Tarowang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2007",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Bonto Ujung",
+    "type": "DESA"
+  },
+  {
+    "id": "73.04.11.2008",
+    "district_id": "73.04.11",
+    "regency_id": "73.04",
+    "province_id": "73",
+    "name": "Tino",
+    "type": "DESA"
+  }
+]

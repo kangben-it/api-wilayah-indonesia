@@ -1,0 +1,42 @@
+[
+  {
+    "id": "82.02.04.2001",
+    "district_id": "82.02.04",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Gemaf",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2002",
+    "district_id": "82.02.04",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Sagea",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2003",
+    "district_id": "82.02.04",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Fritu",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2004",
+    "district_id": "82.02.04",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Waleh",
+    "type": "DESA"
+  },
+  {
+    "id": "82.02.04.2008",
+    "district_id": "82.02.04",
+    "regency_id": "82.02",
+    "province_id": "82",
+    "name": "Kiya",
+    "type": "DESA"
+  }
+]

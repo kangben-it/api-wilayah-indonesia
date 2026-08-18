@@ -1,0 +1,42 @@
+[
+  {
+    "id": "94.02.16.2001",
+    "district_id": "94.02.16",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Tiolome",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.16.2002",
+    "district_id": "94.02.16",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Belabaga",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.16.2003",
+    "district_id": "94.02.16",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Mewut",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.16.2004",
+    "district_id": "94.02.16",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Maloinggen",
+    "type": "DESA"
+  },
+  {
+    "id": "94.02.16.2005",
+    "district_id": "94.02.16",
+    "regency_id": "94.02",
+    "province_id": "94",
+    "name": "Wanume",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "17.07.11.2001",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Embong",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2002",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Embong I",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2003",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kota Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2004",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Kota Agung",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2005",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Lemeu",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2006",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Pangkalan",
+    "type": "DESA"
+  },
+  {
+    "id": "17.07.11.2007",
+    "district_id": "17.07.11",
+    "regency_id": "17.07",
+    "province_id": "17",
+    "name": "Tangua",
+    "type": "DESA"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73.08.10.1001",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Tanete",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.08.10.2002",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Arasoe",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2003",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Tanete Harapan",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2004",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Lompu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2005",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Walenreng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2006",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Ajang Pulu",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2007",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Padang Loang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2008",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Abbumpungeng",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2009",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Kawerang",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2010",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Awo",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2011",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Kanco",
+    "type": "DESA"
+  },
+  {
+    "id": "73.08.10.2012",
+    "district_id": "73.08.10",
+    "regency_id": "73.08",
+    "province_id": "73",
+    "name": "Cinennung",
+    "type": "DESA"
+  }
+]

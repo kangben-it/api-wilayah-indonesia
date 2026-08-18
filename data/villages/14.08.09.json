@@ -1,0 +1,90 @@
+[
+  {
+    "id": "14.08.09.2001",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Pangkalan Pisang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2002",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Kuala Gasib",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2003",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Teluk Rimba",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2004",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Buatan I",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2005",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Buatan II",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2006",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sengkemang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2007",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Rantau Panjang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2008",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Empang Pandan",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2009",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Keranji Guguh",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2010",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Sri Gemilang",
+    "type": "DESA"
+  },
+  {
+    "id": "14.08.09.2011",
+    "district_id": "14.08.09",
+    "regency_id": "14.08",
+    "province_id": "14",
+    "name": "Tasik Seminai",
+    "type": "DESA"
+  }
+]

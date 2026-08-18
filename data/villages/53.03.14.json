@@ -1,0 +1,82 @@
+[
+  {
+    "id": "53.03.14.2001",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oelami",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2002",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Kiusili",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2003",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Naiola",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2004",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Maurisu",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2005",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Oetalus",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2006",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Tublopo",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2007",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Maurisu Utara",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2008",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Maurisu Selatan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2009",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Maurisu Tengah",
+    "type": "DESA"
+  },
+  {
+    "id": "53.03.14.2010",
+    "district_id": "53.03.14",
+    "regency_id": "53.03",
+    "province_id": "53",
+    "name": "Naiola Timur",
+    "type": "DESA"
+  }
+]

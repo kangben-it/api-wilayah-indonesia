@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13.09.07.2001",
+    "district_id": "13.09.07",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Saibi Samukop",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.07.2002",
+    "district_id": "13.09.07",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Cimpungan",
+    "type": "DESA"
+  },
+  {
+    "id": "13.09.07.2003",
+    "district_id": "13.09.07",
+    "regency_id": "13.09",
+    "province_id": "13",
+    "name": "Saliguma",
+    "type": "DESA"
+  }
+]

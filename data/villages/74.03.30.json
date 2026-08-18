@@ -1,0 +1,50 @@
+[
+  {
+    "id": "74.03.30.2001",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Kafo Foo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2002",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Lembo",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2003",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Kilambibito",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2004",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Bahutara",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2005",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Kontu Kowuna",
+    "type": "DESA"
+  },
+  {
+    "id": "74.03.30.2006",
+    "district_id": "74.03.30",
+    "regency_id": "74.03",
+    "province_id": "74",
+    "name": "Lahorio",
+    "type": "DESA"
+  }
+]

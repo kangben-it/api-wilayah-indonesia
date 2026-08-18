@@ -1,0 +1,66 @@
+[
+  {
+    "id": "53.01.04.2003",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Bokonusan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2004",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Otan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2005",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Uitao",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2006",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Uiasa",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2008",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Hansisi",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2009",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Huilelot",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2011",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Batuinan",
+    "type": "DESA"
+  },
+  {
+    "id": "53.01.04.2013",
+    "district_id": "53.01.04",
+    "regency_id": "53.01",
+    "province_id": "53",
+    "name": "Letbaun",
+    "type": "DESA"
+  }
+]

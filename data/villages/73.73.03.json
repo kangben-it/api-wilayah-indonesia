@@ -1,0 +1,34 @@
+[
+  {
+    "id": "73.73.03.1001",
+    "district_id": "73.73.03",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Takkalala",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.03.1002",
+    "district_id": "73.73.03",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Songka",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.03.1006",
+    "district_id": "73.73.03",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Sampoddo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "73.73.03.1007",
+    "district_id": "73.73.03",
+    "regency_id": "73.73",
+    "province_id": "73",
+    "name": "Binturu",
+    "type": "KELURAHAN"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "12.09.10.2001",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Asahan Mati",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2002",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Bagan Asahan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2003",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Bagan Asahan Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2004",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Bagan Asahan Pekan",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2005",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Kapias Batu VIII",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2006",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Pematang Sei Baru",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2007",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Apung",
+    "type": "DESA"
+  },
+  {
+    "id": "12.09.10.2008",
+    "district_id": "12.09.10",
+    "regency_id": "12.09",
+    "province_id": "12",
+    "name": "Sei Apung Jaya",
+    "type": "DESA"
+  }
+]

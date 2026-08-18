@@ -1,0 +1,82 @@
+[
+  {
+    "id": "16.03.23.2001",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2002",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Simpang Tanjung",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2003",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Cinta Kasih",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2004",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Teluk Lubuk",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2005",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Berugo",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2006",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Belimbing",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2007",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Bulang",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2008",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Belimbing Jaya",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2009",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Darmo Kasih",
+    "type": "DESA"
+  },
+  {
+    "id": "16.03.23.2010",
+    "district_id": "16.03.23",
+    "regency_id": "16.03",
+    "province_id": "16",
+    "name": "Dalam",
+    "type": "DESA"
+  }
+]

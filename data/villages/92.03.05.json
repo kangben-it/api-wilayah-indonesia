@@ -1,0 +1,114 @@
+[
+  {
+    "id": "92.03.05.1001",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Danaweria",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "92.03.05.2002",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kayu Merah",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2003",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Katemba",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2004",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Nemewikarya",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2005",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Raduria",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2006",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Brongkendik",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2007",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Air Besar",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2008",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Mandopma",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2009",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Kanantare",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2010",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Pasir Putih",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2011",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Pirma",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2012",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Sakartemin",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2013",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Hambrangkendik",
+    "type": "DESA"
+  },
+  {
+    "id": "92.03.05.2014",
+    "district_id": "92.03.05",
+    "regency_id": "92.03",
+    "province_id": "92",
+    "name": "Unipokpok",
+    "type": "DESA"
+  }
+]

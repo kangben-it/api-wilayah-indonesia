@@ -1,0 +1,42 @@
+[
+  {
+    "id": "92.06.15.2001",
+    "district_id": "92.06.15",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Sara",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.15.2002",
+    "district_id": "92.06.15",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Warga Nusa I",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.15.2003",
+    "district_id": "92.06.15",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Warga Nusa II",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.15.2004",
+    "district_id": "92.06.15",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Tugarama",
+    "type": "DESA"
+  },
+  {
+    "id": "92.06.15.2005",
+    "district_id": "92.06.15",
+    "regency_id": "92.06",
+    "province_id": "92",
+    "name": "Suga",
+    "type": "DESA"
+  }
+]

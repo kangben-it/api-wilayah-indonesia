@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96.02.15.2001",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Mukamat",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2002",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Ikana",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2003",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Haemaran",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2004",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Siranggo",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2005",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Mogatemin",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2006",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Onimsefa",
+    "type": "DESA"
+  },
+  {
+    "id": "96.02.15.2007",
+    "district_id": "96.02.15",
+    "regency_id": "96.02",
+    "province_id": "96",
+    "name": "Makaroro",
+    "type": "DESA"
+  }
+]

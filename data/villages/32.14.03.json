@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.14.03.2001",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cikaobandung",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2002",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Jatimekar",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2003",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Jatiluhur",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2004",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cilegong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2005",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Kembangkuning",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2006",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cibinong",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2007",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Bunder",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2008",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Mekargalih",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2009",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Cisalada",
+    "type": "DESA"
+  },
+  {
+    "id": "32.14.03.2010",
+    "district_id": "32.14.03",
+    "regency_id": "32.14",
+    "province_id": "32",
+    "name": "Parakanlima",
+    "type": "DESA"
+  }
+]

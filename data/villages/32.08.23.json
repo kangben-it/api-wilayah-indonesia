@@ -1,0 +1,82 @@
+[
+  {
+    "id": "32.08.23.2001",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Garatengah",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2002",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Rajadanu",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2003",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Singkup",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2004",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Japara",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2005",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Wano",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2006",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Citapen",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2007",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cengal",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2008",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Cikeleng",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2009",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Kalimati",
+    "type": "DESA"
+  },
+  {
+    "id": "32.08.23.2010",
+    "district_id": "32.08.23",
+    "regency_id": "32.08",
+    "province_id": "32",
+    "name": "Dukuhdalem",
+    "type": "DESA"
+  }
+]

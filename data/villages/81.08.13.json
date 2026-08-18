@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81.08.13.2001",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Nabar",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.13.2002",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Elsulith",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.13.2003",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Naumatang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.13.2004",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Lurang",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.13.2005",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Uhak",
+    "type": "DESA"
+  },
+  {
+    "id": "81.08.13.2006",
+    "district_id": "81.08.13",
+    "regency_id": "81.08",
+    "province_id": "81",
+    "name": "Eray",
+    "type": "DESA"
+  }
+]

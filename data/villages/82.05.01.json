@@ -1,0 +1,42 @@
+[
+  {
+    "id": "82.05.01.2001",
+    "district_id": "82.05.01",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Waitina",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2006",
+    "district_id": "82.05.01",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Kau",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2007",
+    "district_id": "82.05.01",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Waitamela",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2013",
+    "district_id": "82.05.01",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Karamat Titdoy",
+    "type": "DESA"
+  },
+  {
+    "id": "82.05.01.2016",
+    "district_id": "82.05.01",
+    "regency_id": "82.05",
+    "province_id": "82",
+    "name": "Naflo",
+    "type": "DESA"
+  }
+]

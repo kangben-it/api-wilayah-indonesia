@@ -1,0 +1,74 @@
+[
+  {
+    "id": "95.04.11.2001",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Aruku",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2002",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kubugiwa",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2003",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kubu",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2004",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Numbugawe",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2005",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Tiyenggupur",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2006",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Murik",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2007",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Minagi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2008",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Kalewi",
+    "type": "DESA"
+  },
+  {
+    "id": "95.04.11.2009",
+    "district_id": "95.04.11",
+    "regency_id": "95.04",
+    "province_id": "95",
+    "name": "Menggenagi",
+    "type": "DESA"
+  }
+]

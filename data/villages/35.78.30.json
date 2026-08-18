@@ -1,0 +1,34 @@
+[
+  {
+    "id": "35.78.30.1001",
+    "district_id": "35.78.30",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Pakal",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.30.1002",
+    "district_id": "35.78.30",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Babat Jerawat",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.30.1004",
+    "district_id": "35.78.30",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Sumber Rejo",
+    "type": "KELURAHAN"
+  },
+  {
+    "id": "35.78.30.1005",
+    "district_id": "35.78.30",
+    "regency_id": "35.78",
+    "province_id": "35",
+    "name": "Benowo",
+    "type": "KELURAHAN"
+  }
+]
